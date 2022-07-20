@@ -12,7 +12,7 @@
 - [**Z8PM3(M4)-Pro Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Pro_Wirig%20Diagram.jpg)  Wiring Diagram for Z8PM3(4)-Pro  
 - [**How to Load and Unload filament.pdf**](./1.%20Installation%20and%20User%20Guide/How%20to%20Load%20and%20Unload%20filament%20(LCD12864).pdf) Instrution for how to load and unload filament.  
 - [**Operature guide for Mixing Color Printer.pdf**](./1.%20Installation%20and%20User%20Guide/Operature%20guide%20for%20Mixing%20Color%20Printer%20V1_2.pdf) Instrution for Operate the Mixing Color Extruder. 
-- [**Bed auto leveling**](./1.%20Installation%20and%20User%20Guide/Bed%20auto%20leveling/) This directory has instructions on how to do the auto leveling and a leveling test gcode file. 
+- [**Bed auto leveling**](./1.%20Installation%20and%20User%20Guide/Bed%20Auto%20Leveling/) This directory has instructions on how to do the auto leveling and a leveling test gcode file. 
 - [**Advanced Features**](./1.%20Installation%20and%20User%20Guide/Advanced%20Features/) Instrution for Advanced Features.  
 ## 2.Slicing
 Please click this link to read the newest [**slicing guide**](https://github.com/ZONESTAR3D/Slicing-Guide).  

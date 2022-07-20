@@ -24,7 +24,9 @@ Please click this link to read the newest [**slicing guide**](https://github.com
 - [**Firmware hex file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P)   
 - [**Firmware sourc code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
 ## 6. Video tutorial
-:movie_camera:[Video tutorial](https://www.youtube.com/watch?v=NqhwHJeaFhI)
+:movie_camera:[Installation Guide](https://youtu.be/YV3dSoo5NOM)
+:movie_camera:[Product introduction](https://youtu.be/NqhwHJeaFhI)
+
 ## 7. Parts STL
 Inlcuded the print parts stl fils for Z8P.
 

@@ -34,8 +34,13 @@
 - **[:art: Wiring Diagram](./1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
 
 ### [2.Operation Guide](./2-Operation_Guide/)
-- **[:book: Operation Guide](./2-Operation_Guide/readme.md)** 
-- **[:book: Advance Features Use Guide](#advance-features)**
+- **[:book: Operation Guide](./2-Operation_Guide/readme.md)**
+- **Advance Features**
+  - **[:book:Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)**
+  - **[:book:Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)**
+  - **[:movie_camera:Auto shut down](https://youtu.be/SJLpmJL-tG4)**
+  - **[:movie_camera:Power loss recovery](https://youtu.be/f-PpasByiiE)**
+  - **[:book:Auto retraction](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)**
 
 ### [3.Test Gcode](./3-TestGcode/)
 #### :pencil: What Is G-code In 3D Printing?
@@ -77,61 +82,23 @@ Please download the slicing software and install to your PC, and then read the g
 - :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
 - :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
 
-----
-### Advance Features
-#### Auto Mix Printing
-This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.
-- **[:book: User Guide.](./Auto_Color_Mixing/readme.md)**   
-<!-- - **[:movie_camera: Video tutorial]()**    -->
-
-#### Power auto shutdown after print finished
-Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy.   
-- **[:book: User Guide.](./2-Operation_Guide/Auto_Shutdown/readme.md)** 
-- **[:movie_camera: Video tutorial](https://youtu.be/SJLpmJL-tG4)**  
-
-#### Bed auto leveling
-Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed.   
-- **[:book: User Guide.](./2-Operation_Guide/Bed_Auto_Leveling/readme.md)** 
-- **[:movie_camera:Video tutorial.](https://youtu.be/Zoyl6PybsUk)**
-
-#### Power losss recovery 
-If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing. 
-- **[:book: User Guide.](./2-Operation_Guide/Power_Loss_Recovery/readme.md)** 
-- **[:movie_camera: Video tutorial](https://youtu.be/f-PpasByiiE)**     
-  :warning: Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket when turn on the machine after power resumed.       
-  :warning: Power losss recovery feature may introduce some imperfections on the prints when printing is resumed.
-
-#### Auto retraction
-The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.  
-- **[:book: User Guide.](./2-Operation_Guide/Auto_Retraction/readme.md)**  
-<!-- - **[:movie_camera: Video tutorial]()**    -->
-
 ------
 ### Upgradable Features
-#### :arrow_up: Filament run out sensor :+1::+1:
-By upgrading this item, you can remote control your 3d printer.    
-- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD)**   
+- **Filament run out sensor :+1::+1:**  
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD)**   
+- **WiFi wireless control module :+1::+1:**   
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi)**    
+- **Non mix color hotend :+1::+1:**   
+By upgrading this item, the size of the color prime tower required for printing multi-color models is much smaller. **[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)**    
+- **Direct drive extruder :+1:**  
+By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extrruder)**    
 
-#### :arrow_up: WiFi wireless control module :+1::+1:
-By upgrading this item, you can remote control your 3d printer.    
-- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi)**    
+- **Laser engine**
+By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving)**    
 
-#### :arrow_up: Non mix color hotend :+1::+1:
-By upgrading this item, the size of the color prime tower required for printing multi-color models is much smaller.     
-- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)**    
 
 <!-- #### :arrow_up: High flow Hotend :+1:
 By upgrading this project, the machine can print faster and support more types of high temperature filaments.      
 !!ONLY SUPPORT ONE COLOR!!    
 - :book:**[User guide]()**     -->
-
-#### :arrow_up: Direct drive extruder :+1:
-By upgrading this project, you can print flexible materials (such as TPU filament).    
-!!ONLY SUPPORT ONE COLOR!!     
-- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extrruder)**    
-
-#### :arrow_up: Laser engine
-By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.    
-- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving)**    
-
  

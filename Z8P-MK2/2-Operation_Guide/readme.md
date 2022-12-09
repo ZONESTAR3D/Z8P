@@ -79,7 +79,7 @@ For the details, please refer to [:movie_camera: **Video tutorial**](https://you
 ### [Power loss recovery](https://youtu.be/f-PpasByiiE)
 While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
 For the details, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE).
-### [Auto retraction]()
+### [Auto retraction](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
 For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](./Auto_Retraction/readme.md).
 

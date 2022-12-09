@@ -12,10 +12,6 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 ------
-## :warning:NOTICE:warning:
-### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.    
-
-------
 ## Download Z8P-MK2 files
 - :arrow_down: [**Download all documents**]()  
 
@@ -33,19 +29,15 @@
 -----
 ### Installation Guide
 - **[:book: Installation Guide](./1-Installation_Guide/readme.md)** 
-- **[:book: Quick Use Guide](./2-Operation_Guide/readme.md)** 
 - **[:blue_book:Installation and Quick Use Guide PDF file](./Z8PMK2_Installation_and_quick_use_guide.pdf)**
 - **[:movie_camera: Installation Video Tutorial](https://youtu.be/Xa3Q1m6HbDI)** 
-- **[:book: LCD screen menu description]()**
+- **[:book: LCD screen menu description](./2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md)**
 - **[:art: Wiring Block](./1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
 - **[:art: Wiring Diagram](./1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
 
 ### Operation Guide
-- **[:book: Step-by-Step Operation Guide](./Z8PM4-Step-by-step-guide.md)**   
-- **[:book: Mix Color Hotend Use Guide](./mix-color-hotend-use-guide.md)**
-- **[:book: Auto Power Off Feature Use Guide](#power-auto-shutdown-after-print-finished)**
-- **[:book: Bed auto leveling Use Guide](#bed-auto-leveling)**
-- **[:book: Power loss recovery Use Guide](#power-losss-recovery)**
+- **[:book: Quick Use Guide](./2-Operation_Guide/readme.md)** 
+- **[:book: Auto Mix Color Feature Use Guide](./2-Operation_Guide/Auto_Color_Mixing/readme.md)**
 
 ### Test Gcode
 #### :pencil: What Is G-code In 3D Printing?
@@ -132,7 +124,6 @@ By upgrading this project, you can print flexible materials (such as TPU filamen
 - :book:**[User guide]()**    
 - :movie_camera:**[Video tutorial](https://youtu.be/7aF-C7VgDZY)**
 - :gift:**[Upgrade it now]()**
-
 
 #### :arrow_up: Laser engine
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.    

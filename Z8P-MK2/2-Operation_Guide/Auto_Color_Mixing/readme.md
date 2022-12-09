@@ -23,7 +23,6 @@ After set **Start Z** isn’t equal to **End Z**, and **Start V-tool** isn’t e
 
 ### :star2:Realize gradient mixing by modifing gcode file
 You can also add a M166 command into the "start G-code" of the machine setting when slicing, so it can automatically work when print from SD card.   
-+ **To add a "M166" command, it can start a "Gradient Mixing".**
 > 
 	Descitpion of M166 command
 	M166: Start a gradient mix  
@@ -32,6 +31,7 @@ You can also add a M166 command into the "start G-code" of the machine setting w
 	Z[float] - Ending Z for the gradient.
 	I[index] - V-Tool to use as the starting mix.
 	J[index] - V-Tool to use as the ending mix.
+	
 	For example: M166 S1 A0 Z200 I0 J1
 	S1->Enable gradient mix 
 	A0->startZ is 0mm 
@@ -53,7 +53,6 @@ After set Start Z isn’t equal to the End Z, the LCD will shows **Random : ON**
 
 ### :star2: Realize Random mixing by modifing gcode file
 You can also add a M167 command into the "start G-code" of the machine setting when slicing, so it can automatically work when print from SD card.  
-+ **To add a "M167" command, it can start a "Random Mixing".**
 > 
 	Descitpion of M167 command.
 	M167: Start a random mix.
@@ -62,6 +61,7 @@ You can also add a M167 command into the "start G-code" of the machine setting w
 	Z[float] - Ending Z for the random.
 	H[float] - Minimum height of changing mixing rate.
 	E[int] - how many extruders used on random mixing.
+
 	For example: M167 S1 A0 Z100 H0.2 E3
 	S1->Enable Random mix 
 	A0->start Z heigth is 0mm 

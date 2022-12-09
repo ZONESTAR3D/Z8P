@@ -117,4 +117,4 @@ Rerfer to the below pictures to connect the wire/cables to the connector of prin
 
 ## Congratulate! 
 After completing the above installation steps, the machine installation is announced to be completed. You can arrange the wiring and fasten them to the frame of the machine with cable tie.
-Next, just do some preliminary debugging, and you can start your first print. Please refer to the [**:point_right: quick user manual**](Z8PMK2_Quick_Use_Guide.md) to prepare and start your first print.
+Next, just do some preliminary debugging, and you can start your first print. Please refer to the [**:point_right: quick user manual**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md) to prepare and start your first print.

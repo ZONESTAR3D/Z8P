@@ -86,7 +86,7 @@ For the details, please refer to [**:point_right: Auto Retract Feature User Guid
 ## Slicing
 The slicing software is a computer software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL(Obj, Amf) format to printer commands in g-code format. 
 This machine can use a variety of slicing software to complete slicing, We provide download addresses, instructions and video tutorials of common slicing software. 
-For details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Slicing-Guide)
+For details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/4-SlicingGuide/readme.md)
 #### :loudspeaker:NOTE  
 1. Slicing software is not a part of this machine, you can download slicing software for free from the internet.
 2. If you print one color, please choose machine **“Z8 + One color”**. If you print multi color, please choose machine **“Z8 + M4 hot end”**.

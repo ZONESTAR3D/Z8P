@@ -36,7 +36,7 @@
 - **[:art: Wiring Diagram](./1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
 
 ### Operation Guide
-- **[:book: Quick Use Guide](./2-Operation_Guide/readme.md)** 
+- **[:book: Operation Guide](./2-Operation_Guide/readme.md)** 
 - **[:book: Auto Mix Color Feature Use Guide](./2-Operation_Guide/Auto_Color_Mixing/readme.md)**
 
 ### Test Gcode

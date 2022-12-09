@@ -91,27 +91,3 @@ For details, please refer to [**:point_right: Slicing-Guide**](https://github.co
 1. Slicing software is not a part of this machine, you can download slicing software for free from the internet.
 2. If you print one color, please choose machine **“Z8 + One color”**. If you print multi color, please choose machine **“Z8 + M4 hot end”**.
 3. Some of the user guide and video tutorials are made with reference to our Z9 series machines, and they are fully applicable to Z8PM4.
-
-## Upgrade this printer kit
-### Power Supply Fan Cover
-You can print a FAN cover and install it to the power supply to prevent debris falling into the fan of the power supply. When installed the fan cover, loosen a little the screws but not remove it, and then insert the FAN cover and fix the screws.    
-##### [:arrow_down: Download the gcode and stl file from here]().     
-![](./pic/psufan.png)
-
-### Filament Run Out Sensor
-With these sensors, the printer can pause the printing while one of the filament spool used up, and you can continue to print after load a new roll filament.   
-For the detail, please refer to [**:point_right: here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD).
-
-### Wireless Control (WiFi)
-By upgrading a WiFi module, you can control the 3d printer by wireless.    
-For the detail, please refer to [**:point_right: here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi).
-
-### 4-IN-1-OUT Non-mix Color Hotend
-By upgrading a 4-IN-1-OUT non-mix color hot end, you use a smaller prime tower when print multi color 3d prints. 
-For the detail, please refer to [**:point_right: here**](https://bit.ly/3wjBlvr).
-
-### More upgradable features
-For more upgradable features, please refer to [**:point_right: here**](https://github.com/ZONESTAR3D/Document-and-User-Guide#upgrade-kits-and-parts).
-
-
-

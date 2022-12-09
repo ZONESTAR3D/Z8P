@@ -69,19 +69,19 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 :warning: Do not turn on these functions until you clearly understand how to use them.
 ### Auto Mix Printing
 This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.   
-For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**]().
+For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](./Auto_Color_Mixing/readme.md).
 ### Bed auto leveling
 This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, you can correct the unevenness of the hot bed.    
-For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**]().
-### Auto power shut down
+For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](./Bed_Auto_Leveling/readme.md).
+### Auto shut down
 3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
-For the details please refer to [**:point_right: Auto Shutdown Feature User Guide**]().
+For the details please refer to [**:point_right: Auto Shutdown Feature User Guide**](./Auto_Shutdown/readme.md).
 ### Power loss recovery
 While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
-For the details, please refer to [**:point_right: Power Loss Recovery Feature User Guide**]().
+For the details, please refer to [**:point_right: Power Loss Recovery Feature User Guide**](./Power_Loss_Recovery/readme.md).
 ### Auto retract
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
-For the details, please refer to [**:point_right: Auto Retract Feature User Guide**]().
+For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](./Auto_Retraction/readme.md).
 
 ## Slicing
 The slicing software is a computer software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL(Obj, Amf) format to printer commands in g-code format. 

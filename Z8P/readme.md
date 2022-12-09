@@ -14,7 +14,7 @@
 
 -----
 ### Download Z8P documents
-:arrow_down: [**Download all documents from github**](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P)     
+:arrow_down: [**Download all documents from github**](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P)     
 :arrow_down: [**Download all documents from cloud disk**](https://www.jianguoyun.com/p/DdQhgXcQyoP1Bxjyr9IEIAA)  
 
 -----

@@ -8,7 +8,7 @@
 After setting up, on the ideal menu shows Current **VTOOL = 0**
 ![](1.jpg)
 
-## Auto gradient mixing printing
+## Auto gradient mixing
 ![](2.jpg)
 + Start to print a singel color gcode file from SD card.  
 + Wait until the print start to print, set on the LCD menu.  
@@ -16,13 +16,13 @@ After setting up, on the ideal menu shows Current **VTOOL = 0**
   + **Start Z:** set the start Z heigth(such as:0mm)      
   + **End Z:** set the END Z heigth(such as:200mm)     
   + **Start V-tool:** set the start V-tool(such as:0)        
-  + **End V-tool:** set the end V-tool(such as:1)      
+  + **End V-tool:** set the end V-tool(such as:1)  
+
 After set **Start Z** isn’t equal to **End Z**, and **Start V-tool** isn’t equal to **End V-tool**, the LCD will shows **Gradient : ON**.      
 ![](3.jpg)
 
-### Realize gradient mixing by modifing gcode file
-You can also add a M166 command into the "start G-code" of the machine setting when slicing, so it can automatically work when print from SD card.  
-  
+### :star2:Realize gradient mixing by modifing gcode file
+You can also add a M166 command into the "start G-code" of the machine setting when slicing, so it can automatically work when print from SD card.   
 + **To add a "M166" command, it can start a "Gradient Mixing".**
 > 
 	Descitpion of M166 command
@@ -39,7 +39,7 @@ You can also add a M166 command into the "start G-code" of the machine setting w
 	I0 -> Start V-tool is 0 
 	J1 -> End Vtool is 1
 
-## Auto random mixing printing
+## Auto random mixing
 ![](4.jpg)
 + Start to print a singel color gcode file from SD card.  
 + Wait until the print start to print, set on the LCD menu. 
@@ -51,9 +51,8 @@ You can also add a M166 command into the "start G-code" of the machine setting w
 After set Start Z isn’t equal to the End Z, the LCD will shows **Random : ON**.
 ![](5.jpg)
 
-### Realize Random mixing by modifing gcode file
+### :star2: Realize Random mixing by modifing gcode file
 You can also add a M167 command into the "start G-code" of the machine setting when slicing, so it can automatically work when print from SD card.  
-
 + **To add a "M167" command, it can start a "Random Mixing".**
 > 
 	Descitpion of M167 command.

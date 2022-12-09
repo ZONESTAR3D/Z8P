@@ -37,7 +37,7 @@
 
 ### Operation Guide
 - **[:book: Operation Guide](./2-Operation_Guide/readme.md)** 
-- **[:book: Auto Mix Color Feature Use Guide](./2-Operation_Guide/Auto_Color_Mixing/readme.md)**
+- **[:book: Advance Features Use Guide](#advance-features)**
 
 ### Test Gcode
 #### :pencil: What Is G-code In 3D Printing?
@@ -57,7 +57,7 @@ If you download from here, please click the below :arrow_down: ICON and click "d
 #### :pencil: What is slicing In 3D Printing?
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
-- :arrow_down: [**Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
+- :arrow_down: [**Download Slicing Software and View Use Guide**](https://github.com/ZONESTAR3D/Slicing-Guide)
 - :movie_camera: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
 - :book: [**PrusSlicer User Manual**](./4.Slicing/readme.md)  :blue_book:[**(pdf file)**](./4.Slicing/readme.pdf)  
 - :movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
@@ -66,8 +66,8 @@ Please download the slicing software and install to your PC, and then read the g
 :star2: **For the newest slicing guide and more slicing software user guide, please click here :point_right: [slicing guide](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
 ### Firmware
-- **[Firmware bin file]().**  
-- **[Firmware source code]().**
+- **[Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2).**  
+- **[Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: What is bin file and source code?
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
@@ -78,56 +78,63 @@ Please download the slicing software and install to your PC, and then read the g
 - :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
 
 ### Others
-#### [Print parts stl files](./7.Others/Parts_stl_file/readme.md)
+#### [Print parts stl files](./5-PrintParts/readme.md)
 
 ----
 ### Advance Features
-#### Bed auto leveling
-Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed.   
-- **[:book: User Guide.]()** 
-- **[:movie_camera:Video tutorial.](https://youtu.be/Zoyl6PybsUk)**
+#### Auto Mix Printing
+This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.
+- **[:book: User Guide.](./Auto_Color_Mixing/readme.md)**   
+<!-- - **[:movie_camera: Video tutorial]()**    -->
+
 #### Power auto shutdown after print finished
 Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy.   
-- **[:book: User Guide.]()** 
-- **[:movie_camera: Video tutorial](https://youtu.be/SJLpmJL-tG4)**      
+- **[:book: User Guide.](./2-Operation_Guide/Auto_Shutdown/readme.md)** 
+- **[:movie_camera: Video tutorial](https://youtu.be/SJLpmJL-tG4)**  
+
+#### Bed auto leveling
+Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed.   
+- **[:book: User Guide.](./2-Operation_Guide/Bed_Auto_Leveling/readme.md)** 
+- **[:movie_camera:Video tutorial.](https://youtu.be/Zoyl6PybsUk)**
+
 #### Power losss recovery 
 If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing. 
-- **[:book: User Guide.]()** 
+- **[:book: User Guide.](./2-Operation_Guide/Power_Loss_Recovery/readme.md)** 
 - **[:movie_camera: Video tutorial](https://youtu.be/f-PpasByiiE)**     
   :warning: Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket when turn on the machine after power resumed.       
   :warning: Power losss recovery feature may introduce some imperfections on the prints when printing is resumed.
 
+#### Auto retraction
+The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.  
+- **[:book: User Guide.](./2-Operation_Guide/Auto_Retraction/readme.md)**  
+<!-- - **[:movie_camera: Video tutorial]()**    -->
+
 ------
 ### Upgradable Features
+#### :arrow_up: Filament run out sensor :+1::+1:
+By upgrading this item, you can remote control your 3d printer.    
+- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD)**   
+
 #### :arrow_up: WiFi wireless control module :+1::+1:
 By upgrading this item, you can remote control your 3d printer.    
-- :book:**[User guide]()**    
-- :movie_camera:**[Video tutorial]()**
-- :gift:**[Upgrade it now]()**
+- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi)**    
 
 #### :arrow_up: Non mix color hotend :+1::+1:
 By upgrading this item, the size of the color prime tower required for printing multi-color models is much smaller.     
-- :book:**[User guide]()**    
-- :movie_camera:**[Video tutorial]()**
-- :gift:**[Upgrade it now]()**
+- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)**    
 
-#### :arrow_up: High flow Hotend :+1:
+<!-- #### :arrow_up: High flow Hotend :+1:
 By upgrading this project, the machine can print faster and support more types of high temperature filaments.      
 !!ONLY SUPPORT ONE COLOR!!    
-- :book:**[User guide]()**    
-- :movie_camera:**[Video tutorial]()**
-- :gift:**[Upgrade it now]()**
+- :book:**[User guide]()**     -->
 
 #### :arrow_up: Direct drive extruder :+1:
 By upgrading this project, you can print flexible materials (such as TPU filament).    
 !!ONLY SUPPORT ONE COLOR!!     
-- :book:**[User guide]()**    
-- :movie_camera:**[Video tutorial](https://youtu.be/7aF-C7VgDZY)**
-- :gift:**[Upgrade it now]()**
+- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extrruder)**    
 
 #### :arrow_up: Laser engine
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.    
-- :book:**[User guide]()**    
-- :movie_camera:**[Video tutorial]()**
-- :gift:**[Upgrade it now]()**
+- :book:**[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving)**    
+
  

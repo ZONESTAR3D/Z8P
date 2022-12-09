@@ -38,7 +38,7 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 6. **Prepare to print:** Preheating, homing, moving the axis, load/unload filament, leveling the hot bed, power off, etc.,  used before printing.
 7. **Setup the machine:** Set operation parameters, enable/disable advanced functions.
 8. **Information of the machine:**: View the firmware version, hardware configuration information of the machine.     
-#### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**]().
+#### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**](./DWIN_LCD_screen_Menu_Description/readme.md).
 
 ## Prepare to print 
 ### [Level the bed :movie_camera:]()

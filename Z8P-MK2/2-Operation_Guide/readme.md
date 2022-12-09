@@ -67,19 +67,19 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 
 ## Advance features
 :warning: Do not turn on these functions until you clearly understand how to use them.
-### Auto Mix Printing
+### [Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)
 This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.   
 For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](./Auto_Color_Mixing/readme.md).
-### Bed auto leveling
+### [Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)
 This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, you can correct the unevenness of the hot bed.    
 For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](./Bed_Auto_Leveling/readme.md).
-### Auto shut down
+### [Auto shut down](https://youtu.be/SJLpmJL-tG4)
 3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
-For the details please refer to [**:point_right: Auto Shutdown Feature User Guide**](./Auto_Shutdown/readme.md).
-### Power loss recovery
+For the details, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
+### [Power loss recovery](https://youtu.be/f-PpasByiiE)
 While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
-For the details, please refer to [**:point_right: Power Loss Recovery Feature User Guide**](./Power_Loss_Recovery/readme.md).
-### Auto retract
+For the details, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE).
+### [Auto retraction]()
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
 For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](./Auto_Retraction/readme.md).
 

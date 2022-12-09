@@ -5,7 +5,7 @@
 + **Tune>>Mixer>>Current V-TOOL:** Set the vtool to 0.   
 + **Tune>>Mixer>>Mix>>Extruder1~4(M4):** Arbitrarily adjust the percentage of extruder 1 ~ 4, the range is 0 ~ 100.  
 + **Tune>>Mixer>>Mix>>Comit:** Redistribute the percentage of all extruders in proportion and send it to the current vtool. The current vtool value changes color.
-After setting up, on the ideal menu shows Current VTOOL = 0
+After setting up, on the ideal menu shows Current **VTOOL = 0**
 ![](1.jpg)
 
 ## Auto gradient mixing printing
@@ -13,12 +13,11 @@ After setting up, on the ideal menu shows Current VTOOL = 0
 + Start to print a singel color gcode file from SD card.  
 + Wait until the print start to print, set on the LCD menu.  
 + **Tune>>Mixer>>Gradient:OFF>>**
-	>
-	> **Start Z:** set the start Z heigth(such as:0mm)  
-	> **End Z:** set the END Z heigth(such as:200mm)  
-	> **Start V-tool:** set the start V-tool(such as:0)   
-	> **End V-tool:** set the end V-tool(such as:1)  
-	After set Start Z isn’t equal to the End Z, and Start V-tool isn’t equal to End V-tool, the LCD will shows “Gradient Mix Z:xxx->xxx V:xx->xx” and on the ideal menu shows gradient  
+  + **Start Z:** set the start Z heigth(such as:0mm)      
+  + **End Z:** set the END Z heigth(such as:200mm)     
+  + **Start V-tool:** set the start V-tool(such as:0)        
+  + **End V-tool:** set the end V-tool(such as:1)      
+After set **Start Z** isn’t equal to **End Z**, and **Start V-tool** isn’t equal to **End V-tool**, the LCD will shows **Gradient : ON**.      
 ![](3.jpg)
 
 ### Realize gradient mixing by modifing gcode file
@@ -45,10 +44,11 @@ You can also add a M166 command into the "start G-code" of the machine setting w
 + Start to print a singel color gcode file from SD card.  
 + Wait until the print start to print, set on the LCD menu. 
 + **Tune>>Mixer>>Random Mix: OFF>>**
-	> **Start Z:** set the start Z heigth(such as:0mm) End Z: set the end Z heigth(such as:200mm)
-	> **Height:** set interval distance(such as:10mm), When the z-axis distance changes beyond this value, the mixing ratio changes randomly once.
-	> **Extruders:** set the number of extruders with random variation(such as:4)
-	After set Start Z isn’t equal to the End Z, the LCD will shows “Random : ON” and on the printing menu shows: "Random Mix Z:xx->xx H:xx.x E:xx
+	+ **Start Z:** set the start Z heigth(such as:0mm) End Z: set the end Z heigth(such as:200mm)    
+	+ **Height:** set interval distance(such as:10mm), when printing heigth changed beyond this value, the mixing ratio be changed once.    
+	+ **Extruders:** set the number of extruders with random variation(such as:4) 
+
+After set Start Z isn’t equal to the End Z, the LCD will shows **Random : ON**.
 ![](5.jpg)
 
 ### Realize Random mixing by modifing gcode file

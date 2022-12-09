@@ -57,7 +57,7 @@ If you download from here, please click the below :arrow_down: ICON and click "d
 #### :pencil: What is slicing In 3D Printing?
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
-- :arrow_down: [**Download Slicing Software and View Use Guide**](https://github.com/ZONESTAR3D/Slicing-Guide)
+- :arrow_down: [**Download Slicing Software and View Use Guide**](./4-SlicingGuide/readme.md)
 - :movie_camera: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
 - :book: [**PrusSlicer User Manual**](./4.Slicing/readme.md)  :blue_book:[**(pdf file)**](./4.Slicing/readme.pdf)  
 - :movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  

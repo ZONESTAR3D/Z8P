@@ -26,7 +26,7 @@
 ![](./pic/poweroff.png)
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
 
-## LCD Menu and Operation
+## [LCD Menu and Operation](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description)
 ![](./pic/LCDScreen.png)
 1. **Title bar:** Shows current menu 
 2. **Menu bar:** Shows control operational menu items
@@ -38,7 +38,7 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 6. **Prepare to print:** Preheating, homing, moving the axis, load/unload filament, leveling the hot bed, power off, etc.,  used before printing.
 7. **Setup the machine:** Set operation parameters, enable/disable advanced functions.
 8. **Information of the machine:**: View the firmware version, hardware configuration information of the machine.     
-#### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**](./DWIN_LCD_screen_Menu_Description/readme.md).
+#### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description).
 
 ## Prepare to print 
 ### [Level the bed :movie_camera:]()
@@ -69,10 +69,10 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 :warning: Do not turn on these functions until you clearly understand how to use them.
 ### [Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)
 This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.   
-For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](./Auto_Color_Mixing/readme.md).
+For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md).
 ### [Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)
 This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, you can correct the unevenness of the hot bed.    
-For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](./Bed_Auto_Leveling/readme.md).
+For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md).
 ### [Auto shut down](https://youtu.be/SJLpmJL-tG4)
 3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
 For the details, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
@@ -81,7 +81,7 @@ While printing from SD card and power is lost, after power on again, the printer
 For the details, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE).
 ### [Auto retraction](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
-For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](./Auto_Retraction/readme.md).
+For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md).
 
 ## Slicing
 The slicing software is a computer software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL(Obj, Amf) format to printer commands in g-code format. 

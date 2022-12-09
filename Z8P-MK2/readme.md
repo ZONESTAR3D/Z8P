@@ -45,12 +45,12 @@ G-code is information, or instructions that 3d printer requires in order to prin
 :page_with_curl: [**Reference 1**](https://beginner3dprinting.com/what-is-g-code-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://www.reprap.org/wiki/G-code)     
 #### :book: File list
 If you download from here, please click the below :arrow_down: ICON and click "download" button to download it to your PC, unzip the downloaded ZIP file in your PC, then copy the .gcode to the SD card.
-- **[:arrow_down:xyz_cube](./3-TestGcode//xyz_cube.zip)**:           A simple test gcode file for verifing if the machine is working well.  
-- **[:arrow_down:TempCal_PLA](./3-TestGcode//TempCal_PLA.zip)**:        A test gcode file to check the best printing temperature of your PLA filament
-- **[:arrow_down:3DBenchy](./3-TestGcode/3DBenchy.zip)**:        A classic printing performance test gcode file, one color
-- **[:arrow_down:1C_dog](./3-TestGcode/dog.zip)**:             A classic printing quanlity test gcode file, one color
-- **[:arrow_down:M4_GradientVase](./3-TestGcode/M4_GradientVase.zip)**:  A base gradient mix color test gcode file
-- **[:arrow_down:M4_4CTest](./3-TestGcode/M4_4CTest.zip)**:  A base 4 colors test gcode file
+- **[:arrow_down:xyz_cube](./3-TestGcode/xyz_cube.zip)**: A simple test gcode file for verifing if the machine is working well.  
+- **[:arrow_down:TempCal_PLA](./3-TestGcode/TempCal_PLA.zip)**: A test gcode file to check the best printing temperature of your PLA filament
+- **[:arrow_down:1C_dog](./3-TestGcode/dog.zip)**: A classic printing quanlity test gcode file, one color
+- **[:arrow_down:Gradient Mixing Vase](./3-TestGcode/GradientMix_Vase.zip)**: A base gradient mix color test gcode file
+- **[:arrow_down:Random Mixing Vase](./3-TestGcode/RandomMix_Vase.zip)**: A base gradient mix color test gcode file
+- **[:arrow_down:M4_4CTest](./3-TestGcode/M4_4CTest.zip)**: A base 4 colors test gcode file
 - **[:file_folder: For more multi color test gcode files, please download from here](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4/readme.md).**
 
 ### Slicing Guide

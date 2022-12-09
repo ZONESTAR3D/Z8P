@@ -14,15 +14,6 @@
 ------
 # Z8P-MK2 User Guide
 ## [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
-### :book: Contents
-- **[Installation guide](#1installation-guide)**  
-- **[Operation guide](#2operation-guide)**  
-- **[Test gcode files](#3test-gcode)**
-- **[Slicing guide](#4slicing-guide)**
-- **[Print parts stl file](#5-print-parts-stl)**
-- **[Firmwarek](#6firmware)**
-- **[TroubleShootings](#7troubleshootings)**
-- **[Upgradable Features](#upgradable-features)**
 
 -----
 ### :file_folder: [1.Installation Guide](./1-Installation_Guide/)

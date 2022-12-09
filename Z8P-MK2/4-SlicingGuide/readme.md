@@ -1,3 +1,17 @@
+## Language (Translated by googel)
+[![](../../lanpic/EN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+
+----
 # Slicing guide for PrusaSlicer
 ## :warning: Please refer to [**:point_right: here**](https://github.com/ZONESTAR3D/Slicing-Guide) to view the newest slicing software use guide
 
@@ -54,8 +68,6 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
-
-#### :warning: NOTE: While you print one color by M4 (4-IN-1-OUT Mix Color) Hotend, please load all filaments to extrusion feeders and feed all filaments into all channels of the hotend. 
 
 ## 5. Slicing muti-color for M4 hotend 
 #### 5.1 choose printer presets "Z8 + M4 hotend"

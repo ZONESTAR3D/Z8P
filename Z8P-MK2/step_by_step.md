@@ -54,7 +54,7 @@ Several of the most famous free 3D model download websites:
 - [youmagine](https://www.youmagine.com/)   
 
 ### Step 4. Printing your own 3d model
-Once you are done slicing, copy the obtained gcode files to your SD card, then you can print them out like in the **step 2**.
+Once you are done slicing, copy the generated gcode file to the SD card, then you can print it in the **step 2**.
 
 ### Step 5. To use advanced features
 After you fully understand all the basic use of the machine, you can try some advanced functions of the machine. For details, please refer to [Advance features](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide#advance-features).

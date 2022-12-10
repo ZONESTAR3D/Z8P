@@ -19,7 +19,8 @@
 
 ------
 # Z8P-MK2 User Guide
-## [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
+### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: Step-by-Step Guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step.md), and following the guide to do step by step. 
+### [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
 
 -----
 ### :file_folder: [1.Installation Guide](./1-Installation_Guide/)

@@ -19,7 +19,8 @@
 
 ----
 ## Step by Step Guide
-If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, you need to do 4 steps **Install the machine - Printing test file - Slicing your own 3d file - Printing your 3d file**.      
+If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, you need to do 4 steps:    
+**Install the machine >> Printing test file >> Slicing your own 3d file >> Printing your 3d file**.        
 First at all, please [:arrow_down: **download the documents**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ8P%2Ftree%2Fmain%2FZ8P-MK2) and save it to your PC .
 
 ### Step 1. Install the machine

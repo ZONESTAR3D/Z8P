@@ -1,5 +1,4 @@
 ### Choose Language (Translated by google)
-[![](../../lanpic/EN.png)](https://github.com/ZONESTAR3D/DZ8P/tree/main/Z8P-MK2/1-Installation_Guide/readme.md)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/DZ8P/tree/main/Z8P-MK2/1-Installation_Guide/readme.md?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/DZ8P/tree/main/Z8P-MK2/1-Installation_Guide/readme.md?_x_tr_sl=en&_x_tr_tl=fr)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/DZ8P/tree/main/Z8P-MK2/1-Installation_Guide/readme.md?_x_tr_sl=en&_x_tr_tl=pt)

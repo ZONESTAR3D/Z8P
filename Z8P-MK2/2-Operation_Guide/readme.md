@@ -22,13 +22,15 @@
 ## Power ON and Power Off
 #### :warning:ATTENTION! MAKE SURE THE AC VOLTAGE SELECT SWITH HAS BEED SET TO THE CORRECT POSITION:warning:
 ![](./pic/selectAC.png)
-### [POWER  ON :movie_camera:]()  
+### POWER ON
+<!-- [:movie_camera:Video Tutorial]()      -->
 ![](./pic/poweron.png)
 1. Plug in power cord
 2. Turn ON the AC Power Switch.
 3. Push and hold DC power button about 5 seconds
 4. Wait until the LCD shows Logo, then release the DC power button
-### [POWER  OFF :movie_camera:]()
+### POWER OFF
+<!-- [:movie_camera:Video Tutorial]()      -->  
 ![](./pic/poweroff.png)
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
 
@@ -47,7 +49,8 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 #### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description).
 
 ## Prepare to print 
-### [Level the bed :movie_camera:]()
+### Level the bed
+<!-- [:movie_camera:Video Tutorial]()      -->    
 Before printing, you need to adjust the distance between the nozzle and the hot bed film to a proper value, so that the melted filament can be pasted onto the hot bed film well. This process is also called “level bed”. If the nozzle is too far away from the bed, the filament can't stick to the hot bed. If the distance is too close, the bed film and nozzle will be damaged, or even the hot end will be blocked.
 ##### Step 1: Power on the 3d printer and then do “Prepare>>Auto Home>>Home All” on LCD MENU, wait the hotend go to the HOME position. 
 ##### Step 2: Tighten the hand nuts under the bed to move down the bed to the lowest position (Fig 1).
@@ -55,7 +58,8 @@ Before printing, you need to adjust the distance between the nozzle and the hot 
 ##### Step 4: Repeat Step 3 and do 2 ~ 3 rounds, until all of the four corners at the same height.
 ![](./pic/levelbed.png)
 
-### [Load filaments :movie_camera:](./M4V6_load_filament.zip)  
+### Load filaments
+<!-- [:movie_camera:Video Tutorial]()      -->
 This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot end. The extruders and the hot end are connected by a filament guide (PTFE tube). Before printing, you need to load all 4 filaments into the extruder and feed them into the bottom of the hot end. 
 ##### Step 1. Do “Prepare>>Auto Home>>Home All” on control panel, and then do “Prepare>>Temperature>> Preheat PLA”, waiting nozzle temperature reached to 190 ℃ (Fig 1).
 ##### Step 2. Use a diagonal pliers to cut off the head of filament (Fig 2), and then press the handle of the extruder#1 and insert filament, push the filament until you can see the filament in the PTFE guide (Fig 3). Rotate the gear of extruder #1 (Fig 4), watch the filament until it entered the hot end. 
@@ -63,7 +67,8 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 ##### Step 4. Slowly rotate the gear of extruder#1 ~ extruder#4 one by one and watch the nozzle, until you can see the filament flowed out from the nozzle(Fig 5).
 ![](./pic/loadfilament.png)
 
-## [Print the first works :movie_camera:]()  
+## Print the first works
+<!-- [:movie_camera:Video Tutorial]()      -->
 ##### Step 1. Insert the SD card to the SD card socket on the printer (Fig 1).
 ##### Step 2. Click “Print” on the control panel and choose “Test gcode\xyz_cube.gcode” (Fig 2), click the knob to start printing.
 ##### Step 3. Wait until the hotend and hotbed is reached to the setting temperature (Fig 3), the nozzle will home to the origin position and then move to above of the printing platform and extrude the filament, use a tweezers to remove the outflow filament (Fig 4).

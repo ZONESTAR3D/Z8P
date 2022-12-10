@@ -1,5 +1,4 @@
 ### Choose Language (Translated by google)
-[![](./lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P)
 [![](./lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P?_x_tr_sl=en&_x_tr_tl=es)
 [![](./lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P?_x_tr_sl=en&_x_tr_tl=fr)
 [![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P?_x_tr_sl=en&_x_tr_tl=pt)

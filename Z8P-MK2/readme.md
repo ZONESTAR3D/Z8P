@@ -20,6 +20,7 @@
 ------
 # Z8P-MK2 User Guide
 ### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: Step-by-Step Guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step.md), and following the guide to do step by step. 
+### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: Step-by-Step Guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step.md) at least, and ensure that you have known the M4 hotend working principle and how to load all 4 filaments to the hotend.
 ### [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
 
 -----

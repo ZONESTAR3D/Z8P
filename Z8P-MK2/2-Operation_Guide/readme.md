@@ -30,8 +30,8 @@
 3. Push and hold DC power button about 5 seconds
 4. Wait until the LCD shows Logo, then release the DC power button
 ### POWER OFF
-[:movie_camera:Video Tutorial](./pic/poweroff.gif)
-![](./pic/poweroff.png)
+[:movie_camera:Video Tutorial](./pic/poweroff.gif)     
+![](./pic/poweroff.png)   
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
 
 ## [LCD Menu and Operation](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description)

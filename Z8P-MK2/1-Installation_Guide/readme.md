@@ -19,6 +19,9 @@
 
 -----
 # Z8P-MK2 Installation Guide
+### [ :movie_camera: **Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
+
+-----
 ## :warning:ATTENTION:warning:
 #### :clipboard:Please strictly follow the standard operation when installation.
 #### :baby_bottle: Please put the printer away from the reach of kids.
@@ -103,24 +106,32 @@ Install the Z lead screws fix blocks on the top profile.
 ![](./pic/InstallZFixModule.png)
 
 ## Wiring
-Rerfer to the below pictures to connect the wire/cables to the connector of printer. include: left & right Z Motors/Endstops, X motor/Endstop, Extruder motors and hotend.
-![](./pic/wiring.png)   
 ### Wiring Block
-![](./Z8PMK2_Wiring_Block.jpg)
+![](./Z8PMK2_Wiring_Block.jpg)     
+#### Rerfer to the below pictures to connect the wire/cables to the connector of printer, they are: 
+- **left Z Motors/Endstops and right Z Motors/Endstops.**    
+- **X motor/Endstop.**    
+- **Extruder motors wires (E0-E1-E2-E3).** 
+- **Hotend wires.**    
+- **LCD cable**    
+![](./pic/wiring.png)   
+
 ### Wiring Diagram
 ![](./Z8PM4-MK2_Wiring_Diagram.jpg)
 
 ## Check before power on
 #### :warning: It is very important to check the machine before power on. It can eliminate the trouble brought by some hardware to ensure the smooth printing!
 #### Check list:
-1. Check if the X&Y axis timing pulley are fixed on the shaft of motor, and the couplings are fixed on the shaft of the Z motors.
-2. Check if the lead screws have been fixed on the shaft of coupling.
-3. Move the hot end and hotbed to their respective limit switch positions to check whether the contact is good and there is a clear sound. otherwise, please check the limit switch and reassemble it.
-4. Manually move the hot end and hotbed to see if the movement is smooth, otherwise, adjust the eccentric nut until the motor moves smoothly. Refer to the installation procedure.
-5. Check whether the X and Y-axis drive belt is firmly installed. If it is too loose, please try to tighten it.
-6. Check whether the screw rod is assembled in place and whether the screw is tightened.
-7. Manually rotate the z-axis motor couplings to check whether the z-axis limit switch contacts reliably.
+1. **Check if the X&Y axis timing pulley are fixed on the shaft of motor, and the couplings are fixed on the shaft of the Z motors.**
+2. **Check if the lead screws have been fixed on the shaft of coupling.**
+3. **Move the hot end and hotbed to their respective limit switch positions to check whether the contact is good and there is a clear sound. otherwise, please check the limit switch and reassemble it.**
+4. **Manually move the hot end and hotbed to see if the movement is smooth, otherwise, adjust the eccentric nut until the motor moves smoothly. Refer to the installation procedure.**
+5. **Check whether the X and Y-axis drive belt is firmly installed. If it is too loose, please try to tighten it.**
+6. **Check whether the screw rod is assembled in place and whether the screw is tightened.**
+7. **Manually rotate the z-axis motor couplings to check whether the z-axis limit switch contacts reliably.**
+8. **Check if the AC power select switch to set to the correct position. City AC Voltage is 220V, set to [230]. City AC Voltage is 110V, set to [115].**   
+![](./pic/selectAC.png)
 
-## Congratulate! 
+## :fireworks: Congratulate! 
 After completing the above installation steps, the machine installation is announced to be completed. You can arrange the wiring and fasten them to the frame of the machine with cable tie.
 Next, just do some preliminary debugging, and you can start your first print. Please refer to the [**:point_right: quick user manual**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md) to prepare and start your first print.

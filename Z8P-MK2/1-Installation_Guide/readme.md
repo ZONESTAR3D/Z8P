@@ -38,8 +38,10 @@ No.|         Name             | No.|              Name        | No.|            
 ---|--------------------------|----|--------------------------|----|--------------------------|----|--------------------------|
 1  |        Base Module       | 2  |  Extruders (4x)          | 3  |Z-axis Motor Modules (x2) | 4  |  Lead screw & Profiles   |  
 5  |Print head with X carrier | 6  |  Z carrier(left)         | 7  |   Z carrier(right)       | 8  |  TFT-LCD Contol Panel    |
-9  | Accessories              | 10 |  Filament Roll Bracket   | 11 |  SD card                 | 12 |   Tools                  |
+9  | Accessories              | 10 |  Filament Roll Bracket   | 11 |  SD card(<sup>*</sup>)   | 12 |   Tools                  |
 13 | USB cable                | 14 |  Power cord              |    |                          |    |                          | 
+
+<sup>*</sup>**SD Card is placed in the accessries(9) package.**
 ## Description of Item No.4 & No.9 
 ![](./pic/partlist2.png)    
 ![](./pic/partlist3.png) 

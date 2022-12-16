@@ -42,9 +42,24 @@ No.|         Name             | No.|              Name        | No.|            
 13 | USB cable                | 14 |  Power cord              |    |                          |    |                          | 
 
 <sup>*</sup>**SD Card is placed in the accessries(9) package.**
+
 ## Description of Item No.4 & No.9 
-![](./pic/partlist2.png)    
-![](./pic/partlist3.png) 
+![](./pic/partlist2.png)   
+
+No.|                                                 Name                                                |
+---|-----------------------------------------------------------------------------------------------------|
+1  | **Z Profiles:** 2* 2040 aluminum profiles for Z axis , the flat surface toward the front.           |
+2  | These two holes on the bottom when install.                                                         |
+3  | **Top Profile:** 1* 2020 aluminum profile installed to top.                                         |
+4  | **X Profile:** 1* 2020 aluminum profile, there are 4 hole on the front and 2 big hole on the back.  |
+5  | **lead screws:** 2* T8-500mm lead screws ***(They are put inside the Z aluminum profiles)***.       |
+    
+![](./pic/partlist3.png)     
+
+No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name        |
+---|--------------------------|----|--------------------------|----|--------------------------|----|--------------------------|
+1  |        4* PTFE Tube      | 2  |  Cable tie               | 3  |     2* Z ENDSTOP         | 4  |  2* Z lead blocks        |  
+5  |   Nozzle (Spare part)    | 6  |  X Belt idler            | 7  |   X Timing Belt          | 8  |  Wheel (Spare part)    |
 
 ## Installation
 ### 1. Install Z axis Parts

@@ -98,10 +98,10 @@ Connect the extrusion feeder with the print head (hot end) by filament guide (PT
 
 ### 7. Debug the Z Movement system
 ![](./pic/DebugZ.png)  
-Keep the lead screws parallel to the Z axis profiles as far as possible will help to obtain better printing quality, please debug them refer to the following steps:
-Step 1. Loosen all the screws a little that fixed the Z motors and T8 copper nut.
-Step 2. Synchronous Rotate the couplings to move up the X axis to 1/2 height of the printer.
-Step 3. Keep the lead screws parallel to the Z profiles, then tighten the screws that fixed the Z motor and T8 copper nuts.
+Keep the lead screws parallel to the Z axis profiles as far as possible will help to obtain better printing quality, please debug them refer to the following steps:   
+**Step 1. Loosen all the screws a little that fixed the Z motors and T8 copper nut.**   
+**Step 2. Synchronous Rotate the couplings to move up the X axis to 1/2 height of the printer.**   
+**Step 3. Keep the lead screws parallel to the Z profiles, then tighten the screws that fixed the Z motor and T8 copper nuts.**   
 
 ### 8. Install Z lead screws fixed module
 Install the Z lead screws fix blocks on the top profile.

@@ -27,7 +27,7 @@
 ### :file_folder: [1.Installation Guide](./1-Installation_Guide/)
 - **[:book: Installation Guide](./1-Installation_Guide/readme.md)** 
 - **[:blue_book:Installation and Quick Use Guide PDF file](./Z8PMK2_Installation_and_quick_use_guide.pdf)**
-- **[:movie_camera: Installation Video Tutorial](https://youtu.be/Xa3Q1m6HbDI)** 
+- **[:movie_camera: Installation Video Tutorial](https://youtu.be/-oieO7U0LCc)** 
 - **[:book: LCD screen menu description](./2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md)**
 - **[:art: Wiring Block](./1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
 - **[:art: Wiring Diagram](./1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**

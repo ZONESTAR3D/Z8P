@@ -26,12 +26,16 @@
 
 -----
 ### :file_folder:[1. Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
-- [**Z8PM3(4) Installation and quick user guide V1.pdf**](./1.%20Installation%20and%20User%20Guide/Z8PM3(4)%20Installation%20and%20quick%20user%20guide%20V1.pdf)  Installation and quick user guide.    
+#### For Z8PM3Pro/Z8PM4Pro
 - [**Z8PM3(4)-Pro Installation and quick user guide V1.pdf**](./1.%20Installation%20and%20User%20Guide/Z8PM3(4)Pro%20Installation%20and%20quick%20user%20guide%20V1.pdf)  Installation and quick user guide.  
-- [**LCD2864 Menu Description.pdf**](./1.%20Installation%20and%20User%20Guide/LCD12864%20Menu%20Description%20V6.pdf)  for Z8PM3(4), 128x64 LCD screen Menu instruction
-- [**LCD-DWIN Menu Description.pdf**](./1.%20Installation%20and%20User%20Guide/LCD-DWIN%20MENU%20Description%20V1_2.pdf) for Z8PM3(4)Pro, 4.3" TFT-LCD screen MENU instruction of 
-- [**Z8PM3(M4) Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Wirig%20Diagram.jpg)  Wiring Diagram for Z8PM3(4)
+- [**LCD-DWIN Menu Description**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN/user_guide) for Z8PM3(4)Pro, 4.3" TFT-LCD screen MENU instruction
 - [**Z8PM3(M4)-Pro Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Pro_Wirig%20Diagram.jpg)  Wiring Diagram for Z8PM3(4)-Pro  
+#### For Z8PM3/Z8PM4
+- [**Z8PM3(4) Installation and quick user guide V1.pdf**](./1.%20Installation%20and%20User%20Guide/Z8PM3(4)%20Installation%20and%20quick%20user%20guide%20V1.pdf)  Installation and quick user guide.    
+- [**LCD2864 Menu Description.pdf**](./1.%20Installation%20and%20User%20Guide/LCD12864%20Menu%20Description%20V6.pdf)  for Z8PM3(4), 128x64 LCD screen Menu instruction
+- [**Z8PM3(M4) Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Wirig%20Diagram.jpg)  Wiring Diagram for Z8PM3(4)
+
+#### Common files for Z8P
 - [**How to Load and Unload filament.pdf**](./1.%20Installation%20and%20User%20Guide/How%20to%20Load%20and%20Unload%20filament%20(LCD12864).pdf) Instrution for how to load and unload filament.  
 - [**Operature guide for Mixing Color Printer.pdf**](./1.%20Installation%20and%20User%20Guide/Operature%20guide%20for%20Mixing%20Color%20Printer%20V1_2.pdf) Instrution for Operate the Mixing Color Extruder. 
 - [**Bed auto leveling**](./1.%20Installation%20and%20User%20Guide/Bed%20Auto%20Leveling/) This directory has instructions on how to do the auto leveling and a leveling test gcode file. 
@@ -56,4 +60,3 @@ Please click this link to read the newest [**slicing guide**](https://github.com
 
 ## :file_folder:[7. Parts STL](./7.%20Parts%20STL/)
 [**Inlcuded the print parts stl fils for Z8P.**](./7.%20Parts%20STL/)
-

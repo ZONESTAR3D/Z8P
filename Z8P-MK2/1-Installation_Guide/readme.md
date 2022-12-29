@@ -67,7 +67,8 @@ No.|         Name             | No.|              Name        | No.|            
 :warning:NOTE:warning:
 1. **The side with two holes on the bottom.**      
 2. **The flat surface of profiles toward the front.**   
-![](./pic/installZ2.png)    
+![](./pic/installZ2.png)   
+Install the Z ENDSTOPs to the side of Z profiles.
 #### Layout Extruder’s Cable
 ![](./pic/installZ3.png)   
 Put the extruder cables into the groove behind the right Z profile and cover it with plastic profile covers. Note that a distance of 10mm should be left at the top and the cables should be pulled out.    
@@ -84,11 +85,11 @@ Put the extruder cables into the groove behind the right Z profile and cover it 
 
 ![](./pic/installX2.png)  
 1. Rotate the lead screws to keep the same height
-2. Insert X idler to Z right carrier
-3. Hang the belt to the timing pulley
-4. Turn the wheel to let the belt in
-5. Fix X profile (Don’t tighten at first)
-6. Fix the X idler
+2. Insert X idler to Z right carrier.
+3. Hang the belt to the timing pulley.
+4. Turn the wheel to let the belt in.
+5. Fix X profile (Don’t tighten at first).
+6. Fix the X idler.
 
 ### 3. Install LCD screen
 ![](./pic/InstallLCDScreen.png)  

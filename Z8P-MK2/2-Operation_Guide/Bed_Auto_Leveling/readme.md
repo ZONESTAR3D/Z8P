@@ -47,7 +47,7 @@ After measure done, the state of Auto leveling on Leveling menu will change from
 Now you can try to print a test file to verfiy the bed auto leveling result. Steps as below:   
 1. Copy **[level_test_310.gcode :arrow_down:](./level_test_310.zip)** to SD card and print it from SD card (Fig 1).
 2. When printing started, double click (click twice in one second) the knob to open Baby Z offset menu (Fig 2).
-3. Rotate the knob and watch the nozzle, let the filament pasted on the hotbed well and about 0.3mm (Fig 3).
+3. Rotate the knob to fine tune the nozzle height, let the filament pasted on the hotbed very well (Fig 3).
 4. Watch the print result(Fig 4).
 ![](5.png)  
 

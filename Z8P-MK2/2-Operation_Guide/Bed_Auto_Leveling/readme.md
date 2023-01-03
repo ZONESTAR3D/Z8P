@@ -29,7 +29,6 @@
 ##### Step 4: Repeat Step 3 and do 2 ~ 3 rounds, until all of the four corners at the same height.  
 ![](1.png)    
 
-
 ### Catch Probe Z offset
 :warning: Do ***Control>> Configure>> Auto Leveling*** to turn on **bed auto leveling feature** if you didn't see this menu.
 ![](2.png)
@@ -46,20 +45,21 @@ After measure done, the state of Auto leveling on Leveling menu will change from
 
 ### Verification  
 Now you can try to print a test file to verfiy the bed auto leveling result. Steps as below:   
-1. Copy **[level_test_310.gcode :arrow_down:](./level_test_310.zip)** to SD card and print it from SD card.
-2. When printing started, double click (click twice in one second) the knob to open Probe Z offset menu (fig1).
-3. Rotate the knob and watch the nozzle, let the nozzle is higher than the hotbed about 0.3mm (fig2).
-4. Do on the MENU>>Configuration>>Store settings (fig3)
-![](6.png)  
+1. Copy **[level_test_310.gcode :arrow_down:](./level_test_310.zip)** to SD card and print it from SD card (Fig 1).
+2. When printing started, double click (click twice in one second) the knob to open Baby Z offset menu (Fig 2).
+3. Rotate the knob and watch the nozzle, let the filament pasted on the hotbed well and about 0.3mm (Fig 3).
+4. Watch the print result(Fig 4).
+![](5.png)  
 
-### Active auto leveling after printer reset
+-----
+### Active auto leveling after the printer reset
 Auto leveling feature will be disable automatically when the printer reset, you can turn it on manually from LCD screen.
 - **Step 1. Menu>>Prepare>> Auto Home**
 - **Step 2. Motion>> Control>> Configure>>Active autolevel: ON**
 NOTE: After do these 2 steps, the printer will apply stored leveling correction parameters in the last “bed level”.
-![](7.png)  
+![](6.png)  
 
 ### Auto leveling the bed before each printing
 If you want the printer do bed auto leveling for each printing, you need to add a "G29" command in the "Start Gcode" of printer settings of the slicing software.
-![](8.png)  
+![](7.png)  
 

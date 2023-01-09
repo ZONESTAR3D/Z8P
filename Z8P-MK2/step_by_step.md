@@ -43,12 +43,12 @@ First at all, we recommend that you [:arrow_down: **download all the documents**
 ### Step 4. Print test 3d model
 FDM 3D printers can only recognize gcode files, we need to copy the gcode files to the SD card, insert the SD card into the SD card slot of the 3D printer, and then start to print.
 #### Print a one color test file
-- **Prepare gcode file**. Locate the **xyz_cube.gcode** file from your downloaded files or [:arrow_down: **download xyz_cube zip file**](./3-TestGcode/xyz_cube.zip) and unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- **Prepare gcode file**. [:arrow_down: **download xyz_cube zip file**](./3-TestGcode/xyz_cube.zip) and unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
 - **Load filament**. Refer to [:book: **here**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide#load-filaments) to load all 4 color filaments to the extruders and hotend. ***:warning: For M4V6 hotend, you need to load 4 filament to the hotend even you print one color 3d prints.*** 
 - **Print from SD card**. Move item to **Print** item on LCD screen and click the knob and choose **xyz_cube.gcode** file, click knob to start print.
 - **Fine tune nozzle height**. Wait the nozzle and hotbed heating, and when the printer starting to print the first layer, double click the knob of LCD screen to fine tune the distance from the nozzle to the bed, and then wait it to finish.
 #### Print a 4 color test file
-- **Prepare gcode file**. Locate the **M4_4CTest.gcode** file from your downloaded files or [:arrow_down: **download M4_4CTest zip file**](./3-TestGcode/M4_4CTest.zip)  and unzip it on PC, and then copy the **M4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- **Prepare gcode file**. [:arrow_down: **download M4_4CTest zip file**](./3-TestGcode/M4_4CTest.zip)  and unzip it on PC, and then copy the **M4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
 - **Load filaments**. Refer to [:book: **here**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide#load-filaments) to load all 4 color filaments to the extruders and hotend.
 - **Print from SD card **. Move item to **Print** item on LCD screen and click the knob and choose **M4_4CTest.gcode** file, click knob to start print.
 - **Check Preload**. Wait the nozzle and hotbed heating, and check if the printer can print out 4 colors lines on the side of the hotbed.

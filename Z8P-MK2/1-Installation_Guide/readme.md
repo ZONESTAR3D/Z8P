@@ -48,13 +48,13 @@ No.|         Name             | No.|              Name        | No.|            
 ## Description of Item No.4 & No.9 
 ![](./pic/partlist2.png)   
 
-No.|                                                 Name                                                |
----|-----------------------------------------------------------------------------------------------------|
-1  | **Z Profiles:** 2* 2040 aluminum profiles for Z axis , the flat surface toward the front.           |
-2  | These two holes on the bottom when install.                                                         |
-3  | **Top Profile:** 1* 2020 aluminum profile installed to top.                                         |
-4  | **X Profile:** 1* 2020 aluminum profile, there are 4 hole on the front and 2 big hole on the back.  |
-5  | **lead screws:** 2* T8-500mm lead screws ***(They are put inside the Z aluminum profiles)***.       |
+No.|                                                 Name                                               |
+---|----------------------------------------------------------------------------------------------------|
+1  | **Z Profiles:** 2* 2040 aluminum profiles for Z axis, the flat surface toward the front.           |
+2  | These two holes on the bottom when install.                                                        |
+3  | **Top Profile:** 1* 2020 aluminum profile installed to top.                                        |
+4  | **X Profile:** 1* 2020 aluminum profile, there are 4 hole on the front and 2 big hole on the back. |
+5  | **lead screws:** 2* T8-500mm lead screws ***(They are put inside the Z aluminum profiles)***.      |
     
 ![](./pic/partlist3.png)     
 

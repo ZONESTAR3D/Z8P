@@ -61,11 +61,16 @@ FDM 3D printers can only recognize gcode files, we need to copy the gcode files 
 - **Fine tune nozzle height**. When the hotend moved to the center of the hotbed, double to click the knob of LCD screen to fine tune the distance from the nozzle to the bed. Wait until the printing is finished.
 
 ### Step 5. Slicing your own 3d model
-Obviously you will have the need to print your own 3D models. The process of converting a 3D model into a gcode file that can be printed on a machine is called slicing. You need to download and install the slicing software, then import the 3D model file (stl, obj, AMF, etc.) and complete the slicing, and finally copy the generated gcode file to the SD card and print it on the machine. Our recommended slicing software is PrusaSlicer. For detailed instructions, please refer to the [**Slicing Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide).   
-Several of the most famous free 3D model download websites:
-- **[thingiverse](https://www.thingiverse.com/)**  
-- **[printables](https://www.printables.com/)**  
-- **[youmagine](https://www.youmagine.com/)**   
+- Before printing your own 3D models, you need to convert the 3d model file (a stl/obj/AMF format file which [downloaded from the internet](#📃-famous-free-3d-model-download-websites) or drawing by yourself) to a gcode file, save this gcode file to SD card and then plug the SD card to your 3d printer. This process of converting a 3D model into a gcode file that can be printed on a machine is called slicing.   
+- Firstly you need to download the slicing software and install it on your computer, and set the parameters of your machine in the slicing software or load the preset file of your machine which set by the 3d printer manufacture.   
+- Next, you need to run the slicing software, and may also need to set some slicing setting according to the characteristics of your 3D model file and then do slicing, after finished, copy the generated gcode file to the SD card and print it on your 3d printer.    
+- Our recommended slicing software is *PrusaSlicer*, for instructions on how to download, install and use *PrusaSlicer*, please refer to [***Slicing Guide***](./4-SlicingGuide/readme.md).     
+
+##### :page_with_curl: Famous free 3D model download websites
+- [thingiverse](https://www.thingiverse.com/)  
+- [printables](https://www.printables.com/)  
+- [youmagine](https://www.youmagine.com/)   
+ 
 
 ### Step 6. Printing your own 3d model
 After sliced, copy the generated gcode file to the SD card and then print it following the [**step 4**](#step-4-print-test-3d-model).

@@ -39,18 +39,12 @@
 
 ## 1. Download PrusaSlicer
 :movie_camera: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
-#### For windows system (win 7/8/10/11) 
-- Click the below links to download:
-  - [**Download from Github Page**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicer-2.4.2-win64.zip)   
-![](pic/download1.png)    
-  - [**Download from Jianguoyun**](https://www.jianguoyun.com/p/DQtYE2IQyoP1Bxjy374EIAA)    
-![](pic/download2.png)    
-  - [**Download from Google Driver**](https://drive.google.com/drive/folders/18WoIydKMPNVGcCbk_6rOo17a5pWe2N0l)    
-![](pic/download3.png)    
-- And then unzip downloaded file to your PC or laptop  
+### ![](./pic/win.png) For windows
+#### Click [:arrow_down:**here**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2) to download PrusaSlicer software and save it to you PC.
+![](pic/download.gif)   
+#### And then unzip downloaded file to your PC or laptop  
 ![](pic/unzip.png)   
-
-#### For Macos or linux
+### ![](./pic/macos.png) For Macos or linux
 - [Download PrusaSlicer software with zonestar profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2)
 
 ## 2. Run PrusaSlicer and choose the printer 

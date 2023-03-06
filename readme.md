@@ -27,8 +27,20 @@
 
 ----
 # Z8P Documents
+Z8P series is a high cost performance multi-color FDM 3D printer launched by ZONESTAR in 2022. Its main features are:
+1. The classic independent XYZ Cartier coordinate system.
+2. TThe motion structure adopts the V-solt profile frame and the wheels, and it equiped with double Z axes driver.
+3. 300x300x400mm build volume.
+4. 32-bit control main board+mute control motor.
+5. Titan extruder.
+6. With bed auto leveling.
+The Z8P series is divided into 2 configurations:
+1. **Z8PM3**: 3 extruder+3-IN-1-OUT color mixing hot end+LCD12864 display control panel.
+2. **Z8PM4Pro**: 4 extruder+4-IN-1-OUT color mixing hot end+4.3 "TFT-LCD display control panel.
+Since 2023, we have upgraded Z8P to Z8P-MK2, and canceled the configuration of Z8PM3.
+
 ## :file_folder:[Z8P-MK2](./Z8P-MK2/)
-### Z8P-MK2 Improvded:
+### Z8P-MK2 is upgraded:
 1. Improved profiles to make the appearance more beautiful.
 2. Upgraded the hotend to the 6th version (M4V6).
 3. Changed the motor drivers for X/Y/Z axis to TMC2208.

@@ -34,10 +34,12 @@ Z8P series is a high cost performance multi-color FDM 3D printer launched by ZON
 4. 32-bit control main board+mute control motor.
 5. Titan extruder.
 6. With bed auto leveling.
+
 The Z8P series is divided into 2 configurations:
 1. **Z8PM3**: 3 extruder + 3-IN-1-OUT color mixing hot end + LCD12864 display control panel.
-2. **Z8PM4Pro**: 4 extruder + 4-IN-1-OUT color mixing hot end + 4.3 "TFT-LCD display control panel.
-**Since 2023, we have upgraded Z8P to a new version: Z8P-MK2. Z8P-MK2 used 4 extruders and the 6th version 4-IN-1-OUT mixing color hot end.**
+2. **Z8PM4Pro**: 4 extruder + 4-IN-1-OUT color mixing hot end + 4.3 "TFT-LCD display control panel.  
+  
+**NOTE: Since 2023, we have upgraded Z8P to a new version: Z8P-MK2. Z8P-MK2 used 4 extruders and the 6th version 4-IN-1-OUT mixing color hot end.**
 
 ## :file_folder:[Z8P-MK2](./Z8P-MK2/)
 ### Z8P-MK2 is upgraded:

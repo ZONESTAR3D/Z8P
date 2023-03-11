@@ -27,14 +27,21 @@
 
 ----
 # Z8P Documents
-Z8P series is a high cost performance multi-color FDM 3D printer launched by ZONESTAR in 2022. Its main features are:
-1. The classic independent XYZ Cartier coordinate system.
-2. TThe motion structure adopts the V-solt profile frame and the wheels, and it equiped with double Z axes driver.
-3. 300x300x400mm build volume.
-4. 32-bit control main board+mute control motor.
-5. Titan extruder.
-6. With bed auto leveling.
-
+Z8P series is a high cost performance multi-color FDM 3D printer launched by ZONESTAR in 2022.    
+#### Features:
+- Classic independent XYZ cartier coordinate structe.
+- The motion structure adopts the V-solt profile frame and the wheels, and it equiped with double Z axes driver.
+- 300x300x400mm build volume.
+- 32-bit control main board with silent motor drivers.
+- Titan extruder and mix color hotend, support gradient color and multi color printing.
+- Equiped with 250W hotbed and magnetic PC film flexible hot bed sticker.
+- 70% Pre-assemble rate, fast installation.
+- Built-in automatic color mixing feature, one-button to convert single color 3D model to multi-color 3d prints.
+- Supports to paint color on 3D model, to convert one color 3D model to multi color model for printing.
+- With bed auto leveling feature.
+- Automatically resume printing after power failure.
+- Automatic shutdown after printing.
+- Open source firmware.
 The Z8P series has two models:
 1. **Z8PM3**: 3 extruder + 3-IN-1-OUT color mixing hot end + LCD12864 display control panel.
 2. **Z8PM4Pro**: 4 extruder + 4-IN-1-OUT color mixing hot end + 4.3 "TFT-LCD display control panel.  
@@ -42,7 +49,24 @@ The Z8P series has two models:
 **NOTE: Since 2023, we have upgraded Z8P to a new version: Z8P-MK2. Z8P-MK2 used 4 extruders and the 6th version 4-IN-1-OUT mixing color hot end.**
 
 ## :file_folder:[Z8P-MK2](./Z8P-MK2/)
-### Z8P-MK2 is upgraded:
+#### Features:
+- Classic independent XYZ cartier coordinate structe.
+- The motion structure adopts the V-solt profile frame and the wheels, equiped with dual Z axes drivers and dual Z Endstops.
+- 300x300x400mm build volume.
+- 32-bit control main board with silent motor drivers.
+- 4x Titan extruders and 4-IN-1-OUT color mixing hot end, support gradient color and multi color printing.
+- 4.3 "TFT-LCD display control panel.  
+- Equiped with 250W hotbed and magnetic PC film flexible hot bed sticker.
+- 70% Pre-assemble rate, fast installation.
+- Built-in automatic color mixing feature, one-button to convert single color 3D model to multi-color 3d prints.
+- Supports to paint color on 3D model, to convert one color 3D model to multi color model for printing.
+- With bed auto leveling feature.
+- Support high speed pringing, flow rate of hotend up to 30mm<sup>3</sup>/s
+- Automatically resume printing after power failure.
+- Automatic shutdown after printing.
+- Open source firmware, easy swithing 5-languages operature menu (EN/ES/PT/FR/RU).
+
+#### Z8P-MK2 is upgraded from Z8PM4Pro:
 1. Improved profiles to make the appearance more beautiful.
 2. Upgraded the hotend to the 6th version (M4V6).
 3. Changed the motor drivers for X/Y/Z axis to TMC2208.

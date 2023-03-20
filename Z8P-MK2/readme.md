@@ -32,6 +32,10 @@
 ### [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
 
 -----
+## [:movie_camera:Video Tutorial](./6-VideoTutorial/readme.md)
+We have created many video tutorials for Z8P-MK2, please refer to [**here**](./6-VideoTutorial/readme.md) to view.  
+
+-----
 ### :file_folder: [1.Installation Guide](./1-Installation_Guide/)
 - **[:book: Installation Guide](./1-Installation_Guide/readme.md)** 
 - **[:blue_book:Installation and Quick Use Guide PDF file](./Z8PMK2_Installation_and_quick_use_guide.pdf)**

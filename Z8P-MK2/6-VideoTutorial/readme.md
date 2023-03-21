@@ -37,12 +37,12 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 |          **Load filament**                                     |        **Print from SD card**                                  |
 | [![](./loadfilament.jpg)](https://youtu.be/-47yB95uIxI)        | [![](./printfromSD.jpg)](https://youtu.be/ITHbO9VxTMo)         |
 |    **Gradient mix color printing**                             |       **Random mix color printing**                            |
-| [![](./gradientmix.jpg)]()                                     | [![](./randommix.jpg)]()                                       |
+| [![](./comingsoon.jpg)]()                                      | [![](./comingsoon.jpg)]()                                       |
 |    **Install slicer software**                                 |       **Slicing guide - one color**                            |
 | [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
 |    **Slicing guide - mulit color**                             |     **Slicing guide - mulit color2**                           |
 | [![](./Slicing_4C_1.jpg)](https://youtu.be/2IHiP2r7KNk)        | [![](./comingsoon.jpg)]()                                      |
-|    **Slicing guide - painting color**                          |     **Print and install a fan case for PUS**                   |
+|    **Slicing guide - painting color**                          |     **Print and install a fan case for PSU**                   |
 | [![](./comingsoon.jpg)]()                                      | [![](./comingsoon.jpg)]()                                      |
 
 ## :two: Advance Features
@@ -72,7 +72,7 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 |     **WiFi installation guide**                                |            **WiFi use guide**                                  |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-| **E4 hotend installation guide**                               |            **E4 hotend  use guide**                            |
+| **E4 hotend installation guide**                               |            **E4 hotend use guide**                             |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 | **upgrade a Micro-SD card adapter**                            |     **Upgrade dual gear extruders**                            |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |

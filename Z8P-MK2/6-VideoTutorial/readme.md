@@ -39,12 +39,11 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 |    **Gradient mix color printing**                             |       **Random mix color printing**                            |
 | [![](./gradientmix.jpg)]()                                     | [![](./randommix.jpg)]()                                       |
 |    **Install slicer software**                                 |       **Slicing guide - one color**                            |
-| [![](./comingsoon.jpg)]()                                      | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
+| [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
 |    **Slicing guide - mulit color**                             |     **Slicing guide - mulit color2**                           |
 | [![](./Slicing_4C_1.jpg)](https://youtu.be/2IHiP2r7KNk)        | [![](./comingsoon.jpg)]()                                      |
 |    **Slicing guide - painting color**                          |     **Print and install a fan case for PUS**                   |
 | [![](./comingsoon.jpg)]()                                      | [![](./comingsoon.jpg)]()                                      |
-
 
 ## :two: Advance Features
 |    **Power auto shutdown**                                     |           **Bed auto leveling**                                |

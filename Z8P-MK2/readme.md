@@ -47,11 +47,11 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](./6
 ### :file_folder: [2.Operation Guide](./2-Operation_Guide/)
 - **[:book: Operation Guide](./2-Operation_Guide/readme.md)**
 - **Advance Features**
-  - **[:book:Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)**
-  - **[:book:Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)**
+  - **[:book:Auto Mix Printing](./2-Operation_Guide/Auto_Color_Mixing)**
+  - **[:movie_camera:](https://youtu.be/Zoyl6PybsUk)[:book:Bed auto leveling](./2-Operation_Guide/Bed_Auto_Leveling)**
   - **[:movie_camera:Auto shut down](https://youtu.be/SJLpmJL-tG4)**
   - **[:movie_camera:Power loss recovery](https://youtu.be/f-PpasByiiE)**
-  - **[:book:Auto retraction](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)**
+  - **[:book:Auto retraction](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction)**
 
 ### :file_folder: [3.Print Test Gcode Files](./3-TestGcode/)
 #### :pencil: What Is G-code in 3D Printing?
@@ -72,7 +72,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
 ### 7.TroubleShootings
-- :movie_camera: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
+- :movie_camera: [**How to replace nozzle**](https://youtu.be/L5VRyEbsJvM)
 - :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
 - :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
 

@@ -1,4 +1,6 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
+                           
+
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=fr)
@@ -36,8 +38,8 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | [![](./poweronoff.jpg)](https://youtu.be/2i8ozM2Dn1U)          | [![](./bedleveling.jpg)](https://youtu.be/R3RfGnxx8hY)         |
 |          **Load filament**                                     |        **Print from SD card**                                  |
 | [![](./loadfilament.jpg)](https://youtu.be/-47yB95uIxI)        | [![](./printfromSD.jpg)](https://youtu.be/ITHbO9VxTMo)         |
-|    **Gradient mix color printing**                             |       **Random mix color printing**                            |
-| [![](./comingsoon.jpg)]()                                      | [![](./comingsoon.jpg)]()                                      |
+|        [**Gradient mix color printing**]                       |       **Random mix color printing**                            |
+| [![](./gradientmix.jpg)](https://youtu.be/VOlXvy38aFs)         | [![](./comingsoon.jpg)]()                                      |
 |    **Install slicer software**                                 |       **Slicing guide - one color**                            |
 | [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
 |    **Slicing guide - mulit color**                             |     **Slicing guide - mulit color2**                           |
@@ -56,14 +58,14 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 ## :four: Maintenance and Repair
 |  **Machine Auto testing guide**                                |    **How to replace the nozzle**                               |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-| [![](./autotest.jpg)](https://youtu.be/iSsuy2ePWw8)            | ![](./comingsoon.jpg)                                          |
+| [![](./autotest.jpg)](https://youtu.be/iSsuy2ePWw8)            | [![](./replacenozzle.jpg)](https://youtu.be/L5VRyEbsJvM)       |
 |     **How to upload firmware**                                 |   **How to upload LCD screen UI Menu**                         |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-|     **How to replace hotend heater**                           |   **How to replace motor drivers**                             |
+|     **How to open control box**                                |   **How to replace motor drivers**                             |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 |     **How to replace Titan extruder**                          |   **How to replace control board**                             |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-|     **How to replace heat sticker**                            |   **How to open control box**                                  |
+|     **How to replace heat sticker**                            |   **How to replace hotend heater**                             |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 
 ## :three: Upgradable Features

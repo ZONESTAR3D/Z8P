@@ -32,9 +32,10 @@ After setting up, on the ideal menu shows Current **VTOOL = 0**
 ![](1.jpg)
 
 ## Auto gradient mixing
+[:movie_camera:Video tutorial](https://youtu.be/VOlXvy38aFs)    
 ![](2.jpg)
-+ Start to print a singel color gcode file from SD card.  
-+ Wait until the print start to print, set on the LCD menu.  
++ Start to print a one color gcode file from SD card.  
++ Set the paremeters for auto gradient mix printing on the LCD menu when the printer start to to print the first layer.
 + **Tune>>Mixer>>Gradient:OFF>>**
   + **Start Z:** set the start Z heigth(such as:0mm)      
   + **End Z:** set the END Z heigth(such as:200mm)     

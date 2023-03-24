@@ -42,16 +42,16 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | [![](./gradientmix.jpg)](https://youtu.be/VOlXvy38aFs)         | [![](./randommix.jpg)](https://youtu.be/-mQ4bCnrIaw)           |
 |    [:book:**Install slicer software**][slicing1]               |     [:book:**Slicing guide - one color**][slicing2]            |
 | [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
-|    [:book:**Slicing guide - mulit color**][slicing3]           |     [:book:**Slicing guide - mulit color2**][slicing4]         |
-| [![](./Slicing_4C_1.jpg)](https://youtu.be/2IHiP2r7KNk)        | [![](./comingsoon.jpg)]()                                      |
-|    [:book:**Slicing guide - painting color**][slicing5]        |     [:book:**Print and install a cover on the PSU**][psufan]   |
-| [![](./comingsoon.jpg)]()                                      | [![](./PSUfan.jpg)](https://youtu.be/Xc3vRqRYklM)              |
+|    [:book:**Slicing guide - mulit color**][slicing3]           |     **Slicing guide - combine 3d model**                       |
+| [![](./Slicing_4C_1.jpg)](https://youtu.be/2IHiP2r7KNk)        | [![](./combine.jpg)](https://youtu.be/FG0jbnL51SA)             |
+|    **Slicing guide - painting color**                          |     [:book:**Print and install a cover on the PSU**][psufan]   |
+| [![](./painting.jpg)](https://youtu.be/Yx4fKDRGEJ4)            | [![](./PSUfan.jpg)](https://youtu.be/Xc3vRqRYklM)              |
 
 ## :two: Advance Features
-|    **Power auto shutdown**                                     |           **Bed auto leveling**                                |
+|    [:book:**Power auto shutdown**][autoshutdown]               |      [:book:**Bed auto leveling**][autolevel]                  |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./autoshutdown.jpg)](https://youtu.be/SJLpmJL-tG4)        | [![](./bedautolevel.jpg)](https://youtu.be/Zoyl6PybsUk)        |
-|     **Power loss recovery**                                    |            **Fast printing**                                   |
+|     [:book:**Power loss recovery**][powerloss]                 |      [:book:**Fast printing**][fastprint]                      |
 | [![](./powerlossrecovery.jpg)](https://youtu.be/f-PpasByiiE)   | ![](./comingsoon.jpg)                                          |
 
 

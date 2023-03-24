@@ -60,7 +60,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 - If you print multi color 3d model, choose **"Z8 + M4 HOTEND"**.    
 
 ## 4. Slicing one color
-:movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)
+:movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/g-YSgV44Rik)
 #### 4.1 choose printer presets "Z8 + One Color"
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)

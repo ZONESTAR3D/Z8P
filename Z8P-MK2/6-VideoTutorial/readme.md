@@ -41,7 +41,7 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 |    [:book:**Gradient mix color printing**][gradientmix]        |     [:book:**Random mix color printing**][randommix]           |
 | [![](./gradientmix.jpg)](https://youtu.be/VOlXvy38aFs)         | [![](./randommix.jpg)](https://youtu.be/-mQ4bCnrIaw)           |
 |    [:book:**Install slicer software**][slicing1]               |     [:book:**Slicing guide - one color**][slicing2]            |
-| [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
+| [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/g-YSgV44Rik)          |
 |    [:book:**Slicing guide - mulit color**][slicing3]           |     **Slicing guide - combine 3d model**                       |
 | [![](./Slicing_4C_1.jpg)](https://youtu.be/2IHiP2r7KNk)        | [![](./combine.jpg)](https://youtu.be/FG0jbnL51SA)             |
 |    **Slicing guide - painting color**                          |     [:book:**Print and install a cover on the PSU**][psufan]   |

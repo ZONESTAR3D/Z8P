@@ -31,7 +31,7 @@
 # Z8PM4-MK2 Video Tutorial
 Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may have been captured by a Z9V5 3d printer.
 ## :one: Installation and Use
-|    **Installation**                                            |           **Wiring**                                           |
+|    [:book:**Installation**](../1-Installation_Guide/)          |   [:book:**Wiring**](./1-Installation_Guide/readme.md#wiring)  |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./install.jpg)](https://youtu.be/-oieO7U0LCc)             | [![](./wiring.jpg)](https://youtu.be/kpQvHASNfqE)              |
 |        **Power On/OFF**                                        |              **Bed leveling**                                  |

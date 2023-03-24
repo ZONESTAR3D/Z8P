@@ -86,7 +86,7 @@ You may need to set these parameters according to the shape of the model and you
 #### 5.2 load 3d model files (stl/obj/AMF file etc.)
 ![](pic/slicingM4-2.png) ![](pic/slicingM4-21.png)
 ##### :memo: Usually, "split model" is inneed to print multi-color, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
-##### :star2: PrusaSlicer has a very powerful new feature. It can [painting color to the 3d model](), with this function, you can convert a one color 3d model to a muti color 3d model.
+##### :star2: PrusaSlicer has a very powerful new feature. It can [painting color to the 3d model](https://youtu.be/Yx4fKDRGEJ4), with this function, you can convert a one color 3d model to a muti color 3d model.
 
 #### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicingM4-3.png)

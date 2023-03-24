@@ -87,5 +87,9 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 [printfromsdcard]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#print-the-first-works
 [gradientmix]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing#auto-gradient-mixing
 [randommix]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md#auto-random-mixing
-[psufan]: 
+[slicing1]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#1-download-prusaslicer
+[slicing2]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#4-slicing-one-color
+[slicing3]:https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#5-slicing-muti-color-for-m4-hotend
+[psufan]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/5-PrintParts
+
 

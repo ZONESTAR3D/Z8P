@@ -81,6 +81,6 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | **Laser engine installation guide**                            |            **Laser engine use guide**                          |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 
-[wiring]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme.md#wiring
+[wiring]: (https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme.md#wiring)
 [mix]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing
 

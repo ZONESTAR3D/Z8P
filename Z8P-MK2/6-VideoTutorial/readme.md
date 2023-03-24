@@ -38,8 +38,8 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | [![](./poweronoff.jpg)](https://youtu.be/2i8ozM2Dn1U)          | [![](./bedleveling.jpg)](https://youtu.be/R3RfGnxx8hY)         |
 |          **Load filament**                                     |        **Print from SD card**                                  |
 | [![](./loadfilament.jpg)](https://youtu.be/-47yB95uIxI)        | [![](./printfromSD.jpg)](https://youtu.be/ITHbO9VxTMo)         |
-|        [**Gradient mix color printing**]                       |       **Random mix color printing**                            |
-| [![](./gradientmix.jpg)](https://youtu.be/VOlXvy38aFs)         | [![](./comingsoon.jpg)]()                                      |
+|        [:book:**Gradient mix color printing**][mix]             |       [:book:**Random mix color printing**][mix]              |
+| [![](./gradientmix.jpg)](https://youtu.be/VOlXvy38aFs)         | [![](./randommix.jpg)](https://youtu.be/-mQ4bCnrIaw)           |
 |    **Install slicer software**                                 |       **Slicing guide - one color**                            |
 | [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
 |    **Slicing guide - mulit color**                             |     **Slicing guide - mulit color2**                           |
@@ -81,4 +81,6 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | **Laser engine installation guide**                            |            **Laser engine use guide**                          |
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 
+
+[mix]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing
 

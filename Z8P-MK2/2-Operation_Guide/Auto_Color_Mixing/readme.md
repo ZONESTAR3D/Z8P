@@ -68,9 +68,10 @@ You can also add a M166 command into the "start G-code" of the machine setting w
 + Start to print a singel color gcode file from SD card.  
 + Wait until the print start to print, set on the LCD menu. 
 + **Tune>>Mixer>>Random Mix: OFF>>**
-	+ **Start Z:** set the start Z heigth(such as:0mm) End Z: set the end Z heigth(such as:200mm)    
-	+ **Height:** set interval distance(such as:10mm), when printing heigth changed beyond this value, the mixing ratio be changed once.    
-	+ **Extruders:** set the number of extruders with random variation(such as:4) 
+	+ **Start Z:** Set the start Z heigth(such as:0mm) 
+	+ **End Z:** Set the end Z heigth(such as:200mm)    
+	+ **Height:** Set interval distance(such as:10mm), when printing heigth changed beyond this value, the mixing ratio be changed once.    
+	+ **Extruders:** Set the number of extruders participating in printing(1~4). :warning: In particular, when the parameter is set to 1, all four extruders will participate in printing, but color mixing will not occur during printing. Instead, one of the extruders is randomly selected each time to print. 
 
 After set Start Z isn’t equal to the End Z, the LCD will shows **Random : ON**.
 ![](5.jpg)

@@ -31,14 +31,14 @@
 # Z8PM4-MK2 Video Tutorial
 Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may have been captured by a Z9V5 3d printer.
 ## :one: Installation and Use
-|    [:book:**Installation**](../1-Installation_Guide/)          |                      [:book:**Wiring**][wiring]                |
+|    [:book:**Installation**](../1-Installation_Guide/)          |         [:book:**Wiring**][wiring]                             |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./install.jpg)](https://youtu.be/-oieO7U0LCc)             | [![](./wiring.jpg)](https://youtu.be/kpQvHASNfqE)              |
-|        **Power On/OFF**                                        |              **Bed leveling**                                  |
+|    [:book:**Power On/OFF**](../2-Operation_Guide/readme.md)    |         [:book:**Bed leveling**][bedleveling]                  |
 | [![](./poweronoff.jpg)](https://youtu.be/2i8ozM2Dn1U)          | [![](./bedleveling.jpg)](https://youtu.be/R3RfGnxx8hY)         |
-|          **Load filament**                                     |        **Print from SD card**                                  |
+|    [:book:**Load filament**][loadfilament]                     |         [:book:**Print from SD card**][printfromsdcard]        |
 | [![](./loadfilament.jpg)](https://youtu.be/-47yB95uIxI)        | [![](./printfromSD.jpg)](https://youtu.be/ITHbO9VxTMo)         |
-|        [:book:**Gradient mix color printing**][mix]            |       [:book:**Random mix color printing**][mix]               |
+|    [:book:**Gradient mix color printing**][mix]            |       [:book:**Random mix color printing**][randommix]             |
 | [![](./gradientmix.jpg)](https://youtu.be/VOlXvy38aFs)         | [![](./randommix.jpg)](https://youtu.be/-mQ4bCnrIaw)           |
 |    **Install slicer software**                                 |       **Slicing guide - one color**                            |
 | [![](./installslicer.jpg)](https://youtu.be/vCv0S4L7u30)       | [![](./slicing_1c.jpg)](https://youtu.be/bacvTF2MOxA)          |
@@ -82,5 +82,9 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 
 [wiring]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme.md#wiring
+[bedleveling]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#level-the-bed
+[loadfilament]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#load-filaments
+[printfromsdcard]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#print-the-first-works
 [mix]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing
+[randommix]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md#auto-random-mixing
 

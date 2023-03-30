@@ -52,7 +52,7 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](./6
   - **[:movie_camera:Auto shut down](https://youtu.be/SJLpmJL-tG4)**
   - **[:movie_camera:Power loss recovery](https://youtu.be/f-PpasByiiE)**
   - **[:book:Auto retraction](./2-Operation_Guide/Auto_Retraction/readme.md)**
-  - **[:book:Print from PC](./2-Operation_Guide/PrintFromPC/readme.md)**
+- **[:book:Print from PC](./2-Operation_Guide/PrintFromPC/readme.md)**
   
 ### :file_folder: [3.Print Test Gcode Files](./3-TestGcode/)
 #### :pencil: What Is G-code in 3D Printing?

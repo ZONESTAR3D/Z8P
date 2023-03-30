@@ -113,3 +113,13 @@ For details, please refer to [**:point_right: Slicing-Guide**](https://github.co
 1. Slicing software is not a part of this machine, you can download slicing software for free from the internet.
 2. If you print one color, please choose machine **“Z8 + One color”**. If you print multi color, please choose machine **“Z8 + M4 hot end”**.
 3. Some of the user guide and video tutorials are made with reference to our Z9 series machines, and they are fully applicable to Z8PM4.
+
+----
+## Control by PC / Print from PC
+:warning: We recommend to print from SD card rather than from computer. If you think it difficult for you to access (insert and remove) the SD card, it is recommended to purchase an Mirco-SD card extender ([**Sale link**](https://www.aliexpress.us/item/3256805156643681.htm)).     
+![](./pic/CardExtender.jpg)     
+If you want to print from PC, we recommend to use "Repetier-Host" software, about how to download and use repetier-Host, please refer to [**Repetier-Host user guide**](./PrintFromPC/readme.md).
+
+
+
+

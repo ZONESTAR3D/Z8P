@@ -73,7 +73,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ### 7.TroubleShootings
 - :movie_camera: [**How to replace nozzle**](https://youtu.be/L5VRyEbsJvM)
-- :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
+- :movie_camera: [**Machine auto test**](https://youtu.be/iSsuy2ePWw8)
 - :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
 
 ------

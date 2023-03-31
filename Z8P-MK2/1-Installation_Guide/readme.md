@@ -113,6 +113,7 @@ Install filament bracket on the top profile.
 ![](./pic/InstallFilamentBracket.png)  
 
 ### 6. Install PTFE tube
+![](./pic/connectPTFE.jpg)  
 Connect the extrusion feeder with the print head (hot end) by filament guide (PTFE tube)   
 ![](./pic/installPTFE.png)  
 1. Note: The PTFE tubes are a little longer than need, you can cut it by a knife if need.

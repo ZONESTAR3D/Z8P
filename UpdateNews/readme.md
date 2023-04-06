@@ -16,6 +16,14 @@
 
 -----
 ## Summary of Updates for ZONESTAR Z8P
+### :warning:!ATTETION PLEASE!
+Please distinguish whether your machine model is Z8P or Z8P-MK2, their firmware is different. For the differences between Z8P and Z8P-MK2, please refer to [**here**](https://github.com/ZONESTAR3D/Z8P#z8p-mk2-is-upgraded-from-z8pm4pro).
+
+### Updates in 2023-04-06
+-  **Release firmware V1.2.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/beta)
+-  **Release firmware V3.3.0 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro/beta)
+-  **Uploaded some video tutorials for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
+
 ### Updates in 2022-11-18
 -  **Release firmware V3.2.2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/ZM3E4/released)
 

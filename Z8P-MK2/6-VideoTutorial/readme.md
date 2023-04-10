@@ -69,7 +69,7 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 
 ## :three: Upgradable Features
-|     **WiFi installation guide**                                |            **WiFi use guide**                                  |
+|     [**WiFi installation guide**][wifiinstall]                 |      [**WiFi use guide**][wifiuseguide]                        |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
 | **E4 hotend installation guide**                               |            **E4 hotend use guide**                             |
@@ -91,5 +91,10 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 [slicing2]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#4-slicing-one-color
 [slicing3]:https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#5-slicing-muti-color-for-m4-hotend
 [psufan]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/5-PrintParts
-
+[autoshutdown]: 
+[autolevel]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
+[powerloss]:
+[fastprint]:
+[wifiinstall]:
+[wifiuseguide]:
 

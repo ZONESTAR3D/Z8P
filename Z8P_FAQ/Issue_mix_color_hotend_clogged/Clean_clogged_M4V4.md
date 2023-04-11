@@ -7,8 +7,8 @@
 #### :warning: When printing multi colors, it is recommended that the printing speed isn't greater than 40mm/s, hot end flow rate isn't greater than 5mm<sup>3</sup>/s, and the recommended nozzle temperature should be 205℃ (PLA) and 215℃ (PLA+).
 
 -----
-## Please pay attention to the following points. If these operations are incorrect, the hot end of the heat conduction may be easily blocked
-There are many reasons that may cause the hoend to be blocked, please check the list one by one to ensure that you have noticed these matters when using or slicing.
+## :warning: NOTICE
+There are some reasons that may cause the hoend to be blocked, please check the list one by one to ensure that you have noticed these matters when using or slicing.
 ### The nozzle are too close to the print platform when printing the first layer.
 If the nozzle is too close to the hot bed when printing the first layer, the filament may not be ejected. If this is maintained for a long time, it may cause the filament in the hot end to be over-compressed and cause blockage (often blocked at the entrance of hotend). When printing the first layer, pay attention to the distance between the nozzle and the hot bed. If necessary, open the "BabyStep" menu to adjust the nozzle height.
 ### Check "Switch Retraction Distance" settings in the slicing software

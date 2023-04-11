@@ -1,10 +1,11 @@
 ## How to clean the blocked M4V6 hotend
 
 -----
-## :warning: ATTENTION :warning:
+## :warning: ATTENTION
 **You need to load all the 4 filaments to the hotend whether printing one or multi color 3d prints, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. 
 For how to load filaments, please refer to [:book:this guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#load-filaments) or the [:movie_camera:video tutorial](https://youtu.be/-47yB95uIxI)**    
-There are some reasons that may cause the hoend to be blocked, please check the list one by one to ensure that you have noticed these matters when printing and slicing.
+## :warning: NOTICE
+There are some reasons that may cause the hoend to be blocked, please check the list one by one to ensure that you have noticed these matters when using or slicing.
 ### The nozzle are too close to the print platform when printing the first layer.
 If the nozzle is too close to the hot bed when printing the first layer, the filament may not be ejected. If this is maintained for a long time, it may cause the filament in the hot end to be over-compressed and cause blockage (often blocked at the entrance of hotend). When printing the first layer, pay attention to the distance between the nozzle and the hot bed. If necessary, open the "BabyStep" menu to adjust the nozzle height.
 ### Check "Switch Retraction Distance" settings in the slicing software

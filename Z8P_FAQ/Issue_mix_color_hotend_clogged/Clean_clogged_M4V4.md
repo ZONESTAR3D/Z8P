@@ -17,7 +17,7 @@ For 4-IN-1-OUT mix color hotend, the **"Extruder switching retraction length"** 
 ### Filaments loading
 :pushpin: When loading the filament to the hotend, please ensure that the filaments enter the bottom of the hot end.     
 :pushpin: If you used less than 4 colors filament, to use the “hotend-clean-tool” to close the unused channels or load filaments to all 4 channels.
-#### Defective nozzle  
+### Defective nozzle  
 The nozzle may also be partially clogged. If you find the filament flowed out from the nozzle is thinner than normal, the nozzle may be partially clogged, please replace a new nozzle directly.  
 
 -----

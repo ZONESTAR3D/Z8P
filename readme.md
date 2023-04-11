@@ -12,7 +12,7 @@
 [![](./lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=ro)
 [![](./lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=ru)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=ja)
 [![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=ko)
 [![](./lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=id)
@@ -23,7 +23,7 @@
 [![](./lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=tr)
 [![](./lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=el)
 [![](./lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=pt)
-[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 ----
 # Z8P Documents
@@ -46,29 +46,28 @@ The Z8P series has two models:
 1. **Z8PM3**: 3 extruder + 3-IN-1-OUT color mixing hot end + LCD12864 display control panel.
 2. **Z8PM4Pro**: 4 extruder + 4-IN-1-OUT color mixing hot end + 4.3 "TFT-LCD display control panel.  
 
-**NOTE: Since 2023, we have upgraded Z8P to a new version: Z8P-MK2. Z8P-MK2 used 4 extruders and the 6th version 4-IN-1-OUT mixing color hot end.**
-
 ## :file_folder:[Z8P-MK2](./Z8P-MK2/)
+**Since 2023, we have upgraded Z8P to a new version， we called it Z8P-MK2. Z8P-MK2 equipped with 4 extruders and a M4V6 hot end - the 6th version 4-IN-1-OUT mix color hot end.**
 #### Features:
-- Classic independent XYZ cartier coordinate structe.
-- The motion structure adopts the V-solt profile frame and the wheels, equiped with dual Z axes drivers and dual Z Endstops.
-- 300x300x400mm build volume.
-- 32-bit control main board with silent motor drivers.
-- 4x Titan extruders and 4-IN-1-OUT color mixing hot end, support gradient color and multi color printing.
-- 4.3 "TFT-LCD display control panel.  
-- Equiped with 250W hotbed and magnetic PC film flexible hot bed sticker.
-- 70% Pre-assemble rate, fast installation.
-- Built-in automatic color mixing feature, one-button to convert single color 3D model to multi-color 3d prints.
-- Supports to paint color on 3D model, to convert one color 3D model to multi color model for printing.
+- Classic cartier coordinate (independent XYZ) structe.
+- The motion structure adopts the V-solt profile frame and the wheels, equipped with dual Z axes drivers.
+- Build volume up to 300x300x400mm.
+- 32-bit control board with TMC silent motor drivers.
+- 4x Titan extruders and 4-IN-1-OUT mix color hot end, support gradient color and multi color printing.
+- 4.3" TFT-LCD screen control panel.  
+- Equipped with 250W hot bed and magnetic PC film flexible sticker.
+- 70% Pre-assemble, fast installation.
+- Built-in automatic color mixing feature, one-button to convert single color 3D model to multi color 3d prints.
+- Supports to paint color on 3D model to convert one color 3D model to multi color model.
 - With bed auto leveling feature.
-- Support high speed pringing, flow rate of hotend up to 30mm<sup>3</sup>/s
+- Support high speed pringing, flow rate of hot end up to 30mm<sup>3</sup>/s
 - Automatically resume printing after power failure.
-- Automatic shutdown after printing.
-- Open source firmware, easy swithing 5-languages operature menu (EN/ES/PT/FR/RU).
-
-#### Z8P-MK2 is upgraded from Z8PM4Pro:
+- Automatic shutdown after printing finished.
+- 5-languages operature menu (EN/ES/PT/FR/RU).
+- Open source firmware.
+#### The main upgrade contents of Z8P-MK2 include:
 1. Improved profiles to make the appearance more beautiful.
-2. Upgraded the hotend to the 6th version (M4V6).
+2. Upgraded the hot end to the 6th version mix color hot end.
 3. Changed the motor drivers for X/Y/Z axis to TMC2208.
 
 ## :file_folder:[Z8P](./Z8P/)

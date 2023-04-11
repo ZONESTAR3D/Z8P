@@ -42,7 +42,7 @@ If you find that the filament is slipping on the gear of the extruder, you can:
 
 ### If the hot end cannot be cleaned by doing the above steps, or the hot end is still easily clogged after cleaning, you need to replace the nozzle or replace the "inner PTFE tubes"
 **[:movie_camera:How to replace a nozzle](https://youtu.be/L5VRyEbsJvM).**
-**[:book:How to replace the inner PTFE tubes](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6#how-to-replace-of-the-inner-ptfe-guide).**
+**[:book:How to replace the inner PTFE tubes](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6/readme.md#how-to-replace-of-the-inner-ptfe-tubes).**
 
 --------
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

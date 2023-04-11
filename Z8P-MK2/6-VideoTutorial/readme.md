@@ -1,6 +1,4 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
-                           
-
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=fr)
@@ -56,7 +54,7 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 
 
 ## :four: Maintenance and Repair
-|  **Machine Auto testing guide**                                |    **How to replace the nozzle**                               |
+|  **Machine Auto testing guide**                                |    **How to replace a nozzle**                                 |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./autotest.jpg)](https://youtu.be/iSsuy2ePWw8)            | [![](./replacenozzle.jpg)](https://youtu.be/L5VRyEbsJvM)       |
 |     **How to upload firmware**                                 |   **How to upload LCD screen UI Menu**                         |

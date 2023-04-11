@@ -15,8 +15,9 @@ If the nozzle is too close to the hot bed when printing the first layer, the fil
 For 4-IN-1-OUT mix color hotend, the **"Extruder switching retraction length"** MUST be set to 0. For example, set **“Nozzle Switch Retraction Distance”** to 0 in Cura Slicer and set **"Retraction when tool is disable"** in PrusaSlicer.     
 ![](./1.jpg) ![](./2.jpg)
 ### Filaments loading
-:pushpin: When loading the filament to the hotend, please ensure that the filaments enter the bottom of the hot end.
-:pushpin: If you used less than 4 colors filament, to use the “hotend-clean-tool” to close the unused channels or load filaments to all 4 channels.#### Defective nozzle  
+:pushpin: When loading the filament to the hotend, please ensure that the filaments enter the bottom of the hot end.     
+:pushpin: If you used less than 4 colors filament, to use the “hotend-clean-tool” to close the unused channels or load filaments to all 4 channels.
+#### Defective nozzle  
 The nozzle may also be partially clogged. If you find the filament flowed out from the nozzle is thinner than normal, the nozzle may be partially clogged, please replace a new nozzle directly.  
 
 -----

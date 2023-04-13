@@ -46,10 +46,10 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 - **[:movie_camera: Installation Video Tutorial](https://youtu.be/-oieO7U0LCc)** 
 - **[:book: LCD screen menu description](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description)**
 - **[:art: Wiring Block](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
-- **[:art: Wiring Diagram](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2//1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
+- **[:art: Wiring Diagram](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
 
 ### :file_folder: [2.Operation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/)
-- **[:book: Operation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2//2-Operation_Guide/readme.md)**
+- **[:book: Operation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/readme.md)**
 - **Advance Features**
   - **[:book:Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down) [:movie_camera:](https://youtu.be/SJLpmJL-tG4)**
   - **[:book:Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing)**
@@ -67,7 +67,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
 #### :pencil: What is slicing in 3D Printing?
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
 
-### :file_folder: [5. Print parts stl](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2//5-PrintParts/)
+### :file_folder: [5. Print parts stl](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/5-PrintParts/)
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2)
 - **[Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2).**  

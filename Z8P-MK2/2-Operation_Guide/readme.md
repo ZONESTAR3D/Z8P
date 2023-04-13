@@ -12,7 +12,6 @@
 [![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=ro)
 [![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 [![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=id)
@@ -24,6 +23,7 @@
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
 # Z8P-MK2 Operation Guide
@@ -75,7 +75,7 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 ![](./pic/loadfilament.png)
 
 ## Print the first works
-<!-- [:movie_camera:Video Tutorial]()      -->
+[:movie_camera:Video Tutorial](https://youtu.be/ITHbO9VxTMo)         
 ##### Step 1. Insert the SD card to the SD card socket on the printer (Fig 1).
 ##### Step 2. Click “Print” on the control panel and choose “Test gcode\xyz_cube.gcode” (Fig 2), click the knob to start printing.
 ##### Step 3. Wait until the hotend and hotbed is reached to the setting temperature (Fig 3), the nozzle will home to the origin position and then move to above of the printing platform and extrude the filament, use a tweezers to remove the outflow filament (Fig 4).
@@ -85,15 +85,15 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 
 ## Advance features
 :warning: Do not turn on these functions until you clearly understand how to use them.
-### [Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)
+### [Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)
 This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.   
-For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md).
+For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md).
 
-### [Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)
+### [Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)
 This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, you can correct the unevenness of the hot bed.    
-For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md).
+For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md).
 
-### [Auto shut down](https://youtu.be/SJLpmJL-tG4)
+### [Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down/readme.md)
 #### [:movie_camera: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
 3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
 
@@ -101,14 +101,14 @@ For the details, please refer to [**:point_right: Bed Auto Leveling Feature User
 #### [:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE).
 While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
 
-### [Auto retraction](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)
+### [Auto retraction](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
-For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md).
+For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md).
 
 ## Slicing
 The slicing software is a computer software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL(Obj, Amf) format to printer commands in g-code format. 
 This machine can use a variety of slicing software to complete slicing, We provide download addresses, instructions and video tutorials of common slicing software. 
-For details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/4-SlicingGuide/readme.md)
+For details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md)
 #### :loudspeaker:NOTE  
 1. Slicing software is not a part of this machine, you can download slicing software for free from the internet.
 2. If you print one color, please choose machine **“Z8 + One color”**. If you print multi color, please choose machine **“Z8 + M4 hot end”**.
@@ -118,7 +118,7 @@ For details, please refer to [**:point_right: Slicing-Guide**](https://github.co
 ## Control by PC / Print from PC
 :warning: We recommend to print from SD card rather than from computer. If you think it difficult for you to access (insert and remove) the SD card, it is recommended to purchase an Mirco-SD card extender ([**Sale link**](https://www.aliexpress.us/item/3256805156643681.htm)).     
 ![](./pic/CardExtender.jpg)     
-If you want to print from PC, we recommend to use "Repetier-Host" software, about how to download and use repetier-Host, please refer to [**Repetier-Host user guide**](./PrintFromPC/readme.md).
+If you want to print from PC, we recommend to use "Repetier-Host" software, about how to download and use repetier-Host, please refer to [**Repetier-Host user guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC/readme.md).
 
 
 

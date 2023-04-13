@@ -12,7 +12,6 @@
 [![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=ro)
 [![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=sk)
 
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=zh-CN)
 [![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=ja)
 [![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=ko)
 [![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=id)
@@ -24,6 +23,7 @@
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=pt)
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=ru)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=zh-CN)
 
 -----
 # Z8PM4-MK2 Video Tutorial
@@ -49,7 +49,7 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 |    [:book:**Power auto shutdown**][autoshutdown]               |      [:book:**Bed auto leveling**][autolevel]                  |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./autoshutdown.jpg)](https://youtu.be/SJLpmJL-tG4)        | [![](./bedautolevel.jpg)](https://youtu.be/Zoyl6PybsUk)        |
-|     [:book:**Power loss recovery**][powerloss]                 |      [:book:**Fast printing**][fastprint]                      |
+|     :book:**Power loss recovery**                              |      [:book:**Fast printing**][fastprint]                      |
 | [![](./powerlossrecovery.jpg)](https://youtu.be/f-PpasByiiE)   | ![](./comingsoon.jpg)                                          |
 
 
@@ -57,27 +57,27 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 |  **Machine Auto testing guide**                                |    **How to replace a nozzle**                                 |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./autotest.jpg)](https://youtu.be/iSsuy2ePWw8)            | [![](./replacenozzle.jpg)](https://youtu.be/L5VRyEbsJvM)       |
-|     **How to upload firmware**                                 |   **How to upload LCD screen UI Menu**                         |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-|     **How to open control box**                                |   **How to replace motor drivers**                             |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-|     **How to replace Titan extruder**                          |   **How to replace control board**                             |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-|     **How to replace heat sticker**                            |   **How to replace hotend heater**                             |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
+<!-- |     **How to upload firmware**                                 |   **How to upload LCD screen UI Menu**                         | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
+<!-- |     **How to open control box**                                |   **How to replace motor drivers**                             | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
+<!-- |     **How to replace Titan extruder**                          |   **How to replace control board**                             | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
+<!-- |     **How to replace heat sticker**                            |   **How to replace hotend heater**                             | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
 
-## :three: Upgradable Features
-|     [**WiFi installation guide**][wifiinstall]                 |      [**WiFi use guide**][wifiuseguide]                        |
-|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-| **E4 hotend installation guide**                               |            **E4 hotend use guide**                             |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-| **upgrade a Micro-SD card adapter**                            |     **Upgrade dual gear extruders**                            |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-| **Filament run out sensor installation guide**                 |    **Filament run out detect use guide**                       |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
-| **Laser engine installation guide**                            |            **Laser engine use guide**                          |
-| ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          |
+<!-- ## :three: Upgradable Features -->
+<!-- |     [**WiFi installation guide**][wifiinstall]                 |      [**WiFi use guide**][wifiuseguide]                        | -->
+<!-- |:--------------------------------------------------------------:|:--------------------------------------------------------------:| -->
+<!-- | [![](./comingsoon.jpg)]()                                      | [![](./comingsoon.jpg)]()                                      | -->
+<!-- | **E4 hotend installation guide**                               |            **E4 hotend use guide**                             | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
+<!-- | **upgrade a Micro-SD card adapter**                            |     **Upgrade dual gear extruders**                            | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
+<!-- | **Filament run out sensor installation guide**                 |    **Filament run out detect use guide**                       | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
+<!-- | **Laser engine installation guide**                            |            **Laser engine use guide**                          | -->
+<!-- | ![](./comingsoon.jpg)                                          | ![](./comingsoon.jpg)                                          | -->
 
 [wiring]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme.md#wiring
 [bedleveling]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#level-the-bed
@@ -89,10 +89,9 @@ Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may
 [slicing2]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#4-slicing-one-color
 [slicing3]:https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide#5-slicing-muti-color-for-m4-hotend
 [psufan]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/5-PrintParts
-[autoshutdown]: 
+[autoshutdown]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down/readme.md
 [autolevel]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
-[powerloss]:
-[fastprint]:
-[wifiinstall]:
-[wifiuseguide]:
+[fastprint]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6/HighFlow
+[wifiinstall]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi
+[wifiuseguide]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi/WiFi_User_Guide.md
 

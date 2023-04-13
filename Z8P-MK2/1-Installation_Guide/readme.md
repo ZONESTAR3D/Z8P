@@ -12,7 +12,6 @@
 [![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ro)
 [![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 [![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=id)
@@ -24,6 +23,7 @@
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
 # Z8P-MK2 Installation Guide

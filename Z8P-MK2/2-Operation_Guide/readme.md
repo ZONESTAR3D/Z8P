@@ -94,11 +94,11 @@ This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, yo
 For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md).
 
 ### [Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down/readme.md)
-#### [:movie_camera: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
+#### [:clapper: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
 3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
 
 ### [Power loss recovery](https://youtu.be/f-PpasByiiE)
-#### [:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE).
+#### [:clapper: **Video tutorial**](https://youtu.be/f-PpasByiiE).
 While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
 
 ### [Auto retraction](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)

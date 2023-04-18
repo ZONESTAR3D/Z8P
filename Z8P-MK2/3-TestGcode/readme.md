@@ -4,7 +4,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
 ### :book: File list
 Click the below :arrow_down: ICON and click "download" button to download it to your PC, unzip the downloaded ZIP file and then copy the **.gcode** to the SD card.
 - **[:arrow_down:xyz_cube](./xyz_cube.zip)**: A simple test gcode file for verifing if the machine is working well.  
-- **[:arrow_down:TempCal_PLA](./TempCal_PLA.zip)**: A test gcode file to check the best printing temperature of your PLA filament
+<!-- - **[:arrow_down:TempCal_PLA](./TempCal_PLA.zip)**: A test gcode file to check the best printing temperature of your PLA filament -->
 - **[:arrow_down:1C_dog](./dog.zip)**: A classic printing quanlity test gcode file, one color.
 - **[:arrow_down:1C_vase](./Vase.zip)**: A vase test gcode file, one color.
 - **[:arrow_down:Gradient Mixing Vase](./GradientMix_Vase.zip)**: A base gradient mix color test gcode file

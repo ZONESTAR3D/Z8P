@@ -33,7 +33,7 @@ In a word, what you need to do includes the below 4 steps: **Install the machine
 First at all, we recommend that you [:arrow_down: **download all the documents**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ8P%2Ftree%2Fmain%2FZ8P-MK2) and save them to your computer, and add this web page to your browser's favorites.
 
 ### Step 1. Install the machine and Wiring
-- 1.1 **Installation**. Refer to the [:book: **installation guide**](./1-Installation_Guide/readme.md) and [ :movie_camera: **installation video tutorial**](https://youtu.be/-oieO7U0LCc) to install the machine. 
+- 1.1 **Installation**. Refer to the [:book: **installation guide**](./1-Installation_Guide/readme.md) and [ :clapper: **installation video tutorial**](https://youtu.be/-oieO7U0LCc) to install the machine. 
 - 1.2 **Wiring**. The process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is to make sure the plug is fully inserted into the socket. Especially for those 2PIN sockets that sometimes make poor contact. :warning: When you wiring the print head (hotend assembly), please refer to the pictures in the installation guide carefully and pay attention to distinguish both the color of the connectors and the color of the wires.
 
 ### Step 2. Power on the maiche and do a simply test and verify
@@ -42,7 +42,7 @@ First at all, we recommend that you [:arrow_down: **download all the documents**
   - 2.2.1: **Prepare>>Auto Home>>Home All**. This step is to make the print head of the machine return to the origin position.
   - 2.2.2: **Prepare>>Temperature>>Preheat PLA**. This step is to check the hot end and the hot bed can be heated normally. In this step, when the temperature of the nozzle exceeds 60 degrees, you should see a fan on the **right side** of the print head (hot end) spin up, this fan is called "hot end cooling fan". 
   - 2.2.3: **Prepare>>Temperature>>FAN**. Press the knob and setting the fan speed to 255, the fan on the **left side up** should spin up.   
-  After did the above 3 steps, it is basically determined that the machine are working normally, you can proceed the following steps. If you find that any part is not working properly, please double check the wiring, or to do a "electronics auto testing" to check. (refer to[ :movie_camera: **machine auto testing video turorial**](https://youtu.be/Mf92BlmKA0A)).
+  After did the above 3 steps, it is basically determined that the machine are working normally, you can proceed the following steps. If you find that any part is not working properly, please double check the wiring, or to do a "electronics auto testing" to check. (refer to[ :clapper: **machine auto testing video turorial**](https://youtu.be/Mf92BlmKA0A)).
 
 ### Step 3. Level the bed
 - **Bed Level - leveling 4 corners of the bed**. Before printing the test file, you need to do a simple bed leveling to set the height between the nozzle and the bed (printing platform), so that the filament can be sticked on the bed well when printing. Please refer to [**level the bed**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide#level-the-bed) to do it.

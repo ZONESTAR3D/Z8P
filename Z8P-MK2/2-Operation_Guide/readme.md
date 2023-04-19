@@ -85,9 +85,8 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 
 ## Advance features
 :warning: Do not turn on these functions until you clearly understand how to use them.
-### [Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md)
-This printer has built-in automatic gradient printing function. You can print monochrome slice print model gcode file into gradient model.   
-For the details, please refer to [**:point_right: Auto Color Mixing Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/readme.md).
+### [Mixing Color feature](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/readme.md)
+This printer equiped with 4 extruders and a 4-IN-1-OUT mixing color hot end, it not only can print up to 16 colors 3d file, but aslo it can print a single color 3d mode to a gradient color 3d model. For the details, please refer to [**:point_right:Mixing Color Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/readme.md).
 
 ### [Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)
 This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, you can correct the unevenness of the hot bed.    

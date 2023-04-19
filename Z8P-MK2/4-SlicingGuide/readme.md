@@ -38,7 +38,7 @@
 6. **[Slicing muti-color for Z8 + M4 hotend](#5-slicing-muti-color-for-m4-hotend)**
 
 ## 1. Download PrusaSlicer
-:movie_camera: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
+:clapper: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
 ### ![](./pic/win.png) For windows
 #### Click [:arrow_down:**here**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2) to download PrusaSlicer software and save it to you PC.
 ![](pic/download.gif)   
@@ -60,7 +60,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 - If you print multi color 3d model, choose **"Z8 + M4 HOTEND"**.    
 
 ## 4. Slicing one color
-:movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/g-YSgV44Rik)
+:clapper: [**Slicing guide - for one color printing**](https://youtu.be/g-YSgV44Rik)
 #### 4.1 choose printer presets "Z8 + One Color"
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)
@@ -80,7 +80,7 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicing1C-7.png)  
 
 ## 5. Slicing muti-color for M4 hotend 
-- :movie_camera: [**Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4) 
+- :clapper: [**Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4) 
 #### 5.1 choose printer presets "Z8 + M4 hotend"
 ![](pic/slicingM4-1.png)
 #### 5.2 load 3d model files (stl/obj/AMF file etc.)

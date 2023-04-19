@@ -27,7 +27,7 @@
 
 -----
 # Z8P-MK2 Installation Guide
-### [ :movie_camera: **Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
+### [ :clapper: **Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
 
 -----
 ### :warning:ATTENTION:warning:

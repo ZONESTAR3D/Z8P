@@ -36,14 +36,14 @@
 ## [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
 
 -----
-## [:movie_camera:Video Tutorial](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
+## [:clapper:Video Tutorial](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
 We have created many video tutorials for Z8P-MK2, please refer to [**here**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial) to view.  
 
 -----
 ### :file_folder: [1.Installation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide)
 - **[:book: Installation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide)** 
 - **[:blue_book:Installation and Quick Use Guide PDF file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/Z8PMK2_Installation_and_quick_use_guide.pdf)**
-- **[:movie_camera: Installation Video Tutorial](https://youtu.be/-oieO7U0LCc)** 
+- **[:clapper: Installation Video Tutorial](https://youtu.be/-oieO7U0LCc)** 
 - **[:book: LCD screen menu description](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description)**
 - **[:art: Wiring Block](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
 - **[:art: Wiring Diagram](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
@@ -51,10 +51,10 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 ### :file_folder: [2.Operation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/)
 - **[:book: Operation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/readme.md)**
 - **Advance Features**
-  - **[:book:Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down) [:movie_camera:](https://youtu.be/SJLpmJL-tG4)**
+  - **[:book:Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down) [:clapper:](https://youtu.be/SJLpmJL-tG4)**
   - **[:book:Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing)**
-  - **[:book:Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling) [:movie_camera:](https://youtu.be/Zoyl6PybsUk)**
-  - **[:movie_camera:Power loss recovery](https://youtu.be/f-PpasByiiE)**
+  - **[:book:Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling) [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+  - **[:clapper:Power loss recovery](https://youtu.be/f-PpasByiiE)**
   - **[:book:Auto retraction](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)**
 - **[:book:Print from PC](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC/readme.md)**
   
@@ -77,9 +77,9 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
 ### :file_folder: [7.TroubleShootings](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
-- :movie_camera: [**How to replace nozzle**](https://youtu.be/L5VRyEbsJvM)
-- :movie_camera: [**Machine auto test**](https://youtu.be/iSsuy2ePWw8)
-- :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
+- :clapper: [**How to replace nozzle**](https://youtu.be/L5VRyEbsJvM)
+- :clapper: [**Machine auto test**](https://youtu.be/iSsuy2ePWw8)
+- :clapper: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
 
 ------
 ### Upgradable Features

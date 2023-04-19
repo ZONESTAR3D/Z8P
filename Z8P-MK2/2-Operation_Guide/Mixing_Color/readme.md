@@ -142,25 +142,25 @@ This section will introduce how to print a 3D model with more colors than the ac
 Add mixing ratios of VTOOLs setting into the "Start G-code". [:page_with_curl: How to set mixing ratio of Virtual extruder](#how-to-set-mixing-ratio-of-virtual-extruder)
 ![](./slicing2.jpg)
 #### :pushpin:Note
-We have set a parameter that you can download and import into your slicing settings from here
-[:arrow_down: Download config file](./config_WCMY.zip)
-[:clapper: Import](https://user-images.githubusercontent.com/29502731/232972117-387a9e15-f3c7-417b-aff6-d876e119b70d.mp4)
+You can download the setting from the bewlow link and unzip it, and then import the setting to your slicing software (PrusaSlicer).
+- [:arrow_down: Download config file](./config_WCMY.zip)    
+- [:clapper: Video tutorial](https://user-images.githubusercontent.com/29502731/232972117-387a9e15-f3c7-417b-aff6-d876e119b70d.mp4)
 #### Step 3: Assign an extruder to the components
 ![](./slicing3.jpg)
 #### Step 4: Slicing and get gcode
 
 ### Examples
 #### 6 color OWL
-- [:clapper: Slicing Video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)
+- [:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)
 - [:arrow_down:Download stl file](https://www.thingiverse.com/thing:2373415)
 - [:arrow_down:Download 3mf & gcodefile](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/6c_owl_3mf.zip)
 - [:arrow_down:Download gcode file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/6c_owl_gcode.zip)
 #### 8 color 
-- [:clapper: Video tutorial]()
+- [:clapper:Video tutorial]()
 - [:arrow_down:Download stl file]()
 - [:arrow_down:Download 3mf & gcode file]()
 #### 16 color 
-- [:clapper: Video tutorial]()
+- [:clapper:Video tutorial]()
 - [:arrow_down:Download stl file]()
 - [:arrow_down:Download 3mf & gcode file]()
 

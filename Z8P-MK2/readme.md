@@ -52,7 +52,7 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 - **[:book: Operation Guide](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/readme.md)**
 - **Advance Features**
   - **[:book:Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down) [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-  - **[:book:Auto Mix Printing](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing)**
+  - **[:book:Mixing Color Printing](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color)**
   - **[:book:Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling) [:clapper:](https://youtu.be/Zoyl6PybsUk)**
   - **[:clapper:Power loss recovery](https://youtu.be/f-PpasByiiE)**
   - **[:book:Auto retraction](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)**

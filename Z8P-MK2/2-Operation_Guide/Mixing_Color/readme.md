@@ -27,7 +27,7 @@
 
 ----
 # Color Mixing Feature User Guide
-The color mixing function is the characteristic of mixing different colored filaments and extruding them through the same nozzle to get a new color filament.By adjusting the extrude rate of each extruder, it can get different color filament.
+The color mixing function is the characteristic that to mix different color filaments and extruded out from one nozzle to get a new color filament.By adjusting the extrude ratio of each extruder, it can get different color filament.
 The machine can achieve the following color mixing functions:
 1. [**Manual color mixing function:**](#change-printing-color-by-adjust-mixing-rate) When printing from SD card, manually adjust the extrusion ratio of each extruder (it called [mixing ratio](#mixing-ratio)) through the LCD control panel during the printing process to change the printing color.
 2. [**Gradient color mixing function:**](#gradient-mixing-printing) When printing from SD card, the gradient function is activated through the LCD control panel, allowing the machine to automatically change the [mixing ratio](#mixing-ratio) according to changes in printing height.

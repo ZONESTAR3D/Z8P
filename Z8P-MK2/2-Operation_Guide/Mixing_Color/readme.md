@@ -30,9 +30,9 @@
 The color mixing function is the characteristic that to mix different color filaments and extruded out from one nozzle to get a new color filament.By adjusting the extrude ratio of each extruder, it can get different color filament.
 The machine can achieve the following color mixing functions:
 1. [**Manual color mixing function:**](#change-printing-color-by-adjust-mixing-rate) Manually adjust the extrusion ratio of each extruder ([mixing ratio](#mixing-ratio)) by the LCD control panel to change the printing color.
-2. [**Gradient color mixing function:**](#gradient-mixing-printing) The gradient mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height automatically. It can be activated from the LCD control panel or adding gcode to "Start G-code" when slicing.
-3. [**Random color mixing function:**](#random-mixing-printing) The random mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height randomly. It can be activated from the LCD control panel or adding gcode to "Start G-code" when slicing.
-4. [**Mixed multi-color printing function**](#mixed-multi-color-printing) To define a preset [mixing ratio](#mixing-ratio) as a ***virtual extruder*** and then using this virtual extruder in slicing software. The printer can print more colors 3d model than the actual extruders. For example, printing 8 color 3d models by using a 4 extruders 3d printer. Now our mix color 3d printer can set up to 16 ***virtual extruders***.
+2. [**Gradient color mixing function:**](#gradient-mixing-printing) The gradient mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height automatically. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing to .
+3. [**Random color mixing function:**](#random-mixing-printing) The random mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height randomly. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
+4. [**Mixed multi-color printing function**](#mixed-multi-color-printing) To define a preset [mixing ratio](#mixing-ratio) as a ***virtual extruder*** and then using these virtual extruders in slicing software, the printer can print more colors than the actual extruders. For example, printing 8 color 3d models by using a 4 extruders 3d printer. Now our mix color 3d printer can set up to 16 ***virtual extruders***.
 
 -----
 ## Term explanation

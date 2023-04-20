@@ -1,29 +1,29 @@
 ### Choose Language (Translated by google)
-[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=da)
-[![](../../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=sk)
+[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=sv)
+[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=da)
+[![](../../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=cs)
+[![](../../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=hr)
+[![](../../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=ro)
+[![](../../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=el)
-[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=id)
+[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=th)
+[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 ----
 # Color Mixing Feature User Guide
@@ -151,18 +151,17 @@ You can download the setting from the bewlow link and unzip it, and then import 
 
 ### Examples
 #### 6 color OWL
-- [:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)
-- [:arrow_down:Download stl file](https://www.thingiverse.com/thing:2373415)
-- [:arrow_down:Download 3mf & gcodefile](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/6c_owl_3mf.zip)
-- [:arrow_down:Download gcode file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Color_Mixing/6c_owl_gcode.zip)
-#### 8 color 
-- [:clapper:Video tutorial]()
-- [:arrow_down:Download stl file]()
-- [:arrow_down:Download 3mf & gcode file]()
+- **[:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)**
+- **[:arrow_down:Download stl file](https://www.thingiverse.com/thing:2373415)**
+- **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/M4_6c_owl.zip)**
+#### 10 color Noahs
+- **[Video tutorial::clapper:Part1]() [:clapper:Part2]()  [:clapper:Part3]()**
+- **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/noahs.zip)**
+- **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/M4_10c_noahs.zip)**
 #### 16 color 
-- [:clapper:Video tutorial]()
-- [:arrow_down:Download stl file]()
-- [:arrow_down:Download 3mf & gcode file]()
+- **[:clapper:Video tutorial]()**
+- **[:arrow_down:Download stl file]()**
+- **[:arrow_down:Download 3mf & gcode file]()**
 
 -----
 ## How to set mixing ratio of Virtual extruder

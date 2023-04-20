@@ -158,10 +158,10 @@ You can download the setting from the bewlow link and unzip it, and then import 
 - **[Video tutorial::clapper:Part1](https://user-images.githubusercontent.com/29502731/233287512-25575666-60ff-4b08-88a2-e3ff8149599f.mp4) [:clapper:Part2](https://user-images.githubusercontent.com/29502731/233287715-8dd8517e-8260-41ec-888b-8ba28b692c27.mp4)  [:clapper:Part3](https://user-images.githubusercontent.com/29502731/233287893-a31ec2ab-e4e6-4080-8a97-6ccf92502fa4.mp4)**
 - **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/noahs.zip)**
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/M4_10c_noahs.zip)**
-#### 16 color 
-- **[:clapper:Video tutorial]()**
-- **[:arrow_down:Download stl file]()**
-- **[:arrow_down:Download 3mf & gcode file]()**
+<!-- #### 16 color  -->
+<!-- - **[:clapper:Video tutorial]()** -->
+<!-- - **[:arrow_down:Download stl file]()** -->
+<!-- - **[:arrow_down:Download 3mf & gcode file]()** -->
 
 -----
 ## How to set mixing ratio of Virtual extruder

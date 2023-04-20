@@ -43,7 +43,7 @@
 ![](./pic/poweroff.png)   
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
 
-## [LCD Menu and Operation](LCD_MENU)
+## [LCD Menu and Operation][LCD_MENU]
 ![](./pic/LCDScreen.png)
 1. **Title bar:** Shows current menu 
 2. **Menu bar:** Shows control operational menu items

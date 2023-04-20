@@ -42,7 +42,7 @@
 ![](./pic/poweroff.png)   
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
 
-## [LCD Menu and Operation](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description)
+## [LCD Menu and Operation](LCD_MENU)
 ![](./pic/LCDScreen.png)
 1. **Title bar:** Shows current menu 
 2. **Menu bar:** Shows control operational menu items
@@ -54,7 +54,7 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 6. **Prepare to print:** Preheating, homing, moving the axis, load/unload filament, leveling the hot bed, power off, etc.,  used before printing.
 7. **Setup the machine:** Set operation parameters, enable/disable advanced functions.
 8. **Information of the machine:**: View the firmware version, hardware configuration information of the machine.     
-#### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description).
+#### About the LCD menu description, please refer to the [:point_right:**DWIN LCD screen Menu Description**][LCD_MENU].
 
 ## Prepare to print 
 ### Level the bed
@@ -85,14 +85,14 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 
 ## Advance features
 :warning: Do not turn on these functions until you clearly understand how to use them.
-### [Mixing Color feature](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/readme.md)
-This printer equiped with 4 extruders and a 4-IN-1-OUT mixing color hot end, it not only can print up to 16 colors 3d file, but aslo it can print a single color 3d mode to a gradient color 3d model. For the details, please refer to [**:point_right:Mixing Color Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Mixing_Color/readme.md).
+### [Mixing Color feature][mix_color]
+This printer equiped with 4 extruders and a 4-IN-1-OUT mixing color hot end, it not only can print up to 16 colors 3d file, but aslo it can print a single color 3d mode to a gradient color 3d model. For the details, please refer to [**:point_right:Mixing Color Feature User Guide**][mix_color].
 
-### [Bed auto leveling](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md)
+### [Bed auto leveling][auto_leveling]
 This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, you can correct the unevenness of the hot bed.    
-For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling/readme.md).
+For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**][auto_leveling].
 
-### [Auto shut down](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down/readme.md)
+### [Auto shut down][auto_shutdown]
 #### [:clapper: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
 3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
 
@@ -100,14 +100,14 @@ For the details, please refer to [**:point_right: Bed Auto Leveling Feature User
 #### [:clapper: **Video tutorial**](https://youtu.be/f-PpasByiiE).
 While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
 
-### [Auto retraction](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md)
+### [Auto retraction][Auto_Retraction]
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
-For the details, please refer to [**:point_right: Auto Retract Feature User Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction/readme.md).
+For the details, please refer to [**:point_right: Auto Retract Feature User Guide**][Auto_Retraction].
 
 ## Slicing
 The slicing software is a computer software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL(Obj, Amf) format to printer commands in g-code format. 
 This machine can use a variety of slicing software to complete slicing, We provide download addresses, instructions and video tutorials of common slicing software. 
-For details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md)
+For details, please refer to [**:point_right: Slicing-Guide**][Slicing_Guide_Z8P][Slicing_Guide_Z8P].
 #### :loudspeaker:NOTE  
 1. Slicing software is not a part of this machine, you can download slicing software for free from the internet.
 2. If you print one color, please choose machine **“Z8 + One color”**. If you print multi color, please choose machine **“Z8 + M4 hot end”**.
@@ -115,10 +115,16 @@ For details, please refer to [**:point_right: Slicing-Guide**](https://github.co
 
 ----
 ## Control by PC / Print from PC
-:warning: We recommend to print from SD card rather than from computer. If you think it difficult for you to access (insert and remove) the SD card, it is recommended to purchase an Mirco-SD card extender ([**Sale link**](https://www.aliexpress.us/item/3256805156643681.htm)).     
+:warning: We recommend to print from SD card rather than from computer. If you think it difficult for you to access (insert and remove) the SD card, it is recommended to purchase an Mirco-SD card extender ([**Sale link**](https://www.aliexpress.com/item/3256805156643681.htm)).     
 ![](./pic/CardExtender.jpg)     
-If you want to print from PC, we recommend to use "Repetier-Host" software, about how to download and use repetier-Host, please refer to [**Repetier-Host user guide**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC/readme.md).
+If you want to print from PC, we recommend to use "Repetier-Host" software, about how to download and use repetier-Host, please refer to [**Repetier-Host user guide**][PrintFromPC].
 
-
-
+-----
+[LCD_MENU]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description
+[mix_color]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
+[auto_leveling]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
+[auto_shutdown]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down
+[Auto_Retraction]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction
+[Slicing_Guide_Z8P]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide
+[PrintFromPC]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC
 

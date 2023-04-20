@@ -28,8 +28,9 @@
 -----
 # Z8P-MK2 Operation Guide
 ## Power ON and Power Off
-#### :warning:ATTENTION! MAKE SURE THE AC VOLTAGE SELECT SWITH HAS BEED SET TO THE CORRECT POSITION:warning:
-![](./pic/selectAC.png)
+#### :warning:ATTENTION!:warning: 
+##### MAKE SURE THE AC VOLTAGE SELECT SWITH HAS BEED SET TO THE CORRECT POSITION!     
+![](./pic/selectAC.jpg)
 ### POWER ON
 #### [:clapper:Video Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)

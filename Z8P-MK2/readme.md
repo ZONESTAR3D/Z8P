@@ -54,7 +54,7 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 - **Advance Features**
   - **[:book:Auto shut down][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
   - **[:book:Mixing Color Printing][mix_color]**
-  - **[:book:Bed auto leveling](auto_leveling) [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+  - **[:book:Bed auto leveling][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
   - **[:clapper:Power loss recovery](https://youtu.be/f-PpasByiiE)**
   - **[:book:Auto retraction][Auto_Retraction]**
 - **[:book:Print from PC][PrintFromPC]**

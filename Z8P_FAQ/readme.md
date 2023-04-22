@@ -48,6 +48,7 @@ The parts in the machine that can carry out the exchange test include:
 - 4 sets of extruder motors
 - Cartridge heater and temperature sensor of hot bed and hot end.
 
+-----
 ## Contents
 - [**The machine can't start up**](./Issue_of_startup/readme.md)
 - [**Heating issue**](./Issue_heating/readme.md)
@@ -59,6 +60,11 @@ The parts in the machine that can carry out the exchange test include:
 <!-- - [**Stepping motor(s) can not work properly**](./Issue_of_stepping_motor/readme.md) -->
 <!-- - [**Not read SD card issue**](./Issue_not_read_sdcard/readme.md) -->
 <!-- - [**Auto pause when printing from SD card**](./Issue_auto_pause/readme.md) -->
+
+-----
+## Poor printing quality issue
+- **[44 Common 3D Print Problems](https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide) @3dsourced**
+- **[All Problems & Solutions](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/) @all3DP**
 
 -----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

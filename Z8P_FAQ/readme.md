@@ -53,7 +53,7 @@ The parts in the machine that can carry out the exchange test include:
 - [**The machine can't start up**](./Issue_of_startup/readme.md)
 - [**Heating issue**](./Issue_heating/readme.md)
 - [**Auto shut down when printing from SD card**](./Issue_auto_shut_down/readme.md)
-- [**Hot end is blocked**](./Issue_mix_color_hotend_clogged/reame.md)
+- [**Hot end is blocked/clogged**](./Issue_mix_color_hotend_clogged/reame.md)
 - [**How to fix Extruder insufficient discharge issue**](./Issue_of_Extruder_insufficient_discharge/readme.md)
 - [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
 <!-- - [**Homing issue**](./Issue_of_Homing/readme.md) -->

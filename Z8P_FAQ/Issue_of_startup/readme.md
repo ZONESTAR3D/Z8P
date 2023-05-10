@@ -1,7 +1,7 @@
 ## The printer can't start up
 :loudspeaker: First of all , We hope you know that you need to turn of the AC power switch and then ***press and hold the DC button for about 5 seconds*** until you see the ZONESTAR logo on the LCD screen.    
 ![](./PowerON.jpg)     
-**[:movie_camera: Turn On / Turn Off the printer](https://youtu.be/2i8ozM2Dn1U)**
+**[:clapper: Turn On / Turn Off the printer](https://youtu.be/2i8ozM2Dn1U)**
 
 ----
 ### To choose the solution according to the status of your printer.

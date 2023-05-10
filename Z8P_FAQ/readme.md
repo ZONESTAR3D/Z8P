@@ -37,7 +37,7 @@ In order to find and solve the problem of the product, you may need to use the a
 
 ### Electronics parts auto testing
 Z8P has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem. To start this program, you need to open the "**Info**" menu and rotate the knob to point to the "**Date: xx-xx-xx**" item, and then press the knob five times.      
-For details, please refer to the [:movie_camera:**video tutorial**](https://youtu.be/iSsuy2ePWw8).
+For details, please refer to the [:clapper:**video tutorial**](https://youtu.be/iSsuy2ePWw8).
 
 ### About "swap test"
 When we find that there is a functional problem in the machine, and the cause of the problem has multiple possibilities (multiple parts may cause to the same problem), we have the opportunity to use the so-called "**swap test**" to locate the cause of the problem as soon as possible.    

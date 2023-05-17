@@ -51,7 +51,7 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 - **[:art: Wiring Diagram](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
 
 ### :file_folder: [2.Operation Guide][Operation_Guide]
-- **[:book: Operation Guide][Operation_Guide]**
+- **[:book: Basic Operation Guide][Operation_Guide]**
 - **Advance Features**
   - **[:book:Auto shut down][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
   - **[:book:Mixing Color Printing][mix_color]**

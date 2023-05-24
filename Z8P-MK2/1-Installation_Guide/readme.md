@@ -12,7 +12,7 @@
 [![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ro)
 [![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ru)
 [![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=id)
 [![](../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=th)
@@ -22,7 +22,7 @@
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
@@ -108,11 +108,7 @@ Put the extruder cables into the groove behind the right Z profile and cover it 
 Install the 4 extruders on the top profile.    
 ![](./pic/InstallExtruders.png)  
 
-### 5. Install Filament Bracket
-Install filament bracket on the top profile.    
-![](./pic/InstallFilamentBracket.png)  
-
-### 6. Install PTFE tube
+### 5. Install PTFE tube
 ![](./pic/connectPTFE.jpg)  
 Connect the extrusion feeder with the print head (hot end) by filament guide (PTFE tube)   
 ![](./pic/installPTFE.png)  
@@ -121,16 +117,24 @@ Connect the extrusion feeder with the print head (hot end) by filament guide (PT
 3. Install clamp
 4. Connect to Hotend
 
-### 7. Debug the Z Movement system
+### 6. Debug the Z Movement system
 ![](./pic/DebugZ.png)  
 Keep the lead screws parallel to the Z axis profiles as far as possible will help to obtain better printing quality, please debug them refer to the following steps:   
 **Step 1. Loosen all the screws a little that fixed the Z motors and T8 copper nut.**   
 **Step 2. Synchronous Rotate the couplings to move up the X axis to 1/2 height of the printer.**   
 **Step 3. Keep the lead screws parallel to the Z profiles, then tighten the screws that fixed the Z motor and T8 copper nuts.**   
 
-### 8. Install Z lead screws fixed module
+### 7. Install Z lead screws fixed module
 Install the Z lead screws fix blocks on the top profile.
 ![](./pic/InstallZFixModule.png)
+
+### 8. Tune the eccentric columns
+Rotate the eccentric columns under the hot bed bracket and the eccentric column on X carrier, to ensure that the carrier can run smoothly on the track without shaking.     
+![](./pic/eccentric.jpg)
+
+### 9. Install Filament Bracket
+Install filament bracket on the top profile.    
+![](./pic/InstallFilamentBracket.png)  
 
 ## Wiring
 ### Wiring Block

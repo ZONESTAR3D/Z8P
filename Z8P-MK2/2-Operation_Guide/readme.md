@@ -71,9 +71,9 @@ Before printing, you need to adjust the distance between the nozzle and the hot 
 This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot end. The extruders and the hot end are connected by a filament guide (PTFE tube). :warning:**Before printing, you need to load all 4 filaments to the extruders and feed them into the bottom of the hot end.** 
 ##### Step 1. Do “Prepare>>Auto Home>>Home All” on control panel, and then do “Prepare>>Temperature>> Preheat PLA”, waiting nozzle temperature reached to 190 ℃ (Fig 1).
 ##### Step 2. Use a diagonal pliers to cut off the head of filament (Fig 2), and then press the handle of the extruder#1 and insert filament, push the filament until you can see the filament in the PTFE guide (Fig 3). Rotate the gear of extruder #1 (Fig 4), watch the filament until it entered bottom of the hot end. 
-##### Step 3. Using the same method as in step 2 to load the filaments to extruder#2 ~ extruder#4, watch the filaments until them entered the bottom of hot end.
+##### Step 3. Using the same method as in step 2 to load the filaments to extruder #2 ~ extruder #4, watch the filaments until them entered the bottom of hot end.
 ##### Step 4. Slowly rotate the gear of extruder#1 ~ extruder#4 one by one and watch the nozzle, until you can see the filament flowed out from the nozzle(Fig 5).
-#### :warning: "Quckly Load" menu only can be used when loading the filament from extruder to hot end, once the filament entered the hot end, use "Slowly Load" menu but not "Quckly Load".
+#### :warning: "Quickly Load" menu only can be used when loading the filament from extruder to hot end, once the filament entered the hot end, use "Slowly Load" menu but not "Quickly Load".
 ![](./pic/loadfilament.png)
 
 ## Print the first works

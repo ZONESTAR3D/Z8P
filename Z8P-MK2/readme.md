@@ -52,6 +52,7 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 
 ### :file_folder: [2.Operation Guide][Operation_Guide]
 - **[:book: Basic Operation Guide][Operation_Guide]**
+- **[:book: M4V6 Mix Color Hotend User Guide][M4V6_Guide]**
 - **Advance Features**
   - **[:book:Auto shut down][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
   - **[:book:Mixing Color Printing][mix_color]**
@@ -106,6 +107,7 @@ By upgrading this item, you can turn your 3D printer into a simple laser engravi
 [step_by_step_guide]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step.md
 [installation]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide
 [Operation_Guide]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide
+[M4V6_Guide]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6
 [Test_gcode]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/3-TestGcode
 [Slicing_Guide_Z8P]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide
 [PrintParts]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/5-PrintParts/

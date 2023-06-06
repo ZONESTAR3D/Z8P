@@ -30,12 +30,15 @@
 ![](1.png)    
 
 ### Catch Probe Z offset
+Do **Prepare>> Bed Leveling>>Catch Z-Offset** to get the **Probe Z Offset** before doing bed auto leveling.   
+![](3.png)
 :warning: Do ***Control>> Configure>> Auto Leveling*** to turn on **bed auto leveling feature** if you didn't see this menu.
 ![](2.png)
+:warning: If the bed leveling sensor can't probing the hotbed before Z ENDSTOP is triggered, it will shows "probing fail" on LCD screen. The reason maybe because: ①the installation postion of bed leveling sensor is too height, ②bed leveling sensor don't connect well with control board or even ③bed leveling sensor is burn out.
+
+##### :pushpin: What is "Probe Z Offset"?
 **"Probe Z Offset"** indicates that when the sensor sensed the hot bed, the distance between the nozzle and the Z axis absolute zero point.      
 If the sensor is installed correctly, the nozzle is always above the hot bed when the sensor sensed the hot bed, so **Probe Z Offset** is always a negative value. Since the sensing distance of each PL-08N sensor is different, and the actual installation height of PL-08N is also different, the **Probe Z Offset** of each machine is different too.     
-You need to do ***Catch Z offset*** to get the **Probe Z Offset** before doing bed auto leveling. Do **Prepare>> Bed Leveling>>Catch Z-Offset**.
-![](3.png)
 
 ### Bed Leveling
 After completing the above steps, we have a reliable sensor to measure the hotbed surface and already set all its parameters. Now we need the machine to make a comprehensive measurement of the surface of the hot bed, so as to get a data sheet of the hot bed height on the surface.   

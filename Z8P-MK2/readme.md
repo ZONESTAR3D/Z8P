@@ -92,16 +92,18 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ------
 ### Upgradable Features
-- **Filament run out sensor :+1::+1:**  
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**   
-- **WiFi wireless control module :+1::+1:**   
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]**    
+- **SD Card Extender:+1::+1:**    
+By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift:Buy](https://www.aliexpress.com/item/1005005342958433.html)
+- **Filament run out sensor:+1::+1:**    
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift:Buy](https://www.aliexpress.com/item/4001309957376.html)   
+- **WiFi wireless control module :+1::+1:**    
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift:Buy](https://www.aliexpress.com/item/1005002378551489.html)    
 - **Non mix color hotend :+1::+1:**   
-By upgrading this item, the size of the color prime tower required for printing multi-color models is much smaller. **[:book: User guide][guide_E4]**    
-- **Direct drive extruder :+1:**  
-By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]**    
-- **Laser engine**
-By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide][guide_Laser]**    
+By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift:Buy](https://www.aliexpress.com/item/1005002951777699.html)   
+- **Direct drive extruder :+1:**     
+By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift:Buy](https://www.aliexpress.com/item/1005002847644867.html)    
+- **Laser engine**     
+By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)    
 
 -----
 [step_by_step_guide]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step.md

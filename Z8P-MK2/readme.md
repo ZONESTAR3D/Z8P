@@ -77,8 +77,8 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 ### :file_folder: [5. Print parts stl][PrintParts]
 #### :arrow_down: [Download print parts stl files][PrintParts]
 
-### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2)
-- **[:arrow_down:Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2).**  
+### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
+- **[:arrow_down:Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**  
 - **[:arrow_down:Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: What is bin file and source code?
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
@@ -86,9 +86,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ### 7.TroubleShootings
 - :book: [**TroubleShootings for Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
-<!-- - :clapper: [**How to replace nozzle**](https://youtu.be/L5VRyEbsJvM) -->
-<!-- - :clapper: [**Machine auto test**](https://youtu.be/iSsuy2ePWw8) -->
-<!-- - :clapper: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)     -->
+
 
 ------
 ### Upgradable Features

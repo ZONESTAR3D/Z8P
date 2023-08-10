@@ -79,7 +79,8 @@ The temperature of the hot end is unstable, sometimes show a "run away" issue.
   - Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
 ![](./coolingfan.jpg)
   - Do once  ***Control>>Restore Defaults"***, and then heating again.  
-#### If you did the above two steps but the question can't be solved, do the below steps: ***Control>>Configre>>Hotend PID>>PID auto tune: 200 {200 for printing PLA or 240 for printing PETG/ABS}***, and wait until it done. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif).      
+#### PID auto tune
+If you did the above two steps but the question can't be solved, do the below steps: ***Control>>Configre>>Hotend PID>>PID auto tune: 200 {200 for printing PLA or 240 for printing PETG/ABS}***, and wait until it done. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif).      
 ### If you did all the above steps but the question can't be solved, please [**contact with our support team**](#contact-with-our-support-team) or repleace a new cartridge heater and try again. 
 
 -----

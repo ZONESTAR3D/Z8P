@@ -67,7 +67,7 @@ Before printing, you need to adjust the distance between the nozzle and the hot 
 ![](./pic/levelbed.png)
 
 ### Load filaments
-#### [:clapper:Video Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/loadfilament.gif)
+#### [:clapper:Video Tutorial](https://youtu.be/-47yB95uIxI)
 This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot end. The extruders and the hot end are connected by a filament guide (PTFE tube). :warning:**Before printing, you need to load all 4 filaments to the extruders and feed them into the bottom of the hot end.** 
 ##### Step 1. Do “Prepare>>Auto Home>>Home All” on control panel, and then do “Prepare>>Temperature>> Preheat PLA”, waiting nozzle temperature reached to 190 ℃ (Fig 1).
 ##### Step 2. Use a diagonal pliers to cut off the head of filament (Fig 2), and then press the handle of the extruder#1 and insert filament, push the filament until you can see the filament in the PTFE guide (Fig 3). Rotate the gear of extruder #1 (Fig 4), watch the filament until it entered bottom of the hot end. 

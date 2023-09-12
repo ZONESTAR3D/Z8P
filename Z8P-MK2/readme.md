@@ -54,11 +54,11 @@ We have created many video tutorials for Z8P-MK2, please refer to [**here**](htt
 - **[:book: Basic Operation Guide][Operation_Guide]**
 - **[:book: M4V6 Mix Color Hotend User Guide][M4V6_Guide]**
 - **Advance Features**
-  - **[:book:Auto shut down][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-  - **[:book:Mixing Color Printing][mix_color]**
-  - **[:book:Bed auto leveling][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-  - **[:clapper:Power loss recovery](https://youtu.be/f-PpasByiiE)**
-  - **[:book:Auto retraction][Auto_Retraction]**
+  - **[Auto shut down:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+  - **[Mixing Color Printing:book:][mix_color]**
+  - **[Bed auto leveling:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+  - **[Power loss recovery:clapper:](https://youtu.be/f-PpasByiiE)**
+  - **[Auto retraction:book:][Auto_Retraction]**
 - **[:book:Print from PC][PrintFromPC]**
   
 ### :file_folder: [3.Print Test Gcode Files][Test_gcode]

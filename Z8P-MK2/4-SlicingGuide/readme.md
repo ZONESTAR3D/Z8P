@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,19 +23,20 @@
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 ----
-# Slicing guide for PrusaSlicer
-## :warning: Please refer to [**:point_right: here**](https://github.com/ZONESTAR3D/Slicing-Guide) to view the newest slicing software use guide
+# PrusaSlicer Installation and User Manual
+Firstly, FDM 3D printers can only process gcode files, while the standard formats for 3D graphics files are usually stl, obj and amf etc.. Before printing 3D model files on the FDM 3d printer, you need to convert 3D graphics files into gcode files on the computer, this process called ***"slicing"***. The software that supports converting 3D graphics files into gcode files is called slicing software.     
+PrusaSlicer is one of the most popular slicing software nowadays, which is particularly suitable for multi color (multi extruder) 3D printers. We recommend using PrusaSlicer slicing software to generate gcode files.
 
 ----
 ## :book: Contents
-1. **[Download PrusaSlicer software](#1-download-prusaslicer)**
-2. **[Run PrusaSlicer and choose the printer ](#2-run-prusaslicer-and-choose-the-printer)**
+1. **[Download PrusaSlicer](#1-download-prusaslicer)**
+2. **[Run PrusaSlicer and choose the printer](#2-run-prusaslicer-and-choose-the-printer)**
 3. **[Choose system presets](#3-choose-system-presets)**
-4. **[Slicing one color](#4-slicing-one-color)**
-6. **[Slicing muti-color for Z8 + M4 hotend](#5-slicing-muti-color-for-m4-hotend)**
+4. **[Slicing one color 3d model](#4-slicing-one-color)**
+6. **[Slicing multi-color 3d model](#5-slicing-multi-color)**
 
 ## 1. Download PrusaSlicer
 :clapper: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
@@ -79,7 +80,7 @@ You may need to set these parameters according to the shape of the model and you
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
 
-## 5. Slicing muti-color for M4 hotend 
+## 5. Slicing multi-color 
 - :clapper: [**Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4) 
 #### 5.1 choose printer presets "Z8 + M4 hotend"
 ![](pic/slicingM4-1.png)

@@ -26,7 +26,7 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/step_by_step.md?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 ----
-## Step by Step Guide of Z8P-MK2
+## Z8P-MK2 Step-by-Step Guide
 If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step.   
 In a word, what you need to do includes the below 4 steps: **Install the machine >> Printing test file >> Slicing your own 3d file >> Printing your 3d file**.        
 

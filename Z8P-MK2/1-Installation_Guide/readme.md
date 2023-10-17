@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,11 +23,11 @@
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 -----
 # Z8P-MK2 Installation Guide
-### [ :clapper: **Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
+### [ :clapper: **Z8P-MK2 Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
 
 -----
 ### :warning:ATTENTION:warning:

@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,10 +23,12 @@
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
------
+
 # Z8P-MK2 Operation Guide
+-----
+
 ## Power ON and Power Off
 #### :warning:ATTENTION!:warning: 
 ##### MAKE SURE THE AC VOLTAGE SELECT SWITH HAS BEED SET TO THE CORRECT POSITION!     

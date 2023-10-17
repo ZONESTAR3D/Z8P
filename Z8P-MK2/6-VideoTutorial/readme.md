@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=fr)
@@ -23,12 +23,15 @@
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=el)
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=pt)
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=ru)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=zh-CN)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8/tree/main/Z8P-MK2/6-VideoTutorial?_x_tr_sl=auto&_x_tr_tl=zh-CN) -->
 
 -----
 # Z8PM4-MK2 Video Tutorial
-Some functions of the Z8PM4Pro are the same with Z9V5, so the video tutorial may have been captured by a Z9V5 3d printer.
-## :one: Installation and Use
+#### :warning: Note
+1. Some videos are filmed using machines other than the Z8PM4Pro, but the operating steps are identical to those of the Z8PM4Pro.
+2. Please directly click on the image below to watch the video
+
+## :one: Installation and Operation
 |    [:book:**Installation**](../1-Installation_Guide/)          |     [:book:**Wiring**][wiring]                                 |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|
 | [![](./install.jpg)](https://youtu.be/-oieO7U0LCc)             | [![](./wiring.jpg)](https://youtu.be/kpQvHASNfqE)              |

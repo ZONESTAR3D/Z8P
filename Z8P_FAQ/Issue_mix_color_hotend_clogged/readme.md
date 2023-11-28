@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_mix_color_hotend_clogged?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_mix_color_hotend_clogged?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_mix_color_hotend_clogged?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_mix_color_hotend_clogged?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_mix_color_hotend_clogged?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## :warning: NOTICE 
 ### Please choose the documents based on your hot end model.
 **Note:** Default Z8PM4Pro-MK1 equipped with a M4V4 hot end and Z8PM4Pro-MK2 equipped with a M4V6 hot end.     

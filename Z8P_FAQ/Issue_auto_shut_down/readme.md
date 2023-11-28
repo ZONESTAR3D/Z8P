@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_auto_shut_down?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_auto_shut_down?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_auto_shut_down?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_auto_shut_down?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_auto_shut_down?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## The printer auto shut down when printing from SD card
 1. Upload the newest firmware to the control board and try again.
 **[:arrow_down:Download the newsst firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P)**   

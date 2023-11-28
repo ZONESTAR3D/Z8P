@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_extruder_blocked?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_extruder_blocked?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_extruder_blocked?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_extruder_blocked?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_extruder_blocked?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## Extruder(s) blocked and unable to print [for Z8PM4Pro-MK2]
 ### Reason:
 The problem may come from the extruder(s), the PTFE tube connecting the extruders to the hot end (print head), or the hot end (print head). 

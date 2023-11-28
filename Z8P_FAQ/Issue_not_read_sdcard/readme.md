@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_not_read_sdcard?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_not_read_sdcard?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_not_read_sdcard?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_not_read_sdcard?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/Issue_not_read_sdcard?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## No read SD card Issue
 #### :warning: Please note that the 3d printer can only read gcode files. 3d drawing files, such as .stl, .obj, .AMF file etc., must be converted into gcode files using [slicing software](https://github.com/ZONESTAR3D/Slicing-Guide) before put into the SD card sokect of 3d printer.
 :bulb: The suffix of the gcode file can be **.gcode** or **.gco**.

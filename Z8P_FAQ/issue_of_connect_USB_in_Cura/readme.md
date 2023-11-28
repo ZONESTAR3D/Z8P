@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/issue_of_connect_USB_in_Cura?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/issue_of_connect_USB_in_Cura?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/issue_of_connect_USB_in_Cura?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/issue_of_connect_USB_in_Cura?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/issue_of_connect_USB_in_Cura?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ### :warning: We strongly recommend that you print from SD card instead of connecting USB. If you definitely want to print from USB, it is recommended that you use repeater-host software, [repeater-host installation and use guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/PrintFromPC/readme.md)
 
 -----

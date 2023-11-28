@@ -28,10 +28,10 @@
 ----- -->
 ## The printer auto shut down when printing from SD card
 1. Upload the newest firmware to the control board and try again.
-**[:arrow_down:Download the newsst firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P)**   
+**[:arrow_down:Download the newest firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P)**   
 :warning: Please confirm the model of your machine before downloading firmware.
-2. Connect the SD card to the machine directly if you used a SD card extend cable.   
-3. Format the SD card and copy only one gcode file to SD card and print it again. :warning: The SD card need to be formated to FAT32.
+2. Remove the SD card extend cable and plug the SD card in to the SD card socket of the machine directly and try again.   
+3. Format the SD card (Must be FAT32) and copy only one gcode file to SD card and try again.
 4. Replace a new SD card (<=32G, format to FAT32) and try again.
 5. Print another gcode file and try again.
 6. Turn off the **PowerLoss Recovery** feature and try again (***Control>>Configre>>PowerLoss Recovery***).

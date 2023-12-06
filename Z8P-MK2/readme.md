@@ -29,7 +29,7 @@
 # Z8P-MK2 User Guide
 
 -----
-## :warning:ATTENTION PLEASE:warning:
+## :warning: ATTENTION PLEASE :warning:
 ### :loudspeaker: You need to load all the 4 filaments to the hotend whether printing one or multi color 3d prints, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [this guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#load-filaments)
 ### :loudspeaker: DONOT pull out the "inner PTFE tubes" (the 4 white tubes with black fittings) from the M4V6 hot end.
 ### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: Step-by-Step Guide][step_by_step_guide], and following the guide to do step by step. If you are experienced on 3d printer, please also briefly read the [:point_right: Step-by-Step Guide][step_by_step_guide] at least, and ensure that you have known how to load filament to the M4 hot end.

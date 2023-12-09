@@ -1,45 +1,28 @@
 <!-- ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=es)
-[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=de)
-[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=it)
-[![](../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=da)
-[![](../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=id)
-[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=th)
-[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=el)
-[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
+[![](../lanpic/EN.png)](./readme.md)
+[![](../lanpic/ES.png)](./readme-es.md)
+[![](../lanpic/PT.png)](./readme-pt.md)
+[![](../lanpic/FR.png)](./readme-fr.md)
+[![](../lanpic/DE.png)](./readme-de.md)
+[![](../lanpic/IT.png)](./readme-it.md)
+[![](../lanpic/RU.png)](./readme-ru.md)
+[![](../lanpic/JP.png)](./readme-jp.md)
+[![](../lanpic/KR.png)](./readme-kr.md)
+[![](../lanpic/SA.png)](./readme-ar.md)
+[![](../lanpic/CN.png)](./readme-cn.md) -->
 
 ------
 # Z8P-MK2 User Guide
 
 -----
-:warning: ATTENTION PLEASE :warning:
-#### :loudspeaker: You need to load all the 4 filaments to the hotend whether printing one or multi color 3d prints, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [this guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#load-filaments)
-#### :loudspeaker: DONOT pull out the "inner PTFE tubes" (the 4 white tubes with black fittings) from the M4V6 hot end.
-#### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: Step-by-Step Guide][step_by_step_guide], and following the guide to do step by step. If you are experienced on 3d printer, please also briefly read the [:point_right: Step-by-Step Guide][step_by_step_guide] at least, and ensure that you have known how to load filament to the M4 hot end.
+## :warning: ATTENTION PLEASE
+### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](./M4V6_Precaution.md) carefully.
+### :loudspeaker: Must load 4 filaments onto the M4V6 hotend simultaneously, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [:book: this guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#load-filaments).
+### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:book: Step-by-Step Guide][step_by_step_guide], and following the guide to do step by step. If you are experienced on 3d printer, please also briefly read the [:book: Step-by-Step Guide][step_by_step_guide] at least, and ensure that you have known how to load filament to the M4 hot end.
 
 -----
-## [:arrow_down: Download Z8P-MK2 all documents](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2)  
-
------
-## [:clapper:Video Tutorial](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
-We have created many video tutorials for Z8P-MK2, please refer to [**here**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial) to view.  
+### [:clapper: Watch Video Tutorial](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
+We creat many video tutorials for this machine, please click [:clapper:**here**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial) to watch.  
 
 -----
 ### :file_folder: [1.Installation Guide][installation]

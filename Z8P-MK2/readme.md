@@ -16,7 +16,7 @@
 
 -----
 ## :warning: ATTENTION PLEASE
-### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](./M4V6_Precaution.md) carefully.
+### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md) carefully.
 ### :loudspeaker: Must load 4 filaments onto the M4V6 hotend simultaneously, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [:book: this guide](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md#load-filaments).
 ### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:book: Step-by-Step Guide][step_by_step_guide], and following the guide to do step by step. If you are experienced on 3d printer, please also briefly read the [:book: Step-by-Step Guide][step_by_step_guide] at least, and ensure that you have known how to load filament to the M4 hot end.
 

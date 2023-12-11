@@ -66,13 +66,13 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 - :book: [**TroubleShootings for Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Upgradable Features
-- **SD Card Extender :+1::+1:**    
+- **SD Card Extender :+1:**    
 By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
-- **Filament run out sensor :+1::+1:**    
+- **Filament run out sensor :+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
-- **WiFi wireless control module  :+1::+1:**    
+- **WiFi wireless control module  :+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
-- **Non mix color hotend  :+1::+1:**   
+- **Non mix color hotend  :+1:**   
 By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift: Buy](https://www.aliexpress.com/item/1005002951777699.html)   
 - **Direct drive extruder :+1:**     
 By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift: Buy](https://www.aliexpress.com/item/1005002847644867.html)    
@@ -136,13 +136,13 @@ Slicing es un software que todo el mundo utiliza al crear objetos y productos en
 - :book: [**Solución de problemas para Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Funciones actualizables
-- **Extensor de tarjeta SD :+1::+1:**    
+- **Extensor de tarjeta SD :+1:**    
 Al actualizar este elemento, es más fácil acceder (conectar/desconectar) la tarjeta SD. [:gift:Comprar](https://www.aliexpress.com/item/1005005342958433.html)
-- **Sensor de filamento agotado :+1::+1:**    
+- **Sensor de filamento agotado :+1:**    
 Al actualizar este artículo, podrá controlar de forma remota su impresora 3D. **[:book: Guía del usuario][guide_FROD]** [:gift:Comprar](https://www.aliexpress.com/item/4001309957376.html)
-- **Módulo de control inalámbrico WiFi :+1::+1:**    
+- **Módulo de control inalámbrico WiFi :+1:**    
 Al actualizar este artículo, podrá controlar de forma remota su impresora 3D. **[:book: Guía del usuario][guide_WIFI]** [:gift:Comprar](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend sin mezcla de colores :+1::+1:**
+- **Hotend sin mezcla de colores :+1:**
 Al actualizar este elemento, el tamaño de la torre de color principal para imprimir modelos multicolores es mucho más pequeño. **[:book: Guía del usuario][guide_E4]** [:gift:Comprar](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extrusora de accionamiento directo :+1:**    
 Al actualizar este proyecto, podrá imprimir materiales flexibles (como el filamento de TPU). **[:book: Guía del usuario][guide_DDE]** [:gift:Comprar](https://www.aliexpress.com/item/1005002847644867.html)
@@ -206,13 +206,13 @@ Slicing é um software que todos usam ao criar objetos e produtos em uma impress
 - :book: [**Soluções de problemas para Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Recursos atualizáveis  
-- **Extensor de cartão SD :+1::+1:**    
+- **Extensor de cartão SD :+1:**    
 Ao atualizar este item, fica mais fácil acessar (Conectar/Desconectar) o cartão SD. [:gift:Comprar](https://www.aliexpress.com/item/1005005342958433.html)
-- **Sensor de esgotamento de filamento :+1::+1:**   
+- **Sensor de esgotamento de filamento :+1:**   
 Ao atualizar este item, você pode controlar remotamente sua impressora 3D. **[:book: Guia do usuário][guide_FROD]** [:gift:Comprar](https://www.aliexpress.com/item/4001309957376.html)
-- **Módulo de controle sem fio WiFi  :+1::+1:**    
+- **Módulo de controle sem fio WiFi  :+1:**    
 Ao atualizar este item, você pode controlar remotamente sua impressora 3D. **[:book: Guia do usuário][guide_WIFI]** [:gift:Comprar](https://www.aliexpress.com/item/1005002378551489.html)  
-- **Hotend de cores sem mistura  :+1::+1:**   
+- **Hotend de cores sem mistura  :+1:**   
 Ao atualizar este item, o tamanho da torre principal colorida para impressão de modelos multicoloridos é muito menor. **[:book: Guia do usuário][guide_E4]** [:gift:Comprar](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extrusora de acionamento direto :+1:**   
 Ao atualizar este projeto, você pode imprimir materiais flexíveis (como filamento TPU). **[:book: Guia do usuário][guide_DDE]** [:gift:Comprar](https://www.aliexpress.com/item/1005002847644867.html)
@@ -275,13 +275,13 @@ Slicing est un logiciel que tout le monde utilise pour créer des objets et des 
 - :book: [**Dépannage pour Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Fonctionnalités évolutives
-- **Extension de carte SD :+1 ::+1 :**   
+- **Extension de carte SD :+1:**   
 En mettant à niveau cet élément, il est plus facile d'accéder (brancher/débrancher) à la carte SD. [:gift: Acheter](https://www.aliexpress.com/item/1005005342958433.html)
-- **Capteur d'épuisement du filament  :+1::+1:**   
+- **Capteur d'épuisement du filament :+1:**   
 En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_FROD]** [:gift: Acheter](https://www.aliexpress.com/item/4001309957376.html)
-- **Module de contrôle sans fil WiFi  :+1::+1:**   
+- **Module de contrôle sans fil WiFi :+1:**   
 En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_WIFI]** [:gift: Acheter](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend de couleurs non mélangées  :+1::+1:**   
+- **Hotend de couleurs non mélangées :+1:**   
 En mettant à niveau cet élément, la taille de la tour Color Prime pour l'impression de modèles multicolores est beaucoup plus petite. **[:book: Guide][guide_E4]** [:gift: Acheter](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extrudeuse à entraînement direct :+1:**   
 En mettant à niveau ce projet, vous pouvez imprimer des matériaux flexibles (tels que le filament TPU). **[:book: Guide][guide_DDE]** [:gift: Acheter](https://www.aliexpress.com/item/1005002847644867.html)
@@ -335,8 +335,8 @@ Slicing ist eine Software, die jeder beim Erstellen von Objekten und Produkten a
 #### :arrow_down: [Druckteile-STL-Dateien herunterladen][PrintParts]
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:Firmware-Bin-Datei](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:Firmware-Quellcode](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: Firmware-Bin-Datei](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: Firmware-Quellcode](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: Was ist eine Bin-Datei und ein Quellcode?
 > **Firmware-Bin-Datei** ist der genaue Speicher, der in den eingebetteten Flash geschrieben wird.
 > **Firmware-Quellcode** ist der Kernbestandteil der Firmware. Die gesamte Firmware kann als verschiedene Untermodule betrachtet werden. Es ist in viele Unterdateien unterteilt. Diese Dateien werden Quelldateien genannt. Und die gesamten Programmdateien werden Quelldatei oder Quellcode genannt. Jetzt basiert unser Firmware-Quellcode auf [**marlin**](https://www.marlinfw.org).
@@ -345,13 +345,13 @@ Slicing ist eine Software, die jeder beim Erstellen von Objekten und Produkten a
 - :book: [**Fehlerbehebung für Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Aktualisierbare Funktionen
-- **SD-Karten-Extender :+1::+1:**   
+- **SD-Karten-Extender :+1:**   
 Durch die Aktualisierung dieses Elements ist es einfacher, auf die SD-Karte zuzugreifen (ein-/ausstecken). [:gift: Kaufen](https://www.aliexpress.com/item/1005005342958433.html)
-- **Filament-Auslaufsensor :+1::+1:**   
+- **Filament-Auslaufsensor :+1:**   
 Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_FROD]** [:gift: Kaufen](https://www.aliexpress.com/item/4001309957376.html)
-- **WiFi-Funksteuermodul  :+1::+1:**   
+- **WiFi-Funksteuermodul :+1:**   
 Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_WIFI]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend ohne Mischfarbe  :+1::+1:**   
+- **Hotend ohne Mischfarbe :+1:**   
 Durch die Aufrüstung dieses Artikels ist die Größe des Color Prime Tower zum Drucken von Mehrfarbenmodellen viel kleiner. **[:book: Benutzerhandbuch][guide_E4]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extruder mit Direktantrieb :+1:**   
 Durch die Aktualisierung dieses Projekts können Sie flexible Materialien (z. B. TPU-Filament) drucken. **[:book: Benutzerhandbuch][guide_DDE]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002847644867.html)
@@ -405,8 +405,8 @@ Lo slicing è un software che tutti utilizzano quando creano oggetti e prodotti 
 #### :arrow_down: [Scarica i file stl delle parti di stampa][PrintParts]
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:file bin del firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:Codice sorgente del firmware](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: file bin del firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: Codice sorgente del firmware](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: Cos'è il file bin e il codice sorgente?
 > **File bin del firmware** è la memoria esatta che viene scritta nella flash incorporata.
 > **Il codice sorgente del firmware** è la parte principale del firmware. L'intero firmware può essere pensato come diversi sottomoduli. È diviso in molti sottofile. Questi file sono chiamati file sorgente. Inoltre, gli interi file del programma sono chiamati file sorgente o codice sorgente. Ora il codice sorgente del nostro firmware è basato su [**marlin**](https://www.marlinfw.org).
@@ -415,13 +415,13 @@ Lo slicing è un software che tutti utilizzano quando creano oggetti e prodotti 
 - :book: [**Risoluzione dei problemi per Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Funzionalità aggiornabili
-- **Estensore scheda SD :+1::+1:**    
+- **Estensore scheda SD :+1:**    
 Aggiornando questo elemento, sarà più semplice accedere (collegare/scollegare) alla scheda SD. [:gift:Acquista](https://www.aliexpress.com/item/1005005342958433.html)
-- **Sensore esaurimento filamento :+1::+1:**    
+- **Sensore esaurimento filamento :+1:**    
 Aggiornando questo articolo, puoi controllare a distanza la tua stampante 3D. **[:book: Guida per l'utente][guide_FROD]** [:gift:Acquista](https://www.aliexpress.com/item/4001309957376.html)
-- **Modulo di controllo wireless WiFi  :+1::+1:**    
+- **Modulo di controllo wireless WiFi  :+1:**    
 Aggiornando questo articolo, puoi controllare a distanza la tua stampante 3D. **[:book: Guida per l'utente][guide_WIFI]** [:gift:Acquista](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend a colori non misti :+1::+1:**    
+- **Hotend a colori non misti :+1:**    
 Aggiornando questo articolo, la dimensione della torre Color Prime per la stampa di modelli multicolore sarà molto più piccola. **[:book: Guida per l'utente][guide_E4]** [:gift:Acquista](https://www.aliexpress.com/item/1005002951777699.html)
 - **Estrusore a trasmissione diretta:+1:**     
 Aggiornando questo progetto, puoi stampare materiali flessibili (come il filamento TPU). **[:book: Guida per l'utente][guide_DDE]** [:gift:Acquista](https://www.aliexpress.com/item/1005002847644867.html)
@@ -475,8 +475,8 @@ G-код — это информация или инструкции, котор
 #### :arrow_down: [Загрузить stl-файлы деталей для печати][PrintParts]
 
 ### :link: [6.Прошивка](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:Файл прошивки](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:Исходный код прошивки](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: Файл прошивки](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: Исходный код прошивки](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: Что такое bin-файл и исходный код?
 > **Бин-файл прошивки** — это именно тот объем памяти, который записан во встроенную флэш-память.
 > **Исходный код прошивки** — это основная часть прошивки. Всю прошивку можно рассматривать как различные подмодули. Он разделен на множество подфайлов. Эти файлы называются исходными файлами. И все файлы программы называются исходным файлом или исходным кодом. Теперь исходный код нашей прошивки основан на [**marlin**](https://www.marlinfw.org).
@@ -485,13 +485,13 @@ G-код — это информация или инструкции, котор
 - :book: [**Устранение неполадок для Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Обновляемые функции
-- **Удлинитель SD-карты :+1::+1:**    
+- **Удлинитель SD-карты :+1:**    
 Обновив этот элемент, вы облегчите доступ (подключение/отключение) к SD-карте. [:gift:Купить](https://www.aliexpress.com/item/1005005342958433.html)
-- **Датчик окончания нити :+1::+1:**    
+- **Датчик окончания нити :+1:**    
 Обновив этот предмет, вы сможете удаленно управлять своим 3D-принтером. **[:book: Руководство пользователя][guide_FROD]** [:gift:Купить](https://www.aliexpress.com/item/4001309957376.html)
-- **Беспроводной модуль управления Wi-Fi  :+1::+1:**   
+- **Беспроводной модуль управления Wi-Fi :+1:**   
 Обновив этот предмет, вы сможете удаленно управлять своим 3D-принтером. **[:book: Руководство пользователя][guide_WIFI]** [:gift:Купить](https://www.aliexpress.com/item/1005002378551489.html)
-- **Хотенд без смешивания цветов  :+1::+1:**    
+- **Хотенд без смешивания цветов :+1:**    
 Благодаря обновлению этого элемента размер основной цветной башни для печати многоцветных моделей стал намного меньше. **[:book: Руководство пользователя][guide_E4]** [:gift:Купить](https://www.aliexpress.com/item/1005002951777699.html)
 - **Экструдер с прямым приводом :+1:**    
 Обновив этот проект, вы сможете печатать гибкие материалы (например, нить ТПУ). **[:book: Руководство пользователя][guide_DDE]** [:gift:Купить](https://www.aliexpress.com/item/1005002847644867.html)
@@ -523,12 +523,12 @@ G-код — это информация или инструкции, котор
 - **[:book: 基本操作ガイド][Operation_Guide]**
 - **[:book: M4V6 ミックス カラー ホットエンド ユーザー ガイド][M4V6_Guide]**
 - **高度な機能**
-   - **[自動シャットダウン:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[混合カラー印刷:book:][mix_color]**
-   - **[ベッドオートレベリング:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[停電回復:clapper:](https://youtu.be/f-PpasByiiE)**
-   - **[自動撤回:book:][Auto_Retraction]**
-- **[:book:PC から印刷][PrintFromPC]**
+   - **[自動シャットダウン :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[混合カラー印刷 :book:][mix_color]**
+   - **[ベッドオートレベリング :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[停電回復 :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[自動撤回 :book:][Auto_Retraction]**
+- **[:book: PC から印刷][PrintFromPC]**
   
 ### :file_folder: [3.テスト Gcode ファイルを印刷][Test_gcode]
 #### :arrow_down: [テスト gcode ファイルをダウンロード][Test_gcode]
@@ -547,8 +547,8 @@ G コードとは、3D プリンターが 3 次元オブジェクトを印刷す
 #### :arrow_down: [印刷パーツの stl ファイルをダウンロード][PrintParts]
 
 ### :link: [6.ファームウェア](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:ファームウェア bin ファイル](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:ファームウェア ソース コード](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: ファームウェア bin ファイル](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: ファームウェア ソース コード](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: bin ファイルとソース コードとは何ですか?
 > **ファームウェア bin ファイル** は、内蔵フラッシュに書き込まれる正確なメモリです。
 > **ファームウェア ソース コード** はファームウェアの中核部分です。 ファームウェア全体は、異なるサブモジュールとして考えることができます。 多くのサブファイルに分かれています。 これらのファイルはソース ファイルと呼ばれます。 また、プログラムファイル全体をソースファイルまたはソースコードと呼びます。 現在、ファームウェアのソース コードは [**marlin**](https://www.marlinfw.org) に基づいています。
@@ -557,13 +557,13 @@ G コードとは、3D プリンターが 3 次元オブジェクトを印刷す
 - :book: [**Z8P のトラブルシューティング**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### アップグレード可能な機能
-- **SD カード エクステンダー :+1::+1:**    
+- **SD カード エクステンダー :+1:**    
 このアイテムをアップグレードすると、SD カードへのアクセス (抜き差し) が容易になります。 [:gift:購入](https://www.aliexpress.com/item/1005005342958433.html)
-- **フィラメント切れセンサー :+1::+1:**    
+- **フィラメント切れセンサー :+1:**    
 このアイテムをアップグレードすると、3D プリンターを遠隔操作できるようになります。 **[:book: ユーザーガイド][guide_FROD]** [:gift:購入](https://www.aliexpress.com/item/4001309957376.html)
-- **WiFi ワイヤレス制御モジュール  :+1::+1:**    
+- **WiFi ワイヤレス制御モジュール :+1:**    
 このアイテムをアップグレードすると、3D プリンターを遠隔操作できるようになります。 **[:book: ユーザーガイド][guide_WIFI]** [:gift:購入](https://www.aliexpress.com/item/1005002378551489.html)
-- **非混合カラーホットエンド :+1::+1:**    
+- **非混合カラーホットエンド :+1:**    
 このアイテムをアップグレードすると、多色モデルを印刷するためのカラープライムタワーのサイズが大幅に小さくなります。 **[:book: ユーザーガイド][guide_E4]** [:gift:購入](https://www.aliexpress.com/item/1005002951777699.html)
 - **ダイレクトドライブ押出機 :+1:**    
 このプロジェクトをアップグレードすると、柔軟な素材 (TPU フィラメントなど) を印刷できるようになります。 **[:book: ユーザーガイド][guide_DDE]** [:gift:購入](https://www.aliexpress.com/item/1005002847644867.html)
@@ -595,12 +595,12 @@ G コードとは、3D プリンターが 3 次元オブジェクトを印刷す
 - **[:book: 기본 조작 가이드][Operation_Guide]**
 - **[:book: M4V6 믹스 컬러 핫엔드 사용자 가이드][M4V6_Guide]**
 - **고급 기능**
-   - **[자동 종료:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[혼합 컬러 인쇄:book:][mix_color]**
-   - **[침대 자동 레벨링:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[정전 복구:clapper:](https://youtu.be/f-PpasByiiE)**
-   - **[자동 철회:도서:][Auto_Retraction]**
-- **[:book:PC에서 인쇄][PrintFromPC]**
+   - **[자동 종료 :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[혼합 컬러 인쇄 :book:][mix_color]**
+   - **[침대 자동 레벨링 :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[정전 복구 :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[자동 철회 :book:][Auto_Retraction]**
+- **[:book: PC에서 인쇄][PrintFromPC]**
   
 ### :file_folder: [3.테스트 Gcode 파일 인쇄][Test_gcode]
 #### :arrow_down: [테스트 gcode 파일 다운로드][Test_gcode]
@@ -619,8 +619,8 @@ G-code는 3D 프린터가 3차원 물체를 출력하기 위해 필요한 정보
 #### :arrow_down: [인쇄 부품 stl 파일 다운로드][PrintParts]
 
 ### :link: [6.펌웨어](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:펌웨어 빈 파일](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:펌웨어 소스 코드](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: 펌웨어 빈 파일](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: 펌웨어 소스 코드](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: bin 파일과 소스 코드가 무엇인가요?
 > **펌웨어 빈 파일**은 내장 플래시에 기록되는 정확한 메모리입니다.
 > **펌웨어 소스코드**는 펌웨어의 핵심 부분입니다. 전체 펌웨어는 서로 다른 하위 모듈로 간주될 수 있습니다. 여러 개의 하위 파일로 나누어져 있습니다. 이러한 파일을 소스 파일이라고 합니다. 그리고 전체 프로그램 파일을 소스파일 또는 소스코드라고 합니다. 이제 우리의 펌웨어 소스 코드는 [**marlin**](https://www.marlinfw.org)을 기반으로 합니다.
@@ -629,13 +629,13 @@ G-code는 3D 프린터가 3차원 물체를 출력하기 위해 필요한 정보
 - :book: [**Z8P 문제 해결**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### 업그레이드 가능한 기능
-- **SD 카드 확장기 :+1::+1:**     
+- **SD 카드 확장기 :+1:**     
 이 항목을 업그레이드하면 SD 카드에 더 쉽게 액세스(플러그/플러그 해제)할 수 있습니다. [:gift:구매](https://www.aliexpress.com/item/1005005342958433.html)
-- **필라멘트 소진 센서 :+1::+1:**    
+- **필라멘트 소진 센서 :+1:**    
 이 항목을 업그레이드하면 3D 프린터를 원격으로 제어할 수 있습니다. **[:book: 사용 설명서][guide_FROD]** [:gift:구매](https://www.aliexpress.com/item/4001309957376.html)  
-- **WiFi 무선 제어 모듈  :+1::+1:**    
+- **WiFi 무선 제어 모듈  :+1:**    
 이 항목을 업그레이드하면 3D 프린터를 원격으로 제어할 수 있습니다. **[:book: 사용 설명서][guide_WIFI]** [:gift:구매](https://www.aliexpress.com/item/1005002378551489.html)
-- **비혼합 색상 핫엔드  :+1::+1:**    
+- **비혼합 색상 핫엔드  :+1:**    
 이 항목을 업그레이드하면 멀티 컬러 모델 프린팅을 위한 컬러 프라임 타워의 크기가 훨씬 작아집니다. **[:book: 사용 설명서][guide_E4]** [:gift:구매](https://www.aliexpress.com/item/1005002951777699.html)
 - **직접 구동 압출기 :+1:**    
 이 프로젝트를 업그레이드하면 유연한 소재(예: TPU 필라멘트)를 프린트할 수 있습니다. **[:book: 사용 설명서][guide_DDE]** [:gift:구매](https://www.aliexpress.com/item/1005002847644867.html)
@@ -707,13 +707,13 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ------
 ### Upgradable Features
-- **SD Card Extender :+1::+1:**    
+- **SD Card Extender :+1:**    
 By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
-- **Filament run out sensor :+1::+1:**    
+- **Filament run out sensor :+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
-- **WiFi wireless control module  :+1::+1:**    
+- **WiFi wireless control module  :+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
-- **Non mix color hotend  :+1::+1:**   
+- **Non mix color hotend  :+1:**   
 By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift: Buy](https://www.aliexpress.com/item/1005002951777699.html)   
 - **Direct drive extruder :+1:**     
 By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift: Buy](https://www.aliexpress.com/item/1005002847644867.html)    

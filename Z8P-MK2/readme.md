@@ -66,13 +66,13 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 - :book: [**TroubleShootings for Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Upgradable Features
-- **SD Card Extender:+1::+1:**    
+- **SD Card Extender :+1::+1:**    
 By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
-- **Filament run out sensor:+1::+1:**    
+- **Filament run out sensor :+1::+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
-- **WiFi wireless control module :+1::+1:**    
+- **WiFi wireless control module  :+1::+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
-- **Non mix color hotend :+1::+1:**   
+- **Non mix color hotend  :+1::+1:**   
 By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift: Buy](https://www.aliexpress.com/item/1005002951777699.html)   
 - **Direct drive extruder :+1:**     
 By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift: Buy](https://www.aliexpress.com/item/1005002847644867.html)    
@@ -136,15 +136,15 @@ Slicing es un software que todo el mundo utiliza al crear objetos y productos en
 - :book: [**Solución de problemas para Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Funciones actualizables
-- **Extensor de tarjeta SD:+1::+1:**    
+- **Extensor de tarjeta SD :+1::+1:**    
 Al actualizar este elemento, es más fácil acceder (conectar/desconectar) la tarjeta SD. [:gift:Comprar](https://www.aliexpress.com/item/1005005342958433.html)
-- **Sensor de filamento agotado:+1::+1:**    
+- **Sensor de filamento agotado :+1::+1:**    
 Al actualizar este artículo, podrá controlar de forma remota su impresora 3D. **[:book: Guía del usuario][guide_FROD]** [:gift:Comprar](https://www.aliexpress.com/item/4001309957376.html)
 - **Módulo de control inalámbrico WiFi :+1::+1:**    
 Al actualizar este artículo, podrá controlar de forma remota su impresora 3D. **[:book: Guía del usuario][guide_WIFI]** [:gift:Comprar](https://www.aliexpress.com/item/1005002378551489.html)
 - **Hotend sin mezcla de colores :+1::+1:**
 Al actualizar este elemento, el tamaño de la torre de color principal para imprimir modelos multicolores es mucho más pequeño. **[:book: Guía del usuario][guide_E4]** [:gift:Comprar](https://www.aliexpress.com/item/1005002951777699.html)
-- **Extrusora de accionamiento directo:+1:**    
+- **Extrusora de accionamiento directo :+1:**    
 Al actualizar este proyecto, podrá imprimir materiales flexibles (como el filamento de TPU). **[:book: Guía del usuario][guide_DDE]** [:gift:Comprar](https://www.aliexpress.com/item/1005002847644867.html)
 - **Motor láser**    
 Al actualizar este artículo, puede convertir su impresora 3D en una simple máquina de grabado láser. Los módulos láser de mayor potencia pueden mejorar la velocidad de grabado o soportar materiales con un punto de fusión más alto. **[:book: Guía del usuario][guide_Laser]** [:gift:Comprar](https://www.aliexpress.com/item/1005004908160260.html)
@@ -206,13 +206,13 @@ Slicing é um software que todos usam ao criar objetos e produtos em uma impress
 - :book: [**Soluções de problemas para Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Recursos atualizáveis  
-- **Extensor de cartão SD:+1::+1:**    
+- **Extensor de cartão SD :+1::+1:**    
 Ao atualizar este item, fica mais fácil acessar (Conectar/Desconectar) o cartão SD. [:gift:Comprar](https://www.aliexpress.com/item/1005005342958433.html)
-- **Sensor de esgotamento de filamento:+1::+1:**   
+- **Sensor de esgotamento de filamento :+1::+1:**   
 Ao atualizar este item, você pode controlar remotamente sua impressora 3D. **[:book: Guia do usuário][guide_FROD]** [:gift:Comprar](https://www.aliexpress.com/item/4001309957376.html)
-- **Módulo de controle sem fio WiFi :+1::+1:**    
+- **Módulo de controle sem fio WiFi  :+1::+1:**    
 Ao atualizar este item, você pode controlar remotamente sua impressora 3D. **[:book: Guia do usuário][guide_WIFI]** [:gift:Comprar](https://www.aliexpress.com/item/1005002378551489.html)  
-- **Hotend de cores sem mistura :+1::+1:**   
+- **Hotend de cores sem mistura  :+1::+1:**   
 Ao atualizar este item, o tamanho da torre principal colorida para impressão de modelos multicoloridos é muito menor. **[:book: Guia do usuário][guide_E4]** [:gift:Comprar](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extrusora de acionamento direto :+1:**   
 Ao atualizar este projeto, você pode imprimir materiais flexíveis (como filamento TPU). **[:book: Guia do usuário][guide_DDE]** [:gift:Comprar](https://www.aliexpress.com/item/1005002847644867.html)
@@ -277,11 +277,11 @@ Slicing est un logiciel que tout le monde utilise pour créer des objets et des 
 ### Fonctionnalités évolutives
 - **Extension de carte SD :+1 ::+1 :**   
 En mettant à niveau cet élément, il est plus facile d'accéder (brancher/débrancher) à la carte SD. [:gift: Acheter](https://www.aliexpress.com/item/1005005342958433.html)
-- **Capteur d'épuisement du filament :+1::+1:**   
+- **Capteur d'épuisement du filament  :+1::+1:**   
 En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_FROD]** [:gift: Acheter](https://www.aliexpress.com/item/4001309957376.html)
-- **Module de contrôle sans fil WiFi :+1::+1:**   
+- **Module de contrôle sans fil WiFi  :+1::+1:**   
 En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_WIFI]** [:gift: Acheter](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend de couleurs non mélangées :+1::+1:**   
+- **Hotend de couleurs non mélangées  :+1::+1:**   
 En mettant à niveau cet élément, la taille de la tour Color Prime pour l'impression de modèles multicolores est beaucoup plus petite. **[:book: Guide][guide_E4]** [:gift: Acheter](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extrudeuse à entraînement direct :+1:**   
 En mettant à niveau ce projet, vous pouvez imprimer des matériaux flexibles (tels que le filament TPU). **[:book: Guide][guide_DDE]** [:gift: Acheter](https://www.aliexpress.com/item/1005002847644867.html)
@@ -345,13 +345,13 @@ Slicing ist eine Software, die jeder beim Erstellen von Objekten und Produkten a
 - :book: [**Fehlerbehebung für Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Aktualisierbare Funktionen
-- **SD-Karten-Extender:+1::+1:**   
+- **SD-Karten-Extender :+1::+1:**   
 Durch die Aktualisierung dieses Elements ist es einfacher, auf die SD-Karte zuzugreifen (ein-/ausstecken). [:gift: Kaufen](https://www.aliexpress.com/item/1005005342958433.html)
-- **Filament-Auslaufsensor:+1::+1:**   
+- **Filament-Auslaufsensor :+1::+1:**   
 Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_FROD]** [:gift: Kaufen](https://www.aliexpress.com/item/4001309957376.html)
-- **WiFi-Funksteuermodul :+1::+1:**   
+- **WiFi-Funksteuermodul  :+1::+1:**   
 Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_WIFI]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend ohne Mischfarbe :+1::+1:**   
+- **Hotend ohne Mischfarbe  :+1::+1:**   
 Durch die Aufrüstung dieses Artikels ist die Größe des Color Prime Tower zum Drucken von Mehrfarbenmodellen viel kleiner. **[:book: Benutzerhandbuch][guide_E4]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extruder mit Direktantrieb :+1:**   
 Durch die Aktualisierung dieses Projekts können Sie flexible Materialien (z. B. TPU-Filament) drucken. **[:book: Benutzerhandbuch][guide_DDE]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002847644867.html)
@@ -415,13 +415,13 @@ Lo slicing è un software che tutti utilizzano quando creano oggetti e prodotti 
 - :book: [**Risoluzione dei problemi per Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Funzionalità aggiornabili
-- **Estensore scheda SD:+1::+1:**    
+- **Estensore scheda SD :+1::+1:**    
 Aggiornando questo elemento, sarà più semplice accedere (collegare/scollegare) alla scheda SD. [:gift:Acquista](https://www.aliexpress.com/item/1005005342958433.html)
-- **Sensore esaurimento filamento:+1::+1:**    
+- **Sensore esaurimento filamento :+1::+1:**    
 Aggiornando questo articolo, puoi controllare a distanza la tua stampante 3D. **[:book: Guida per l'utente][guide_FROD]** [:gift:Acquista](https://www.aliexpress.com/item/4001309957376.html)
-- **Modulo di controllo wireless WiFi :+1::+1:**    
+- **Modulo di controllo wireless WiFi  :+1::+1:**    
 Aggiornando questo articolo, puoi controllare a distanza la tua stampante 3D. **[:book: Guida per l'utente][guide_WIFI]** [:gift:Acquista](https://www.aliexpress.com/item/1005002378551489.html)
-- **Hotend a colori non misti:+1::+1:**    
+- **Hotend a colori non misti :+1::+1:**    
 Aggiornando questo articolo, la dimensione della torre Color Prime per la stampa di modelli multicolore sarà molto più piccola. **[:book: Guida per l'utente][guide_E4]** [:gift:Acquista](https://www.aliexpress.com/item/1005002951777699.html)
 - **Estrusore a trasmissione diretta:+1:**     
 Aggiornando questo progetto, puoi stampare materiali flessibili (come il filamento TPU). **[:book: Guida per l'utente][guide_DDE]** [:gift:Acquista](https://www.aliexpress.com/item/1005002847644867.html)
@@ -485,13 +485,13 @@ G-код — это информация или инструкции, котор
 - :book: [**Устранение неполадок для Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Обновляемые функции
-- **Удлинитель SD-карты:+1::+1:**    
+- **Удлинитель SD-карты :+1::+1:**    
 Обновив этот элемент, вы облегчите доступ (подключение/отключение) к SD-карте. [:gift:Купить](https://www.aliexpress.com/item/1005005342958433.html)
-- **Датчик окончания нити:+1::+1:**    
+- **Датчик окончания нити :+1::+1:**    
 Обновив этот предмет, вы сможете удаленно управлять своим 3D-принтером. **[:book: Руководство пользователя][guide_FROD]** [:gift:Купить](https://www.aliexpress.com/item/4001309957376.html)
-- **Беспроводной модуль управления Wi-Fi :+1::+1:**   
+- **Беспроводной модуль управления Wi-Fi  :+1::+1:**   
 Обновив этот предмет, вы сможете удаленно управлять своим 3D-принтером. **[:book: Руководство пользователя][guide_WIFI]** [:gift:Купить](https://www.aliexpress.com/item/1005002378551489.html)
-- **Хотенд без смешивания цветов :+1::+1:**    
+- **Хотенд без смешивания цветов  :+1::+1:**    
 Благодаря обновлению этого элемента размер основной цветной башни для печати многоцветных моделей стал намного меньше. **[:book: Руководство пользователя][guide_E4]** [:gift:Купить](https://www.aliexpress.com/item/1005002951777699.html)
 - **Экструдер с прямым приводом :+1:**    
 Обновив этот проект, вы сможете печатать гибкие материалы (например, нить ТПУ). **[:book: Руководство пользователя][guide_DDE]** [:gift:Купить](https://www.aliexpress.com/item/1005002847644867.html)
@@ -557,13 +557,13 @@ G コードとは、3D プリンターが 3 次元オブジェクトを印刷す
 - :book: [**Z8P のトラブルシューティング**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### アップグレード可能な機能
-- **SD カード エクステンダー:+1::+1:**    
+- **SD カード エクステンダー :+1::+1:**    
 このアイテムをアップグレードすると、SD カードへのアクセス (抜き差し) が容易になります。 [:gift:購入](https://www.aliexpress.com/item/1005005342958433.html)
-- **フィラメント切れセンサー:+1::+1:**    
+- **フィラメント切れセンサー :+1::+1:**    
 このアイテムをアップグレードすると、3D プリンターを遠隔操作できるようになります。 **[:book: ユーザーガイド][guide_FROD]** [:gift:購入](https://www.aliexpress.com/item/4001309957376.html)
-- **WiFi ワイヤレス制御モジュール :+1::+1:**    
+- **WiFi ワイヤレス制御モジュール  :+1::+1:**    
 このアイテムをアップグレードすると、3D プリンターを遠隔操作できるようになります。 **[:book: ユーザーガイド][guide_WIFI]** [:gift:購入](https://www.aliexpress.com/item/1005002378551489.html)
-- **非混合カラーホットエンド:+1::+1:**    
+- **非混合カラーホットエンド :+1::+1:**    
 このアイテムをアップグレードすると、多色モデルを印刷するためのカラープライムタワーのサイズが大幅に小さくなります。 **[:book: ユーザーガイド][guide_E4]** [:gift:購入](https://www.aliexpress.com/item/1005002951777699.html)
 - **ダイレクトドライブ押出機 :+1:**    
 このプロジェクトをアップグレードすると、柔軟な素材 (TPU フィラメントなど) を印刷できるようになります。 **[:book: ユーザーガイド][guide_DDE]** [:gift:購入](https://www.aliexpress.com/item/1005002847644867.html)
@@ -629,13 +629,13 @@ G-code는 3D 프린터가 3차원 물체를 출력하기 위해 필요한 정보
 - :book: [**Z8P 문제 해결**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### 업그레이드 가능한 기능
-- **SD 카드 확장기:+1::+1:**     
+- **SD 카드 확장기 :+1::+1:**     
 이 항목을 업그레이드하면 SD 카드에 더 쉽게 액세스(플러그/플러그 해제)할 수 있습니다. [:gift:구매](https://www.aliexpress.com/item/1005005342958433.html)
-- **필라멘트 소진 센서:+1::+1:**    
+- **필라멘트 소진 센서 :+1::+1:**    
 이 항목을 업그레이드하면 3D 프린터를 원격으로 제어할 수 있습니다. **[:book: 사용 설명서][guide_FROD]** [:gift:구매](https://www.aliexpress.com/item/4001309957376.html)  
-- **WiFi 무선 제어 모듈 :+1::+1:**    
+- **WiFi 무선 제어 모듈  :+1::+1:**    
 이 항목을 업그레이드하면 3D 프린터를 원격으로 제어할 수 있습니다. **[:book: 사용 설명서][guide_WIFI]** [:gift:구매](https://www.aliexpress.com/item/1005002378551489.html)
-- **비혼합 색상 핫엔드 :+1::+1:**    
+- **비혼합 색상 핫엔드  :+1::+1:**    
 이 항목을 업그레이드하면 멀티 컬러 모델 프린팅을 위한 컬러 프라임 타워의 크기가 훨씬 작아집니다. **[:book: 사용 설명서][guide_E4]** [:gift:구매](https://www.aliexpress.com/item/1005002951777699.html)
 - **직접 구동 압출기 :+1:**    
 이 프로젝트를 업그레이드하면 유연한 소재(예: TPU 필라멘트)를 프린트할 수 있습니다. **[:book: 사용 설명서][guide_DDE]** [:gift:구매](https://www.aliexpress.com/item/1005002847644867.html)
@@ -707,13 +707,13 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ------
 ### Upgradable Features
-- **SD Card Extender:+1::+1:**    
+- **SD Card Extender :+1::+1:**    
 By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
-- **Filament run out sensor:+1::+1:**    
+- **Filament run out sensor :+1::+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
-- **WiFi wireless control module :+1::+1:**    
+- **WiFi wireless control module  :+1::+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
-- **Non mix color hotend :+1::+1:**   
+- **Non mix color hotend  :+1::+1:**   
 By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift: Buy](https://www.aliexpress.com/item/1005002951777699.html)   
 - **Direct drive extruder :+1:**     
 By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift: Buy](https://www.aliexpress.com/item/1005002847644867.html)    

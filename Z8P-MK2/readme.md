@@ -38,11 +38,11 @@ We creat many video tutorials for this machine, please click [:clapper:**here**]
 - **[:book: Basic Operation Guide][Operation_Guide]**
 - **[:book: M4V6 Mix Color Hotend User Guide][M4V6_Guide]**
 - **Advance Features**
-  - **[Auto shut down:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-  - **[Mixing Color Printing:book:][mix_color]**
-  - **[Bed auto leveling:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-  - **[Power loss recovery:clapper:](https://youtu.be/f-PpasByiiE)**
-  - **[Auto retraction:book:][Auto_Retraction]**
+  - **[Auto shut down :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+  - **[Mixing Color Printing :book:][mix_color]**
+  - **[Bed auto leveling :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+  - **[Power loss recovery :clapper:](https://youtu.be/f-PpasByiiE)**
+  - **[Auto retraction :book:][Auto_Retraction]**
 - **[:book:Print from PC][PrintFromPC]**
   
 ### :file_folder: [3.Print Test Gcode Files][Test_gcode]

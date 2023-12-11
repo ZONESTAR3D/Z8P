@@ -11,10 +11,9 @@
 <!-- [![](./lanpic/SA.png)](#arabic) -->
 
 ------
-------
 ###### English
+------
 # Z8P-MK2 User Guide
-
 ------
 ## :warning: ATTENTION PLEASE
 ### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md) carefully.
@@ -89,8 +88,8 @@ By upgrading this item, you can turn your 3D printer into a simple laser engravi
 
 
 ------
-------
 ###### Spanish
+------
 # Guía del usuario Z8P-MK2 [:arrow_heading_up:](#choose-language)
 
 ------
@@ -166,8 +165,8 @@ Al actualizar este proyecto, podrá imprimir materiales flexibles (como el filam
 Al actualizar este artículo, puede convertir su impresora 3D en una simple máquina de grabado láser. Los módulos láser de mayor potencia pueden mejorar la velocidad de grabado o soportar materiales con un punto de fusión más alto. **[:book: Guía del usuario][guide_Laser]** [:gift:Comprar](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
-------
 ###### Portuguese
+------
 # Guia do usuário Z8P-MK2 [:arrow_heading_up:](#choose-language)
 
 ------
@@ -243,8 +242,8 @@ Ao atualizar este projeto, você pode imprimir materiais flexíveis (como filame
 Ao atualizar este item, você pode transformar sua impressora 3D em uma simples máquina de gravação a laser. Módulos de laser de maior potência podem melhorar a velocidade de gravação ou suportar materiais com ponto de fusão mais alto. **[:book: Guia do usuário][guide_Laser]** [:gift:Comprar](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
-------
 ###### French
+------
 # Guide de l'utilisateur du Z8P-MK2 [:arrow_heading_up:](#choose-language)
 
 ------
@@ -318,8 +317,8 @@ En mettant à niveau ce projet, vous pouvez imprimer des matériaux flexibles (t
 En mettant à niveau cet article, vous pouvez transformer votre imprimante 3D en une simple machine de gravure laser. Des modules laser de plus grande puissance peuvent améliorer la vitesse de gravure ou prendre en charge des matériaux ayant un point de fusion plus élevé. **[:book: Guide de l'utilisateur][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
-------
 ###### German
+------
 # Z8P-MK2-Benutzerhandbuch [:arrow_heading_up:](#choose-language)
 
 ------
@@ -395,8 +394,8 @@ Durch die Aktualisierung dieses Projekts können Sie flexible Materialien (z. B.
 Durch die Aufrüstung dieses Artikels können Sie Ihren 3D-Drucker in eine einfache Lasergravurmaschine verwandeln. Lasermodule mit höherer Leistung können die Gravurgeschwindigkeit verbessern oder Materialien mit höherem Schmelzpunkt unterstützen. **[:book: Benutzerhandbuch][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
-------
 ###### Italian
+------
 # Guida per l'utente Z8P-MK2 [:arrow_heading_up:](#choose-language)
 
 ------
@@ -472,8 +471,8 @@ Aggiornando questo progetto, puoi stampare materiali flessibili (come il filamen
 Aggiornando questo articolo, puoi trasformare la tua stampante 3D in una semplice macchina per incisione laser. I moduli laser ad alta potenza possono migliorare la velocità di incisione o supportare materiali con punto di fusione più elevato. **[:book: Guida per l'utente][guide_Laser]** [:gift:Acquista](https://www.aliexpress.com/item/1005004908160260.html)
 
 -----
------
 ###### Japanese
+-----
 # Z8P-MK2 ユーザーガイド [:arrow_heading_up:](#choose-language)
 
 ------
@@ -549,8 +548,8 @@ G コードとは、3D プリンターが 3 次元オブジェクトを印刷す
 このアイテムをアップグレードすると、3D プリンターを簡単なレーザー彫刻機に変えることができます。 より高出力のレーザー モジュールにより、彫刻速度が向上したり、より高い融点の材料をサポートしたりできます。 **[:book: ユーザーガイド][guide_Laser]** [:gift:購入](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
-------
 ###### Korea
+------
 # Z8P-MK2 사용설명서 [:arrow_heading_up:](#choose-language)
 
 ------
@@ -626,8 +625,8 @@ G-code는 3D 프린터가 3차원 물체를 출력하기 위해 필요한 정보
 이 아이템을 업그레이드하면 3D 프린터를 간단한 레이저 조각 기계로 바꿀 수 있습니다. 고출력 레이저 모듈은 조각 속도를 향상시키거나 융점이 더 높은 재료를 지원할 수 있습니다. **[:book: 사용 설명서][guide_Laser]** [:gift:구매](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
-------
 ###### Russian 
+------
 # Руководство пользователя Z8P-MK2 [:arrow_heading_up:](#choose-language)
 
 ------

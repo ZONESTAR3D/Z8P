@@ -108,7 +108,7 @@ Creamos muchos tutoriales en vídeo para esta máquina, haga clic en [:clapper:*
    - **[Impresión de mezcla de colores :book:][mix_color]**
    - **[Nivelación automática de la cama :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
    - **[Recuperación de pérdida de energía :clapper:](https://youtu.be/f-PpasByiiE)**
-   - **[Retracción automática :book:][Auto_Retracción]**
+   - **[Retracción automática :book:][Auto_Retraction]**
 - **[:book: Imprimir desde PC][PrintFromPC]**
   
 ### :file_folder: [3.Imprimir archivos de prueba Gcode][Test_gcode]

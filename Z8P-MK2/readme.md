@@ -24,7 +24,7 @@ We creat many video tutorials for this machine, please click [:clapper:**here**]
 
 ### :file_folder: [1.Installation Guide][INSTALLATION]
 - **[:book: Installation Guide][INSTALLATION]** 
-- **[:blue_book:Installation and Quick Use Guide PDF file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/Z8PMK2_Installation_and_quick_use_guide.pdf)**
+- **[:blue_book: Installation and Quick Use Guide PDF file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/Z8PMK2_Installation_and_quick_use_guide.pdf)**
 - **[:clapper: Installation Video Tutorial](https://youtu.be/-oieO7U0LCc)** 
 - **[:book: LCD screen menu description][LCD_MENU]**
 - **[:art: Wiring Block](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
@@ -39,7 +39,7 @@ We creat many video tutorials for this machine, please click [:clapper:**here**]
   - **[Bed auto leveling :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
   - **[Power loss recovery :clapper:](https://youtu.be/f-PpasByiiE)**
   - **[Auto retraction :book:][Auto_Retraction]**
-- **[:book:Print from PC][PrintFromPC]**
+- **[:book: Print from PC][PrintFromPC]**
   
 ### :file_folder: [3.Print Test Gcode Files][Test_gcode]
 #### :arrow_down: [Download test gcode file][Test_gcode]
@@ -56,8 +56,8 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 #### :arrow_down: [Download print parts stl files][PrintParts]
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**  
-- **[:arrow_down:Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**  
+- **[:arrow_down: Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: What is bin file and source code?
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
@@ -67,17 +67,17 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ### Upgradable Features
 - **SD Card Extender:+1::+1:**    
-By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift:Buy](https://www.aliexpress.com/item/1005005342958433.html)
+By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
 - **Filament run out sensor:+1::+1:**    
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift:Buy](https://www.aliexpress.com/item/4001309957376.html)   
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
 - **WiFi wireless control module :+1::+1:**    
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift:Buy](https://www.aliexpress.com/item/1005002378551489.html)    
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
 - **Non mix color hotend :+1::+1:**   
-By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift:Buy](https://www.aliexpress.com/item/1005002951777699.html)   
+By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift: Buy](https://www.aliexpress.com/item/1005002951777699.html)   
 - **Direct drive extruder :+1:**     
-By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift:Buy](https://www.aliexpress.com/item/1005002847644867.html)    
+By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift: Buy](https://www.aliexpress.com/item/1005002847644867.html)    
 - **Laser engine**     
-By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)    
+By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide][guide_Laser]** [:gift: Buy](https://www.aliexpress.com/item/1005004908160260.html)    
 
 ------
 ###### Spanish
@@ -94,7 +94,7 @@ Creamos muchos tutoriales en vídeo para esta máquina, haga clic en [:clapper:*
 
 ### :file_folder: [1.Guía de instalación][INSTALLATION]
 - **[:book: Guía de instalación][INSTALLATION]**
-- **[:blue_book:Archivo PDF de la Guía de instalación y uso rápido](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/Z8PMK2_Installation_and_quick_use_guide.pdf)**
+- **[:blue_book: Archivo PDF de la Guía de instalación y uso rápido](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/Z8PMK2_Installation_and_quick_use_guide.pdf)**
 - **[:clapper: Videotutorial de instalación](https://youtu.be/-oieO7U0LCc)**
 - **[:book: descripción del menú de la pantalla LCD][LCD_MENU]**
 - **[:art: Bloque de cableado](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
@@ -104,12 +104,12 @@ Creamos muchos tutoriales en vídeo para esta máquina, haga clic en [:clapper:*
 - **[:book: Guía de funcionamiento básico][Operation_Guide]**
 - **[:book: Guía del usuario del hotend M4V6 Mix Color][M4V6_Guide]**
 - **Funciones avanzadas**
-   - **[Apagado automático:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[Impresión de mezcla de colores:book:][mix_color]**
-   - **[Nivelación automática de la cama:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[Recuperación de pérdida de energía: claqueta:](https://youtu.be/f-PpasByiiE)**
-   - **[Retracción automática:book:][Auto_Retracción]**
-- **[:book:Imprimir desde PC][PrintFromPC]**
+   - **[Apagado automático :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[Impresión de mezcla de colores :book:][mix_color]**
+   - **[Nivelación automática de la cama :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[Recuperación de pérdida de energía :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[Retracción automática :book:][Auto_Retracción]**
+- **[:book: Imprimir desde PC][PrintFromPC]**
   
 ### :file_folder: [3.Imprimir archivos de prueba Gcode][Test_gcode]
 #### :arrow_down: [Descargar archivo gcode de prueba][Test_gcode]
@@ -126,8 +126,8 @@ Slicing es un software que todo el mundo utiliza al crear objetos y productos en
 #### :arrow_down: [Descargar archivos stl de piezas de impresión][PrintParts]
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:archivo bin de firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:Código fuente del firmware](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: archivo bin de firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: Código fuente del firmware](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: ¿Qué es el archivo bin y el código fuente?
 > **Archivo bin de firmware** es la memoria exacta que se escribe en la memoria flash integrada.
 > **El código fuente del firmware** es la parte central del firmware. Todo el firmware se puede considerar como submódulos diferentes. Está dividido en muchos subarchivos. Estos archivos se denominan archivos fuente. Y todos los archivos del programa se denominan archivo fuente o código fuente. Ahora nuestro código fuente de firmware se basa en [**marlin**](https://www.marlinfw.org).
@@ -174,12 +174,12 @@ Criamos muitos tutoriais em vídeo para esta máquina, clique em [:clapper:**aqu
 - **[:book: Guia Básico de Operação][Operation_Guide]**
 - **[:book: Guia do usuário do M4V6 Mix Color Hotend][M4V6_Guide]**
 - **Recursos avançados**
-   - **[Desligamento automático:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[Mistura de impressão em cores:book:][mix_color]**
-   - **[Nivelamento automático da cama:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[Recuperação de perda de energia:clapper:](https://youtu.be/f-PpasByiiE)**
-   - **[Retração automática:book:][Auto_Retraction]**
-- **[:book:Imprimir do PC][PrintFromPC]**
+   - **[Desligamento automático :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[Mistura de impressão em cores :book:][mix_color]**
+   - **[Nivelamento automático da cama :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[Recuperação de perda de energia :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[Retração automática :book:][Auto_Retraction]**
+- **[:book: Imprimir do PC][PrintFromPC]**
   
 ### :file_folder: [3.Imprimir arquivos Gcode de teste][Test_gcode]
 #### :arrow_down: [Baixar arquivo gcode de teste][Test_gcode]
@@ -196,8 +196,8 @@ Slicing é um software que todos usam ao criar objetos e produtos em uma impress
 #### :arrow_down: [Baixar arquivos stl das peças de impressão][PrintParts]
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:Arquivo bin do firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:Código-fonte do firmware](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: Arquivo bin do firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: Código-fonte do firmware](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: O que é arquivo bin e código fonte?
 > **Arquivo bin de firmware** é a memória exata gravada na memória flash incorporada.
 > **Código-fonte do firmware** é a parte central do firmware. Todo o firmware pode ser considerado como diferentes submódulos. Ele está dividido em vários subarquivos. Esses arquivos são chamados de arquivos de origem. E todos os arquivos do programa são chamados de arquivo fonte ou código fonte. Agora nosso código fonte de firmware é baseado em [**marlin**](https://www.marlinfw.org).
@@ -244,11 +244,11 @@ Nous créons de nombreux didacticiels vidéo pour cette machine, veuillez clique
 - **[:book: Guide de l'utilisateur du M4V6 Mix Color Hotend][M4V6_Guide]**
 - **Fonctionnalités avancées**
    - **[Arrêt automatique :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[Mélange d'impression couleur:book:][mix_color]**
-   - **[Niveau automatique du lit:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[Récupération après perte de puissance:clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[Mélange d'impression couleur :book:][mix_color]**
+   - **[Niveau automatique du lit :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[Récupération après perte de puissance :clapper:](https://youtu.be/f-PpasByiiE)**
    - **[Rétraction automatique:book:][Auto_Retraction]**
-- **[:book:Imprimer depuis un PC][PrintFromPC]**
+- **[:book: Imprimer depuis un PC][PrintFromPC]**
   
 ### :file_folder: [3.Imprimer les fichiers Gcode de test][Test_gcode]
 #### :arrow_down: [Télécharger le fichier gcode de test][Test_gcode]
@@ -265,8 +265,8 @@ Slicing est un logiciel que tout le monde utilise pour créer des objets et des 
 #### :arrow_down: [Télécharger les fichiers stl des pièces d'impression][PrintParts]
 
 ### :link: [6.Firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2)
-- **[:arrow_down:Fichier bin du micrologiciel](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
-- **[:arrow_down:Code source du micrologiciel](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
+- **[:arrow_down: Fichier bin du micrologiciel](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro-MK2).**
+- **[:arrow_down: Code source du micrologiciel](https://github.com/ZONESTAR3D/source-code-for-3d-printer).**
 #### :pencil: Qu'est-ce que le fichier bin et le code source ?
 > **Le fichier bin du micrologiciel** est la mémoire exacte qui est écrite sur la mémoire flash intégrée.
 > **Le code source du micrologiciel** est la partie essentielle du micrologiciel. L'ensemble du micrologiciel peut être considéré comme différents sous-modules. Il est divisé en plusieurs sous-fichiers. Ces fichiers sont appelés fichiers sources. Et tous les fichiers du programme sont appelés fichier source ou code source. Désormais, le code source de notre firmware est basé sur [**marlin**](https://www.marlinfw.org).
@@ -278,15 +278,15 @@ Slicing est un logiciel que tout le monde utilise pour créer des objets et des 
 - **Extension de carte SD :+1 ::+1 :**   
 En mettant à niveau cet élément, il est plus facile d'accéder (brancher/débrancher) à la carte SD. [:gift: Acheter](https://www.aliexpress.com/item/1005005342958433.html)
 - **Capteur d'épuisement du filament :+1::+1:**   
-En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide utilisateur][guide_FROD]** [:gift:Buy](https://www.aliexpress.com/item/4001309957376.html)
+En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_FROD]** [:gift: Acheter](https://www.aliexpress.com/item/4001309957376.html)
 - **Module de contrôle sans fil WiFi :+1::+1:**   
-En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide de l'utilisateur][guide_WIFI]** [:gift:Buy](https://www.aliexpress.com/item/1005002378551489.html)
+En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_WIFI]** [:gift: Acheter](https://www.aliexpress.com/item/1005002378551489.html)
 - **Hotend de couleurs non mélangées :+1::+1:**   
-En mettant à niveau cet élément, la taille de la tour Color Prime pour l'impression de modèles multicolores est beaucoup plus petite. **[:book: Guide de l'utilisateur][guide_E4]** [:gift:Buy](https://www.aliexpress.com/item/1005002951777699.html)
+En mettant à niveau cet élément, la taille de la tour Color Prime pour l'impression de modèles multicolores est beaucoup plus petite. **[:book: Guide][guide_E4]** [:gift: Acheter](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extrudeuse à entraînement direct :+1:**   
-En mettant à niveau ce projet, vous pouvez imprimer des matériaux flexibles (tels que le filament TPU). **[:book: Guide de l'utilisateur][guide_DDE]** [:gift:Buy](https://www.aliexpress.com/item/1005002847644867.html)
+En mettant à niveau ce projet, vous pouvez imprimer des matériaux flexibles (tels que le filament TPU). **[:book: Guide][guide_DDE]** [:gift: Acheter](https://www.aliexpress.com/item/1005002847644867.html)
 - **Moteur laser**    
-En mettant à niveau cet article, vous pouvez transformer votre imprimante 3D en une simple machine de gravure laser. Des modules laser de plus grande puissance peuvent améliorer la vitesse de gravure ou prendre en charge des matériaux ayant un point de fusion plus élevé. **[:book: Guide de l'utilisateur][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)
+En mettant à niveau cet article, vous pouvez transformer votre imprimante 3D en une simple machine de gravure laser. Des modules laser de plus grande puissance peuvent améliorer la vitesse de gravure ou prendre en charge des matériaux ayant un point de fusion plus élevé. **[:book: Guide][guide_Laser]** [:gift: Acheter](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
 ###### German
@@ -313,12 +313,12 @@ Wir erstellen viele Video-Tutorials für diese Maschine. Klicken Sie zum Ansehen
 - **[:book: Basic Operation Guide][Operation_Guide]**
 - **[:book: M4V6 Mix Color Hotend-Benutzerhandbuch][M4V6_Guide]**
 - **Erweiterte Funktionen**
-   - **[Automatisches Herunterfahren:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[Farbdruck mischen:book:][mix_color]**
-   - **[Automatische Bettnivellierung:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[Wiederherstellung nach Stromausfall:clapper:](https://youtu.be/f-PpasByiiE)**
-   - **[Auto Retraction:book:][Auto_Retraction]**
-- **[:book:Drucken vom PC][PrintFromPC]**
+   - **[Automatisches Herunterfahren :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[Farbdruck mischen :book:][mix_color]**
+   - **[Automatische Bettnivellierung :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[Wiederherstellung nach Stromausfall :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[Auto Retraction :book:][Auto_Retraction]**
+- **[:book: Drucken vom PC][PrintFromPC]**
   
 ### :file_folder: [3.Test-Gcode-Dateien drucken][Test_gcode]
 #### :arrow_down: [Test-Gcode-Datei herunterladen][Test_gcode]
@@ -346,17 +346,17 @@ Slicing ist eine Software, die jeder beim Erstellen von Objekten und Produkten a
 
 ### Aktualisierbare Funktionen
 - **SD-Karten-Extender:+1::+1:**   
-Durch die Aktualisierung dieses Elements ist es einfacher, auf die SD-Karte zuzugreifen (ein-/ausstecken). [:gift:Kaufen](https://www.aliexpress.com/item/1005005342958433.html)
+Durch die Aktualisierung dieses Elements ist es einfacher, auf die SD-Karte zuzugreifen (ein-/ausstecken). [:gift: Kaufen](https://www.aliexpress.com/item/1005005342958433.html)
 - **Filament-Auslaufsensor:+1::+1:**   
-Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_FROD]** [:gift:Buy](https://www.aliexpress.com/item/4001309957376.html)
+Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_FROD]** [:gift: Kaufen](https://www.aliexpress.com/item/4001309957376.html)
 - **WiFi-Funksteuermodul :+1::+1:**   
-Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_WIFI]** [:gift:Buy](https://www.aliexpress.com/item/1005002378551489.html)
+Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_WIFI]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002378551489.html)
 - **Hotend ohne Mischfarbe :+1::+1:**   
-Durch die Aufrüstung dieses Artikels ist die Größe des Color Prime Tower zum Drucken von Mehrfarbenmodellen viel kleiner. **[:book: Benutzerhandbuch][guide_E4]** [:gift:Buy](https://www.aliexpress.com/item/1005002951777699.html)
+Durch die Aufrüstung dieses Artikels ist die Größe des Color Prime Tower zum Drucken von Mehrfarbenmodellen viel kleiner. **[:book: Benutzerhandbuch][guide_E4]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002951777699.html)
 - **Extruder mit Direktantrieb :+1:**   
-Durch die Aktualisierung dieses Projekts können Sie flexible Materialien (z. B. TPU-Filament) drucken. **[:book: Benutzerhandbuch][guide_DDE]** [:gift:Buy](https://www.aliexpress.com/item/1005002847644867.html)
+Durch die Aktualisierung dieses Projekts können Sie flexible Materialien (z. B. TPU-Filament) drucken. **[:book: Benutzerhandbuch][guide_DDE]** [:gift: Kaufen](https://www.aliexpress.com/item/1005002847644867.html)
 - **Lasermotor**   
-Durch die Aufrüstung dieses Artikels können Sie Ihren 3D-Drucker in eine einfache Lasergravurmaschine verwandeln. Lasermodule mit höherer Leistung können die Gravurgeschwindigkeit verbessern oder Materialien mit höherem Schmelzpunkt unterstützen. **[:book: Benutzerhandbuch][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)
+Durch die Aufrüstung dieses Artikels können Sie Ihren 3D-Drucker in eine einfache Lasergravurmaschine verwandeln. Lasermodule mit höherer Leistung können die Gravurgeschwindigkeit verbessern oder Materialien mit höherem Schmelzpunkt unterstützen. **[:book: Benutzerhandbuch][guide_Laser]** [:gift: Kaufen](https://www.aliexpress.com/item/1005004908160260.html)
 
 ------
 ###### Italian
@@ -383,12 +383,12 @@ Creiamo molti tutorial video per questa macchina, fai clic su [:clapper:**qui**]
 - **[:book: Guida operativa di base][Operation_Guide]**
 - **[:book: Guida per l'utente dell'hotend M4V6 Mix Color][M4V6_Guide]**
 - **Funzionalità avanzate**
-   - **[Spegnimento automatico:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[Stampa a colori misti:book:][mix_color]**
-   - **[Livellamento automatico letto:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[Recupero perdita di potenza:batacchio:](https://youtu.be/f-PpasByiiE)**
-   - **[Ritiro automatico:book:][Auto_Retraction]**
-- **[:book:Stampa da PC][PrintFromPC]**
+   - **[Spegnimento automatico :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[Stampa a colori misti :book:][mix_color]**
+   - **[Livellamento automatico letto :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[Recupero perdita di potenza :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[Ritiro automatico :book:][Auto_Retraction]**
+- **[:book: Stampa da PC][PrintFromPC]**
   
 ### :file_folder: [3.Stampa file Gcode di prova][Test_gcode]
 #### :arrow_down: [Scarica file gcode di prova][Test_gcode]
@@ -453,12 +453,12 @@ Aggiornando questo articolo, puoi trasformare la tua stampante 3D in una semplic
 - **[:book: Основное руководство по эксплуатации][Operation_Guide]**
 - **[:book: Руководство пользователя M4V6 Mix Color Hotend][M4V6_Guide]**
 - **Расширенные функции**
-   - **[Автовыключение:book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
-   - **[Смешение цветной печати:book:][mix_color]**
-   - **[Автовыравнивание кровати:book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
-   - **[Восстановление потери питания:clapper:](https://youtu.be/f-PpasByiiE)**
-   - **[Автоматическое втягивание:book:][Auto_Retraction]**
-- **[:book:Печать с ПК][PrintFromPC]**
+   - **[Автовыключение :book:][auto_shutdown] [:clapper:](https://youtu.be/SJLpmJL-tG4)**
+   - **[Смешение цветной печати :book:][mix_color]**
+   - **[Автовыравнивание кровати :book:][auto_leveling] [:clapper:](https://youtu.be/Zoyl6PybsUk)**
+   - **[Восстановление потери питания :clapper:](https://youtu.be/f-PpasByiiE)**
+   - **[Автоматическое втягивание :book:][Auto_Retraction]**
+- **[:book: Печать с ПК][PrintFromPC]**
 
 ### :file_folder: [3.Печать тестовых файлов Gcode][Test_gcode]
 #### :arrow_down: [Загрузить тестовый файл gcode][Test_gcode]
@@ -708,17 +708,17 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 ------
 ### Upgradable Features
 - **SD Card Extender:+1::+1:**    
-By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift:Buy](https://www.aliexpress.com/item/1005005342958433.html)
+By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
 - **Filament run out sensor:+1::+1:**    
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift:Buy](https://www.aliexpress.com/item/4001309957376.html)   
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
 - **WiFi wireless control module :+1::+1:**    
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift:Buy](https://www.aliexpress.com/item/1005002378551489.html)    
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
 - **Non mix color hotend :+1::+1:**   
-By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift:Buy](https://www.aliexpress.com/item/1005002951777699.html)   
+By upgrading this item, the size of the color prime tower for printing multi-color models is much smaller. **[:book: User guide][guide_E4]** [:gift: Buy](https://www.aliexpress.com/item/1005002951777699.html)   
 - **Direct drive extruder :+1:**     
-By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift:Buy](https://www.aliexpress.com/item/1005002847644867.html)    
+By upgrading this project, you can print flexible materials (such as TPU filament). **[:book: User guide][guide_DDE]** [:gift: Buy](https://www.aliexpress.com/item/1005002847644867.html)    
 - **Laser engine**     
-By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide][guide_Laser]** [:gift:Buy](https://www.aliexpress.com/item/1005004908160260.html)     -->
+By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point. **[:book: User guide][guide_Laser]** [:gift: Buy](https://www.aliexpress.com/item/1005004908160260.html)     -->
 
 -----
 [step_by_step_guide]: https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step.md

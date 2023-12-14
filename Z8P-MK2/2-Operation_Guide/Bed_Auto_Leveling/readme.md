@@ -49,7 +49,7 @@ NOTE: After do these 2 steps, the printer will apply stored leveling correction 
 ### Auto leveling the bed before each printing
 If you want the printer do bed auto leveling for each printing, you need to add a "G29" command in the "Start Gcode" of printer settings of the slicing software.     
 ![](7.png)      
-##### :pushpin: Please Note:
+##### :pushpin: Please Note
 1. Using G29 only replaces the functionality in step 3, so you also need to manually complete steps 1 and steps 2.
 2. Once you manually adjust the screws which fixed the heat bed, replace a hot end, adjust the Leveling sensor height, and other actions that may cause changes the value of "Z Probe Offset", you also need to repeat the steps 1 and steps 2 manually.
 

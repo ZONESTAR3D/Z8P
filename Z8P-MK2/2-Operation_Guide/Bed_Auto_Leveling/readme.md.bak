@@ -1,4 +1,4 @@
-﻿## Bed Auto leveling User Guide
+## Bed Auto leveling User Guide
 #### :warning: Please note
 1. Please check if you have adjusted the eccentric column on the machine as mentioned in the installation manual. To ensure that the product will not be damaged during transportation, we adjust the eccentric column to a relatively loose position at the factory. You need to adjust them, especially the eccentric column of the hot bed bracket (as shown in the far left picture), to ensure that the hot bed does not have significant shaking.
 2. After adjusting the eccentric column, be sure to follow these three steps: Level Corners>>Catch Probe Z offset>>Bed Leveling.

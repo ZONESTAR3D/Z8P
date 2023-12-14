@@ -1,12 +1,12 @@
 ## Bed Auto leveling User Guide
-#### :warning: Please note:
+#### :warning: Please note
 1. Please check if you have adjusted the eccentric column on the machine as mentioned in the installation manual. To ensure that the product will not be damaged during transportation, we adjust the eccentric column to a relatively loose position at the factory. You need to adjust them, especially the eccentric column of the hot bed bracket (as shown in the far left picture), to ensure that the hot bed does not have significant shaking.
 2. After adjusting the eccentric column, be sure to follow these three steps: Level Corners>>Catch Probe Z offset>>Bed Leveling.
 3. When printing for the first time after completing automatic leveling, you need to adjust the Z offset when printing the first layer (the cursor points to the Tune menu, then press the knob twice to pop up a BabySteps menu, observe the height between the nozzle and the hot bed, and rotate the knob to adjust to the appropriate position). Once the adjustment is completed, you do not need to make any further adjustments during the next printing.
 4. Once you manually adjust the screws which fixed the heat bed, replace a hot end, adjust the Leveling sensor height, and other actions that may cause changes the value of "Z Probe Offset", you also need to repeat the steps 1 and steps 2 manually.
 
 -----
-### Step:one: Level Corners
+### :one: Level Corners
 :loudspeaker: The automatic bed leveling function is used to correct the relative offset of different positions on the hot bed at the Z-axis height, not the absolute value. Before executing Bed Auto Leveling, you must perform **Level Corners** to make the machine obtain a correct absolute value of the starting point of Z axis (it is so called **Z axis absolute zero point** of the machine). Steps as below:    
 ##### Step 1: Power on the 3d printer and then do “Prepare>>Auto Home>>Home All” on LCD MENU, wait the hotend go to the HOME position. 
 ##### Step 2: Tighten the hand nuts under the bed to move down the bed to the lowest position (Fig 1).
@@ -14,7 +14,7 @@
 ##### Step 4: Repeat Step 3 and do 2 ~ 3 rounds, until all of the four corners at the same height.  
 ![](1.png)    
 
-### Step:two: Catch Probe Z offset
+### :two: Catch Probe Z offset
 Do **Prepare>> Bed Leveling>>Catch Z-Offset** to get the **Probe Z Offset** before doing bed auto leveling.   
 ![](3.png)
 :warning: Do ***Control>> Configure>> Auto Leveling*** to turn on **bed auto leveling feature** if you didn't see this menu.
@@ -24,13 +24,13 @@ Do **Prepare>> Bed Leveling>>Catch Z-Offset** to get the **Probe Z Offset** befo
 **"Probe Z Offset"** indicates that when the sensor sensed the hot bed, the distance between the nozzle and the Z axis absolute zero point.      
 If the sensor is installed correctly, the nozzle is always above the hot bed when the sensor sensed the hot bed, so **Probe Z Offset** is always a negative value. Since the sensing distance of each PL-08N sensor is different, and the actual installation height of PL-08N is also different, the **Probe Z Offset** of each machine is different too.     
 
-### Step:three: Bed Leveling
+### :three: Bed Leveling
 After completing the above steps, we have a reliable sensor to measure the hotbed surface and already set all its parameters. Now we need the machine to make a comprehensive measurement of the surface of the hot bed, so as to get a data sheet of the hot bed height on the surface.   
 Do **Prepare>> Bed Leveling>>Auto Leveling** 
 ![](4.png)    
 After measure done, the state of Auto leveling on Leveling menu will change from **--NA---** to **Actived**. 
 
-### Step:four: Verification  
+### :four: Verification  
 Now you can try to print a test file to verfiy the bed auto leveling result. Steps as below:   
 1. Copy **[level_test_310.gcode :arrow_down:](./level_test_310.zip)** to SD card and print it from SD card (Fig 1).
 2. When printing started, double click (click twice in one second) the knob to open Baby Z offset menu (Fig 2).

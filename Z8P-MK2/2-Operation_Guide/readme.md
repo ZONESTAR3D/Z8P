@@ -78,7 +78,10 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 #### :warning: "Quickly Load" menu only can be used when loading the filament from extruder to hot end, once the filament entered the hot end, use "Slowly Load" menu but not "Quickly Load".
 ![](./pic/loadfilament.png)
 
-## Print the first works
+## Print from SD card
+#### :pushpin: Z8PM4Pro-MK2A added a SD card socket on the side of the machine, which is more convenient to access the SD card. 
+:warning: Please note you only can choose one of them (plug SD card on the side or Micro-SD card on the front of the control box) when printing.
+![](./pic/MK2A_SD.jpg)
 [:clapper:Video Tutorial](https://youtu.be/ITHbO9VxTMo)         
 ##### Step 1. Insert the SD card to the SD card socket on the printer (Fig 1).
 ##### Step 2. Click “Print” on the control panel and choose “Test gcode\xyz_cube.gcode” (Fig 2), click the knob to start printing.

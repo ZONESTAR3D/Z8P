@@ -1,4 +1,4 @@
-<!-- ### :globe_with_meridians: Choose Language (Translated by google)
+### :globe_with_meridians: Choose Language (Translated by google)
 [![](./lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=es)
 [![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,7 +23,7 @@
 [![](./lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=tr)
 [![](./lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=el)
 [![](./lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=pt)
-[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 ----
 # Z8P Documents
@@ -47,7 +47,7 @@ The Z8P series has two models:
 2. **Z8PM4Pro**: 4 extruder + 4-IN-1-OUT color mixing hot end + 4.3 "TFT-LCD display control panel.  
 
 ## :file_folder:[Z8P-MK2](./Z8P-MK2/)
-**Since 2023, we have upgraded Z8P to a new version， we called it Z8P-MK2. Z8P-MK2 equipped with 4 extruders and a M4V6 hot end - the 6th version 4-IN-1-OUT mix color hot end.**
+The 2nd version Z8P
 #### Features:
 - Classic cartier coordinate (independent XYZ) structe.
 - The motion structure adopts the V-solt profile frame and the wheels, equipped with dual Z axes drivers.
@@ -65,10 +65,16 @@ The Z8P series has two models:
 - Automatic shutdown after printing finished.
 - 5-languages operature menu (EN/ES/PT/FR/RU).
 - Open source firmware.
-#### The main upgrade contents of Z8P-MK2 include:
+#### The main upgrades in Z8P-MK2:
 1. Improved profiles to make the appearance more beautiful.
 2. Upgraded the hot end to the 6th version mix color hot end.
 3. Changed the motor drivers for X/Y/Z axis to TMC2208.
+#### Z8P-MK2 has been upgraded to Z8P-MK2A since 2024, the main upgrades of Z8P-MK2A:
+1. Modified the Y-axes rail to 2 pieces of 2020 v-slot profiles.
+![](./Z8PMK2A-1.jpg)
+2. Add a SD card socket on the control box.
+![](./Z8PMK2A-2.jpg)
+3. Upgraded the control board from ZM3E4V2.x to ZM3E4V3.x
 
 ## :file_folder:[Z8P](./Z8P/)
 The first version of Z8P.

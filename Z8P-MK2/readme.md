@@ -69,7 +69,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 - **SD Card Extender :+1:**    
 By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
 - **Filament run out sensor :+1:**    
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]**  [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]** **[:clapper: Installation guide]]** [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
 - **WiFi wireless control module  :+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
 - **Non mix color hotend  :+1:**   

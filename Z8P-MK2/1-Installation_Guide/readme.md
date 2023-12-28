@@ -164,6 +164,10 @@ Refer to the following image to connect the connectors of the wires left from th
 - **Hot end wires: 1.Bed Leveling sensor - 2.Extruder Fan - 3.Cooling Fan - 4.Temperature sensor - 5.Heater**    
 - **LCD cable** 
 ![](./pic/wiring.png)   
+### Layout the hotend wire
+1. Wrap the hot end wire with a thinner corrugated tube and pass it through the gap between the screw on the left axis of the machine and the profile.     
+2. Wrap the terminals at the hot end with thicker corrugated pipes and tie them tightly with cable ties.   
+![](./pic/layouthotendwire.jpg)
 ### Wiring Block 
 ![](./Z8PMK2_Wiring_Block.jpg)       
 :warning:The latest Z8PM4Pro-MK2 added a SD card sokect on the side of the control box (near the DC button), you can insert the SD card into this slot, which is easier to be accessed than the Micro SD card slot on the front of the control box.

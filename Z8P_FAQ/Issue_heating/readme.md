@@ -35,6 +35,7 @@
 > 
     1: hot end(nozzle) temperature       2: hotbed temperature
 Normally, the current temperature of the hot end and hot bed should be approximately the same as room temperature. 
+If The current ambient temperature is low than 15℃, but both current of the hot end and hot bed are shows 0 degree, it may be because the firmware does not match to the machine.
 
 ## Contents
 - **[Hot end issue](#hot-end-issue)**
@@ -52,7 +53,9 @@ Normally, the current temperature of the hot end and hot bed should be approxima
 -----
 ## Hot end issue
 ### Hot end always shows 0℃
-If the current temperature of the hot end shows 0 degrees, it means that the temperature sensor of the hot end is disconnected, please check whether the wiring of hot end is connected well.   
+If the current temperature of the hot end shows 0 degrees, there may be two reasons:
+1. If The current ambient temperature is low than 15℃, but both current of the hot end and hot bed are shows 0 degree, it may be because the firmware does not match to the machine.
+2. Check the temperature sensor wire of hot end is connected well.     
 ### Hot end always shows round of 100℃
 If the temperature of the hot end always shows a high temperature (about 100℃) but the nozzle is cold in reality, then it is very likely that you have connected the temperature sensor of the hot end to the fan by mistake, please pay attention to check the wiring of the hot end.   
 - **For Z8P-MK2, check the extend wire of hot end**    
@@ -86,7 +89,9 @@ If you did the above two steps but the question can't be solved, do the below st
 -----
 ## Hot bed issue
 ### Hot bed always shows 0℃
-If the current temperature of hot bed shows 0 degrees, it means that the temperature sensor of the hot bed is disconnected, please check whether the wiring of hot bed is connected well.   
+If the current temperature of the hot bed shows 0 degrees, there may be two reasons:
+1. If The current ambient temperature is low than 15℃, but both current of the hot end and hot bed are shows 0 degree, it may be because the firmware does not match to the machine.
+2. Check the temperature sensor wire of hot bed is connected well.   
 ![](./Hotbed_wiring.jpg)
 ### Hot bed max temperature issue
 When you find the LCD screen shows a "HEATBED Err.: max temperature" screen.      

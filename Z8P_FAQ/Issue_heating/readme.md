@@ -35,7 +35,7 @@
 > 
     1: hot end(nozzle) temperature       2: hotbed temperature
 Normally, the current temperature of the hot end and hot bed should be approximately the same as room temperature. 
-If the current room temperature is low than 15℃, but both current of the hot end and hot bed are shows 0 degree, it may be because the firmware does not match to the machine.
+If the current room temperature is low than 15℃ but both current temperature of the hot end and hot bed are shows 0℃, it may be because the firmware does not match to the machine.
 
 ## Contents
 - **[Hot end issue](#hot-end-issue)**

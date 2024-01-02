@@ -70,7 +70,7 @@ The 2nd version Z8P
 2. Upgraded the hot end to the 6th version mix color hot end.
 3. Changed the motor drivers for X/Y/Z axis to TMC2208.
 #### Z8P-MK2 has been upgraded to Z8P-MK2A since 2024, the main upgrades of Z8P-MK2A:
-1. Modified the Y-axes rail to 2 pieces of 2020 v-slot profiles.
+1. Upgraded the Y-axes rail to 2 pieces of 2020 v-slot profiles.
 ![](./Z8PMK2A-1.jpg)
 2. Add a SD card socket on the control box.
 ![](./Z8PMK2A-2.jpg)

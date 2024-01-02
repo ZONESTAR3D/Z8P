@@ -28,7 +28,7 @@
 ----- -->
 # Heating issues
 ## Before checking
-1. Ensure that the room temperature is above 10℃ .
+1. Ensure that the room temperature is above 15℃ .
 2. If the hot bed or hot end (nozzle) is still hot, wait for them to cool.
 3. Turn on the power and observe the "status bar" on the LCD display.   
 ![](./LCD_screen.jpg)  

@@ -59,11 +59,20 @@ The parts in the machine that can carry out the exchange test include:
 - **[Crash when connecting USB in Cura](./issue_of_connect_USB_in_Cura/readme.md)**
 - **[The printer auto pause when printing from SD card](./Issue_auto_pause/readme.md)**
 - **[Not read SD card issue](./Issue_not_read_sdcard/readme.md)**
+- **[LCD screen knob issue](#lcd-screen-knob-issue)**
 
------
+----
 ## Poor printing quality issue
 - **[44 Common 3D Print Problems](https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide) @3dsourced**
 - **[All Problems & Solutions](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/) @all3DP**
+
+-----
+## LCD screen knob issue
+If you find that the knob of the LCD screen is stuck, you can click on [:gift: this link](https://www.aliexpress.com/item/3256805596235491.html) to purchase a replacement keypad. If your product is within the warranty period (within 12 months from the date of receiving the package), please contact us after placing the order, and we will provide you with after-sales service.     
+How to replace the keypad of the LCD screen, please watch the video tutorial:
+- For the welding version (older), please refer to [:clapper: this video](https://youtu.be/Xwfczp3nLOY).   
+- For the FPC version (newer), please refer to [:clapper: this video](https://youtu.be/z9E6glRZRIQ).  
+![](./pic/keypad.jpg)
 
 -----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

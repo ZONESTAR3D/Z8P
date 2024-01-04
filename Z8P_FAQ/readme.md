@@ -26,7 +26,7 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 -----
-# Z8P Troubleshootings Guide
+# Z8P Troubleshooting
 
 -----
 ## Reference

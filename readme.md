@@ -38,7 +38,7 @@ The 2nd version Z8P
 3. Changed the motor drivers for X/Y/Z axis to TMC2208.
 
 -----
-## :file_folder:[Z8P](./Z8P/)
+## :file_folder:[Z8P(-MK1)](./Z8P/)
 The first version of Z8P.
 
 #### Features:

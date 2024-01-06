@@ -1,4 +1,4 @@
-## [:point_right:View New Arrival Upgrade Features](#upgrade-parts-and-features)
+## [:+1: View New Arrival Upgrade Features](#upgrade-parts-and-features)
 
 -----
 ## Summary of Updates for ZONESTAR Z8P

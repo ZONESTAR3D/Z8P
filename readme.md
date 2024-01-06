@@ -1,6 +1,7 @@
 # Z8P Documents
 Z8P series is a high cost performance multi-color FDM 3D printer launched by ZONESTAR.    
 
+-----
 ## :file_folder:[Z8P-MK2](./Z8P-MK2/)
 The 2nd version Z8P
 #### Features:
@@ -20,6 +21,7 @@ The 2nd version Z8P
 - Automatic shutdown after printing finished.
 - 5-languages operature menu (EN/ES/PT/FR/RU).
 - Open source firmware.
+
 #### Main upgrades of Z8P-MK2A:
 Z8P-MK2 has been upgraded to Z8P-MK2A since 2024, the main upgrades of Z8P-MK2A
 1. Upgraded the Y-axes rail to 2 pieces of 2020 v-slot profiles.
@@ -50,6 +52,7 @@ The first version of Z8P.
 - Automatically resume printing after power failure.
 - Automatic shutdown after printing.
 - Open source firmware.
+W
 The Z8P series has two models:
-1. **Z8PM3**: 3 extruder + 3-IN-1-OUT color mixing hot end + LCD12864 display control panel.
-2. **Z8PM4Pro**: 4 extruder + 4-IN-1-OUT color mixing hot end + 4.3 "TFT-LCD display control panel. 
+1. **Z8PM3**: 3 extruders + 3-IN-1-OUT mix color hot end + 128x64 dots LCD Screen control panel.
+2. **Z8PM4Pro**: 4 extruders + 4-IN-1-OUT mix color hot end + 4.3" TFT-LCD LCD Screen control panel. 

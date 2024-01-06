@@ -65,16 +65,16 @@ The 2nd version Z8P
 - Automatic shutdown after printing finished.
 - 5-languages operature menu (EN/ES/PT/FR/RU).
 - Open source firmware.
-#### The main upgrades in Z8P-MK2:
-1. Improved profiles to make the appearance more beautiful.
-2. Upgraded the hot end to the 6th version mix color hot end.
-3. Changed the motor drivers for X/Y/Z axis to TMC2208.
-#### Z8P-MK2 has been upgraded to Z8P-MK2A since 2024, the main upgrades of Z8P-MK2A:
+#### Main upgrades of Z8P-MK2A:
+Z8P-MK2 has been upgraded to Z8P-MK2A since 2024, the main upgrades of Z8P-MK2A
 1. Upgraded the Y-axes rail to 2 pieces of 2020 v-slot profiles.
 ![](./Z8PMK2A-1.jpg)
 2. Add a SD card socket on the control box.
 ![](./Z8PMK2A-2.jpg)
 3. Upgraded the control board from ZM3E4V2.x to ZM3E4V3.x
-
+#### Main upgrades of Z8P-MK2:
+1. Improved profiles to make the appearance more beautiful.
+2. Upgraded the hot end to the 6th version mix color hot end.
+3. Changed the motor drivers for X/Y/Z axis to TMC2208.
 ## :file_folder:[Z8P](./Z8P/)
 The first version of Z8P.

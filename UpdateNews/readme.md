@@ -3,15 +3,15 @@
 -----
 ## Summary of Updates for ZONESTAR Z8P
 ### :warning: ATTENTION PLEASE
-Please distinguish whether your machine model is Z8P-MK1, Z8P-MK2, Z8P-MK2A, their firmware is different. For details, please refer to [**here**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P).
+Z8PM4Pro had different version, please distinguish whether your machine model are Z8P-MK1, Z8P-MK2 or Z8P-MK2A, they used different firmware. For details, please refer to [**here**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P).
 
 ### Updates in 2024-01-06
 -  **Release firmware V1.5.0 for Z8PM4-MK2A** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2A/beta)
 -  **Release firmware V1.5.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/beta)
--  **Release firmware V3.5.0 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/beta)
+-  **Release firmware V3.5.0 for Z8PM4-MK1** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/beta)
 
 ### Updates in 2023-11-29
--  **Release firmware V3.4.1 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/released)
+-  **Release firmware V3.4.1 for Z8PM4-MK1** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/released)
 
 ### Updates in 2023-08-23
 -  **Release firmware V1.4.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/released)
@@ -19,7 +19,7 @@ Please distinguish whether your machine model is Z8P-MK1, Z8P-MK2, Z8P-MK2A, the
 
 ### Updates in 2023-04-06
 -  **Release firmware V1.2.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/beta)
--  **Release firmware V3.3.0 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/beta)
+-  **Release firmware V3.3.0 for Z8PM4-MK1** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/beta)
 -  **Uploaded some video tutorials for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
 
 ### Updates in 2022-11-18

@@ -1,31 +1,3 @@
-<!-- ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=es)
-[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=de)
-[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=it)
-[![](../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=da)
-[![](../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=id)
-[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=th)
-[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=el)
-[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/UpdateNews?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
-
------
 ## [:point_right:View New Arrival Upgrade Features](#upgrade-parts-and-features)
 
 -----
@@ -33,9 +5,21 @@
 ### :warning:!ATTETION PLEASE!
 Please distinguish whether your machine model is Z8P or Z8P-MK2, their firmware is different. For the differences between Z8P and Z8P-MK2, please refer to [**here**](https://github.com/ZONESTAR3D/Z8P#z8p-mk2-is-upgraded-from-z8pm4pro).
 
+### Updates in 2024-01-06
+-  **Release firmware V1.5.0 for Z8PM4-MK2A** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2A/beta)
+-  **Release firmware V1.5.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/beta)
+-  **Release firmware V3.5.0 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/beta)
+
+### Updates in 2023-11-29
+-  **Release firmware V3.4.1 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/released)
+
+### Updates in 2023-08-23
+-  **Release firmware V1.4.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/released)
+
+
 ### Updates in 2023-04-06
 -  **Release firmware V1.2.0 for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/beta)
--  **Release firmware V3.3.0 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4Pro/beta)
+-  **Release firmware V3.3.0 for Z8PM4Pro** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK1/beta)
 -  **Uploaded some video tutorials for Z8PM4-MK2** :point_right:[View](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial)
 
 ### Updates in 2022-11-18

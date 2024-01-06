@@ -49,8 +49,9 @@ No.|         Name             | No.|              Name        | No.|            
 9  | Accessories              | 10 |  Filament Roll Bracket   | 11 |  SD card(<sup>2</sup>)   | 12 |   Tools                  |
 13 | USB cable                | 14 |  AC Power cord           |    |                          |    |                          | 
 
-1. **The newest version Z8PM4Pro-MK2 (serial number: MK2Axxxx) upgraded the Y profile to 2 pieces 20x20 profiles**.    
-2. **SD Card is placed in the accessries(9) package.**    
+1. **Z8PM4Pro-MK2A upgraded the Y profile to 2 pieces 20x20 profiles**.    
+2. **The hot bed of Z8PM4Pro MK2A is not pre-installed to prevent damage during transportation.**    
+3. **SD Card is placed in the "Accessries(9)" package.**    
 
 
 ## Description of Item No.4 & No.9 

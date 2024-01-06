@@ -2,7 +2,7 @@
 
 -----
 ## Summary of Updates for ZONESTAR Z8P
-### :warning:!ATTETION PLEASE!
+### :warning: ATTENTION PLEASE
 Please distinguish whether your machine model is Z8P or Z8P-MK2, their firmware is different. For the differences between Z8P and Z8P-MK2, please refer to [**here**](https://github.com/ZONESTAR3D/Z8P#z8p-mk2-is-upgraded-from-z8pm4pro).
 
 ### Updates in 2024-01-06

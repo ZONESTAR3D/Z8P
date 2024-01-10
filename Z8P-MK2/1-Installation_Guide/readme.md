@@ -138,7 +138,7 @@ Install filament bracket on the top profile.
 ----
 ## Wiring
 ### Wiring Block 
-![](./Z8PMK2_Wiring_Block.jpg)       
+![](./Wiring_Block.jpg)       
 :warning:The latest Z8PM4Pro-MK2 added a SD card sokect on the side of the control box (near the DC button), you can insert the SD card into this slot, which is easier to be accessed than the Micro SD card slot on the front of the control box.
 ### Wiring Steps
 Refer to the following image to connect the connectors of the wires left from the control box to the sockets of the Z8PM4pro components, which include:
@@ -176,4 +176,4 @@ Next, just do some preliminary debugging, and you can start your first print. Pl
 ### Appendix: Control Board Wiring Diagram
 Wiring Schematic Diagram shows the connection schematic diagram of the control board terminals and components used inside the control box.
 **Please note that the components shown in the pink box are optional components/functions** but not standard equipment of Z8PM4Pro.
-![](./Z8PM4-MK2_Wiring_Diagram.jpg)
+![](./Wiring_Diagram.jpg)

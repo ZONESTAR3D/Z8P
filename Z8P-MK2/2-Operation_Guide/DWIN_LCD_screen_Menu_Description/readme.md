@@ -1,25 +1,3 @@
-### Choose Language (Translated by google)
-[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=el)
-
-[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
-
------
 # DWIN LCD Menu Description (MENU V3)
 ## Main Menu
 ![](./pic/1.png)
@@ -30,6 +8,7 @@
 | 9  |   Printing Speed         | 10 |  Current Z position      |    |                          |    |                          |
 
 ## Printing status Menu 
+:warning: Please choose the hot end type according what you installed. By default, Z8PM4 series used a mixing color hot end.
 ### When Hotend Type is “Mixing”
 ![](./pic/3.png)
 | No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name        |
@@ -110,22 +89,22 @@ Prepare
 |                | HOME X             |HOME X axis                                                                        |
 |                | HOME Y             |HOME Y axis                                                                        |
 |                | HOME Z             |HOME Z axis                                                                        |
-| Temperature    | Nozzle Temp        |Set Nozzle(hotend) Temperature                                                     |
+| Temperature    | Nozzle Temp        |Set Nozzle Temperature                                                             |
 |                | Bed Temp           |Set Hotbed Temperature                                                             |
 |                | Fan Speed          |Set Extruder Fan Speed                                                             |
 |                | PreHeat PLA        |Set Nozzle/Hotbed temperature for PLA filament(See “Control >>Preheat PLA”)        |
 |                | PreHeat ABS        |Set Nozzle/Hotbed temperature for ABS filament(See “control >>Preheat ABS”)        |
 |                | Cooldown           |Turn off Hotend and Hotbed Power at once                                           |
-| Move           | Move X             |MOve X axis carrier                                                                |
-|                | Move Y             |MOve Y axis carrier                                                                |
-|                | Move Z             |MOve Z axis carrier                                                                |
-|                | Extruder1          |MOve Extruder #1                                                                   |
-|                | Extruder2          |MOve Extruder #2                                                                   |
-|                | Extruder3          |MOve Extruder #3                                                                   |
-|                | Extruder4          |MOve Extruder #4                                                                   |
-|                | Extruder All       |MOve All Extruders at once                                                         |
+| Move           | Move X             |Move X axis carrier                                                                |
+|                | Move Y             |Move Y axis carrier                                                                |
+|                | Move Z             |Move Z axis carrier                                                                |
+|                | Extruder1          |Move Extruder #1                                                                   |
+|                | Extruder2          |Move Extruder #2                                                                   |
+|                | Extruder3          |Move Extruder #3                                                                   |
+|                | Extruder4          |Move Extruder #4                                                                   |
+|                | Extruder All       |Move All Extruders at once                                                         |
 | Filament       | Preheat nozzle     |Set the nozzle temperature and preheat it                                          |
-|                | Extruder           |Choose the extruder need to be operatived                                          |
+|                | Extruder           |Choose the extruder need to be moved                                               |
 |                | Slowly length      |How long filament be load/unload while do “Slowly Load“ & “lowly Unload”           |
 |                | Quickly length     |How long filament be load/unload while do “Quickly Load “ & “ Quickly Unload“      |
 |                | Slowly Load        |Load filament slowly                                                               |
@@ -141,7 +120,7 @@ Prepare
 |                | Probe Z-Offset     |Fine tune the probe (bed leveling sensor) Z offset manually                        |
 |                | Auto leveling      |Do auto leveling measure                                                           |
 | Language       | English            |Set menu language to English                                                       |
-|                | Spainish           |Set menu language to Spainish                                                      |
+|                | Spanish            |Set menu language to Spanish                                                       |
 |                | Russian            |Set menu language to Russian                                                       |
 |                | French             |Set menu language to French                                                        |
 |                | Portuguese         |Set menu language to Portuguese                                                    |
@@ -165,10 +144,12 @@ Control
   |                   |--PowerLoss Recovery         Turn ON/OFF Power lost Recovery feature                                     
   |                   |--Auto Shutdown              Turn ON/OFF idel auto shut down feature                                     
   |                   |--WiFi                       Turn ON/OFF WiFi feature                                                    
-  |                   |--WiFi BaudRate              Set WiFi BaudRate (Need restart printer and change the WiFi module BaudRate)
+  |                   |--WiFi BaudRate              Set WiFi Baud Rate (Need restart printer and change the WiFi module Baud Rate)
+  |                   |--Laser                      Enable Laser Feature (Turn it On when doing Laser Engraving)
   |                   |--Hotend Type                Set Hot end types (according to your hot end type)                          
   |                   |--Extr. Sequence             Change Extruder Sequence (only work on Non-Mixing Color hotend)             
-  |                   |--Home Z offset              Set the Z HOME offset                                                       
+  |                   |--Home offset                Set the X/Y/Z HOME offset
+  |                   |--Probe offset               Set the probe (bed leveling sensor)  
   |                   |--Auto Leveling              Turn ON/OFF bed auto leveling feature                                       
   |                   |--Active Auto Level          Active bed auto leveling correct when printing                              
   |                   |--Hotend PID                 Set the hotend PID parameters                                               
@@ -178,12 +159,12 @@ Control
   |                   |--Jerk                       Set Jerk parameters                       
   |                   |--Step/mm                    Set Steps/mm parameters of stepping motors
   |                                                 
-  |--Preheat PLA------|--Nozzle Temp                Set nozzle temperaturewhen do “Preheat PLA” on Prepare menu  
+  |--Preheat PLA------|--Nozzle Temp                Set nozzle temperature when do “Preheat PLA” on Prepare menu  
   |                   |--Bed Temp                   Set Bed temperature when do “Preheat PLA” on Prepare menu    
   |                   |--Fan Speed                  Set FAN speed when do “Preheat PLA” on Prepare menu          
   |                   |--Store Settings             Store above settings                                           
   |
-  |--Preheat ABS------|--Nozzle Temp                Set nozzle temperaturewhen do “Preheat ABS” on Prepare menu  
+  |--Preheat ABS------|--Nozzle Temp                Set nozzle temperature when do “Preheat ABS” on Prepare menu  
   |                   |--Bed Temp                   Set Bed temperature when do “Preheat ABS” on Prepare menu    
   |                   |--Fan Speed                  Set FAN speed when do “Preheat ABS” on Prepare menu          
   |                   |--Store Settings             Store above settings                                           
@@ -196,31 +177,33 @@ Control
 
 | Menu 2           | Menu 3            |                             Description                                           |  
 |------------------|-------------------|-----------------------------------------------------------------------------------|  
-| Mixer*           |Mix                |Set mix rates of each extruder and commit to V-TOOL                                |  
+| Mixer*           |Set V-Tool         |Set mix rates of each extruder and commit to V-TOOL                                |  
+|                  |Current V-TOOL     |Set current(working) V-TOOL                                                        |  
 |                  |Gradient(ON/OFF)   |Start a Gradient mix printing and set paremeters                                   |  
 |                  |Random (ON/OFF)    |Start a Random mix printing and set paremeters                                     |  
-|                  |Current V-TOOL     |Set current(working) V-TOOL                                                        |  
 | Configre         |Auto Retract       |Set Auto Retraction parameters                                                     |  
 |                  |Runout Sensor      |Turn ON/OFF filament run out detection feature                                     |  
 |                  |PowerLoss Recovery |Turn ON/OFF Power lost Recovery feature                                            |  
-|                  |Auto Shutdown      |Turn ON/OFF idel auto shut down feature                                            |  
+|                  |Auto Shutdown      |Turn ON/OFF power auto shut down feature                                           |  
 |                  |WiFi               |Turn ON/OFF WiFi feature                                                           |  
-|                  |WiFi BaudRate      |Set WiFi BaudRate (Need restart printer and change the WiFi module BaudRate)       |  
-|                  |Hotend Type        |Set Hot end types (according to your hot end type)                                 |  
+|                  |WiFi BaudRate      |Set WiFi Baud Rate (Need restart printer and change the WiFi module Baud Rate)     |  
+|                  |Laser              |Enable Laser Feature (Turn it On when doing Laser Engraving)                       |  
+|                  |Hotend Type        |Set Hot end types (according to the hot end type installed)                        |  
 |                  |Extr. Sequence     |Change Extruder Sequence (only work on Non-Mixing Color hotend)                    |  
-|                  |Home Z offset      |Set the Z HOME offset                                                              |  
+|                  |Home offset        |Set the X/Y/Z HOME offset                                                          |  
+|                  |Probe offset       |Set the probe (bed leveling sensor)                                                |  
 |                  |Auto Leveling      |Turn ON/OFF bed auto leveling feature                                              |  
-|                  |Active Auto Level  |Active bed auto leveling correct when printing                                     |  
+|                  |Active Auto Level  |Active bed auto leveling correction when printing from SD card                     |  
 |                  |Hotend PID         |Set the hotend PID parameters                                                      |  
 | Motion           |Feedrate           |Set printing speed limiting parameters                                             |  
 |                  |Acceleration       |Set acceleration limiting parameters                                               |  
 |                  |Jerk               |Set Jerk parameters                                                                |  
 |                  |Step/mm            |Set Steps/mm parameters of stepping motors                                         |  
-| Preheat PLA      |Nozzle Temp        |Set nozzle temperaturewhen do “Preheat PLA” on Prepare menu                        |
+| Preheat PLA      |Nozzle Temp        |Set nozzle temperature when do “Preheat PLA” on Prepare menu                       |
 |                  |Bed Temp           |Set Bed temperature when do “Preheat PLA” on Prepare menu                          |
 |                  |Fan Speed          |Set FAN speed when do “Preheat PLA” on Prepare menu                                |
 |                  |Store Settings     |Store above settings                                                               |  
-| Preheat ABS      |Nozzle Temp        |Set nozzle temperaturewhen do “Preheat ABS” on Prepare menu                        |
+| Preheat ABS      |Nozzle Temp        |Set nozzle temperature when do “Preheat ABS” on Prepare menu                       |
 |                  |Bed Temp           |Set Bed temperature when do “Preheat ABS” on Prepare menu                          |
 |                  |Fan Speed          |Set FAN speed when do “Preheat ABS” on Prepare menu                                |
 |                  |Store Settings     |Store above settings                                                               |  

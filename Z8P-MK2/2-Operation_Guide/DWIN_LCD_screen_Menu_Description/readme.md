@@ -73,7 +73,7 @@ Prepare
   |                   |--Auto leveling            Do auto leveling measure                                      
   |
   |--Language---------|--English                  Set menu language to English          
-  |                   |--Spainish                 Set menu language to Spainish         
+  |                   |--Spanish                  Set menu language to Spanish         
   |                   |--Russian                  Set menu language to Russian          
   |                   |--French                   Set menu language to French           
   |                   |--Portuguese               Set menu language to Portuguese       

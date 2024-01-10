@@ -13,7 +13,7 @@ Upload the newest firmware to the control board and try again. **[:arrow_down:Do
 1. If you used a SD card extend cable, remove it and plug the SD card into the SD card socket directly and try again.   
 2. Format the SD card (Must be FAT32) and copy only one gcode file to SD card and try again.
 3. Replace a new SD card (<=32G, format to FAT32) and try again.
-4. Print another gcode file and try again.
+4. Choose another gcode file to print.
 
 #### :four: Turn off "PowerLoss Recovery" feature
 Turn off the **PowerLoss Recovery** feature from LCD Menu (***Control>>Configre>>PowerLoss Recovery***) and try again.     

@@ -1,30 +1,3 @@
-<!-- ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=da)
-[![](../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=el)
-[![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
-
 -----
 # Z8P-MK2 Installation Guide
 ### [ :clapper: **Z8P-MK2 Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
@@ -40,37 +13,45 @@
 #### :ghost: Please keep well-ventilated condition! May produce toxic gases when printer working.
 #### :electric_plug: Please make sure you have set the AC power select switch to the correct position before power on.
 
+-----
 ## Parts List
+### Parts List for Z8PM4-MK2A
+![](./pic/partlist-MK2A.jpg)  
+| No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name        |
+|:--:|:------------------------:|:--:|:------------------------:|:--:|:------------------------:|:--:|:------------------------:|
+| 1  | Base Module              | 2  |  Heat bed sticker        | 3  |       Heat bed           | 4  |  Extruders (4 sets)      |  
+| 5  |  Z drive motors (2 sets) | 6  | Print head with X carrier| 7  |   Z carrier(left)        | 8  |  Z carrier(right)        |
+| 9  |  TFT-LCD Contol Panel    | 10 |  Accessories             | 11 |  SD card(*)              | 12 |Filament Roll Bracket     |
+| 13 |  Tools                   | 14 |  USB cable               | 15 |    AC Power cord         | 16 | Lead screw & Profiles    | 
+
+\* **SD Card is placed in the "Accessries" package.**    
+### Parts List for Z8PM4-MK2
 ![](./pic/partlist.png)    
-No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name        |
----|--------------------------|----|--------------------------|----|--------------------------|----|--------------------------|
-1  | Base Module(<sup>1</sup>)| 2  |  Extruders (4 sets)      | 3  |  Z drive motors (2 sets) | 4  |  Lead screw & Profiles   |  
-5  |Print head with X carrier | 6  |  Z carrier(left)         | 7  |   Z carrier(right)       | 8  |  TFT-LCD Contol Panel    |
-9  | Accessories              | 10 |  Filament Roll Bracket   | 11 |  SD card(<sup>2</sup>)   | 12 |   Tools                  |
-13 | USB cable                | 14 |  AC Power cord           |    |                          |    |                          | 
+| No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name        |
+|:--:|:------------------------:|:--:|:------------------------:|:--:|:------------------------:|:--:|:------------------------:|
+| 1  | Base Module              | 2  |  Extruders (4 sets)      | 3  |  Z drive motors (2 sets) | 4  |  Lead screw & Profiles   |  
+| 5  |Print head with X carrier | 6  |  Z carrier(left)         | 7  |   Z carrier(right)       | 8  |  TFT-LCD Contol Panel    |
+| 9  | Accessories              | 10 |  Filament Roll Bracket   | 11 |  SD card(*)              | 12 |   Tools                  |
+| 13 | USB cable                | 14 |  AC Power cord           |    |                          |    |                          | 
 
-1. **Z8PM4Pro-MK2A upgraded the Y profile to 2 pieces 20x20 profiles and the hot bed is not pre-installed to prevent damage during transportation.**    
-2. **SD Card is placed in the "Accessries(9)" package.**    
-
-
-## Description of Item No.4 & No.9 
+\* **SD Card is placed in the "Accessries" package.**    
+### Description of "Lead screw & Profiles" 
 ![](./pic/partlist2.png)   
-
-No.|                                                 Name                                               |
----|----------------------------------------------------------------------------------------------------|
-1  | **Z Profiles:** 2* 2040 aluminum profiles for Z axis, the flat surface toward the front.           |
-2  | These two holes on the bottom when install.                                                        |
-3  | **Top Profile:** 1* 2020 aluminum profile installed to top.                                        |
-4  | **X Profile:** 1* 2020 aluminum profile, there are 4 hole on the front and 2 big hole on the back. |
-5  | **lead screws:** 2* T8-500mm lead screws ***(They are put inside the Z aluminum profiles)***.      |
-    
+|No.|                                                 Name                                               |
+|:-:|:--------------------------------------------------------------------------------------------------:|
+|1  | **Z Profiles:** 2* 2040 aluminum profiles for Z axis, the flat surface toward the front.           |
+|2  | These two holes on the bottom when install.                                                        |
+|3  | **Top Profile:** 1* 2020 aluminum profile installed to top.                                        |
+|4  | **X Profile:** 1* 2020 aluminum profile, there are 4 hole on the front and 2 big hole on the back. |
+|5  | **lead screws:** 2* T8-500mm lead screws ***(They are put inside the Z aluminum profiles)***.      |
+### Description of "Accessries" 
 ![](./pic/partlist3.png)     
+|No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name            |
+|:-:|:------------------------:|:--:|--------------------------|:--:|:------------------------:|:--:|:----------------------------:|
+|1  |        4* PTFE Tube      | 2  |  Cable tie               | 3  |     2* Z ENDSTOP         | 4  |  2* Z lead screw fix blocks  |  
+|5  |   Nozzle (Spare part)    | 6  |  X Belt idler            | 7  |   X Timing Belt          | 8  |  Wheel (Spare part)          |
 
-No.|         Name             | No.|              Name        | No.|              Name        | No.|              Name        |
----|--------------------------|----|--------------------------|----|--------------------------|----|--------------------------|
-1  |        4* PTFE Tube      | 2  |  Cable tie               | 3  |     2* Z ENDSTOP         | 4  |  2* Z lead screw fix blocks  |  
-5  |   Nozzle (Spare part)    | 6  |  X Belt idler            | 7  |   X Timing Belt          | 8  |  Wheel (Spare part)    |
-
+-----
 ## Installation
 ### 0. Install heat bed and heat bed sticker (for MK2A only)
 [:clapper:**Video tutorial**](https://youtu.be/6-8cr9xVGlQ)     
@@ -156,6 +137,10 @@ Install filament bracket on the top profile.
 
 ----
 ## Wiring
+### Wiring Block 
+![](./Z8PMK2_Wiring_Block.jpg)       
+:warning:The latest Z8PM4Pro-MK2 added a SD card sokect on the side of the control box (near the DC button), you can insert the SD card into this slot, which is easier to be accessed than the Micro SD card slot on the front of the control box.
+### Wiring Steps
 Refer to the following image to connect the connectors of the wires left from the control box to the sockets of the Z8PM4pro components, which include:
 - **Left Z Motor / Endstop**    
 - **Right Z Motor / Endstop**    
@@ -168,10 +153,8 @@ Refer to the following image to connect the connectors of the wires left from th
 1. Wrap the hot end wire with a thinner corrugated tube and pass it through the gap between the screw on the left axis of the machine and the profile.     
 2. Wrap the terminals at the hot end with thicker corrugated pipes and tie them tightly with cable ties.   
 ![](./pic/layouthotendwire.jpg)
-### Wiring Block 
-![](./Z8PMK2_Wiring_Block.jpg)       
-:warning:The latest Z8PM4Pro-MK2 added a SD card sokect on the side of the control box (near the DC button), you can insert the SD card into this slot, which is easier to be accessed than the Micro SD card slot on the front of the control box.
 
+-----
 ## Check before power on
 #### :warning: It is very important to check the wiring before power on, as it can eliminate some hardware connections and ensure that the printer can start using smoothly!
 #### Check list:
@@ -190,7 +173,7 @@ After completing the above installation steps, the machine installation is annou
 Next, just do some preliminary debugging, and you can start your first print. Please refer to the [**:point_right: quick user manual**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md) to prepare and start your first print.
 
 ----
-### Annex 1: Wiring Schematic Diagram
+### Appendix: Control Board Wiring Diagram
 Wiring Schematic Diagram shows the connection schematic diagram of the control board terminals and components used inside the control box.
 **Please note that the components shown in the pink box are optional components/functions** but not standard equipment of Z8PM4Pro.
 ![](./Z8PM4-MK2_Wiring_Diagram.jpg)

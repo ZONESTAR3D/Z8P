@@ -66,10 +66,12 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 - :book: [**TroubleShootings for Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Upgradable Features
-- **SD Card Extender :+1:**    
-By upgrading this item, it is easier to access (Plug/Unplug) the SD card. [:gift: Buy](https://www.aliexpress.com/item/1005005342958433.html)
+- **PEI Springs heatbed sticker :+1:**    
+PEI Spring Steel Sheet Hotbed Sticker is more durable than the original hot bed sticker. With the single side smooth hot bed facing up, it can also make the bottom of the print more smooth. **[:gift: Buy](http://bit.ly/3GbI9Sr) / [:gift: Buy](https://bit.ly/3VkmXOi)**  
+- **Dual Gear Extruder  :+1:**   
+The dual gear extruder can significantly increase the force to push / pull filament, greatly reducing the probability of printing defects and printing failures caused by filament slipping on the extruder.**:book: [User guide](https://bit.ly/UM_BMG)** **[:gift: Buy](https://bit.ly/46Vyd9H) / [:gift: Buy](https://bit.ly/AE_4xBMG)**   
 - **Filament run out sensor :+1:**    
-By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]** **[:clapper: Installation guide]]** [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
+By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_FROD]** [:gift: Buy](https://www.aliexpress.com/item/4001309957376.html)   
 - **WiFi wireless control module  :+1:**    
 By upgrading this item, you can remote control your 3d printer. **[:book: User guide][guide_WIFI]** [:gift: Buy](https://www.aliexpress.com/item/1005002378551489.html)    
 - **Non mix color hotend  :+1:**   
@@ -136,8 +138,12 @@ Slicing es un software que todo el mundo utiliza al crear objetos y productos en
 - :book: [**Solución de problemas para Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Funciones actualizables
-- **Extensor de tarjeta SD :+1:**    
-Al actualizar este elemento, es más fácil acceder (conectar/desconectar) la tarjeta SD. [:gift:Comprar](https://www.aliexpress.com/item/1005005342958433.html)
+- **Etiqueta adhesiva de la base térmica PEI Springs:+1:**     
+La pegatina para cama caliente PEI Spring Steel Sheet es más duradera que la pegatina original para cama caliente. Con la cama caliente lisa de un solo lado hacia arriba, también puede hacer que la parte inferior de la impresión sea más suave. **[:gift: Comprar](http://bit.ly/3GbI9Sr) / [:gift: Comprar](https://bit.ly/3VkmXOi)**     
+- **Extrusora de doble engranaje:+1:**    
+El extrusor de doble engranaje puede aumentar significativamente la fuerza para empujar/tirar del filamento, reduciendo en gran medida la probabilidad de defectos de impresión y fallas de impresión causadas por el deslizamiento del filamento en el extrusor.**[:book: Guía del usuario](https://bit.ly/UM_BMG)** **[:gift: Comprar](https://bit.ly/46Vyd9H) / [:gift: Comprar](https://bit.ly/AE_4xBMG)**
+- **pegatina de cama de calentamiento de resorte pei :+1:**       
+Las pegatinas de cama caliente de chapa de acero de resorte Pei son más duraderas que las pegatinas de cama caliente originales. La cama caliente lisa de un solo lado se enfrenta hacia arriba, lo que también puede hacer que la parte inferior del estampado sea más suave. **[:gift: compra](http://bit.ly/3GbI9Sr) / [:gift: compra](https://bit.ly/3VkmXOi)**
 - **Sensor de filamento agotado :+1:**    
 Al actualizar este artículo, podrá controlar de forma remota su impresora 3D. **[:book: Guía del usuario][guide_FROD]** [:gift:Comprar](https://www.aliexpress.com/item/4001309957376.html)
 - **Módulo de control inalámbrico WiFi :+1:**    
@@ -206,8 +212,10 @@ Slicing é um software que todos usam ao criar objetos e produtos em uma impress
 - :book: [**Soluções de problemas para Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Recursos atualizáveis  
-- **Extensor de cartão SD :+1:**    
-Ao atualizar este item, fica mais fácil acessar (Conectar/Desconectar) o cartão SD. [:gift:Comprar](https://www.aliexpress.com/item/1005005342958433.html)
+- **Adesivo de colchão térmico PEI Springs:+1:**      
+O adesivo para cama quente de chapa de aço com mola PEI é mais durável do que o adesivo original para cama quente. Com a cama quente lisa de um lado voltada para cima, também pode tornar a parte inferior da impressão mais lisa. **[:gift: Compre](http://bit.ly/3GbI9Sr) / [:gift: Compre](https://bit.ly/3VkmXOi)**
+- **Extrusora de engrenagem dupla:+1:**    
+A extrusora de engrenagem dupla pode aumentar significativamente a força para empurrar/puxar o filamento, reduzindo bastante a probabilidade de defeitos de impressão e falhas de impressão causadas pelo deslizamento do filamento na extrusora.**[:book: User guide](https://bit.ly/UM_BMG)** **[:gift: Compre](https://bit.ly/46Vyd9H) / [:gift: Compre](https://bit.ly/AE_4xBMG)**
 - **Sensor de esgotamento de filamento :+1:**   
 Ao atualizar este item, você pode controlar remotamente sua impressora 3D. **[:book: Guia do usuário][guide_FROD]** [:gift:Comprar](https://www.aliexpress.com/item/4001309957376.html)
 - **Módulo de controle sem fio WiFi  :+1:**    
@@ -275,8 +283,10 @@ Slicing est un logiciel que tout le monde utilise pour créer des objets et des 
 - :book: [**Dépannage pour Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Fonctionnalités évolutives
-- **Extension de carte SD :+1:**   
-En mettant à niveau cet élément, il est plus facile d'accéder (brancher/débrancher) à la carte SD. [:gift: Acheter](https://www.aliexpress.com/item/1005005342958433.html)
+- **Autocollant du lit chauffant PEI Springs :+1:**    
+L'autocollant pour lit chaud en tôle d'acier PEI Spring est plus durable que l'autocollant original pour lit chaud. Avec le lit chaud lisse d'un seul côté orienté vers le haut, cela peut également rendre le bas de l'impression plus lisse. **[:gift: Acheter](http://bit.ly/3GbI9Sr) / [:gift: Acheter](https://bit.ly/3VkmXOi)**     
+- **Extrudeuse à double engrenage :+1:**     
+L'extrudeuse à double engrenage peut augmenter considérablement la force nécessaire pour pousser/tirer le filament, réduisant considérablement la probabilité de défauts d'impression et d'échecs d'impression causés par le glissement du filament sur l'extrudeuse.**[:book: Guide de l'utilisateur](https://bit.ly/UM_BMG)** **[:gift: Acheter ](https://bit.ly/46Vyd9H) / [:gift: Acheter](https://bit.ly/AE_4xBMG)**
 - **Capteur d'épuisement du filament :+1:**   
 En mettant à niveau cet article, vous pouvez contrôler à distance votre imprimante 3D. **[:book: Guide][guide_FROD]** [:gift: Acheter](https://www.aliexpress.com/item/4001309957376.html)
 - **Module de contrôle sans fil WiFi :+1:**   
@@ -345,8 +355,10 @@ Slicing ist eine Software, die jeder beim Erstellen von Objekten und Produkten a
 - :book: [**Fehlerbehebung für Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Aktualisierbare Funktionen
-- **SD-Karten-Extender :+1:**   
-Durch die Aktualisierung dieses Elements ist es einfacher, auf die SD-Karte zuzugreifen (ein-/ausstecken). [:gift: Kaufen](https://www.aliexpress.com/item/1005005342958433.html)
+- **PEI Springs Heizbettaufkleber :+1:**    
+Der PEI-Federstahlblech-Heizbettaufkleber ist haltbarer als der Original-Heizbettaufkleber. Wenn das einseitig glatte Heißbett nach oben zeigt, kann auch die Unterseite des Drucks glatter gemacht werden. **[:gift: Kaufen](http://bit.ly/3GbI9Sr) / [:gift: Kaufen](https://bit.ly/3VkmXOi)**
+- **Dual Gear Extruder :+1:**     
+Der Dual-Gear-Extruder kann die Kraft zum Drücken/Ziehen des Filaments erheblich erhöhen und so die Wahrscheinlichkeit von Druckfehlern und Druckfehlern, die durch Filamentrutschen am Extruder verursacht werden, erheblich reduzieren.**[:book: Benutzerhandbuch](https://bit.ly/UM_BMG)** **[:gift: Kaufen](https://bit.ly/46Vyd9H) / [:gift: Kaufen](https://bit.ly/AE_4xBMG)**     
 - **Filament-Auslaufsensor :+1:**   
 Durch ein Upgrade dieses Artikels können Sie Ihren 3D-Drucker fernsteuern. **[:book: Benutzerhandbuch][guide_FROD]** [:gift: Kaufen](https://www.aliexpress.com/item/4001309957376.html)
 - **WiFi-Funksteuermodul :+1:**   
@@ -415,8 +427,10 @@ Lo slicing è un software che tutti utilizzano quando creano oggetti e prodotti 
 - :book: [**Risoluzione dei problemi per Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Funzionalità aggiornabili
-- **Estensore scheda SD :+1:**    
-Aggiornando questo elemento, sarà più semplice accedere (collegare/scollegare) alla scheda SD. [:gift:Acquista](https://www.aliexpress.com/item/1005005342958433.html)
+- **Adesivo piano riscaldato PEI Springs :+1:**
+L'adesivo per letto caldo in lamiera di acciaio per molle PEI è più resistente dell'adesivo originale per letto caldo. Con il letto caldo liscio su un lato rivolto verso l'alto, è anche possibile rendere più liscia la parte inferiore della stampa. **[:gift: Acquista](http://bit.ly/3GbI9Sr) / [:gift: Acquista](https://bit.ly/3VkmXOi)**
+- **Estrusore a doppia marcia:+1:**
+L'estrusore a doppia marcia può aumentare significativamente la forza per spingere/tirare il filamento, riducendo notevolmente la probabilità di difetti di stampa e guasti di stampa causati dallo scivolamento del filamento sull'estrusore.**[:book: Guida per l'utente](https://bit.ly/UM_BMG)** **[:gift: Acquista ](https://bit.ly/46Vyd9H) / [:gift: Acquista](https://bit.ly/AE_4xBMG)**
 - **Sensore esaurimento filamento :+1:**    
 Aggiornando questo articolo, puoi controllare a distanza la tua stampante 3D. **[:book: Guida per l'utente][guide_FROD]** [:gift:Acquista](https://www.aliexpress.com/item/4001309957376.html)
 - **Modulo di controllo wireless WiFi  :+1:**    
@@ -485,8 +499,10 @@ G-код — это информация или инструкции, котор
 - :book: [**Устранение неполадок для Z8P**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### Обновляемые функции
-- **Удлинитель SD-карты :+1:**    
-Обновив этот элемент, вы облегчите доступ (подключение/отключение) к SD-карте. [:gift:Купить](https://www.aliexpress.com/item/1005005342958433.html)
+- **Наклейка с подогревом PEI Springs :+1:**      
+Наклейка для рассадника из пружинного стального листа PEI более долговечна, чем оригинальная наклейка для рассадника. Если односторонняя гладкая горячая платформа обращена вверх, это также может сделать нижнюю часть отпечатка более гладкой. **[:gift: Купить](http://bit.ly/3GbI9Sr) / [:gift: Купить](https://bit.ly/3VkmXOi)**
+- **Двухшнековый экструдер :+1:**     
+Экструдер с двумя шестернями может значительно увеличить силу выталкивания/вытягивания нити, что значительно снижает вероятность дефектов печати и сбоев печати, вызванных проскальзыванием нити в экструдере.**[:book: Руководство пользователя](https://bit.ly/UM_BMG)** **[:gift: Купить ](https://bit.ly/46Vyd9H) / [:gift: Купить](https://bit.ly/AE_4xBMG)**
 - **Датчик окончания нити :+1:**    
 Обновив этот предмет, вы сможете удаленно управлять своим 3D-принтером. **[:book: Руководство пользователя][guide_FROD]** [:gift:Купить](https://www.aliexpress.com/item/4001309957376.html)
 - **Беспроводной модуль управления Wi-Fi :+1:**   
@@ -557,8 +573,10 @@ G コードとは、3D プリンターが 3 次元オブジェクトを印刷す
 - :book: [**Z8P のトラブルシューティング**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### アップグレード可能な機能
-- **SD カード エクステンダー :+1:**    
-このアイテムをアップグレードすると、SD カードへのアクセス (抜き差し) が容易になります。 [:gift:購入](https://www.aliexpress.com/item/1005005342958433.html)
+- **PEI スプリング ヒートベッド ステッカー :+1:**      
+PEI スプリング鋼板ホットベッド ステッカーは、オリジナルのホットベッド ステッカーよりも耐久性があります。 片面滑らかなホットベッドを上に向けると、プリントの底部をより滑らかにすることもできます。 **[:gift: 購入](http://bit.ly/3GbI9Sr) / [:gift: 購入](https://bit.ly/3VkmXOi)**
+- **デュアルギアエクストルーダー:+1:**     
+デュアルギア押出機は、フィラメントを押したり引いたりする力を大幅に増加させることができ、押出機上でのフィラメントの滑りによる印刷欠陥や印刷失敗の可能性を大幅に低減します。**[:book: ユーザーガイド](https://bit.ly/UM_BMG)** **[:gift: 購入する](https://bit.ly/46Vyd9H) / [:gift: 購入する](https://bit.ly/AE_4xBMG)**   
 - **フィラメント切れセンサー :+1:**    
 このアイテムをアップグレードすると、3D プリンターを遠隔操作できるようになります。 **[:book: ユーザーガイド][guide_FROD]** [:gift:購入](https://www.aliexpress.com/item/4001309957376.html)
 - **WiFi ワイヤレス制御モジュール :+1:**    
@@ -629,8 +647,10 @@ G-code는 3D 프린터가 3차원 물체를 출력하기 위해 필요한 정보
 - :book: [**Z8P 문제 해결**](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ/readme.md)
 
 ### 업그레이드 가능한 기능
-- **SD 카드 확장기 :+1:**     
-이 항목을 업그레이드하면 SD 카드에 더 쉽게 액세스(플러그/플러그 해제)할 수 있습니다. [:gift:구매](https://www.aliexpress.com/item/1005005342958433.html)
+- **PEI 스프링 히트베드 스티커 :+1:**    
+PEI 스프링 강판 핫베드 스티커는 원래 핫베드 스티커보다 내구성이 뛰어납니다. 단면이 부드러운 핫베드를 위로 향하게 하면 인쇄물의 바닥을 더 매끄럽게 만들 수도 있습니다. **[:gift: 구매](http://bit.ly/3GbI9Sr) / [:gift:구매](https://bit.ly/3VkmXOi)**    
+- **이중 기어 압출기 :+1:**     
+듀얼 기어 압출기는 필라멘트를 밀거나 당기는 힘을 크게 증가시켜 압출기에서 필라멘트가 미끄러져 발생하는 인쇄 결함 및 인쇄 실패 가능성을 크게 줄일 수 있습니다.**[:book: 사용 설명서](https://bit.ly/UM_BMG)** **[:gift: 구매 ](https://bit.ly/46Vyd9H) / [:gift: 구매](https://bit.ly/AE_4xBMG)**
 - **필라멘트 소진 센서 :+1:**    
 이 항목을 업그레이드하면 3D 프린터를 원격으로 제어할 수 있습니다. **[:book: 사용 설명서][guide_FROD]** [:gift:구매](https://www.aliexpress.com/item/4001309957376.html)  
 - **WiFi 무선 제어 모듈  :+1:**    

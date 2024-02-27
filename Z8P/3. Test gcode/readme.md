@@ -1,10 +1,8 @@
-### [:arrow_down: xyz_cube](xyz_cube.zip)
-### [:arrow_down: dog](dog.zip)
-### [:arrow_down: Vase](Vase.zip)
-### [:arrow_down: PLA temperature correction tower](TempCal_PLA.zip)
-### [:arrow_down: Gradient Mixing Vase](GradientMix_Vase.zip)
-### [:arrow_down: Random Mixing Vase](RandomMix_Vase.zip)
-### [:arrow_down:M4_4CTest](./M4_4CTest.zip)
+## For Z8PM3(Pro)
+[:arrow_down: test gcode file for Z8PM3(Pro)](Z8PM3.zip)
+
+## For Z8PM4(Pro)
+[:arrow_down: test gcode file for Z8PM4(Pro)](Z8PM4.zip)
 
 ### How to download
 Click the ZIP file and then click the download button.  

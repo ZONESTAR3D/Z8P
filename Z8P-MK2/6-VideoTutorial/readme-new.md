@@ -7,6 +7,7 @@
 #### Installation
 - **[:book: Maunal](../1-Installation_Guide/)**    
 - **[:clapper: Video Tutorial - HD](https://youtu.be/-oieO7U0LCc)**    
+##### 
 [Part 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)    
 [Part 2](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)    
 [Part 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)    
@@ -14,6 +15,7 @@
 #### Wiring
 - **[:book: Maunal][wiring]**  
 - **[:clapper: Video Tutorial - HD](https://youtu.be/kpQvHASNfqE)**    
+##### 
 [Wiring](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)   
 
 ## :two: Operation Guide

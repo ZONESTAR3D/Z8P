@@ -9,9 +9,13 @@
 - **[:clapper: Video Tutorial - HD](https://youtu.be/-oieO7U0LCc)**    
 ##### 
 [Part 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)    
+##### 
 [Part 2](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)    
+##### 
 [Part 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)    
+##### 
 [Part 4](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)   
+
 #### Wiring
 - **[:book: Maunal][wiring]**  
 - **[:clapper: Video Tutorial - HD](https://youtu.be/kpQvHASNfqE)**    

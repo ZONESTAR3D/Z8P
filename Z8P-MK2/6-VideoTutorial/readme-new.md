@@ -3,6 +3,7 @@
 1. Some videos are filmed using machines other than the Z8PM4Pro, but the operating steps are identical to those of the Z8PM4Pro.
 2. Please directly click on the image below to watch the video
 
+----
 ## :one: Installation Guide
 #### Installation
 - **[:book: Maunal](../1-Installation_Guide/)**    
@@ -22,6 +23,7 @@
 ##### 
 [Wiring](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)   
 
+----
 ## :two: Operation Guide
 #### Power On/OFF
 - **[:book: Maunal](../2-Operation_Guide/readme.md)**   
@@ -62,7 +64,7 @@
 - **[:book: Maunal][psufan]**
 - **[:clapper: Video Tutorial - HD](https://youtu.be/Xc3vRqRYklM)** 
 
-
+----
 ## :three: Advance Features Guide
 #### Power auto shutdown
 - **[:book: Maunal][autoshutdown]**

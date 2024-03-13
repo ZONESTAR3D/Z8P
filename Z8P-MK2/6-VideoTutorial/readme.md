@@ -161,6 +161,8 @@
 - **[:clapper: Video Tutorial - HD](https://youtu.be/5MIeuzuxSf8)** 
 #### Replace the keypad of LCD screen
 - **[:clapper: Video Tutorial - HD](https://youtu.be/Xwfczp3nLOY)** 
+#### Fittings are dropped off from the hotend?
+- **[:clapper: Video Tutorial - HD](https://youtu.be/ksc36CwoRJw)** 
 
 ----
 ## :six: Appendix

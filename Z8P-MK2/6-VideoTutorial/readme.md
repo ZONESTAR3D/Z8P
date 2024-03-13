@@ -32,6 +32,8 @@
   - [Clean clogged M4V6 Hotend](#clean-clogged-m4v6-hotend)
   - [Replace inner PTFE tubes of M4V6 Hotend](#replace-inner-ptfe-tubes-of-m4v6-hotend)
   - [Replace fitting of the M4V6 Hotend](#replace-fitting-of-the-m4v6-hotend)
+  - [Replace control board](#replace-control-board)
+  - [Replace the keypad of LCD screen](#replace-the-keypad-of-lcd-screen)
 - **[6. Appendix](#6️⃣-appendix)**   
   - [Print and install a cover on the PSU](#print-and-install-a-cover-on-the-psu)
 
@@ -155,6 +157,10 @@
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
 ##### 
 [M4V6-MK2](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/d7009e4e-5f8a-4267-ae60-d3ad024448bb)
+#### Replace control board
+- **[:clapper: Video Tutorial - HD](https://youtu.be/5MIeuzuxSf8)** 
+#### Replace the keypad of LCD screen
+- **[:clapper: Video Tutorial - HD](https://youtu.be/Xwfczp3nLOY)** 
 
 ----
 ## :six: Appendix
@@ -177,6 +183,5 @@
 [fastprint]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6/HighFlow
 [wifiinstall]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi
 [wifiuseguide]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi/WiFi_User_Guide.md
-
 [cleanM4V6]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_FAQ/cleanM4V6.md
 [ReplaceM4V6InnerPTFE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_FAQ/ReplaceM4V6InnerPTFE.md

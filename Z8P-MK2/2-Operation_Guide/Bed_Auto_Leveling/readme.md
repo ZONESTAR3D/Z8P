@@ -1,9 +1,11 @@
 ﻿## Bed Auto leveling User Guide
-#### :warning: Please note
-1. Please check if you have adjusted the eccentric column on the machine as mentioned in the installation manual. To ensure that the product will not be damaged during transportation, we adjust the eccentric column to a relatively loose position at the factory. You need to adjust them, especially the eccentric column of the hot bed bracket (as shown in the far left picture), to ensure that the hot bed does not have significant shaking.
-2. After adjusting the eccentric column, be sure to follow these three steps: Level Corners>>Catch Probe Z offset>>Bed Leveling.
-3. When printing for the first time after completing automatic leveling, you need to adjust the Z offset when printing the first layer (the cursor points to the Tune menu, then press the knob twice to pop up a BabySteps menu, observe the height between the nozzle and the hot bed, and rotate the knob to adjust to the appropriate position). Once the adjustment is completed, you do not need to make any further adjustments during the next printing.
-4. Once you manually adjust the screws which fixed the heat bed, replace a hot end, adjust the Leveling sensor height, and other actions that may cause changes the value of "Z Probe Offset", you also need to repeat the steps 1 and steps 2 manually.
+#### :warning: Please note:
+1. Please check if you have adjusted the eccentric column on the machine as mentioned in the installation manual. To ensure that the product will not be damaged during transportation, we adjust the eccentric column to a relatively loose position at the factory. You need to adjust them, especially the eccentric column of the hot bed bracket, to ensure that the hot bed does not have significant shaking. For details, please refer to [this page](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide#8-tune-the-eccentric-columns).
+2. Please pay attention to checking the installation position of the leveling device. The bottom of the sensor should be **2 ~ 3mm** higher than the nozzle.  PS: If you **upgraded a PEI springs sticker**, it should be **4~5mm** higher than the nozzle.
+![](./install.jpg)
+3. When doing bed auto leveling, please follow these steps step by step: **[Level Corners](#1️⃣-level-corners)>>[Catch Probe Z offset](#2️⃣-catch-probe-z-offset)>>[Bed Leveling](#3️⃣-bed-leveling)**.
+4. When printing the first object after did bed automatic leveling, you need to adjust the Z offset when printing the first layer *(the cursor points to the Tune menu, then press the knob twice to pop up a **Babystep** menu, observe the height between the nozzle and the hot bed, and rotate the knob to adjust to the appropriate position)*. Once the adjustment is completed, you do not need to make any further adjustments during the next printing.
+5. Once you manually adjust the screws which fixed the heat bed, replace a hot end, reinstalled the leveling sensor or other actions that may cause changes the value of **"Z Probe Offset"**, you must repeat all bed leveling steps again.
 
 -----
 ### :one: Level Corners

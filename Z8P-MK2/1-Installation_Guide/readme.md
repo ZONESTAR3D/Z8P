@@ -1,10 +1,23 @@
+## <a id="choose-language">:globe_with_meridians: Choose language </a>
+[![](../lanpic/EN.png)](#EN)
+[![](../lanpic/ES.png)](./readme-es.md)
+[![](../lanpic/PT.png)](./readme-pt.md)
+[![](../lanpic/FR.png)](./readme-fr.md)
+[![](../lanpic/DE.png)](./readme-de.md)
+[![](../lanpic/IT.png)](./readme-it.md)
+[![](../lanpic/RU.png)](./readme-ru.md)
+[![](../lanpic/JP.png)](./readme-jp.md)
+[![](../lanpic/KR.png)](./readme-kr.md)
+<!-- [![](../lanpic/SA.png)](#arabic) -->
+
 -----
+<a id="EN"></a>
 # Z8P-MK2 Installation Guide
 ### [ :clapper: **Z8P-MK2 Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
 
 -----
-### :warning:ATTENTION:warning:
-#### :clipboard:Please strictly follow the standard operation when installation.
+### :warning: ATTENTION :warning:
+#### :clipboard: Please strictly follow the standard operation when installation.
 #### :baby_bottle: Please put the printer away from the reach of kids.
 #### :school: Must be guided by adults when children are installed or used.
 #### :wrench: Take care when installation, to avoid electrical shock hazards.
@@ -81,19 +94,19 @@ Put the extruder cables into the groove behind the right Z profile and cover it 
 
 ### 2. Install X axis Parts
 ![](./pic/installX1.png)  
-Step 1. Install X belt idler to X profile.   
-Step 2. Install X belt.    
-Step 3. Insert X carrier from the left side, keep the belt in the groove of X profile.   
-Step 4. Fasten the belt to the hook of X carrier.     
-Step 5. Move the belt to the center of the profile.      
+- Step 1. Install X belt idler to X profile.   
+- Step 2. Install X belt.    
+- Step 3. Insert X carrier from the left side, keep the belt in the groove of X profile.   
+- Step 4. Fasten the belt to the hook of X carrier.     
+- Step 5. Move the belt to the center of the profile.      
 
 ![](./pic/installX2.png)  
-Step 1. Rotate the lead screws to keep the same height.    
-Step 2. Insert X idler to Z right carrier.     
-Step 3. Hang the belt to the timing pulley.     
-Step 4. Turn the wheel to let the belt in.     
-Step 5. Fix X profile (Don’t tighten at first).     
-Step 6. Fix the X idler.     
+- Step 1. Rotate the lead screws to keep the same height.    
+- Step 2. Insert X idler to Z right carrier.     
+- Step 3. Hang the belt to the timing pulley.     
+- Step 4. Turn the wheel to let the belt in.     
+- Step 5. Fix X profile (Don’t tighten at first).     
+- Step 6. Fix the X idler.     
 
 ### 3. Install LCD screen
 ![](./pic/InstallLCDScreen.png)  
@@ -109,26 +122,26 @@ Install the 4 extruders on the top profile.
 Connect the extrusion feeder with the print head (hot end) by filament guide (PTFE tube)   
 ![](./pic/installPTFE.png)  
 ##### :warning: Note: These PTFE tubes are a little longer than need, you can cut it by a knife if need.      
-Step 1. Insert PTFE tubes to the extruders.    
-Step 2. Install clamps.    
-Step 3. Connect PTFE tubes to the fittings on the Hot end.     
+- Step 1. Insert PTFE tubes to the extruders.    
+- Step 2. Install clamps.    
+- Step 3. Connect PTFE tubes to the fittings on the Hot end.     
 **:warning: Don't pull out the inner PTFE tubes:warning:**, if any one of the inner PTFE tubes is not inserted at the bottom of the hot end, the hot end is easy to be blocked during printing. **The inner PTFE tubes** are the 4 shorter PTFE tubes which plugged into the hot end.
-About user guide of M4V6 hotend, please refer to:  https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6
+About user guide of M4V6 hotend, please refer to:  https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6
 
 ### 6. Debug the Z Movement system
 ![](./pic/DebugZ.png)  
 Keep the lead screws parallel to the Z axis profiles as far as possible will help to obtain better printing quality, please debug them refer to the following steps:   
-**Step 1. Loosen all the screws a little that fixed the Z motors and T8 copper nut.**   
-**Step 2. Synchronous Rotate the couplings to move up the X axis to 1/2 height of the printer.**   
-**Step 3. Keep the lead screws parallel to the Z profiles, then tighten the screws that fixed the Z motor and T8 copper nuts.**   
+- Step 1. Loosen all the screws a little that fixed the Z motors and T8 copper nut.  
+- Step 2. Synchronous Rotate the couplings to move up the X axis to 1/2 height of the printer.  
+- Step 3. Keep the lead screws parallel to the Z profiles, then tighten the screws that fixed the Z motor and T8 copper nuts.   
 
 ### 7. Install Z lead screws fixed module
-Install the Z lead screws fix blocks on the top profile.
+Install the Z lead screws fix blocks on the top profile.     
 ![](./pic/InstallZFixModule.png)
 
-### 8. Tune the eccentric columns
+### 8. Tune the eccentric columns    
 Rotate the eccentric columns under the hot bed bracket and X carrier, to ensure that the carrier can run smoothly on the track without shaking.     
-![](./pic/eccentric.jpg)
+![](./pic/eccentric.jpg)      
 :warning: The latest Z8PM4Pro-MK2 ***(called MK2A)*** has improved the Y profiles from a 20x40 profile into 2 peieces 20x20 profile, so the eccentric columns on heat bed bracket has also modified.
 
 ### 9. Install Filament Bracket
@@ -177,3 +190,6 @@ Next, just do some preliminary debugging, and you can start your first print. Pl
 Wiring Schematic Diagram shows the connection schematic diagram of the control board terminals and components used inside the control box.
 **Please note that the components shown in the pink box are optional components/functions** but not standard equipment of Z8PM4Pro.
 ![](./Wiring_Diagram.jpg)
+
+
+

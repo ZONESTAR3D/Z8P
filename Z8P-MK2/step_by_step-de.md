@@ -27,7 +27,7 @@ Zunächst empfehlen wir Ihnen, [:arrow_down: **alle Dokumente herunterzuladen**]
      Nachdem Sie die oben genannten drei Schritte ausgeführt haben und grundsätzlich festgestellt haben, dass die Maschine normal funktioniert, können Sie mit den folgenden Schritten fortfahren. Wenn Sie feststellen, dass ein Teil nicht ordnungsgemäß funktioniert, überprüfen Sie bitte die Verkabelung noch einmal oder führen Sie zur Überprüfung einen „Automatischen Elektroniktest�?durch. (Siehe [ :clapper: **Video-Tutorial zum automatischen Testen von Maschinen**][AUTOTEST_VIDEO]).
 ## Schritt 3. Richten Sie das Bett aus
 Bevor Sie die Testdatei drucken, müssen Sie eine einfache Bettnivellierung durchführen, um die Höhe zwischen der Düse und dem Bett (Druckplattform) einzustellen, damit das Filament beim Drucken gut auf dem Bett haften kann. Bitte lesen Sie hierzu [**das Bett nivellieren**][LEVEL_BED].
-## Schritt 4. Test-3D-Modell drucken
+## <a id="step4">Schritt 4. Test-3D-Modell drucken</a>
 FDM-3D-Drucker können nur Gcode-Dateien erkennen. Wir müssen die Gcode-Dateien auf die SD-Karte kopieren, dann die SD-Karte in den SD-Kartensteckplatz des 3D-Druckers einlegen und dann den LCD-Bildschirm bedienen, um mit dem Drucken zu beginnen.
 :warning: Auch wenn Sie mit 3D-Druckern vertraut sind, wird empfohlen, mindestens ein 4-Farben-Testmodell zu drucken, um zu bestätigen, dass die Maschine normal funktioniert.
 - **4.1 Eine einfarbige Testdatei drucken**
@@ -44,17 +44,17 @@ FDM-3D-Drucker können nur Gcode-Dateien erkennen. Wir müssen die Gcode-Dateien
    - **Düsenhöhe fein einstellen**. Warten Sie, bis die Düse und das Heizbett erhitzt sind, und achten Sie beim Drucken der ersten Schicht auf den Abstand von der Düse zum Bett. Wenn diese zu dick oder zu nah ist, doppelklicken Sie auf den Knopf des LCD-Bildschirms, um ein **"Babystep"**-Menü zu öffnen , und drehen Sie dann den Knopf, um den Abstand von der Düse zum Bett fein einzustellen.
    - **Warten Sie, bis der Druckvorgang abgeschlossen ist**.
 ## Schritt 5. Schneiden Sie Ihr eigenes 3D-Modell
-- Bevor Sie Ihre eigenen 3D-Modelle drucken, müssen Sie die 3D-Modelldatei (eine Datei im stl/obj/AMF-Format, die Sie [aus dem Internet heruntergeladen haben](#download_de) oder die Sie selbst gezeichnet haben) in eine Gcode-Datei konvertieren und diese Gcode-Datei speichern auf die SD-Karte und schließen Sie die SD-Karte dann an Ihren 3D-Drucker an.     
+- Bevor Sie Ihre eigenen 3D-Modelle drucken, müssen Sie die 3D-Modelldatei (eine Datei im stl/obj/AMF-Format, die Sie [aus dem Internet heruntergeladen haben](#download) oder die Sie selbst gezeichnet haben) in eine Gcode-Datei konvertieren und diese Gcode-Datei speichern auf die SD-Karte und schließen Sie die SD-Karte dann an Ihren 3D-Drucker an.     
    :pushpin: **Der Prozess der Konvertierung eines 3D-Modells in eine Gcode-Datei wird *Slicing*** genannt.
 - Zuerst müssen Sie die Slicing-Software herunterladen und auf Ihrem Computer installieren und die Parameter Ihrer Maschine in der Slicing-Software einstellen oder die voreingestellte Datei Ihrer Maschine laden, die vom Hersteller des 3D-Druckers festgelegt wurde.
 - Als nächstes müssen Sie die Slicing-Software ausführen und möglicherweise auch einige Slicing-Einstellungen entsprechend den Eigenschaften Ihrer 3D-Modelldatei festlegen und dann das Slicing durchführen.     
    :pushpin: Die empfohlene Slicing-Software ist **PrusaSlicer**. Informationen zum Herunterladen, Installieren und Verwenden von **PrusaSlicer** finden Sie in der [***Slicing-Anleitung***][SLICING_GUIDE].
-#### <a id="download_de"> :page_with_curl: Berühmte kostenlose Websites zum Herunterladen von 3D-Modellen </a>
+#### <a id="download"> :page_with_curl: Berühmte kostenlose Websites zum Herunterladen von 3D-Modellen </a>
   - [thingiverse](https://www.thingiverse.com/)  
   - [printables](https://www.printables.com/)  
   - [youmagine](https://www.youmagine.com/)   
 ## Schritt 6. Drucken Sie Ihr eigenes 3D-Modell
-Kopieren Sie nach dem Slicen die generierte Gcode-Datei auf die SD-Karte und drucken Sie sie dann gemäß [**Schritt 4**](#schritt-4-test-3d-modell-drucken) aus.
+Kopieren Sie nach dem Slicen die generierte Gcode-Datei auf die SD-Karte und drucken Sie sie dann gemäß [**Schritt 4**](#step4) aus.
 ## Schritt 7. So nutzen Sie erweiterte Funktionen
 Nachdem Sie alle grundlegenden Vorgänge vollständig verstanden haben, können Sie einige erweiterte Funktionen dieses Geräts ausprobieren.
 Einzelheiten finden Sie im [**Benutzerhandbuch für erweiterte Funktionen**][ADVANCE_FEATURES].

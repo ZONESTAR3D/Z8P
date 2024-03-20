@@ -11,7 +11,7 @@
 <!-- [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-ar.md) -->
 
 -----
-# Guide d'utilisation du Z8P-MK2
+# Z8P-MK2 Guide d'utilisation 
 ## Allumer et éteindre
 #### :warning: ATTENTION ! :warning:
 ##### ASSUREZ-VOUS QUE LE COMMUTATEUR DE SÉLECTION DE TENSION AC EST RÉGLÉ SUR LA BONNE POSITION !

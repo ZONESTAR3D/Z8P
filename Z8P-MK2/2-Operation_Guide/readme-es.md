@@ -11,7 +11,7 @@
 <!-- [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-ar.md) -->
 
 -----
-# Guía de operación Z8P-MK2
+# Z8P-MK2 Guía de operación 
 ## Encendido y apagado
 #### :warning: ¡ATENCIÓN! :warning:
 ##### ¡ASEGÚRESE DE QUE EL INTERRUPTOR DE SELECCIÓN DE VOLTAJE DE CA SE HA AJUSTADO EN LA POSICIÓN CORRECTA!

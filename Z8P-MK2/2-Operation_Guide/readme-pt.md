@@ -11,7 +11,7 @@
 <!-- [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-ar.md) -->
 
 -----
-# Guia de operação Z8P-MK2
+# Z8P-MK2 Guia de operação
 ## LIGAR e desligar
 #### :warning: ATENÇÃO! :warning:
 ##### CERTIFIQUE-SE DE QUE O INTERRUPTOR DE SELEÇÃO DE TENSÃO CA ESTÁ NA POSIÇÃO CORRETA!

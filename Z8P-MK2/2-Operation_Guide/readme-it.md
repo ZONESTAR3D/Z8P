@@ -11,7 +11,7 @@
 <!-- [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-ar.md) -->
 
 -----
-# Guida operativa Z8P-MK2
+# Z8P-MK2 Guida operativa
 ## Accensione e spegnimento
 #### :warning: ATTENZIONE! :warning:
 ##### ASSICURARSI CHE L'INTERRUTTORE DI SELEZIONE DELLA TENSIONE CA SIA IMPOSTATO NELLA POSIZIONE CORRETTA!

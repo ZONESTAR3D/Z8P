@@ -23,7 +23,7 @@ Due to the large mixing chamber of the 4-IN-1-OUT color mixing hot end - M4V6- u
 Menu: Control>>Configre
 ![](pic/1.png)
 ### 2. Setting parameters if need
-![](pic/2.png)
+##### ![](pic/2.png)
 1. Turn ON / OFF auto retraction feature.      
 2. Set retraction length (mm). 
 3. Set retract speed (mm/s).
@@ -40,9 +40,9 @@ Debido a la gran cámara de mezcla del extremo caliente de mezcla de colores 4 E
 
 ### 1. Habilite la función "Retracción automática"
 Menú: Control>>Configurar
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. Configuración de parámetros si es necesario
-![](pic/2.png)
+##### ![](pic/2.png)
 1. Active o desactive la función de retracción automática.
 2. Establezca la longitud de retracción (mm).
 3. Establezca la velocidad de retracción (mm/s).
@@ -59,9 +59,9 @@ Devido à grande câmara de mistura do hot end de mistura de cores 4-IN-1-OUT - 
 
 ### 1. Ative o recurso "Retração automática"
 Menu: Controle>>Configurar
-![](foto/1.png)
+##### ![](foto/1.png)
 ### 2. Definir parâmetros se necessário
-![](foto/2.png)
+##### ![](foto/2.png)
 1. Ative/desative o recurso de retração automática.
 2. Defina o comprimento de retração (mm).
 3. Defina a velocidade de retração (mm/s).
@@ -78,9 +78,9 @@ En raison de la grande chambre de mélange de la partie chaude de mélange de co
 
 ### 1. Activer la fonction "Rétraction automatique"
 Menu : Contrôle>>Configurer
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. Paramétrage des paramètres si besoin
-![](pic/2.png)
+##### ![](pic/2.png)
 1. Activez/désactivez la fonction de rétraction automatique.
 2. Réglez la longueur de rétraction (mm).
 3. Réglez la vitesse de rétraction (mm/s).
@@ -97,9 +97,9 @@ Aufgrund der großen Mischkammer des 4-IN-1-OUT-Farbmisch-Hot-Ends (M4V6), das i
 
 ### 1. Aktivieren Sie die Funktion „Auto Retract“.
 Menü: Steuerung>>Konfigurieren
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. Parameter bei Bedarf einstellen
-![](pic/2.png)
+##### ![](pic/2.png)
 1. Schalten Sie die Funktion zum automatischen Einfahren ein bzw. aus.
 2. Rückzugslänge (mm) einstellen.
 3. Rückzugsgeschwindigkeit einstellen (mm/s).
@@ -116,9 +116,9 @@ A causa dell'ampia camera di miscelazione dell'hot end di miscelazione dei color
 
 ### 1. Abilita la funzione "Ritiro automatico".
 Menu: Controllo >>Configura
-![](foto/1.png)
+##### ![](foto/1.png)
 ### 2. Impostazione dei parametri, se necessario
-![](foto/2.png)
+##### ![](foto/2.png)
 1. Attiva/disattiva la funzione di ritrazione automatica.
 2. Impostare la lunghezza di retrazione (mm).
 3. Impostare la velocità di ritrazione (mm/s).
@@ -135,9 +135,9 @@ Menu: Controllo >>Configura
 
 ### 1. Включите функцию «Автоматическое втягивание».
 Меню: Управление>>Настроить
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. Настройка параметров при необходимости
-![](pic/2.png)
+##### ![](pic/2.png)
 1. Включите/выключите функцию автоматического втягивания.
 2. Установите длину втягивания (мм).
 3. Установите скорость втягивания (мм/с).
@@ -154,9 +154,9 @@ Z8PM4Pro-MK2 で使用されている 4-IN-1-OUT カラーミキシングホッ�
 
 ### 1.「自動撤回」機能を有効にする
 メニュー: コントロール>>設定
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. 必要に応じてパラメータを設定する
-![](pic/2.png)
+##### ![](pic/2.png)
 1. 自動格納機能をON/OFFします。
 2. 後退長さ (mm) を設定します。
 3. 後退速度 (mm/s) を設定します。
@@ -173,9 +173,9 @@ Z8PM4Pro-MK2에 사용되는 4-IN-1-OUT 컬러 믹싱 핫엔드(M4V6)의 대형 
 
 ### 1. "자동 철회" 기능을 활성화합니다.
 메뉴: 제어>>구성
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. 필요한 경우 매개변수 설정
-![](pic/2.png)
+##### ![](pic/2.png)
 1. 자동 철회 기능을 ON/OFF 하세요.
 2. 수축 길이(mm)를 설정합니다.
 3. 후퇴 속도(mm/s)를 설정합니다.

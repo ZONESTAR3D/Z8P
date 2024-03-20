@@ -44,12 +44,12 @@ Le stampanti 3D FDM possono riconoscere solo i file gcode, dobbiamo copiare i fi
    - **Regolazione fine dell'altezza dell'ugello**. Attendi che l'ugello e il piano caldo siano riscaldati e osserva la distanza dall'ugello al letto durante la stampa del primo strato, se è troppo largo o troppo vicino, fai doppio clic sulla manopola dello schermo LCD per aprire un menu **"babystep"** , quindi ruotare la manopola per regolare con precisione la distanza dall'ugello al letto.
    - **Attendere il completamento della stampa**.
 ## Passaggio 5. Affettare il tuo modello 3D
-- Prima di stampare i tuoi modelli 3D, devi convertire il file del modello 3D (un file in formato stl/obj/AMF che [scaricato da Internet](#download_it) o disegnato da te) in un file gcode, salva questo file gcode sulla scheda SD, quindi collega la scheda SD alla stampante 3D.
-   :pushpin: **Il processo di conversione di un modello 3D in un file gcode è chiamato *slicing***.
+- Prima di stampare i tuoi modelli 3D, devi convertire il file del modello 3D (un file in formato stl/obj/AMF che [scaricato da Internet](#download) o disegnato da te) in un file gcode, salva questo file gcode sulla scheda SD, quindi collega la scheda SD alla stampante 3D.
+:pushpin: **Il processo di conversione di un modello 3D in un file gcode è chiamato *slicing***.
 - Innanzitutto devi scaricare il software di slicing e installarlo sul tuo computer, quindi impostare i parametri della tua macchina nel software di slicing o caricare il file di preimpostazione della tua macchina impostato dal produttore della stampante 3D.
-- Successivamente, è necessario eseguire il software di affettatura e potrebbe anche essere necessario impostare alcune impostazioni di affettatura in base alle caratteristiche del file del modello 3D e quindi eseguire l'affettatura.
+- Successivamente, è necessario eseguire il software di affettatura e potrebbe anche essere necessario impostare alcune impostazioni di affettatura in base alle caratteristiche del file del modello 3D e quindi eseguire l'affettatura.    
    :pushpin: Il software di slicing consigliato è **PrusaSlicer**, per come scaricare, installare e utilizzare **PrusaSlicer**, fare riferimento alla [***Guida allo slicing***][SLICING_GUIDE].
-#### <a id="download_it"> :page_with_curl: Famosi siti web per il download gratuito di modelli 3D </a>
+#### <a id="download"> :page_with_curl: Famosi siti web per il download gratuito di modelli 3D </a>
   - [thingiverse](https://www.thingiverse.com/)  
   - [printables](https://www.printables.com/)  
   - [youmagine](https://www.youmagine.com/)   

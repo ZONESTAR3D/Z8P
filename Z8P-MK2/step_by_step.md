@@ -28,7 +28,7 @@ First at all, we recommend that you [:arrow_down: **download all the documents**
 ## Step 3. Level the bed
 Before printing the test file, you need to do a simple bed leveling to set the height between the nozzle and the bed (printing platform), so that the filament can be sticked on the bed well when printing. Please refer to [**level the bed**][LEVEL_BED] to do it.
 
-## Step 4. Print test 3d model
+## <a id="step4">Step 4. Print test 3d model </a>
 FDM 3D printers can only recognize gcode files, we need to copy the gcode files to the SD card, and then insert the SD card into the SD card slot of the 3D printer, and then operature the LCD screen to start to print.    
 :warning: Even if you are familiar with 3D printers, it is recommended that you print at least one 4-color test model to confirm that the machine works normally.
 - **4.1 Print a one color test file**
@@ -55,7 +55,7 @@ FDM 3D printers can only recognize gcode files, we need to copy the gcode files 
   - [printables](https://www.printables.com/)  
   - [youmagine](https://www.youmagine.com/)   
 ## Step 6. Printing your own 3d model
-After sliced, copy the generated gcode file to the SD card and then print it following the [**step 4**](#step-4-print-test-3d-model).
+After sliced, copy the generated gcode file to the SD card and then print it following the [**step 4**](#step4).
 ## Step 7. To use advance features
 After you fully understand all the basic operations, you can try some advance functions of this machine. 
 For details, please refer to [**Advance Features Use Guide**][ADVANCE_FEATURES].

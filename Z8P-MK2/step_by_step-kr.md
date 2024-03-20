@@ -52,8 +52,8 @@ FDM 3D 프린터는 gcode 파일만 인식할 수 있습니다. gcode 파일을 
    :pushpin: 권장되는 슬라이싱 소프트웨어는 **PrusaSlicer**입니다. **PrusaSlicer** 다운로드, 설치 및 사용 방법은 [***슬라이싱 가이드***][SLICING_GUIDE]를 참조하세요.
 #### <a id="download"> :page_with_curl: 유명한 무료 3D 모델 다운로드 웹사이트 </a>
    - [thingiverse](https://www.thingiverse.com/)
-   - [인쇄 가능](https://www.printables.com/)
-   - [유마진](https://www.youmagine.com/)
+   - [printables](https://www.printables.com/)
+   - [youmagine](https://www.youmagine.com/)
 ## 6단계. 나만의 3D 모델 프린팅
 슬라이스 후 생성된 gcode 파일을 SD 카드에 복사한 후 [**4단계**](#step4)에 따라 인쇄합니다.
 ## Step 7. 고급 기능을 사용하려면

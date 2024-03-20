@@ -27,7 +27,7 @@ Primeiramente, recomendamos que você [:arrow_down: **baixe todos os documentos*
      Após realizar as 3 etapas acima, é basicamente determinado que a máquina está funcionando normalmente, você pode prosseguir com as etapas a seguir. Se você achar que alguma peça não está funcionando corretamente, verifique novamente a fiação ou faça um "teste automático eletrônico" para verificar. (consulte [:clapper: **turorial de vídeo de teste automático da máquina**][AUTOTEST_VIDEO]).
 ## Etapa 3. Nivele a cama
 Antes de imprimir o arquivo de teste, é necessário fazer um simples nivelamento da base para definir a altura entre o bico e a base (plataforma de impressão), para que o filamento possa ficar bem colado na base durante a impressão. Consulte [**nivelar a cama**][LEVEL_BED] para fazer isso.
-## Paso 4. Imprimir modelo 3D de teste
+## <a id="step4"> Etapa 4. Imprimir modelo 3D de teste </a>
 As impressoras FDM 3D só podem reconhecer arquivos gcode, precisamos copiar os arquivos gcode para o cartão SD e depois inserir o cartão SD na ranhura para cartões SD da impressora 3D e depois operar a tela LCD para começar a imprimir.
 :warning: Incluso se você estiver familiarizado com as impressoras 3D, recomendamos imprimir pelo menos um modelo de teste de 4 cores para confirmar se a máquina funciona normalmente.
 - **4.1 Imprimir um arquivo de teste de cor**
@@ -43,19 +43,19 @@ As impressoras FDM 3D só podem reconhecer arquivos gcode, precisamos copiar os 
     - **Imprimir da tarjeta SD**. Mueva o elemento para o elemento **Imprimir** na tela LCD, clique no perigo e elimine o arquivo **M4_4CTest.gcode**, clique no perigo para começar a imprimir.
     - **Ajuste a altura da boquilha**. Espere que a boquilla e a cama estejam quentes e observe a distância da boquilla até a cama para imprimir a primeira capa. Se você estiver muito gruesa ou muito perto, clique duas vezes na barra da tela LCD para abrir um menu **"babystep"** e depois gire a barra para ajustar com precisão a distância da boquilha até a cama.
     - **Esperar terminar a impressão**.
-## Paso 5. Cortar seu próprio modelo 3D
-- Antes de imprimir seus próprios modelos 3D, você precisa converter o arquivo do modelo 3D (um arquivo de formato stl/obj/AMF que [descargou da Internet](#download_pt) ou foi criado usando o mesmo) para um arquivo gcode, guarde este arquivo gcode à tarjeta SD e depois conecte a tarjeta SD à sua impressora 3D.     
+## Etapa 5. Cortar seu próprio modelo 3D
+- Antes de imprimir seus próprios modelos 3D, você precisa converter o arquivo do modelo 3D (um arquivo de formato stl/obj/AMF que [descargou da Internet](#download) ou foi criado usando o mesmo) para um arquivo gcode, guarde este arquivo gcode à tarjeta SD e depois conecte a tarjeta SD à sua impressora 3D.     
     :pushpin: **O processo de conversão de um modelo 3D em um arquivo gcode se chama *rebanado***.
 - Em primeiro lugar, você deve baixar o software de corte e instalá-lo em seu computador, configurar os parâmetros de sua máquina no software de corte ou carregar o arquivo pré-estável de sua máquina configurada pelo fabricante da impressora 3D.     
 - Em seguida, você deve executar o software de corte e é possível que você também defina alguma configuração de corte de acordo com os recursos de seu arquivo de modelo 3D e depois execute o corte.     
     :pushpin: O software de corte recomendado é **PrusaSlicer**. Para saber como baixar, instalar e usar o **PrusaSlicer**, consulte o [***Guia de corte***][SLICING_GUIDE].
-#### <a id="download_pt"> :page_with_curl: sites famosos de download gratuito de modelos 3D </a>
+#### <a id="download"> :page_with_curl: sites famosos de download gratuito de modelos 3D </a>
   - [thingiverse](https://www.thingiverse.com/)  
   - [printables](https://www.printables.com/)  
   - [youmagine](https://www.youmagine.com/)   
-## Paso 6. Imprima seu próprio modelo 3D
-Depois de cortá-lo, copie o arquivo gcode gerado no cartão SD e depois imprima seguindo o [**paso 4**](#paso-4-imprimir-modelo-3d-de-teste).
-## Paso 7. Para usar funções avançadas
+## Etapa 6. Imprima seu próprio modelo 3D
+Depois de cortá-lo, copie o arquivo gcode gerado no cartão SD e depois imprima seguindo o [**paso 4**](#step4).
+## Etapa 7. Para usar funções avançadas
 Depois de compreender completamente todas as operações básicas, você poderá testar algumas funções avançadas desta máquina.
 Para obter mais informações, consulte o [**Guia de uso de funções avançadas**][ADVANCE_FEATURES].
 

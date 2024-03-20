@@ -27,7 +27,7 @@ Innanzitutto ti consigliamo di [:arrow_down: **scaricare tutti i documenti**][US
      Dopo aver eseguito i 3 passaggi precedenti, una volta accertato che la macchina funziona normalmente, è possibile procedere con i passaggi seguenti. Se si riscontra che qualche parte non funziona correttamente, ricontrollare il cablaggio o eseguire un "test automatico dell'elettronica" per verificare. (fare riferimento a [:clapper: **tutorial video sul test automatico della macchina**][AUTOTEST_VIDEO]).
 ## Passaggio 3. Livellare il letto
 Prima di stampare il file di prova, è necessario eseguire un semplice livellamento del letto per impostare l'altezza tra l'ugello e il letto (piattaforma di stampa), in modo che il filamento possa aderire bene al letto durante la stampa. Per farlo, fai riferimento a [**livellare il letto**][LEVEL_BED].
-## Passaggio 4. Stampa del modello 3D di prova
+## <a id="step4"> Passaggio 4. Stampa del modello 3D di prova </a> 
 Le stampanti 3D FDM possono riconoscere solo i file gcode, dobbiamo copiare i file gcode sulla scheda SD, quindi inserire la scheda SD nello slot per scheda SD della stampante 3D, quindi utilizzare lo schermo LCD per iniziare a stampare.
 :warning: Anche se hai familiarità con le stampanti 3D, si consiglia di stampare almeno un modello di prova a 4 colori per confermare che la macchina funzioni normalmente.
 - **4.1 Stampare un file di prova a un colore**
@@ -54,7 +54,7 @@ Le stampanti 3D FDM possono riconoscere solo i file gcode, dobbiamo copiare i fi
   - [printables](https://www.printables.com/)  
   - [youmagine](https://www.youmagine.com/)   
 ## Passaggio 6. Stampa il tuo modello 3D
-Dopo averlo affettato, copia il file gcode generato sulla scheda SD e quindi stampalo seguendo il [**passaggio 4**](#passaggio-4-stampa-del-modello-3d-di-prova).
+Dopo averlo affettato, copia il file gcode generato sulla scheda SD e quindi stampalo seguendo il [**passaggio 4**](#step4).
 ## Passaggio 7. Per utilizzare le funzionalità avanzate
 Dopo aver compreso appieno tutte le operazioni di base, è possibile provare alcune funzioni avanzate di questa macchina.
 Per ulteriori dettagli, fare riferimento alla [**Guida all'uso delle funzionalità avanzate**][ADVANCE_FEATURES].

@@ -21,7 +21,7 @@ Due to the large mixing chamber of the 4-IN-1-OUT color mixing hot end - M4V6- u
 
 ### 1. Enable "Auto Retract" feature
 Menu: Control>>Configre
-![](pic/1.png)
+##### ![](pic/1.png)
 ### 2. Setting parameters if need
 ##### ![](pic/2.png)
 1. Turn ON / OFF auto retraction feature.      

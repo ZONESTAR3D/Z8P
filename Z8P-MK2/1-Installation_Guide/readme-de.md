@@ -15,7 +15,7 @@
 ### [ :clapper: **Tutoriel vidéo d'installation du Z8P-MK2**](https://youtu.be/-oieO7U0LCc)
 
 -----
-### :warning: ATTENTION :avertissement:
+### :warning: ATTENTION :warning:
 #### :clipboard: Veuillez suivre strictement le fonctionnement standard lors de l'installation.
 #### :baby_bottle: Veuillez ranger l'imprimante hors de portée des enfants.
 #### :school: Doit être guidé par des adultes lorsque les enfants sont installés ou utilisés.

@@ -11,7 +11,7 @@
 <!-- [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/step_by_step-ar.md) -->
 
 -----
-# Z8P-MK2 Guida passo passo [:arrow_heading_up:](#choose-language)
+# Z8P-MK2 Guida passo passo
 Se sei un principiante con le stampanti 3D, con così tanta documentazione da leggere, potresti non sapere da dove cominciare. Non preoccuparti, entreremo nei dettagli di questi documenti passo dopo passo.     
 In una parola, ciò che devi fare include i 4 passaggi seguenti: **Installa la macchina >> Stampa del file di prova >> Taglia il tuo file 3D >> Stampa il tuo file 3D**.     
 Innanzitutto ti consigliamo di [:arrow_down: **scaricare tutti i documenti**][USER_GUIDE] e salvarli sul tuo computer e aggiungere questa pagina web ai preferiti del tuo browser.

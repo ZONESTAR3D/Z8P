@@ -1,14 +1,14 @@
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
-[![](./lanpic/EN.png)](./readme.md)
-[![](./lanpic/ES.png)](./readme-es.md)
-[![](./lanpic/PT.png)](./readme-pt.md)
-[![](./lanpic/FR.png)](./readme-fr.md)
-[![](./lanpic/DE.png)](./readme-de.md)
-[![](./lanpic/IT.png)](./readme-it.md)
-[![](./lanpic/RU.png)](./readme-ru.md)
-[![](./lanpic/JP.png)](./readme-jp.md)
-[![](./lanpic/KR.png)](./readme-kr.md)
-<!-- [![](./lanpic/SA.png)](./readme-ar.md) -->
+[![](./lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme.md)
+[![](./lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-es.md)
+[![](./lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-pt.md)
+[![](./lanpic/FR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-fr.md)
+[![](./lanpic/DE.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-de.md)
+[![](./lanpic/IT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-it.md)
+[![](./lanpic/RU.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-ru.md)
+[![](./lanpic/JP.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-jp.md)
+[![](./lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-kr.md)
+<!-- [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-ar.md) -->
 
 ------
 # Z8P-MK2 Guida per l'utente 

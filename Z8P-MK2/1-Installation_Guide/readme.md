@@ -1,5 +1,5 @@
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
-[![](../lanpic/EN.png)](#EN)
+[![](../lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme.md)
 [![](../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme-es.md)
 [![](../lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme-pt.md)
 [![](../lanpic/FR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/1-Installation_Guide/readme-fr.md)
@@ -11,7 +11,6 @@
 <!-- [![](../lanpic/SA.png)](#arabic) -->
 
 -----
-<a id="EN"></a>
 # Z8P-MK2 Installation Guide
 ### [ :clapper: **Z8P-MK2 Installation Video Tutorial**](https://youtu.be/-oieO7U0LCc)
 
@@ -190,6 +189,4 @@ Next, just do some preliminary debugging, and you can start your first print. Pl
 Wiring Schematic Diagram shows the connection schematic diagram of the control board terminals and components used inside the control box.
 **Please note that the components shown in the pink box are optional components/functions** but not standard equipment of Z8PM4Pro.
 ![](./Wiring_Diagram.jpg)
-
-
 

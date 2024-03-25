@@ -75,7 +75,7 @@
 ----
 ## <a id="a">:one: Guida all'installazione</a>
 ### <a id="a1">Installazione</a>
-- **[:book: Manuale][_INSTALLAZIONE_]**
+- **[:book: Manuale][_INSTALLATION_]**
 - **[:clapper: Video Tutorial - HD](https://youtu.be/-oieO7U0LCc)**
 ####
 [Parte 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)

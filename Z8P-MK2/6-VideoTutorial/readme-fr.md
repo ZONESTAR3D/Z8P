@@ -43,34 +43,34 @@
 - **[1. Guide d'installation](#a)**
    - [Installation](#a1)
    - [Câblage](#a2)
--**[2. Guide d'utilisation](#b)**
+- **[2. Guide d'utilisation](#b)**
    - [Marche/Arrêt](#b1)
    - [Niveau du lit](#b2)
    - [Charger le filament](#b3)
    - [Imprimer depuis la carte SD](#b4)
    - [Dégradé de couleurs de mélange](#b5)
    - [Couleur de mélange aléatoire](#b6)
--**[3. Tranchage](#c)**
+- **[3. Tranchage](#c)**
    - [Installer le logiciel slicer](#c1)
    - [Découpage pour une impression en une seule couleur](#c2)
    - [Découpage pour l'impression multicolore](#c3)
    - [Découpage pour combiner des fichiers de modèles Multi 3D](#c4)
    - [Découpage pour peindre la couleur sur un modèle 3D](#c5)
--**[4. Fonctionnalités avancées](#d)**
+- **[4. Fonctionnalités avancées](#d)**
    - [Arrêt automatique de l'alimentation](#d1)
    - [Niveau automatique du lit](#d2)
    - [Récupération après perte de puissance](#d3)
    - [Impression rapide](#d4)
--**[5. Entretien et réparation](#e)**
+- **[5. Entretien et réparation](#e)**
    - [Test automatique](#e1)
    - [Remplacer une buse](#e2)
-   - [Nettoyer le Hotend M4V6 obstrué] (#e3)
+   - [Nettoyer le Hotend M4V6 obstrué](#e3)
    -[Remplacer les tubes intérieurs en PTFE du M4V6 Hotend](#e4)
    - [Remplacer le raccord du Hotend M4V6](#e5)
    - [Remplacer la carte de contrôle](#e6)
    - [Remplacer le clavier de l'écran LCD](#e7)
    - [Les raccords sont déposés du hotend ?](#e8)
--**[6. Annexe](#f)**
+- **[6. Annexe](#f)**
    - [Imprimer et installer un cache sur le bloc d'alimentation](#f1)
 
 ----

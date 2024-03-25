@@ -18,7 +18,7 @@
 [_CLEANM4V6_]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_FAQ/cleanM4V6.md
 [_REPLACEPTFE_]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_FAQ/ReplaceM4V6InnerPTFE.md
 
-----
+
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
 [![](../lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial/readme.md)
 [![](../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial/readme-es.md)
@@ -32,128 +32,8 @@
 [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial/readme-sa.md)
 
 -----
-# Z8PM4-MK2 Video Tutorial
-#### :warning: Note
-1. Some videos are filmed using machines other than the Z8PM4Pro, but the operating steps are identical to those of the Z8PM4Pro.
-2. Please directly click on the image below to watch the video.
-
-----
-## Content
-- **[1. Installation Guide](#a)**
-  - [Installation](#a1)    
-  - [Wiring](#a2)    
-- **[2. Operation Guide](#b)**   
-  - [Power On/OFF](#b1)    
-  - [Bed leveling](#b2)      
-  - [Load filament](#b3)    
-  - [Print from SD card](#b4)    
-  - [Gradient mix color](#b5)   
-  - [Random mix color](#b6)   
-- **[3. Slicing](#c)**   
-  - [Install slicer software](#c1)    
-  - [Slicing for One Color printing](#c2)    
-  - [Slicing for Multi Color printing](#c3)    
-  - [Slicing for Combine Multi 3d model files](#c4)    
-  - [Slicing for Painting color to 3d model](#c5)    
-- **[4. Advance Features](#d)**   
-  - [Power auto shutdown](#d1)
-  - [Bed auto leveling](#d2)
-  - [Power loss recovery](#d3)
-  - [Speedy printing](#d4)
-- **[5. Maintenance and Repair](#e)**   
-  - [Auto testing](#e1)
-  - [Replace a nozzle](#e2)
-  - [Clean clogged M4V6 Hotend](#e3)
-  - [Replace inner PTFE tubes of M4V6 Hotend](#e4)
-  - [Replace fitting of the M4V6 Hotend](#e5)
-  - [Replace control board](#e6)
-  - [Replace the keypad of LCD screen](#e7)
-  - [Fittings are dropped off from the hotend?](#e8)
-- **[6. Appendix](#f)**   
-  - [Print and install a cover on the PSU](#f1)
-
-----
-## <a id="a">:one: Installation Guide</a>
-### <a id="a1">Installation</a>
-- **[:book: Manual][_INSTALLATION_]**    
-- **[:clapper: Video Tutorial - HD](https://youtu.be/-oieO7U0LCc)**    
-#### 
-[Part 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)    
-#### 
-[Part 2](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)    
-#### 
-[Part 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)    
-#### 
-[Part 4](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)   
-
-### <a id="a2">Wiring</a>
-- **[:book: Manual][_WIRING_]**  
-- **[:clapper: Video Tutorial - HD](https://youtu.be/kpQvHASNfqE)**    
-#### 
-[Wiring](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)   
-
-----
-## <a id="b">:two: Operation Guide</a>
-### <a id="b1">Power On/OFF</a>
-- **[:book: Manual][_OPERATION_]**   
-- **[:clapper: Video Tutorial - HD](https://youtu.be/2i8ozM2Dn1U)** 
-##### 
-[Power On/OFF](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
-
-### <a id="b2">Bed leveling</a>
-- **[:book: Manual][_BEDLEVELING_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/R3RfGnxx8hY)** 
-##### 
-[Bed leveling](https://github.com/ZONESTAR3D/Z8P/assets/29502731/3951332c-4483-47b3-b4f5-08acfc49dc3e)
-
-### <a id="b3">Load filament</a>
-- **[:book: Manual][_LOADFILAMENT_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/-47yB95uIxI)** 
-##### 
-[Load filament](https://github.com/ZONESTAR3D/Z8P/assets/29502731/0661da17-71cf-4c9d-839f-be2c708f6a56)
-
-### <a id="b4">Print from SD card</a>
-- **[:book: Manual][_PRINTFROMSDCARD_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/ITHbO9VxTMo)** 
-##### 
-[Print from SD card](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
-
-### <a id="b5">Gradient mix color</a>
-- **[:book: Manual][_GRADIENTMIX_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/VOlXvy38aFs)** 
-##### 
-[Gradient mixing color](https://github.com/ZONESTAR3D/Z8P/assets/29502731/204bb64d-4fe1-47c5-a3e8-98dcdb95c2fe)
-
-### <a id="b6">Random mix color</a>
-- **[:book: Manual][_RANDOMMIX_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/-mQ4bCnrIaw)** 
-##### 
-[Random mixing color](https://github.com/ZONESTAR3D/Z8P/assets/29502731/b4d3129e-2d2b-4034-9860-ea2db5de49a8)
-
-----
-## <a id="c">:three: Slicing</a>
-#### <a id="c1">Install slicer software
-- **[:book: Manual][_SLICING1_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/vCv0S4L7u30)** 
-
-#### <a id="c2">Slicing for One Color printing</a>
-- **[:book: Manual][_SLICING2_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/g-YSgV44Rik)** 
-
-#### <a id="c3">Slicing for Multi Color printing</a>
-- **[:book: Manual][_SLICING3_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/2IHiP2r7KNk)** 
-
-#### <a id="c4">Slicing for Combine Multi 3d model files</a>
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/FG0jbnL51SA)** 
-
-#### <a id="c5">Slicing for Painting color to 3d model</a> 
-<!-- -  **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/Yx4fKDRGEJ4)** 
------
 #Tutorial em vídeo Z8PM4-MK2
-#### :aviso: Nota
+#### :warning: Nota
 1. Alguns vídeos são filmados em máquinas diferentes do Z8PM4Pro, mas as etapas de operação são idênticas às do Z8PM4Pro.
 2. Clique diretamente na imagem abaixo para assistir ao vídeo.
 
@@ -195,7 +75,7 @@
 ----
 ## <a id="a">:one: Guia de instalação</a>
 ### <a id="a1">Instalação</a>
-- **[:livro: Manual][_INSTALLATION_]**
+- **[:book: Manual][_INSTALLATION_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/-oieO7U0LCc)**
 ####
 [Parte 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)
@@ -207,105 +87,105 @@
 [Parte 4](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)
 
 ### <a id="a2">Fiação</a>
-- **[:livro: Manual][_WIRING_]**
+- **[:book: Manual][_WIRING_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/kpQvHASNfqE)**
 ####
 [Fiação](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)
 
 ----
-## <a id="b">:dois: Guia de operação</a>
+## <a id="b">:two: Guia de operação</a>
 ### <a id="b1">Ligar/Desligar</a>
-- **[:livro: Manual][_OPERATION_]**
+- **[:book: Manual][_OPERATION_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/2i8ozM2Dn1U)**
 #####
 [Ligar/Desligar](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
 
 ### <a id="b2">Nivelamento da cama</a>
-- **[:livro: Manual][_BEDLEVELING_]**
+- **[:book: Manual][_BEDLEVELING_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/R3RfGnxx8hY)**
 #####
 [Nivelamento da cama](https://github.com/ZONESTAR3D/Z8P/assets/29502731/3951332c-4483-47b3-b4f5-08acfc49dc3e)
 
 ### <a id="b3">Carregar filamento</a>
-- **[:livro: Manual][_LOADFILAMENT_]**
+- **[:book: Manual][_LOADFILAMENT_]**
 - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/-47yB95uIxI)**
 #####
 [Carregar filamento](https://github.com/ZONESTAR3D/Z8P/assets/29502731/0661da17-71cf-4c9d-839f-be2c708f6a56)
 
 ### <a id="b4">Imprimir do cartão SD</a>
-- **[:livro: Manual][_PRINTFROMSDCARD_]**
+- **[:book: Manual][_PRINTFROMSDCARD_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/ITHbO9VxTMo)**
 #####
 [Imprimir do cartão SD](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
 
 ### <a id="b5">Cor da mistura de gradiente</a>
-- **[:livro: Manual][_GRADIENTMIX_]**
+- **[:book: Manual][_GRADIENTMIX_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/VOlXvy38aFs)**
 #####
 [Cor de mistura de gradiente](https://github.com/ZONESTAR3D/Z8P/assets/29502731/204bb64d-4fe1-47c5-a3e8-98dcdb95c2fe)
 
 ### <a id="b6">Mistura de cores aleatórias</a>
-- **[:livro: Manual][_RANDOMMIX_]**
+- **[:book: Manual][_RANDOMMIX_]**
 - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/-mQ4bCnrIaw)**
 #####
 [Cor de mistura aleatória](https://github.com/ZONESTAR3D/Z8P/assets/29502731/b4d3129e-2d2b-4034-9860-ea2db5de49a8)
 
 ----
-## <a id="c">:três: Fatiar</a>
+## <a id="c">:three: Fatiar</a>
 #### <a id="c1">Instalar software de segmentação
-- **[:livro: Manual][_SLICING1_]**
+- **[:book: Manual][_SLICING1_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/vCv0S4L7u30)**
 
 #### <a id="c2">Fatiamento para impressão em uma cor</a>
-- **[:livro: Manual][_SLICING2_]**
+- **[:book: Manual][_SLICING2_]**
 - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/g-YSgV44Rik)**
 
 #### <a id="c3">Fatiamento para impressão multicolorida</a>
-- **[:livro: Manual][_SLICING3_]**
+- **[:book: Manual][_SLICING3_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/2IHiP2r7KNk)**
 
 #### <a id="c4">Fatiamento para combinar arquivos de modelo Multi 3D</a>
-<!-- - **[:livro: Manual][]** -->
+<!-- - **[:book: Manual][]** -->
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/FG0jbnL51SA)**
 
 #### <a id="c5">Fatiamento para pintar cor no modelo 3D</a>
-<!-- - **[:livro: Manual][]** -->
+<!-- - **[:book: Manual][]** -->
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/Yx4fKDRGEJ4)**
 
 ----
 ## <a id="d">:four: Guia de recursos avançados</a>
 #### <a id="d1">Desligamento automático de energia</a>
-- **[:livro: Manual][_AUTOSHUTDOWN_]**
+- **[:book: Manual][_AUTOSHUTDOWN_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/SJLpmJL-tG4)**
 
 #### <a id="d2">Nivelamento automático da cama</a>
-- **[:livro: Manual][_AUTOLEVEL_]**
+- **[:book: Manual][_AUTOLEVEL_]**
 - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/Zoyl6PybsUk)**
 
 #### <a id="d3">Recuperação de perda de energia</a>
-<!-- - **[:livro: Manual][]** -->
+<!-- - **[:book: Manual][]** -->
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/f-PpasByiiE)**
 
 #### <a id="d4">Impressão rápida</a>
-- **[:livro: Manual][_FASTPRINT_]**
+- **[:book: Manual][_FASTPRINT_]**
 <!-- - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/f-PpasByiiE)** -->
 
 ----
 ## <a id="e">:five: Manutenção e Reparo</a>
 #### <a id="e1">Teste automático de peças eletrônicas de máquinas
-<!-- - **[:livro: Manual][]** -->
+<!-- - **[:book: Manual][]** -->
 - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/iSsuy2ePWw8)**
 #### <a id="e2">Substitua um bico</a>
-<!-- - **[:livro: Manual][]** -->
+<!-- - **[:book: Manual][]** -->
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
 #### <a id="e3">Limpar Hotend M4V6 entupido</a>
-- **[:livro: Manual][_CLEANM4V6_]**
+- **[:book: Manual][_CLEANM4V6_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
 #### <a id="e4">Substitua os tubos internos de PTFE do Hotend M4V6</a>
-- **[:livro: Manual][_REPLACEPTFE_]**
+- **[:book: Manual][_REPLACEPTFE_]**
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
 #### <a id="e5">Substitua a conexão do Hotend M4V6</a>
-<!-- - **[:livro: Manual][]** -->
+<!-- - **[:book: Manual][]** -->
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
 #####
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
@@ -319,9 +199,9 @@
 - **[:clapper: Vídeo Tutorial - HD](https://youtu.be/ksc36CwoRJw)**
 
 ----
-## <a id="f">:seis: Apêndice</a>
+## <a id="f">:six: Apêndice</a>
 #### <a id="f1">Imprima e instale uma capa na PSU</a>
-- **[:livro: Manual][_PSUFAN_]**
+- **[:book: Manual][_PSUFAN_]**
 - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/Xc3vRqRYklM)**
 
 -----

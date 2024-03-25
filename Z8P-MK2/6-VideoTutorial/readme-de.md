@@ -98,7 +98,7 @@
 - **[:book: Manual][_OPERATION_]**
 - **[:clapper: Video-Tutorial – HD](https://youtu.be/2i8ozM2Dn1U)**
 #####
-[Ein-/Ausschalten] (https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
+[Ein-/Ausschalten](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
 
 ### <a id="b2">Bettnivellierung</a>
 - **[:book: Manual][_BEDLEVELING_]**

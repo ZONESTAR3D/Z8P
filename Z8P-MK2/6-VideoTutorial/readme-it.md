@@ -95,7 +95,7 @@
 ----
 ## <a id="b">:two: Guida operativa</a>
 ### <a id="b1">Accensione/spegnimento</a>
-- **[:book: Manuale][_OPERAZIONE_]**
+- **[:book: Manuale][_OPERATION_]**
 - **[:clapper: Video Tutorial - HD](https://youtu.be/2i8ozM2Dn1U)**
 #####
 [Accensione/spegnimento](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)

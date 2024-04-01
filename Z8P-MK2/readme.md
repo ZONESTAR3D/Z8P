@@ -25,8 +25,8 @@ We creat many video tutorials for this machine, please click [:clapper:**here**]
 - **[:blue_book: Installation and Quick Use Guide PDF file](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/Z8PMK2_Installation_and_quick_use_guide.pdf)**
 - **[:clapper: Installation Video Tutorial](https://youtu.be/-oieO7U0LCc)** 
 - **[:book: LCD screen menu description][LCD_MENU]**
-- **[:art: Wiring Block](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PMK2_Wiring_Block.jpg)**
-- **[:art: Wiring Diagram](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/1-Installation_Guide/Z8PM4-MK2_Wiring_Diagram.jpg)**
+- **[:art: Wiring Block](./1-Installation_Guide/Wiring_Block.jpg)**
+- **[:art: Wiring Diagram](./1-Installation_Guide/Wiring_Diagram.jpg)**
 
 ### :file_folder: [2.Operation Guide][Operation_Guide]
 - **[:book: Basic Operation Guide][Operation_Guide]**

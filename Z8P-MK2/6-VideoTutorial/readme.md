@@ -134,194 +134,96 @@
 ## <a id="c">:three: Slicing</a>
 #### <a id="c1">Install slicer software
 - **[:book: Manual][_SLICING1_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/vCv0S4L7u30)** 
+<!-- - **[:clapper: Video Tutorial - HD](https://youtu.be/vCv0S4L7u30)**  -->
+[![Install slicer software](https://img.youtube.com/vi/vCv0S4L7u30/0.jpg)](https://www.youtube.com/watch?v=vCv0S4L7u30)
 
 #### <a id="c2">Slicing for One Color printing</a>
 - **[:book: Manual][_SLICING2_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/g-YSgV44Rik)** 
+<!-- - **[:clapper: Video Tutorial - HD](https://youtu.be/g-YSgV44Rik)**  -->
+[![Slicing for One Color printing](https://img.youtube.com/vi/g-YSgV44Rik/0.jpg)](https://www.youtube.com/watch?v=g-YSgV44Rik)
 
 #### <a id="c3">Slicing for Multi Color printing</a>
 - **[:book: Manual][_SLICING3_]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/2IHiP2r7KNk)** 
+<!-- - **[:clapper: Video Tutorial - HD](https://youtu.be/2IHiP2r7KNk)**  -->
+[![Slicing for Multi Color printing](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
+
 
 #### <a id="c4">Slicing for Combine Multi 3d model files</a>
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/FG0jbnL51SA)** 
+<!-- - **[:clapper: Video Tutorial - HD](https://youtu.be/FG0jbnL51SA)**  -->
+[![Slicing for Combine Multi 3d model files](https://img.youtube.com/vi/FG0jbnL51SA/0.jpg)](https://www.youtube.com/watch?v=FG0jbnL51SA)
 
 #### <a id="c5">Slicing for Painting color to 3d model</a> 
 <!-- -  **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/Yx4fKDRGEJ4)** 
------
-#Tutorial em vídeo Z8PM4-MK2
-#### :aviso: Nota
-1. Alguns vídeos são filmados em máquinas diferentes do Z8PM4Pro, mas as etapas de operação são idênticas às do Z8PM4Pro.
-2. Clique diretamente na imagem abaixo para assistir ao vídeo.
+<!-- - **[:clapper: Video Tutorial - HD](https://youtu.be/Yx4fKDRGEJ4)**  -->
+[![Slicing for Painting color to 3d model](https://img.youtube.com/vi/Yx4fKDRGEJ4/0.jpg)](https://www.youtube.com/watch?v=Yx4fKDRGEJ4)
 
 ----
-## Contente
-- **[1. Guia de instalação](#a)**
-   - [Instalação](#a1)
-   - [Fiação](#a2)
-- **[2. Guia de operação](#b)**
-   - [Ligar/Desligar](#b1)
-   - [Nivelamento da cama](#b2)
-   - [Carregar filamento](#b3)
-   - [Imprimir do cartão SD](#b4)
-   - [Cor da mistura de gradiente](#b5)
-   - [Cor da mistura aleatória](#b6)
-- **[3. Fatiamento](#c)**
-   - [Instalar software de segmentação](#c1)
-   - [Fatiamento para impressão em uma cor](#c2)
-   - [Fatiamento para impressão multicolorida](#c3)
-   - [Fatiamento para combinar arquivos de modelo Multi 3D](#c4)
-   - [Cortar para pintar a cor no modelo 3D](#c5)
-- **[4. Recursos avançados](#d)**
-   - [Desligamento automático de energia](#d1)
-   - [Nivelamento automático da cama](#d2)
-   - [Recuperação de perda de energia](#d3)
-   - [Impressão rápida](#d4)
-- **[5. Manutenção e Reparo](#e)**
-   - [Teste automático](#e1)
-   - [Substitua um bico](#e2)
-   - [Limpar Hotend M4V6 entupido](#e3)
-   - [Substitua os tubos internos de PTFE do Hotend M4V6](#e4)
-   - [Substitua o encaixe do Hotend M4V6](#e5)
-   - [Substitua a placa de controle](#e6)
-   - [Substitua o teclado da tela LCD](#e7)
-   - [Os acessórios são deixados no hotend?](#e8)
-- **[6. Apêndice](#f)**
-   - [Imprima e instale uma tampa na PSU](#f1)
+## <a id="d">:four: Advanced Features Guide</a>
+#### <a id="d1">Automatic power off</a>
+- **[:book: Manual][_AUTOSHUTDOWN_]**
+<!-- - **[:clapper: Tutorial Video - HD](https://youtu.be/SJLpmJL-tG4)** -->
+[![Automatic power off](https://img.youtube.com/vi/SJLpmJL-tG4/0.jpg)](https://www.youtube.com/watch?v=SJLpmJL-tG4)
+
+
+#### <a id="d2">Automatic bed leveling</a>
+- **[:book: Manual][_AUTOLEVEL_]**
+<!-- - **[:clapper: Video tutorial - HD](https://youtu.be/Zoyl6PybsUk)** -->
+[![Automatic bed leveling](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
+
+#### <a id="d3">Power loss recovery</a>
+<!-- - **[:book: Manual][]** -->
+<!-- - **[:clapper: Tutorial Video - HD](https://youtu.be/f-PpasByiiE)** -->
+[![Power loss recovery](https://img.youtube.com/vi/f-PpasByiiE/0.jpg)](https://www.youtube.com/watch?v=f-PpasByiiE)
+
+#### <a id="d4">Speedy Printing</a>
+- **[:book: Manual][_FASTPRINT_]**
+<!-- - **[:clapper: Video tutorial - HD](https://youtu.be/f-PpasByiiE)** -->
 
 ----
-## <a id="a">:one: Guia de instalação</a>
-### <a id="a1">Instalação</a>
-- **[:livro: Manual][_INSTALLATION_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/-oieO7U0LCc)**
-####
-[Parte 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)
-####
-[Parte 2](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)
-####
-[Parte 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)
-####
-[Parte 4](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)
+## <a id="e">:five: Maintenance and Repair</a>
+#### <a id="e1">Electronic Parts Automatic testing
+<!-- - **[:book: Manual][]** -->
+<!-- - **[:clapper: Video tutorial - HD](https://youtu.be/iSsuy2ePWw8)** -->
+[![Automatic testing of electronic machine parts](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
 
-### <a id="a2">Fiação</a>
-- **[:livro: Manual][_WIRING_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/kpQvHASNfqE)**
-####
-[Fiação](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)
+#### <a id="e2">Replace a nozzle</a>
+<!-- - **[:book: Manual][]** -->
+<!-- - **[:clapper: Tutorial Video - HD](https://youtu.be/L5VRyEbsJvM)** -->
+[![Replace nozzle](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
 
-----
-## <a id="b">:dois: Guia de operação</a>
-### <a id="b1">Ligar/Desligar</a>
-- **[:livro: Manual][_OPERATION_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/2i8ozM2Dn1U)**
-#####
-[Ligar/Desligar](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
+#### <a id="e3">Clean clogged M4V6 Hotend</a>
+- **[:book: Manual][_CLEANM4V6_]**
+######
+[Clean clogged M4V6 Hotend](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
 
-### <a id="b2">Nivelamento da cama</a>
-- **[:livro: Manual][_BEDLEVELING_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/R3RfGnxx8hY)**
-#####
-[Nivelamento da cama](https://github.com/ZONESTAR3D/Z8P/assets/29502731/3951332c-4483-47b3-b4f5-08acfc49dc3e)
 
-### <a id="b3">Carregar filamento</a>
-- **[:livro: Manual][_LOADFILAMENT_]**
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/-47yB95uIxI)**
-#####
-[Carregar filamento](https://github.com/ZONESTAR3D/Z8P/assets/29502731/0661da17-71cf-4c9d-839f-be2c708f6a56)
+#### <a id="e4">Replace the inner PTFE tubes of M4V6 Hotend</a>
+- **[:book: Manual][_REPLACEPTFE_]**
+<!-- - **[:clapper: Tutorial Video - HD](https://youtu.be/S-vUdI5z-nM)** -->
+[![Replace the inner PTFE tubes](https://img.youtube.com/vi/S-vUdI5z-nM/0.jpg)](https://www.youtube.com/watch?v=S-vUdI5z-nM)
 
-### <a id="b4">Imprimir do cartão SD</a>
-- **[:livro: Manual][_PRINTFROMSDCARD_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/ITHbO9VxTMo)**
-#####
-[Imprimir do cartão SD](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
-
-### <a id="b5">Cor da mistura de gradiente</a>
-- **[:livro: Manual][_GRADIENTMIX_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/VOlXvy38aFs)**
-#####
-[Cor de mistura de gradiente](https://github.com/ZONESTAR3D/Z8P/assets/29502731/204bb64d-4fe1-47c5-a3e8-98dcdb95c2fe)
-
-### <a id="b6">Mistura de cores aleatórias</a>
-- **[:livro: Manual][_RANDOMMIX_]**
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/-mQ4bCnrIaw)**
-#####
-[Cor de mistura aleatória](https://github.com/ZONESTAR3D/Z8P/assets/29502731/b4d3129e-2d2b-4034-9860-ea2db5de49a8)
-
-----
-## <a id="c">:três: Fatiar</a>
-#### <a id="c1">Instalar software de segmentação
-- **[:livro: Manual][_SLICING1_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/vCv0S4L7u30)**
-
-#### <a id="c2">Fatiamento para impressão em uma cor</a>
-- **[:livro: Manual][_SLICING2_]**
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/g-YSgV44Rik)**
-
-#### <a id="c3">Fatiamento para impressão multicolorida</a>
-- **[:livro: Manual][_SLICING3_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/2IHiP2r7KNk)**
-
-#### <a id="c4">Fatiamento para combinar arquivos de modelo Multi 3D</a>
-<!-- - **[:livro: Manual][]** -->
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/FG0jbnL51SA)**
-
-#### <a id="c5">Fatiamento para pintar cor no modelo 3D</a>
-<!-- - **[:livro: Manual][]** -->
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/Yx4fKDRGEJ4)**
-
-----
-## <a id="d">:four: Guia de recursos avançados</a>
-#### <a id="d1">Desligamento automático de energia</a>
-- **[:livro: Manual][_AUTOSHUTDOWN_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/SJLpmJL-tG4)**
-
-#### <a id="d2">Nivelamento automático da cama</a>
-- **[:livro: Manual][_AUTOLEVEL_]**
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/Zoyl6PybsUk)**
-
-#### <a id="d3">Recuperação de perda de energia</a>
-<!-- - **[:livro: Manual][]** -->
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/f-PpasByiiE)**
-
-#### <a id="d4">Impressão rápida</a>
-- **[:livro: Manual][_FASTPRINT_]**
-<!-- - **[:clapper: Tutorial em vídeo - HD](https://youtu.be/f-PpasByiiE)** -->
-
-----
-## <a id="e">:five: Manutenção e Reparo</a>
-#### <a id="e1">Teste automático de peças eletrônicas de máquinas
-<!-- - **[:livro: Manual][]** -->
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/iSsuy2ePWw8)**
-#### <a id="e2">Substitua um bico</a>
-<!-- - **[:livro: Manual][]** -->
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
-#### <a id="e3">Limpar Hotend M4V6 entupido</a>
-- **[:livro: Manual][_CLEANM4V6_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
-#### <a id="e4">Substitua os tubos internos de PTFE do Hotend M4V6</a>
-- **[:livro: Manual][_REPLACEPTFE_]**
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
-#### <a id="e5">Substitua a conexão do Hotend M4V6</a>
-<!-- - **[:livro: Manual][]** -->
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
+#### <a id="e5">Replace the M4V6 Hotend fittings</a>
+<!-- - **[:book: Manual][]** -->
 #####
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
 #####
 [M4V6-MK2](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/d7009e4e-5f8a-4267-ae60-d3ad024448bb)
-#### <a id="e6">Substitua a placa de controle</a>
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/5MIeuzuxSf8)**
-#### <a id="e7">Substitua o teclado da tela LCD</a>
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/Xwfczp3nLOY)**
-#### <a id="e8">Os acessórios foram deixados no hotend?</a>
-- **[:clapper: Vídeo Tutorial - HD](https://youtu.be/ksc36CwoRJw)**
+
+#### <a id="e6">Replace the control board</a>
+[![Replace the control board](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
+
+#### <a id="e7">Replace the LCD screen keypad</a>
+[![Replace the control board](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
+
+#### <a id="e8">Are accessories left on the hotend?</a>
+[![Replace the control board](https://img.youtube.com/vi/ksc36CwoRJw/0.jpg)](https://www.youtube.com/watch?v=ksc36CwoRJw)
 
 ----
-## <a id="f">:seis: Apêndice</a>
-#### <a id="f1">Imprima e instale uma capa na PSU</a>
-- **[:livro: Manual][_PSUFAN_]**
-- **[:clapper: Tutorial em vídeo - HD](https://youtu.be/Xc3vRqRYklM)**
+## <a id="f">:six: Appendix</a>
+#### <a id="f1">Print and install a cover on the PSU</a>
+- **[:book: Manual][_PSUFAN_]**
+[![Replace the control board](https://img.youtube.com/vi/Xc3vRqRYklM/0.jpg)](https://www.youtube.com/watch?v=Xc3vRqRYklM)
 
 -----
+

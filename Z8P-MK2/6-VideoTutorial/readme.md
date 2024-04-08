@@ -134,37 +134,45 @@
 ## <a id="c">:three: Slicing</a>
 #### <a id="c1">Install slicer software
 - **[:book: Manual][_SLICING1_]**     
+######
 [![Install slicer software](https://img.youtube.com/vi/vCv0S4L7u30/0.jpg)](https://www.youtube.com/watch?v=vCv0S4L7u30)
 
 #### <a id="c2">Slicing for One Color printing</a>
 - **[:book: Manual][_SLICING2_]**     
+######
 [![Slicing for One Color printing](https://img.youtube.com/vi/g-YSgV44Rik/0.jpg)](https://www.youtube.com/watch?v=g-YSgV44Rik)
 
 #### <a id="c3">Slicing for Multi Color printing</a>
 - **[:book: Manual][_SLICING3_]**     
+######
 [![Slicing for Multi Color printing](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
 
 #### <a id="c4">Slicing for Combine Multi 3d model files</a>
 <!-- - **[:book: Manual][]** -->
+######
 [![Slicing for Combine Multi 3d model files](https://img.youtube.com/vi/FG0jbnL51SA/0.jpg)](https://www.youtube.com/watch?v=FG0jbnL51SA)
 
 #### <a id="c5">Slicing for Painting color to 3d model</a> 
 <!-- -  **[:book: Manual][]** -->
+######
 [![Slicing for Painting color to 3d model](https://img.youtube.com/vi/Yx4fKDRGEJ4/0.jpg)](https://www.youtube.com/watch?v=Yx4fKDRGEJ4)
 
 ----
 ## <a id="d">:four: Advanced Features Guide</a>
 #### <a id="d1">Automatic power off</a>
 - **[:book: Manual][_AUTOSHUTDOWN_]**      
+######
 [![Automatic power off](https://img.youtube.com/vi/SJLpmJL-tG4/0.jpg)](https://www.youtube.com/watch?v=SJLpmJL-tG4)
 
 
 #### <a id="d2">Automatic bed leveling</a>
 - **[:book: Manual][_AUTOLEVEL_]**      
+######
 [![Automatic bed leveling](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
 
 #### <a id="d3">Power loss recovery</a>
 <!-- - **[:book: Manual][]** -->
+######
 [![Power loss recovery](https://img.youtube.com/vi/f-PpasByiiE/0.jpg)](https://www.youtube.com/watch?v=f-PpasByiiE)
 
 #### <a id="d4">Speedy Printing</a>
@@ -174,10 +182,12 @@
 ## <a id="e">:five: Maintenance and Repair</a>
 #### <a id="e1">Electronic Parts Automatic testing
 <!-- - **[:book: Manual][]** -->
+######
 [![Automatic testing of electronic machine parts](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
 
 #### <a id="e2">Replace a nozzle</a>
 <!-- - **[:book: Manual][]** -->
+######
 [![Replace nozzle](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
 
 #### <a id="e3">Clean clogged M4V6 Hotend</a>
@@ -188,29 +198,34 @@
 
 #### <a id="e4">Replace the inner PTFE tubes of M4V6 Hotend</a>
 - **[:book: Manual][_REPLACEPTFE_]**     
+######
 [![Replace the inner PTFE tubes](https://img.youtube.com/vi/S-vUdI5z-nM/0.jpg)](https://www.youtube.com/watch?v=S-vUdI5z-nM)
 
 #### <a id="e5">Replace the M4V6 Hotend fittings</a>
 <!-- - **[:book: Manual][]** -->
-#####
+######
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
-#####
+######
 [M4V6-MK2](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/d7009e4e-5f8a-4267-ae60-d3ad024448bb)
 
 #### <a id="e6">Replace the control board</a>
 [![Replace the control board](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
 
 #### <a id="e7">Replace the LCD screen keypad</a>
+######
 [![Replace the control board - New](https://img.youtube.com/vi/z9E6glRZRIQ/0.jpg)](https://www.youtube.com/watch?v=z9E6glRZRIQ)
+######
 [![Replace the control board - Old](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
 
 #### <a id="e8">Are accessories left on the hotend?</a>
+######
 [![Replace the control board](https://img.youtube.com/vi/ksc36CwoRJw/0.jpg)](https://www.youtube.com/watch?v=ksc36CwoRJw)
 
 ----
 ## <a id="f">:six: Appendix</a>
 #### <a id="f1">Print and install a cover on the PSU</a>
 - **[:book: Manual][_PSUFAN_]**
+######
 [![Replace the control board](https://img.youtube.com/vi/Xc3vRqRYklM/0.jpg)](https://www.youtube.com/watch?v=Xc3vRqRYklM)
 
 -----

@@ -134,37 +134,45 @@
 ## <a id="c">:three: Cortar</a>
 #### <a id="c1">Instalar software de corte
 - **[:book: Manual][SLICING1]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/vCv0S4L7u30)**
+######
+[![](https://img.youtube.com/vi/vCv0S4L7u30/0.jpg)](https://www.youtube.com/watch?v=vCv0S4L7u30)
 
 #### <a id="c2">Cortado para impresión a un color</a>
 - **[:book: Manual][SLICING2]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/g-YSgV44Rik)**
+######
+[![](https://img.youtube.com/vi/g-YSgV44Rik/0.jpg)](https://www.youtube.com/watch?v=g-YSgV44Rik)
 
 #### <a id="c3">Rebanado para impresión multicolor</a>
 - **[:book: Manual][SLICING3]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/2IHiP2r7KNk)**
+######
+[![](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
 
 #### <a id="c4">Rebanar para combinar archivos de modelos 3D múltiples</a>
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Videotutorial - HD](https://youtu.be/FG0jbnL51SA)**
+######
+[![](https://img.youtube.com/vi/FG0jbnL51SA/0.jpg)](https://www.youtube.com/watch?v=FG0jbnL51SA)
 
 #### <a id="c5">Rebanar para pintar color en modelo 3D</a>
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Videotutorial - HD](https://youtu.be/Yx4fKDRGEJ4)**
+######
+[![](https://img.youtube.com/vi/Yx4fKDRGEJ4/0.jpg)](https://www.youtube.com/watch?v=Yx4fKDRGEJ4)
 
 ----
 ## <a id="d">:four: Guía de funciones avanzadas</a>
 #### <a id="d1">Apagado automático</a>
 - **[:book: Manual][AUTOSHUTDOWN]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/SJLpmJL-tG4)**
+######
+[![](https://img.youtube.com/vi/SJLpmJL-tG4/0.jpg)](https://www.youtube.com/watch?v=SJLpmJL-tG4)
 
 #### <a id="d2">Nivelación automática de la cama</a>
 - **[:book: Manual][AUTOLEVEL]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/Zoyl6PybsUk)**
+######
+[![](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
 
 #### <a id="d3">Recuperación de pérdida de energía</a>
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/f-PpasByiiE)**
+######
+[![](https://img.youtube.com/vi/f-PpasByiiE/0.jpg)](https://www.youtube.com/watch?v=f-PpasByiiE)
 
 #### <a id="d4">Impresión rápida</a>
 - **[:book: Manual][FASTPRINT]**
@@ -174,34 +182,49 @@
 ## <a id="e">:five: Mantenimiento y Reparación</a>
 #### <a id="e1">Pruebas automáticas de piezas electrónicas de máquinas
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/iSsuy2ePWw8)**
+######
+[![](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
+
 #### <a id="e2">Reemplazar una boquilla</a>
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
+######
+[![](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
+
 #### <a id="e3">Limpiar hotend M4V6 obstruido</a>
 - **[:book: Manual][CLEANM4V6]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
+######
+[Limpiar hotend M4V6 obstruido](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
+
 #### <a id="e4">Reemplazar los tubos internos de PTFE del hotend M4V6</a>
 - **[:book: Manual][REPLACEM4V6INNERPTFE]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
+######
+[![](https://img.youtube.com/vi/S-vUdI5z-nM/0.jpg)](https://www.youtube.com/watch?v=S-vUdI5z-nM)
+
 #### <a id="e5">Reemplazar el accesorio del hotend M4V6</a>
 <!-- - **[:book: Manual][]** -->
-- **[:clapper: Video Tutorial - HD](https://youtu.be/L5VRyEbsJvM)**
 #####
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
 #####
 [M4V6-MK2](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/d7009e4e-5f8a-4267-ae60-d3ad024448bb)
+
 #### <a id="e6">Reemplazar el tablero de control</a>
-- **[:clapper: Video Tutorial - HD](https://youtu.be/5MIeuzuxSf8)**
+[![](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
+
 #### <a id="e7">Reemplazar el teclado de la pantalla LCD</a>
-- **[:clapper: Videotutorial - HD](https://youtu.be/Xwfczp3nLOY)**
+######
+[![](https://img.youtube.com/vi/z9E6glRZRIQ/0.jpg)](https://www.youtube.com/watch?v=z9E6glRZRIQ)
+######
+[![](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
+
 #### <a id="e8">¿Se dejan accesorios desde el hotend?</a>
-- **[:clapper: Videotutorial - HD](https://youtu.be/ksc36CwoRJw)**
+######
+[![](https://img.youtube.com/vi/ksc36CwoRJw/0.jpg)](https://www.youtube.com/watch?v=ksc36CwoRJw)
 
 ----
 ## <a id="f">:six: Apéndice</a>
 #### <a id="f1">Imprimir e instalar una cubierta en la fuente de alimentación</a>
 - **[:book: Manual][PSUFAN]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/Xc3vRqRYklM)**
+######
+[![](https://img.youtube.com/vi/Xc3vRqRYklM/0.jpg)](https://www.youtube.com/watch?v=Xc3vRqRYklM)
 
 -----

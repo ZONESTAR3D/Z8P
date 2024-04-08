@@ -133,15 +133,15 @@
 ----
 ## <a id="c">:three: Slicing</a>
 #### <a id="c1">Install slicer software
-- **[:book: Manual][_SLICING1_]**
+- **[:book: Manual][_SLICING1_]**     
 [![Install slicer software](https://img.youtube.com/vi/vCv0S4L7u30/0.jpg)](https://www.youtube.com/watch?v=vCv0S4L7u30)
 
 #### <a id="c2">Slicing for One Color printing</a>
-- **[:book: Manual][_SLICING2_]**
+- **[:book: Manual][_SLICING2_]**     
 [![Slicing for One Color printing](https://img.youtube.com/vi/g-YSgV44Rik/0.jpg)](https://www.youtube.com/watch?v=g-YSgV44Rik)
 
 #### <a id="c3">Slicing for Multi Color printing</a>
-- **[:book: Manual][_SLICING3_]**
+- **[:book: Manual][_SLICING3_]**     
 [![Slicing for Multi Color printing](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
 
 #### <a id="c4">Slicing for Combine Multi 3d model files</a>
@@ -155,12 +155,12 @@
 ----
 ## <a id="d">:four: Advanced Features Guide</a>
 #### <a id="d1">Automatic power off</a>
-- **[:book: Manual][_AUTOSHUTDOWN_]**
+- **[:book: Manual][_AUTOSHUTDOWN_]**      
 [![Automatic power off](https://img.youtube.com/vi/SJLpmJL-tG4/0.jpg)](https://www.youtube.com/watch?v=SJLpmJL-tG4)
 
 
 #### <a id="d2">Automatic bed leveling</a>
-- **[:book: Manual][_AUTOLEVEL_]**
+- **[:book: Manual][_AUTOLEVEL_]**      
 [![Automatic bed leveling](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
 
 #### <a id="d3">Power loss recovery</a>
@@ -187,7 +187,7 @@
 
 
 #### <a id="e4">Replace the inner PTFE tubes of M4V6 Hotend</a>
-- **[:book: Manual][_REPLACEPTFE_]**
+- **[:book: Manual][_REPLACEPTFE_]**     
 [![Replace the inner PTFE tubes](https://img.youtube.com/vi/S-vUdI5z-nM/0.jpg)](https://www.youtube.com/watch?v=S-vUdI5z-nM)
 
 #### <a id="e5">Replace the M4V6 Hotend fittings</a>

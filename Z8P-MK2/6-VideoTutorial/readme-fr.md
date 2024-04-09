@@ -168,7 +168,6 @@
 #### <a id="e2">Remplacer une buse</a>
 [![](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
 
-
 #### <a id="e3">Nettoyer le Hotend M4V6 obstrué</a>
 - **[:book: Manuel][_CLEANM4V6_]**
 ######

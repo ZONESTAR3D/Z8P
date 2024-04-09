@@ -148,13 +148,9 @@
 [![](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
 
 #### <a id="c4">Slicing for Combine Multi 3d model files</a>
-<!-- - **[:book: Manual][]** -->
-######
 [![](https://img.youtube.com/vi/FG0jbnL51SA/0.jpg)](https://www.youtube.com/watch?v=FG0jbnL51SA)
 
 #### <a id="c5">Slicing for Painting color to 3d model</a> 
-<!-- -  **[:book: Manual][]** -->
-######
 [![](https://img.youtube.com/vi/Yx4fKDRGEJ4/0.jpg)](https://www.youtube.com/watch?v=Yx4fKDRGEJ4)
 
 ----
@@ -171,8 +167,6 @@
 [![](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
 
 #### <a id="d3">Power loss recovery</a>
-<!-- - **[:book: Manual][]** -->
-######
 [![](https://img.youtube.com/vi/f-PpasByiiE/0.jpg)](https://www.youtube.com/watch?v=f-PpasByiiE)
 
 #### <a id="d4">Speedy Printing</a>
@@ -181,20 +175,15 @@
 ----
 ## <a id="e">:five: Maintenance and Repair</a>
 #### <a id="e1">Electronic Parts Automatic testing
-<!-- - **[:book: Manual][]** -->
-######
 [![](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
 
 #### <a id="e2">Replace a nozzle</a>
-<!-- - **[:book: Manual][]** -->
-######
 [![](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
 
 #### <a id="e3">Clean clogged M4V6 Hotend</a>
 - **[:book: Manual][_CLEANM4V6_]**
 ######
 [](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
-
 
 #### <a id="e4">Replace the inner PTFE tubes of M4V6 Hotend</a>
 - **[:book: Manual][_REPLACEPTFE_]**     
@@ -212,9 +201,6 @@
 [![](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
 
 #### <a id="e7">Replace the LCD screen keypad</a>
-<!-- ######
-[![](https://img.youtube.com/vi/z9E6glRZRIQ/0.jpg)](https://www.youtube.com/watch?v=z9E6glRZRIQ)
-###### -->
 [![](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
 
 #### <a id="e8">Are accessories left on the hotend?</a>

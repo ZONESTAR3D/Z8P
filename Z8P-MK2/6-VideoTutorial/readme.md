@@ -193,7 +193,7 @@
 #### <a id="e3">Clean clogged M4V6 Hotend</a>
 - **[:book: Manual][_CLEANM4V6_]**
 ######
-[Clean clogged M4V6 Hotend](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
+[](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
 
 
 #### <a id="e4">Replace the inner PTFE tubes of M4V6 Hotend</a>
@@ -212,13 +212,12 @@
 [![](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
 
 #### <a id="e7">Replace the LCD screen keypad</a>
-######
+<!-- ######
 [![](https://img.youtube.com/vi/z9E6glRZRIQ/0.jpg)](https://www.youtube.com/watch?v=z9E6glRZRIQ)
-######
+###### -->
 [![](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
 
 #### <a id="e8">Are accessories left on the hotend?</a>
-######
 [![](https://img.youtube.com/vi/ksc36CwoRJw/0.jpg)](https://www.youtube.com/watch?v=ksc36CwoRJw)
 
 ----

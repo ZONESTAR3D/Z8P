@@ -77,133 +77,129 @@
 ## <a id="a">:one: Guide d'installation</a>
 ### <a id="a1">Installation</a>
 - **[:book: Manuel][_INSTALLATION_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/-oieO7U0LCc)**
-####
-[Partie 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)
-####
-[Partie 2](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)
-####
-[Partie 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)
-####
-[Partie 4](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)
+#### 
+[![](https://img.youtube.com/vi/-oieO7U0LCc/0.jpg)](https://www.youtube.com/watch?v=-oieO7U0LCc)
 
 ### <a id="a2">Câblage</a>
 - **[:book: Manuel][_WIRING_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/kpQvHASNfqE)**
-####
-[Câblage](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)
+#### 
+[![](https://img.youtube.com/vi/kpQvHASNfqE/0.jpg)](https://www.youtube.com/watch?v=kpQvHASNfqE)
 
 ----
 ## <a id="b">:two: Guide d'utilisation</a>
 ### <a id="b1">Allumer/éteindre</a>
 - **[:book: Manuel][_OPERATION_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/2i8ozM2Dn1U)**
 #####
-[Mise sous/hors tension](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
+[![](https://img.youtube.com/vi/2i8ozM2Dn1U/0.jpg)](https://www.youtube.com/watch?v=2i8ozM2Dn1U)
 
 ### <a id="b2">Mise à niveau du lit</a>
 - **[:book: Manuel][_BEDLEVELING_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/R3RfGnxx8hY)**
 #####
-[Niveau du lit](https://github.com/ZONESTAR3D/Z8P/assets/29502731/3951332c-4483-47b3-b4f5-08acfc49dc3e)
+[![](https://img.youtube.com/vi/R3RfGnxx8hY/0.jpg)](https://www.youtube.com/watch?v=R3RfGnxx8hY)
 
 ### <a id="b3">Charger le filament</a>
 - **[:book: Manuel][_LOADFILAMENT_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/-47yB95uIxI)**
 #####
-[Charger le filament](https://github.com/ZONESTAR3D/Z8P/assets/29502731/0661da17-71cf-4c9d-839f-be2c708f6a56)
+[![](https://img.youtube.com/vi/-47yB95uIxI/0.jpg)](https://www.youtube.com/watch?v=-47yB95uIxI)
 
 ### <a id="b4">Imprimer depuis la carte SD</a>
 - **[:book: Manuel][_PRINTFROMSDCARD_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/ITHbO9VxTMo)**
 #####
-[Imprimer depuis la carte SD](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
+[![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
 
 ### <a id="b5">Dégradé de couleurs de mélange</a>
 - **[:book: Manuel][_GRADIENTMIX_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/VOlXvy38aFs)**
 #####
-[Dégradé de couleurs de mélange](https://github.com/ZONESTAR3D/Z8P/assets/29502731/204bb64d-4fe1-47c5-a3e8-98dcdb95c2fe)
+[![](https://img.youtube.com/vi/VOlXvy38aFs/0.jpg)](https://www.youtube.com/watch?v=VOlXvy38aFs)
 
 ### <a id="b6">Mélange aléatoire de couleurs</a>
 - **[:book: Manuel][_RANDOMMIX_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/-mQ4bCnrIaw)**
 #####
-[Couleur de mélange aléatoire](https://github.com/ZONESTAR3D/Z8P/assets/29502731/b4d3129e-2d2b-4034-9860-ea2db5de49a8)
+[![](https://img.youtube.com/vi/-mQ4bCnrIaw/0.jpg)](https://www.youtube.com/watch?v=-mQ4bCnrIaw)
 
 ----
 ## <a id="c">:three: Tranchage</a>
 #### <a id="c1">Installer le logiciel de découpe
 - **[:book: Manuel][_SLICING1_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/vCv0S4L7u30)**
+#####
+[![](https://img.youtube.com/vi/vCv0S4L7u30/0.jpg)](https://www.youtube.com/watch?v=vCv0S4L7u30)
 
 #### <a id="c2">Découpage pour une impression en une seule couleur</a>
 - **[:book: Manuel][_SLICING2_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/g-YSgV44Rik)**
+#####
+[![](https://img.youtube.com/vi/g-YSgV44Rik/0.jpg)](https://www.youtube.com/watch?v=g-YSgV44Rik)
+
 
 #### <a id="c3">Découpage pour l'impression multicolore</a>
 - **[:book: Manuel][_SLICING3_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/2IHiP2r7KNk)**
+#####
+[![](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
 
 #### <a id="c4">Découpage pour combiner plusieurs fichiers de modèles 3D</a>
-<!-- - **[:book: Manuel][]** -->
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/FG0jbnL51SA)**
+[![](https://img.youtube.com/vi/FG0jbnL51SA/0.jpg)](https://www.youtube.com/watch?v=FG0jbnL51SA)
 
 #### <a id="c5">Découpage pour la couleur de peinture sur un modèle 3D</a>
-<!-- - **[:book: Manuel][]** -->
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/Yx4fKDRGEJ4)**
+[![](https://img.youtube.com/vi/Yx4fKDRGEJ4/0.jpg)](https://www.youtube.com/watch?v=Yx4fKDRGEJ4)
 
 ----
 ## <a id="d">:four: Guide des fonctionnalités avancées</a>
 #### <a id="d1">Arrêt automatique de l'alimentation</a>
 - **[:book: Manuel][_AUTOSHUTDOWN_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/SJLpmJL-tG4)**
+#### 
+[![](https://img.youtube.com/vi/SJLpmJL-tG4/0.jpg)](https://www.youtube.com/watch?v=SJLpmJL-tG4)
 
 #### <a id="d2">Niveau automatique du lit</a>
 - **[:book: Manuel][_AUTOLEVEL_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/Zoyl6PybsUk)**
+#### 
+[![](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
 
 #### <a id="d3">Récupération après perte de courant</a>
-<!-- - **[:book: Manuel][]** -->
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/f-PpasByiiE)**
+#### 
+[![](https://img.youtube.com/vi/f-PpasByiiE/0.jpg)](https://www.youtube.com/watch?v=f-PpasByiiE)
 
 #### <a id="d4">Impression rapide</a>
 - **[:book: Manuel][_FASTPRINT_]**
-<!-- - **[:clapper: Tutoriel vidéo - HD](https://youtu.be/f-PpasByiiE)** -->
 
 ----
 ## <a id="e">:five: Maintenance et réparation</a>
 #### <a id="e1">Test automatique de pièces électroniques de machines
-<!-- - **[:book: Manuel][]** -->
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/iSsuy2ePWw8)**
+[![](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
+
 #### <a id="e2">Remplacer une buse</a>
-<!-- - **[:book: Manuel][]** -->
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/L5VRyEbsJvM)**
+[![](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
+
+
 #### <a id="e3">Nettoyer le Hotend M4V6 obstrué</a>
 - **[:book: Manuel][_CLEANM4V6_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/L5VRyEbsJvM)**
+######
+[](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
+
 #### <a id="e4">Remplacer les tubes intérieurs en PTFE du M4V6 Hotend</a>
 - **[:book: Manuel][_REPLACEPTFE_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/L5VRyEbsJvM)**
+######
+[![](https://img.youtube.com/vi/S-vUdI5z-nM/0.jpg)](https://www.youtube.com/watch?v=S-vUdI5z-nM)
+
 #### <a id="e5">Remplacer le raccord du Hotend M4V6</a>
-<!-- - **[:book: Manuel][]** -->
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/L5VRyEbsJvM)**
-#####
+######
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
-#####
+######
 [M4V6-MK2](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/d7009e4e-5f8a-4267-ae60-d3ad024448bb)
+
 #### <a id="e6">Remplacer la carte de contrôle</a>
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/5MIeuzuxSf8)**
+[![](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
+
 #### <a id="e7">Remplacer le clavier de l'écran LCD</a>
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/Xwfczp3nLOY)**
+[![](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
+
 #### <a id="e8">Les raccords sont déposés du hotend ?</a>
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/ksc36CwoRJw)**
+[![](https://img.youtube.com/vi/ksc36CwoRJw/0.jpg)](https://www.youtube.com/watch?v=ksc36CwoRJw)
 
 ----
 ## <a id="f">:six: Annexe</a>
 #### <a id="f1">Imprimer et installer un cache sur le bloc d'alimentation</a>
 - **[:book: Manuel][_PSUFAN_]**
-- **[:clapper: Tutoriel vidéo - HD](https://youtu.be/Xc3vRqRYklM)**
+######
+[![](https://img.youtube.com/vi/Xc3vRqRYklM/0.jpg)](https://www.youtube.com/watch?v=Xc3vRqRYklM)
 
 -----
 

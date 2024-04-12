@@ -58,7 +58,7 @@ Si la température de la partie chaude indique toujours une température élevé
 - Ouvrez le boîtier de commande et vérifiez si le fil du chauffage est bien connecté au tableau de commande.
 ##### ![](./WireOfheater.jpg)
 - [:link : Ouvrez le boîtier de commande](../How_to_open_the_control_box.jpg) et vérifiez si la LED4 s'allumera lors du chauffage de la hotend.
-##### <a id="LED"> ![](LEDs.jpg) </a>
+##### <a id="LED"> ![LED](LEDs.jpg) </a>
 
 ### <a id="a4">La partie chaude ne peut pas être chauffée à la température réglée </a>
 Si la température du hotend augmente, mais qu'elle ne peut pas atteindre la température de réglage. L'écran LCD affichera **échec du chauffage de l'extrémité chaude** après un certain temps.

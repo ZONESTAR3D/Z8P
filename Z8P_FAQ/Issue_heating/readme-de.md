@@ -58,7 +58,7 @@ Wenn die Temperatur des heißen Endes immer eine hohe Temperatur anzeigt (ca. 10
 - Öffnen Sie den Steuerkasten und prüfen Sie, ob das Heizkabel richtig mit der Steuerplatine verbunden ist.
 ##### ![](./WireOfheater.jpg)
 - [:link: Öffnen Sie die Steuerbox](../How_to_open_the_control_box.jpg) und prüfen Sie, ob die LED4 beim Erhitzen des Hotends aufleuchtet.
-##### <a id="LED"> ![](LEDs.jpg) </a>
+##### <a id="LED"> ![LED](LEDs.jpg) </a>
 
 ### <a id="a4">Heißes Ende kann nicht auf die eingestellte Temperatur erhitzt werden </a>
 Wenn die Hotend-Temperatur erhöht wird, die eingestellte Temperatur jedoch nicht erreicht werden kann. Auf dem LCD wird nach einer gewissen Zeit **Hot-End-Heizungsfehler** angezeigt.

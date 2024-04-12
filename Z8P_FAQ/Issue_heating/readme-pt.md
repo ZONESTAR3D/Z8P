@@ -58,7 +58,7 @@ Se a temperatura do hot end sempre mostrar uma temperatura alta (cerca de 100 �
 - Abra a caixa de controle e verifique se o fio do aquecedor está bem conectado à placa de controle.
 ##### ![](./WireOfheater.jpg)
 - [:link: Abra a caixa de controle](../How_to_open_the_control_box.jpg) e verifique se o LED4 acenderá ao aquecer o hotend.
-##### <a id="LED"> ![](LEDs.jpg) </a>
+##### <a id="LED"> ![LED](LEDs.jpg) </a>
 
 ### <a id="a4">A extremidade quente não pode ser aquecida até a temperatura definida </a>
 Se a temperatura do hotend aumentar, mas não for possível atingir a temperatura definida. O LCD mostrará **falha no aquecimento da extremidade quente** após um período de tempo.

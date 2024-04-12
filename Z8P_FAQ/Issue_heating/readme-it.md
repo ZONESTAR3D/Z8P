@@ -58,7 +58,7 @@ Se la temperatura dell'hot end mostra sempre una temperatura elevata (circa 100 
 - Aprire la scatola di controllo e verificare se il filo del riscaldatore è collegato correttamente alla scheda di controllo.
 ##### ![](./WireOfheater.jpg)
 - [:link: Apri la scatola di controllo](../How_to_open_the_control_box.jpg) e controlla se il LED4 si accende durante il riscaldamento dell'hotend.
-##### <a id="LED"> ![](LEDs.jpg) </a>
+##### <a id="LED"> ![LED](LEDs.jpg) </a>
 
 ### <a id="a4">L'hotend non può essere riscaldato alla temperatura impostata </a>
 Se la temperatura dell'hotend è aumentata, ma non è possibile raggiungere la temperatura impostata. Il display LCD mostrerà **guasto riscaldamento hot-end** dopo un certo periodo di tempo.

@@ -58,7 +58,7 @@ Si la temperatura del extremo caliente siempre muestra una temperatura alta (apr
 - Abra la caja de control y verifique si el cable del calentador está bien conectado al tablero de control.
 ##### ![](./WireOfheater.jpg)
 - [:link: Abre la caja de control](../How_to_open_the_control_box.jpg) y comprueba si el LED4 se encenderá al calentar el hotend.
-##### <a id="LED"> ![](LEDs.jpg) </a>
+##### <a id="LED"> ![LED](LEDs.jpg) </a>
 
 ### <a id="a4">El extremo caliente no se puede calentar a la temperatura establecida </a>
 Si la temperatura del hotend aumenta, pero no se puede alcanzar la temperatura establecida. La pantalla LCD mostrará **fallo de calentamiento del extremo caliente** después de un período de tiempo.

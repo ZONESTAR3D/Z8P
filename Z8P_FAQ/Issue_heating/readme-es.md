@@ -38,8 +38,7 @@ Si la temperatura ambiente actual es inferior a 15 ℃ pero la temperatura actua
 -----
 ## <a id="a">Problema del extremo caliente</a>
 ### <a id="a1">El extremo caliente siempre muestra 0 ℃</a>
-#####
-![](hotend_min_temperature.jpg)
+##### ![](hotend_min_temperature.jpg)
 Si la temperatura actual del hot end muestra 0 grados, puede haber dos razones:
 1. Verifique que el cable del sensor de temperatura del extremo caliente esté bien conectado.
 2. Si tanto la corriente del hotend como la base calefactora muestran 0 grados y la temperatura ambiente actual es inferior a 20 ℃, intente cargar el firmware más reciente e inténtelo nuevamente.      
@@ -59,7 +58,7 @@ Si la temperatura del extremo caliente siempre muestra una temperatura alta (apr
 - Abra la caja de control y verifique si el cable del calentador está bien conectado al tablero de control.
 ##### ![](./WireOfheater.jpg)
 - [:link: Abre la caja de control](../How_to_open_the_control_box.jpg) y comprueba si el LED4 se encenderá al calentar el hotend.
-##### <a id="LED"> ![](LED.jpg) </a>
+##### <a id="LED"> ![](LEDs.jpg) </a>
 
 ### <a id="a4">El extremo caliente no se puede calentar a la temperatura establecida </a>
 Si la temperatura del hotend aumenta, pero no se puede alcanzar la temperatura establecida. La pantalla LCD mostrará **fallo de calentamiento del extremo caliente** después de un período de tiempo.

@@ -1,3 +1,16 @@
+## <a id="choose-language">:globe_with_meridians: Choose language</a>
+[![]( /EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme.md)
+[![](./lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-es.md)
+[![](./lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-pt.md)
+[![](./lanpic/FR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-fr.md)
+[![](./lanpic/DE.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-de.md)
+[![](./lanpic/IT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-it.md)
+[![](./lanpic/RU.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-ru.md)
+[![](./lanpic/JP.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-jp.md)
+[![](./lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-kr.md)
+[![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-ar.md)
+
+----
 # Z8P Troubleshooting
 
 -----
@@ -9,7 +22,8 @@ In order to find and solve the problem of the product, you may need to use the a
 
 ### Electronics parts auto testing
 Z8P has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem. To start this program, you need to open the "**Info**" menu and rotate the knob to point to the "**Date: xx-xx-xx**" item, and then press the knob five times.      
-For details, please refer to the [:clapper:**video tutorial**](https://youtu.be/iSsuy2ePWw8).
+#### Video tutorial
+[![](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
 
 ### About "swap test"
 When we find that there is a functional problem in the machine, and the cause of the problem has multiple possibilities (multiple parts may cause to the same problem), we have the opportunity to use the so-called "**swap test**" to locate the cause of the problem as soon as possible.    
@@ -31,7 +45,7 @@ The parts in the machine that can carry out the exchange test include:
 - **[Crash when connecting USB in Cura](./issue_of_connect_USB_in_Cura/readme.md)**
 - **[The printer auto pause when printing from SD card](./Issue_auto_pause/readme.md)**
 - **[Not read SD card issue](./Issue_not_read_sdcard/readme.md)**
-- **[LCD screen knob issue](#lcd-screen-knob-issue)**
+- **[LCD screen knob issue](#dwinscreen)**
 
 ----
 ## Other references
@@ -39,14 +53,13 @@ The parts in the machine that can carry out the exchange test include:
 - **[All Problems & Solutions (@All3DP.com)](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/)**
 
 -----
-## LCD screen knob issue
+## <a id="dwinscreen">LCD screen knob issue</a>
 If you find that the knob of the LCD screen is stuck, you can click on [:gift: this link](https://www.aliexpress.com/item/3256805596235491.html) to purchase a replacement keypad. If your product is within the warranty period (within 12 months from the date of receiving the package), please contact us after placing the order, and we will provide you with after-sales service.     
 How to replace the keypad of the LCD screen, please watch the video tutorial:
 - For the welding version (older), please refer to [:clapper: this video](https://youtu.be/Xwfczp3nLOY).   
 - For the FPC version (newer), please refer to [:clapper: this video](https://youtu.be/z9E6glRZRIQ).  
+####
 ![](./pic/keypad.jpg)
 
 -----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
-
-

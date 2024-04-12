@@ -58,7 +58,7 @@ Si la température de la partie chaude indique toujours une température élevé
 - Ouvrez le boîtier de commande et vérifiez si le fil du chauffage est bien connecté au tableau de commande.
 ##### ![](./WireOfheater.jpg)
 - [:link : Ouvrez le boîtier de commande](../How_to_open_the_control_box.jpg) et vérifiez si la LED4 s'allumera lors du chauffage de la hotend.
-##### <a id="LED"> ![LED](LEDs.jpg) </a>
+##### <a id="led"> ![](LEDs.jpg) </a>
 
 ### <a id="a4">La partie chaude ne peut pas être chauffée à la température réglée </a>
 Si la température du hotend augmente, mais qu'elle ne peut pas atteindre la température de réglage. L'écran LCD affichera **échec du chauffage de l'extrémité chaude** après un certain temps.
@@ -92,7 +92,7 @@ Lorsque vous trouvez, l'écran LCD affiche un écran « HEATBED Err. : tempé
 ### <a id="b3">La température du lit chaud n'augmente pas </a>
 - Vérifiez si [:point_up : le fil d'alimentation du lit chauffant](#b1) était bien connecté.
 - Ouvrez le boîtier de commande et vérifiez si le fil d'alimentation du lit chauffant est bien connecté au tableau de commande.
-- Ouvrez le boîtier de commande et vérifiez si le [:point_up: LED3](#LED) s'allumera lors du chauffage du lit chaud, sinon, cela signifie que le MOSFET de la carte de commande est endommagé et doit être remplacé.
+- Ouvrez le boîtier de commande et vérifiez si le [:point_up: LED3](#led) s'allumera lors du chauffage du lit chaud, sinon, cela signifie que le MOSFET de la carte de commande est endommagé et doit être remplacé.
 
 ### <a id="b4">Le lit chauffant peut être chauffé à plus de 100 ℃ </a>
 - Ne dirigez pas la sortie du ventilateur ou du climatiseur vers la machine.

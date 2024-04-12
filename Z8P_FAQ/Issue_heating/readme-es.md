@@ -58,7 +58,7 @@ Si la temperatura del extremo caliente siempre muestra una temperatura alta (apr
 - Abra la caja de control y verifique si el cable del calentador está bien conectado al tablero de control.
 ##### ![](./WireOfheater.jpg)
 - [:link: Abre la caja de control](../How_to_open_the_control_box.jpg) y comprueba si el LED4 se encenderá al calentar el hotend.
-##### <a id="LED"> ![LED](LEDs.jpg) </a>
+##### <a id="led"> ![](LEDs.jpg) </a>
 
 ### <a id="a4">El extremo caliente no se puede calentar a la temperatura establecida </a>
 Si la temperatura del hotend aumenta, pero no se puede alcanzar la temperatura establecida. La pantalla LCD mostrará **fallo de calentamiento del extremo caliente** después de un período de tiempo.
@@ -92,7 +92,7 @@ Cuando encuentre, la pantalla LCD muestra la pantalla "HEATBED Err.: temperatura
 ### <a id="b3">La temperatura de la cama caliente no aumenta </a>
 - Verifique si [:point_up: el cable de alimentación de la cama caliente](#b1) estaba bien conectado.
 - Abra la caja de control y verifique si el cable de alimentación de la cama caliente se conecta bien con el tablero de control.
-- Abra la caja de control y verifique si el [:point_up: LED3](#LED) se encenderá al calentar la cama caliente; de lo contrario, significa que el MOSFET de la placa de control está dañado y necesita ser reemplazado.
+- Abra la caja de control y verifique si el [:point_up: LED3](#led) se encenderá al calentar la cama caliente; de lo contrario, significa que el MOSFET de la placa de control está dañado y necesita ser reemplazado.
 
 ### <a id="b4">La cama caliente se puede calentar a más de 100 ℃ </a>
 - No acerque la salida del ventilador o del aire acondicionado hacia la máquina.

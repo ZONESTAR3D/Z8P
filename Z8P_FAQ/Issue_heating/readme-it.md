@@ -58,7 +58,7 @@ Se la temperatura dell'hot end mostra sempre una temperatura elevata (circa 100 
 - Aprire la scatola di controllo e verificare se il filo del riscaldatore è collegato correttamente alla scheda di controllo.
 ##### ![](./WireOfheater.jpg)
 - [:link: Apri la scatola di controllo](../How_to_open_the_control_box.jpg) e controlla se il LED4 si accende durante il riscaldamento dell'hotend.
-##### <a id="LED"> ![LED](LEDs.jpg) </a>
+##### <a id="led"> ![](LEDs.jpg) </a>
 
 ### <a id="a4">L'hotend non può essere riscaldato alla temperatura impostata </a>
 Se la temperatura dell'hotend è aumentata, ma non è possibile raggiungere la temperatura impostata. Il display LCD mostrerà **guasto riscaldamento hot-end** dopo un certo periodo di tempo.
@@ -92,7 +92,7 @@ Una volta trovato, lo schermo LCD mostra la schermata "HEATBED Err.: max tempera
 ### <a id="b3">La temperatura del letto caldo non aumenta </a>
 - Controllare se [:point_up: il cavo di alimentazione del letto caldo](#b1) è stato collegato correttamente.
 - Aprire la scatola di controllo e controllare se il cavo di alimentazione del letto caldo è collegato correttamente alla scheda di controllo.
-- Aprire la scatola di controllo e controllare se [:point_up: LED3](#LED) si accende durante il riscaldamento del letto caldo, in caso contrario significa che il MOSFET della scheda di controllo è danneggiato e deve essere sostituito.
+- Aprire la scatola di controllo e controllare se [:point_up: LED3](#led) si accende durante il riscaldamento del letto caldo, in caso contrario significa che il MOSFET della scheda di controllo è danneggiato e deve essere sostituito.
 
 ### <a id="b4">Il letto caldo può essere riscaldato fino a oltre 100 ℃ </a>
 - Non rivolgere la ventola o l'uscita del condizionatore verso la macchina.

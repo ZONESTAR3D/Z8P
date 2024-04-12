@@ -58,7 +58,7 @@ If the temperature of the hot end always shows a high temperature (about 100℃)
 - Open the control box and check if the heater wire is connected well to the control board.
 ##### ![](./WireOfheater.jpg)
 - [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the LED4 will light when heating the hotend. 
-##### <a id="LED"> ![LED](LEDs.jpg) </a>
+##### <a id="led"></a> ![](LEDs.jpg) 
 
 ### <a id="a4">Hot end cannot be heated to the set temperature </a>
 If the hotend temperature is raise, but it can't be reached to the setting temperature. LCD will shows **hot end heating fail** after a period of time.     
@@ -92,7 +92,7 @@ When you find the LCD screen shows a "HEATBED Err.: max temperature" screen.
 ### <a id="b3">Hot bed temperature does not rise </a>
 - Check if [:point_up: the power wire of hot bed](#b1) was connected well.
 - Open the control box and check if the power wire of hot bed connect well with the control board.
-- Open the control box and check if the [:point_up: LED3](#LED) will light when heating the hot bed, if not, it means the MOSFET of the control boad is damaged and need to be replaced.
+- Open the control box and check if the [:point_up: LED3](#led) will light when heating the hot bed, if not, it means the MOSFET of the control boad is damaged and need to be replaced.
 
 ### <a id="b4">Hot bed can be heated to over 100℃ </a>
 - Do not put the fan or air conditioner outlet toward the machine.

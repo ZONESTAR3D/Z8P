@@ -58,7 +58,7 @@ Wenn die Temperatur des heißen Endes immer eine hohe Temperatur anzeigt (ca. 10
 - Öffnen Sie den Steuerkasten und prüfen Sie, ob das Heizkabel richtig mit der Steuerplatine verbunden ist.
 ##### ![](./WireOfheater.jpg)
 - [:link: Öffnen Sie die Steuerbox](../How_to_open_the_control_box.jpg) und prüfen Sie, ob die LED4 beim Erhitzen des Hotends aufleuchtet.
-##### <a id="LED"> ![LED](LEDs.jpg) </a>
+##### <a id="led"> ![](LEDs.jpg) </a>
 
 ### <a id="a4">Heißes Ende kann nicht auf die eingestellte Temperatur erhitzt werden </a>
 Wenn die Hotend-Temperatur erhöht wird, die eingestellte Temperatur jedoch nicht erreicht werden kann. Auf dem LCD wird nach einer gewissen Zeit **Hot-End-Heizungsfehler** angezeigt.
@@ -92,7 +92,7 @@ Wenn Sie feststellen, dass auf dem LCD-Bildschirm der Bildschirm „HEIZBETT-Feh
 ### <a id="b3">Heißbetttemperatur steigt nicht </a>
 - Überprüfen Sie, ob [:point_up: das Stromkabel des heißen Bettes](#b1) richtig angeschlossen ist.
 - Öffnen Sie den Steuerkasten und prüfen Sie, ob das Stromkabel des Heizbetts gut mit der Steuerplatine verbunden ist.
-- Öffnen Sie den Steuerkasten und prüfen Sie, ob die [:point_up: LED3](#LED) beim Erhitzen des Heizbetts aufleuchtet. Wenn nicht, bedeutet dies, dass der MOSFET der Steuerplatine beschädigt ist und ersetzt werden muss.
+- Öffnen Sie den Steuerkasten und prüfen Sie, ob die [:point_up: LED3](#led) beim Erhitzen des Heizbetts aufleuchtet. Wenn nicht, bedeutet dies, dass der MOSFET der Steuerplatine beschädigt ist und ersetzt werden muss.
 
 ### <a id="b4">Das heiße Bett kann auf über 100 ℃ erhitzt werden </a>
 - Richten Sie den Ventilator oder den Auslass der Klimaanlage nicht auf die Maschine.

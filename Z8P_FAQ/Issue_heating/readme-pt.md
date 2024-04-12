@@ -58,7 +58,7 @@ Se a temperatura do hot end sempre mostrar uma temperatura alta (cerca de 100 �
 - Abra a caixa de controle e verifique se o fio do aquecedor está bem conectado à placa de controle.
 ##### ![](./WireOfheater.jpg)
 - [:link: Abra a caixa de controle](../How_to_open_the_control_box.jpg) e verifique se o LED4 acenderá ao aquecer o hotend.
-##### <a id="LED"> ![LED](LEDs.jpg) </a>
+##### <a id="led"> ![](LEDs.jpg) </a>
 
 ### <a id="a4">A extremidade quente não pode ser aquecida até a temperatura definida </a>
 Se a temperatura do hotend aumentar, mas não for possível atingir a temperatura definida. O LCD mostrará **falha no aquecimento da extremidade quente** após um período de tempo.
@@ -92,7 +92,7 @@ Quando você encontrar, a tela LCD mostra uma tela "HEATBED Err.: temperatura m�
 ### <a id="b3">A temperatura da cama quente não aumenta </a>
 - Verifique se [:point_up: o fio de alimentação da cama quente](#b1) está bem conectado.
 - Abra a caixa de controle e verifique se o fio de alimentação da cama quente está bem conectado à placa de controle.
-- Abra a caixa de controle e verifique se o [:point_up: LED3](#LED) acenderá ao aquecer a cama quente, caso contrário significa que o MOSFET da placa de controle está danificado e precisa ser substituído.
+- Abra a caixa de controle e verifique se o [:point_up: LED3](#led) acenderá ao aquecer a cama quente, caso contrário significa que o MOSFET da placa de controle está danificado e precisa ser substituído.
 
 ### <a id="b4">A cama quente pode ser aquecida a mais de 100°C </a>
 - Não coloque a saída do ventilador ou do ar condicionado voltada para a máquina.

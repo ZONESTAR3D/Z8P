@@ -40,12 +40,12 @@ To confirm where the problem originated, please following the below steps to che
 El problema puede provenir de los extrusores, del tubo de PTFE que conecta los extrusores al extremo caliente (cabezal de impresión) o al extremo caliente (cabezal de impresión).
 ### Verifique los pasos:
 Para confirmar dónde se originó el problema, siga los pasos a continuación para verificar, suponiendo que el extrusor n.° 2 esté bloqueado:
-#### 1. Intercambie los tubos de PTFE conectados al extrusor n.º 2 y otro extrusor en el lado del extrusor, y luego imprima el archivo de prueba [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. Intercambie los tubos de PTFE conectados al extrusor n.º 2 y otro extrusor en el lado del extrusor, y luego imprima el archivo de prueba [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 Si todavía hay un problema con el extrusor n.° 2, indica que el problema proviene del extrusor. Generalmente, esto puede estar relacionado con el montaje de la extrusora. Consulte [:clapper:este video tutorial](https://youtu.be/Bo478rUPcxo) para desmontar y volver a montar la extrusora.
 ##### 1.2 Si el problema se traslada a otro extrusor, indica que el problema proviene del extremo caliente o del tubo de PTFE. Consulte el paso 2.
 
-#### 2. Intercambie los tubos de PTFE conectados al extrusor n.º 2 y otro extrusor (en el lado caliente) y luego imprima el archivo de prueba [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. Intercambie los tubos de PTFE conectados al extrusor n.º 2 y otro extrusor (en el lado caliente) y luego imprima el archivo de prueba [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 Si todavía hay un problema con el Extrusor#2, indica que el problema es del tubo de PTFE. Puede comprobar si los 2 extremos del tubo de PTFE están deformados, lo que provocará una resistencia excesiva (puede insertar manualmente cables finos para comprobarlo). Por lo general, la deformación de las tuberías de PTFE se produce en los 2 extremos, puedes cortar un poco y seguir usándolo.
 ##### 2.2 Si el problema se traslada a otro extrusor, indica que el problema proviene del extremo caliente (el canal que se conecta al extrusor n.º 2). Consulte el paso 3.
@@ -62,12 +62,12 @@ Para confirmar dónde se originó el problema, siga los pasos a continuación pa
 O problema pode vir da(s) extrusora(s), do tubo de PTFE que conecta as extrusoras à extremidade quente (cabeça de impressão) ou à extremidade quente (cabeça de impressão).
 ### Verifique as etapas:
 Para confirmar a origem do problema, siga as etapas abaixo para verificar, assumindo que a Extrusora nº 2 está bloqueada:
-#### 1. Troque os tubos de PTFE conectados à Extrusora nº 2 e outra extrusora no lado da extrusora e, em seguida, imprima o arquivo de teste [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. Troque os tubos de PTFE conectados à Extrusora nº 2 e outra extrusora no lado da extrusora e, em seguida, imprima o arquivo de teste [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 Se ainda houver um problema com a Extrusora#2, isso indica que o problema é da extrusora. Normalmente, isto pode estar relacionado com a montagem da extrusora. Consulte [:clapper:este tutorial em vídeo](https://youtu.be/Bo478rUPcxo) para desmontar e remontar a extrusora.
 ##### 1.2 Se o problema mudar para outra extrusora, isso indica que o problema está no hot end ou no tubo de PTFE. Consulte a etapa 2.
 
-#### 2. Troque os tubos de PTFE conectados à Extrusora nº 2 e outra extrusora (no lado quente) e, em seguida, imprima o arquivo de teste [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. Troque os tubos de PTFE conectados à Extrusora nº 2 e outra extrusora (no lado quente) e, em seguida, imprima o arquivo de teste [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 Se ainda houver problema com a Extrusora#2, isso indica que o problema está no tubo de PTFE. Você pode verificar se as 2 extremidades do tubo de PTFE estão deformadas, isso resultará em resistência excessiva (você pode inserir manualmente fios finos para verificar). Normalmente a deformação dos tubos de PTFE ocorre nas 2 pontas, você pode cortar um pouco e continuar usando.
 ##### 2.2 Se o problema mudar para outra extrusora, isso indica que o problema é do hot end (o canal conectado à Extrusora#2). Consulte a etapa 3.
@@ -84,12 +84,12 @@ Para confirmar a origem do problema, siga as etapas abaixo para verificar, assum
 Das Problem kann von den Extrudern, dem PTFE-Schlauch, der die Extruder mit dem heißen Ende (Druckkopf) verbindet, oder dem heißen Ende (Druckkopf) herrühren.
 ### Prüfschritte:
 Um zu bestätigen, woher das Problem stammt, befolgen Sie bitte die folgenden Schritte zur Überprüfung, vorausgesetzt, Extruder Nr. 2 ist blockiert:
-#### 1. Tauschen Sie die an Extruder Nr. 2 angeschlossenen PTFE-Schläuche und einen anderen Extruder auf der Extruderseite aus und drucken Sie dann die Testdatei aus [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. Tauschen Sie die an Extruder Nr. 2 angeschlossenen PTFE-Schläuche und einen anderen Extruder auf der Extruderseite aus und drucken Sie dann die Testdatei aus [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 Wenn weiterhin ein Problem mit Extruder Nr. 2 besteht, weist dies darauf hin, dass das Problem vom Extruder herrührt. Normalerweise hängt dies mit der Montage des Extruders zusammen. Bitte sehen Sie sich [:clapper:dieses Video-Tutorial](https://youtu.be/Bo478rUPcxo) an, um den Extruder zu zerlegen und wieder zusammenzubauen.
 ##### 1.2 Wenn sich das Problem auf einen anderen Extruder verlagert, deutet dies darauf hin, dass das Problem vom heißen Ende oder PTFE-Schlauch herrührt. Bitte beachten Sie Schritt 2.
 
-#### 2. Tauschen Sie die an Extruder Nr. 2 und einen anderen Extruder (auf der Hot-End-Seite) angeschlossenen PTFE-Schläuche aus und drucken Sie dann die Testdatei [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. Tauschen Sie die an Extruder Nr. 2 und einen anderen Extruder (auf der Hot-End-Seite) angeschlossenen PTFE-Schläuche aus und drucken Sie dann die Testdatei [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 Wenn weiterhin ein Problem mit Extruder Nr. 2 besteht, deutet dies darauf hin, dass das Problem vom PTFE-Schlauch herrührt. Sie können überprüfen, ob die beiden Enden des PTFE-Schlauchs deformiert sind. Dies führt zu einem übermäßigen Widerstand (zur Überprüfung können Sie feine Drähte manuell einführen). Normalerweise erfolgt die Verformung von PTFE-Rohren an den beiden Enden. Sie können ein Stück abschneiden und weiter verwenden.
 ##### 2.2 Wenn sich das Problem auf einen anderen Extruder verschiebt, deutet dies darauf hin, dass das Problem vom heißen Ende herrührt (dem Kanal, der mit Extruder Nr. 2 verbunden ist). Bitte beachten Sie Schritt 3.
@@ -106,12 +106,12 @@ Um zu bestätigen, woher das Problem stammt, befolgen Sie bitte die folgenden Sc
 Il problema potrebbe derivare dagli estrusori, dal tubo in PTFE che collega gli estrusori all'hot end (testina di stampa) o all'hot end (testina di stampa).
 ### Passaggi di controllo:
 Per confermare l'origine del problema, seguire i passaggi seguenti per verificare, supponendo che l'estrusore n. 2 sia bloccato:
-#### 1. Scambia i tubi di PTFE collegati all'estrusore n. 2 e un altro estrusore sul lato degli estrusori, quindi stampa il file di test [:arrow_down:M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. Scambia i tubi di PTFE collegati all'estrusore n. 2 e un altro estrusore sul lato degli estrusori, quindi stampa il file di test [:arrow_down:M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 Se c'è ancora un problema con l'estrusore#2, indica che il problema riguarda l'estrusore. Di solito, questo può essere correlato all'assemblaggio dell'estrusore. Fare riferimento a [:clapper:questo video tutorial](https://youtu.be/Bo478rUPcxo) per smontare e rimontare l'estrusore.
 ##### 1.2 Se il problema si sposta su un altro estrusore, significa che il problema riguarda l'hot end o il tubo in PTFE. Fare riferimento al passaggio 2.
 
-#### 2. Scambia i tubi in PTFE collegati all'estrusore n. 2 e a un altro estrusore (sul lato hot end), quindi stampa il file di test [:arrow_down:M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. Scambia i tubi in PTFE collegati all'estrusore n. 2 e a un altro estrusore (sul lato hot end), quindi stampa il file di test [:arrow_down:M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 Se il problema persiste con l'estrusore n. 2, indica che il problema riguarda il tubo di PTFE. È possibile verificare se le 2 estremità del tubo in PTFE sono deformate, ciò comporterà una resistenza eccessiva (è possibile inserire manualmente dei fili sottili per verificare). Di solito, la deformazione dei tubi in PTFE avviene alle 2 estremità, puoi tagliarne un po' e continuare ad usarlo.
 ##### 2.2 Se il problema si sposta su un altro estrusore, indica che il problema riguarda l'hot end (il canale collegato all'estrusore n. 2). Fare riferimento al passaggio 3.
@@ -128,12 +128,12 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 Проблема может быть связана с экструдером(ами), трубкой из ПТФЭ, соединяющей экструдеры с горячим концом (печатающей головкой) или горячим концом (печатающей головкой).
 ### Шаги проверки:
 Чтобы подтвердить причину возникновения проблемы, выполните следующие действия для проверки, предполагая, что экструдер № 2 заблокирован:
-#### 1. Поменяйте местами трубки из ПТФЭ, подключенные к экструдеру №2 и другому экструдеру на стороне экструдера, а затем распечатайте тестовый файл [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. Поменяйте местами трубки из ПТФЭ, подключенные к экструдеру №2 и другому экструдеру на стороне экструдера, а затем распечатайте тестовый файл [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 Если проблема с экструдером №2 все еще сохраняется, это означает, что проблема связана с экструдером. Обычно это может быть связано со сборкой экструдера. Пожалуйста, обратитесь к [:clapper:этому видеоуроку](https://youtu.be/Bo478rUPcxo), чтобы разобрать и собрать экструдер.
 ##### 1.2 Если проблема переходит на другой экструдер, это означает, что проблема связана с горячим концом или трубкой из ПТФЭ. Пожалуйста, обратитесь к шагу 2.
 
-#### 2. Поменяйте местами трубки из ПТФЭ, подключенные к экструдеру №2 и другому экструдеру (на стороне горячего конца), а затем распечатайте тестовый файл [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. Поменяйте местами трубки из ПТФЭ, подключенные к экструдеру №2 и другому экструдеру (на стороне горячего конца), а затем распечатайте тестовый файл [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 Если проблема с экструдером №2 все еще сохраняется, это означает, что проблема связана с трубкой из ПТФЭ. Вы можете проверить, не деформированы ли два конца трубки из ПТФЭ, это приведет к чрезмерному сопротивлению (для проверки можно вручную вставить тонкие проволоки). Обычно деформация фторопластовых труб происходит с 2-х концов, можно немного отрезать и продолжать использовать.
 ##### 2.2 Если проблема переходит на другой экструдер, это указывает на то, что проблема связана с горячим концом (каналом, подключенным к экструдеру №2). Пожалуйста, обратитесь к шагу 3.
@@ -172,12 +172,12 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 문제는 압출기, 압출기를 뜨거운 끝(프린트 헤드) 또는 뜨거운 끝(프린트 헤드)에 연결하는 PTFE 튜브에서 발생할 수 있습니다.
 ### 확인 단계:
 문제가 발생한 위치를 확인하려면 압출기#2가 막혔다고 가정하고 아래 단계에 따라 확인하십시오.
-#### 1. Extruder#2에 연결된 PTFE 튜브와 Extruder 측의 다른 Extruder를 교체한 후 테스트 파일을 인쇄합니다. [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ 블로브/메인/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. Extruder#2에 연결된 PTFE 튜브와 Extruder 측의 다른 Extruder를 교체한 후 테스트 파일을 인쇄합니다. [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 압출기#2에 여전히 문제가 있는 경우 압출기에 문제가 있다는 의미입니다. 일반적으로 이는 압출기 조립과 관련이 있을 수 있습니다. 압출기를 분해하고 재조립하려면 [:clapper:이 동영상 튜토리얼](https://youtu.be/Bo478rUPcxo)을 참조하세요.
 ##### 1.2 문제가 다른 압출기로 옮겨간다면 문제가 핫엔드나 PTFE 튜브에 있다는 의미입니다. 2단계를 참조하세요.
 
-#### 2. Extruder#2와 다른 Extruder(Hot end 측)에 연결된 PTFE 튜브를 교체한 후 테스트 파일을 인쇄합니다. [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. Extruder#2와 다른 Extruder(Hot end 측)에 연결된 PTFE 튜브를 교체한 후 테스트 파일을 인쇄합니다. [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 압출기#2에 여전히 문제가 있는 경우 PTFE 튜브에 문제가 있다는 의미입니다. PTFE 튜브의 양쪽 끝이 변형되었는지 확인할 수 있습니다. 과도한 저항이 발생합니다(가는 와이어를 수동으로 삽입하여 확인할 수 있습니다). 일반적으로 PTFE 파이프의 변형은 양쪽 끝에서 발생하므로 조금 잘라내어 계속 사용할 수 있습니다.
 ##### 2.2 문제가 다른 압출기로 옮겨간다면 이는 문제가 핫엔드(압출기#2에 연결된 채널)에서 발생한 것임을 나타냅니다. 3단계를 참조하세요.
@@ -194,12 +194,12 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 قد تأتي المشكلة من الطارد (الطاردات)، أو أنبوب PTFE الذي يربط الطاردات بالطرف الساخن (رأس الطباعة)، أو الطرف الساخن (رأس الطباعة).
 ### التحقق من الخطوات:
 للتأكد من مصدر المشكلة، يرجى اتباع الخطوات التالية للتحقق، بافتراض أن الطارد رقم 2 معطل:
-#### 1. قم بتبديل أنابيب PTFE المتصلة بالطارد رقم 2 وطارد آخر على جانب الطارد، ثم اطبع ملف الاختبار [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/ blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 1. قم بتبديل أنابيب PTFE المتصلة بالطارد رقم 2 وطارد آخر على جانب الطارد، ثم اطبع ملف الاختبار [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./1.jpg)
 ##### 1.1 إذا استمرت المشكلة في الطارد رقم 2، فهذا يشير إلى أن المشكلة من الطارد. عادة، قد يكون هذا مرتبطًا بتجميع الطارد. يرجى الرجوع إلى [: clapper: هذا الفيديو التعليمي] (https://youtu.be/Bo478rUPcxo) لتفكيك الطارد وإعادة تجميعه.
 ##### 1.2 إذا انتقلت المشكلة إلى طارد آخر، فهذا يشير إلى أن المشكلة من الطرف الساخن أو أنبوب PTFE. يرجى الرجوع إلى الخطوة 2.
 
-#### 2. قم بتبديل أنابيب PTFE المتصلة بالطارد رقم 2 وطارد آخر (على الجانب الساخن)، ثم قم بطباعة ملف الاختبار [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D /Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
+#### 2. قم بتبديل أنابيب PTFE المتصلة بالطارد رقم 2 وطارد آخر (على الجانب الساخن)، ثم قم بطباعة ملف الاختبار [:arrow_down: M4_4CTest.gcode](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/3-TestGcode/M4_4CTest.zip).
 ![](./2.jpg)
 ##### 2.1 إذا كانت لا تزال هناك مشكلة في الطارد رقم 2، فهذا يشير إلى أن المشكلة من أنبوب PTFE. يمكنك التحقق مما إذا كان طرفي أنبوب PTFE مشوهين، فسيؤدي ذلك إلى مقاومة مفرطة (يمكنك إدخال أسلاك دقيقة يدويًا للتحقق). عادةً ما يحدث تشوه في أنابيب PTFE عند الطرفين، يمكنك قطعها قليلاً والاستمرار في استخدامها.
 ##### 2.2 إذا انتقلت المشكلة إلى طارد آخر، فهذا يشير إلى أن المشكلة من الطرف الساخن (القناة المتصلة بالطارد رقم 2). يرجى الرجوع إلى الخطوة 3.

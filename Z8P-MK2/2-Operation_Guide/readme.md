@@ -17,16 +17,16 @@
 ##### MAKE SURE THE AC VOLTAGE SELECT SWITH HAS BEED SET TO THE CORRECT POSITION!     
 ![](./pic/selectAC.jpg)
 ### POWER ON
-#### [:clapper: Video Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
-![](./pic/poweron.png)
+<!-- ![](./pic/poweron.png) -->
 1. Plug in power cord
 2. Turn ON the AC Power Switch.
 3. Push and hold DC power button about 5 seconds
 4. Wait until the LCD shows Logo, then release the DC power button
+![Video Tutorial](./pic/PowerOn.gif)    
 ### POWER OFF
-#### [:clapper: Video Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)     
-![](./pic/poweroff.png)   
+<!-- ![](./pic/poweroff.png)    -->
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
+![Video Tutorial](./pic/poweroff.gif)    
 
 ## [LCD Menu and Operation][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -44,6 +44,7 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 
 ## Prepare to print 
 ### Level the bed
+#### [![](https://img.youtube.com/vi/R3RfGnxx8hY/0.jpg)](https://www.youtube.com/watch?v=R3RfGnxx8hY)
 Before printing, you need to adjust the distance between the nozzle and the hot bed film to a proper value, so that the melted filament can be pasted onto the hot bed film well. This process is also called “level bed”. If the nozzle is too far away from the bed, the filament can't stick to the hot bed. If the distance is too close, the bed film and nozzle will be damaged, or even the hot end will be blocked.
 ##### Step 1. Power on the 3d printer and then do “Prepare>>Auto Home>>Home All” on LCD MENU, wait the hotend go to the HOME position. 
 ![](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
@@ -54,7 +55,7 @@ Before printing, you need to adjust the distance between the nozzle and the hot 
 ![](./pic/levelbed.png)
 
 ### Load filaments
-#### [:clapper: Video Tutorial](https://youtu.be/-47yB95uIxI)
+#### [![](https://img.youtube.com/vi/-47yB95uIxI/0.jpg)](https://www.youtube.com/watch?v=-47yB95uIxI)
 This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot end. The extruders and the hot end are connected by a filament guide (PTFE tube). :warning:**Before printing, you need to load all 4 filaments to the extruders and feed them into the bottom of the hot end.** 
 ##### Step 1. Do “Prepare>>Auto Home>>Home All” on control panel, and then do “Prepare>>Temperature>> Preheat PLA”, waiting nozzle temperature reached to 190 ℃ (Fig 1).
 ##### Step 2. Use a diagonal pliers to cut off the head of filament (Fig 2), and then press the handle of the extruder#1 and insert filament, push the filament until you can see the filament in the PTFE guide (Fig 3). Rotate the gear of extruder #1 (Fig 4), watch the filament until it entered bottom of the hot end. 
@@ -64,7 +65,7 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 ![](./pic/loadfilament.png)
 
 ## Print from SD card
-[:clapper: Video Tutorial](https://youtu.be/ITHbO9VxTMo)         
+#### [![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
 #### Step 1. Insert the SD card to the SD card socket on the printer (Fig 1).
 ##### :pushpin: Z8PM4Pro-MK2A added a SD card socket on the side of the machine, which is more convenient to access the SD card. 
 :warning: Please note you only can choose one of them (SD card on the side or Micro-SD card on the front) when printing.     
@@ -85,12 +86,10 @@ This printer is equipped with a PL-08N Bed leveling sensor, with this sensor, yo
 For the details, please refer to [**:point_right: Bed Auto Leveling Feature User Guide**][AUTO_LEVELING].
 
 ### [Auto shut down][AUTO_SHUTDOWN]
-#### [:clapper: **Video tutorial**](https://youtu.be/SJLpmJL-tG4).
-3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. 
+3D printing usually takes a long time, and you may not be near the machine when printing is finished. You can let the printer auto shut down while printing is finished to save unnecessary power consumption. For the details, please refer to [**:point_right: this guide**][AUTO_SHUTDOWN].
 
 ### [Power loss recovery](https://youtu.be/f-PpasByiiE)
-#### [:clapper: **Video tutorial**](https://youtu.be/f-PpasByiiE).
-While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. 
+While printing from SD card and power is lost, after power on again, the printer will resume to print from the last layer which printed before power lost. For the details, please refer to [**:point_right: the video tutorial**](https://youtu.be/f-PpasByiiE).
 
 ### [Auto retraction][AUTO_RETRACTION]
 The strings issue of the mixed color hot end is often more serious than that of the single color hotend. Therefore, an automatic retraction feature is set in the firmware. Using automatic retraction can improve this problem.   
@@ -108,9 +107,11 @@ For details, please refer to [**:point_right: Slicing-Guide**][SLICING_GUIDE_Z8P
 ----
 ## Control by PC / Print from PC
 :warning: We recommend to print from SD card rather than from a PC.     
-For ZPM4Pro-MK2, if you think it difficult for you to access (insert and remove) the SD card, it is recommended to purchase an Mirco-SD card extender ([**Sale link**](https://www.aliexpress.com/item/3256805156643681.htm)).     
-![](./pic/CardExtender.jpg)     
 If you want to print from PC, we recommend to use "Repetier-Host" software, about how to download and use repetier-Host, please refer to [**the user guide of printing from PC**][PRINTFROMPC].
+
+----
+## :pushpin: HINT
+For older versions of ZPM4Pro-MK2, the SD card slot is located at the front of the machine and sometimes difficult to access. You can [:arrow_down: download the latest firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/released) and upload it to the control board, which supports accessing files on the SD card from the PC after connecting the machine to the PC through a USB cable.
 
 -----
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description

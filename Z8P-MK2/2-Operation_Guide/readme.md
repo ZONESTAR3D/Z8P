@@ -47,10 +47,10 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 #### [![](https://img.youtube.com/vi/R3RfGnxx8hY/0.jpg)](https://www.youtube.com/watch?v=R3RfGnxx8hY)
 Before printing, you need to adjust the distance between the nozzle and the hot bed film to a proper value, so that the melted filament can be pasted onto the hot bed film well. This process is also called “level bed”. If the nozzle is too far away from the bed, the filament can't stick to the hot bed. If the distance is too close, the bed film and nozzle will be damaged, or even the hot end will be blocked.
 ##### Step 1. Power on the 3d printer and then do “Prepare>>Auto Home>>Home All” on LCD MENU, wait the hotend go to the HOME position. 
-![](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
+![](./pic/HomeAll.gif)
 ##### Step 2. Tighten the hand nuts under the bed to move down the bed to the lowest position (Fig 1).
 ##### Step 3. Do “Prepare>> Bed leveling>> Point 1” on control panel(Fig 2), the nozzle will go to the corners of the bed, loosen the hand nuts under the hotbed (Fig 3) and let the nozzle almost touch the hotbed (Fig 4). Continue to do “Point 2/3/4” until all of the 4 corners has been leveled.
-![](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) 
+![](./pic/Level_corners.gif) 
 ##### Step 4: Repeat Step 3 and do 2 ~ 3 rounds, until all of the four corners at the same height.
 ![](./pic/levelbed.png)
 

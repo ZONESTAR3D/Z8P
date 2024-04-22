@@ -26,8 +26,9 @@
 [AUTOSHUTDOWN_GUIDE]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down
 [AUTORETRACTION_GUIDE]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction
 [PRINTFROMPC_GUIDE]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC
+[UM_BMG]: https://bit.ly/UM_BMG
 [FROD_GUIDE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD
-[WIFI_GUIDE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD
+[WIFI_GUIDE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi
 [E4_GUIDE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4
 [DDE_GUIDE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extrruder
 [LASER_GUIDE]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving
@@ -102,7 +103,7 @@ Slicing es un software que todo el mundo utiliza al crear objetos y productos en
 - **Etiqueta adhesiva de la base térmica PEI Springs:+1:**     
 La pegatina para cama caliente PEI Spring Steel Sheet es más duradera que la pegatina original para cama caliente. Con la cama caliente lisa de un solo lado hacia arriba, también puede hacer que la parte inferior de la impresión sea más suave. **[:gift: Comprar](http://bit.ly/3GbI9Sr) / [:gift: Comprar](https://bit.ly/3VkmXOi)**     
 - **Extrusora de doble engranaje:+1:**    
-El extrusor de doble engranaje puede aumentar significativamente la fuerza para empujar/tirar del filamento, reduciendo en gran medida la probabilidad de defectos de impresión y fallas de impresión causadas por el deslizamiento del filamento en el extrusor.**[:book: Guía del usuario](https://bit.ly/UM_BMG)** **[:gift: Comprar](https://bit.ly/46Vyd9H) / [:gift: Comprar](https://bit.ly/AE_4xBMG)**
+El extrusor de doble engranaje puede aumentar significativamente la fuerza para empujar/tirar del filamento, reduciendo en gran medida la probabilidad de defectos de impresión y fallas de impresión causadas por el deslizamiento del filamento en el extrusor.**[:book: Guía del usuario][UM_BMG]** **[:gift: Comprar](https://bit.ly/46Vyd9H) / [:gift: Comprar](https://bit.ly/AE_4xBMG)**
 - **pegatina de cama de calentamiento de resorte pei :+1:**       
 Las pegatinas de cama caliente de chapa de acero de resorte Pei son más duraderas que las pegatinas de cama caliente originales. La cama caliente lisa de un solo lado se enfrenta hacia arriba, lo que también puede hacer que la parte inferior del estampado sea más suave. **[:gift: compra](http://bit.ly/3GbI9Sr) / [:gift: compra](https://bit.ly/3VkmXOi)**
 - **Sensor de filamento agotado :+1:**    

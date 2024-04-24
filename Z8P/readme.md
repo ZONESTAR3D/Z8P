@@ -9,11 +9,11 @@
 #### For Z8PM3Pro/Z8PM4Pro
 - [:blue_book: **Z8PM3(4)-Pro Operation Guide**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md)
 - [:book: **LCD-DWIN Menu Description**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN/user_guide)   
-- [:art: **Z8PM3(M4)-Pro Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Pro_Wirig%20Diagram.jpg)
+- [:art: **Z8PM3(M4)-Pro Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Pro_Wirig_Diagram.jpg)
 #### For Z8PM3/Z8PM4
 - [:blue_book: **Z8PM3(4) Operation Guide**](./Userguide_Z8P.md)
 - [:blue_book: **LCD2864 Menu Description.pdf**](./1.%20Installation%20and%20User%20Guide/LCD12864%20Menu%20Description%20V6.pdf)
-- [:art: **Z8PM3(M4) Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Wirig%20Diagram.jpg)
+- [:art: **Z8PM3(M4) Wiring Diagram.jpg**](./1.%20Installation%20and%20User%20Guide/Z8P_Wirig_Diagram.jpg)
 
 #### Common files for Z8P
 - [**How to Load and Unload filament.pdf**](./1.%20Installation%20and%20User%20Guide/How%20to%20Load%20and%20Unload%20filament%20(LCD12864).pdf)

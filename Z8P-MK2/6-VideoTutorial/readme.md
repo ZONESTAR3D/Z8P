@@ -47,6 +47,7 @@
   - [Bed leveling](#b2)      
   - [Load filament](#b3)    
   - [Print from SD card](#b4)    
+  - [Print from SD card - 4 Color](#b41)    
   - [Gradient mix color](#b5)   
   - [Random mix color](#b6)   
 - **[3. Slicing](#c)**   
@@ -117,6 +118,11 @@
 - **[:clapper: Video Tutorial - HD](https://youtu.be/ITHbO9VxTMo)** 
 ##### 
 [Print from SD card](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
+
+### <a id="b41">Print from SD card - 4 Color</a>
+- **[:book: Manual][_PRINTFROMSDCARD_]**
+##### 
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">Gradient mix color</a>
 - **[:book: Manual][_GRADIENTMIX_]**

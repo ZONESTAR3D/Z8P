@@ -47,6 +47,7 @@
    - [ベッドレベリング](#b2)
    - [フィラメントのロード](#b3)
    - [SDカードから印刷](#b4)
+   - [SDカードから印刷 - 4色](#b41)
    - [グラデーションミックスカラー](#b5)
    - [ランダムミックスカラー](#b6)
 - **[3. スライス](#c)**
@@ -105,6 +106,11 @@
 - **[:book:マニュアル][_PRINTFROMSDCARD_]**
 #####
 [![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
+
+### <a id="b41">SDカードから印刷 - 4色</a>
+- **[:book:マニュアル][_PRINTFROMSDCARD_]**
+#####
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">グラデーション ミックス カラー</a>
 - **[:book:マニュアル][_GRADIENTMIX_]**

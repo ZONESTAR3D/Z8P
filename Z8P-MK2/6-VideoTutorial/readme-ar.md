@@ -47,6 +47,7 @@
    - [تسوية السرير](#b2)
    - [تحميل الفتيل](#b3)
    - [الطباعة من بطاقة SD](#b4)
+   - [طباعة - 4 ألوان من بطاقة الذاكرة الرقمية المؤمنة ](#b41) 
    - [لون المزيج المتدرج](#b5)
    - [لون المزيج عشوائي](#b6)
 - **[3. التقطيع](#ج)**
@@ -76,132 +77,128 @@
 ## <a id="a">:one: دليل التثبيت</a>
 ### <a id="a1">التثبيت</a>
 - **[:كتاب: دليل][_INSTALLATION_]**
-- **[:clapper: فيديو تعليمي - HD](https://youtu.be/-oieO7U0LCc)**
 ####
-[الجزء الأول](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)
-####
-[الجزء الثاني](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)
-####
-[الجزء 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)
-####
-[الجزء الرابع](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)
+[![](https://img.youtube.com/vi/-oieO7U0LCc/0.jpg)](https://www.youtube.com/watch?v=-oieO7U0LCc)
 
 ### <a id="a2">الأسلاك</a>
 - **[:كتاب: دليل][_WIRING_]**
 - **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/kpQvHASNfqE)**
 ####
-[الأسلاك](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)
+[![](https://img.youtube.com/vi/kpQvHASNfqE/0.jpg)](https://www.youtube.com/watch?v=kpQvHASNfqE)
 
 ----
-## <a id="b">:اثنان: دليل التشغيل</a>
+## <a id="b">:two: دليل التشغيل</a>
 ### <a id="b1">تشغيل/إيقاف التشغيل</a>
 - **[:كتاب: دليل][_OPERATION_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/2i8ozM2Dn1U)**
 #####
-[تشغيل/إيقاف التشغيل](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
+[![](https://img.youtube.com/vi/2i8ozM2Dn1U/0.jpg)](https://www.youtube.com/watch?v=2i8ozM2Dn1U)
 
 ### <a id="b2">تسوية السرير</a>
 - **[:كتاب: دليل][_BEDLEVELING_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/R3RfGnxx8hY)**
 #####
-[تسوية السرير](https://github.com/ZONESTAR3D/Z8P/assets/29502731/3951332c-4483-47b3-b4f5-08acfc49dc3e)
+[![](https://img.youtube.com/vi/R3RfGnxx8hY/0.jpg)](https://www.youtube.com/watch?v=R3RfGnxx8hY)
 
 ### <a id="b3">تحميل الفتيل</a>
 - **[:كتاب: دليل][_LOADFILAMENT_]**
-- **[:clapper: فيديو تعليمي - HD](https://youtu.be/-47yB95uIxI)**
 #####
-[تحميل الفتيل](https://github.com/ZONESTAR3D/Z8P/assets/29502731/0661da17-71cf-4c9d-839f-be2c708f6a56)
+[![](https://img.youtube.com/vi/-47yB95uIxI/0.jpg)](https://www.youtube.com/watch?v=-47yB95uIxI)
 
-### <a id="b4">الطباعة من بطاقة SD</a>
+
+### <a id="b41">طباعة - 4 ألوان من بطاقة الذاكرة الرقمية المؤمنة </a>
 - **[:كتاب: دليل][_PRINTFROMSDCARD_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/ITHbO9VxTMo)**
 #####
-[الطباعة من بطاقة SD](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
+
 
 ### <a id="b5">مزيج الألوان المتدرج</a>
 - **[:كتاب: دليل][_GRADIENTMIX_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/VOlXvy38aFs)**
 #####
-[لون الخلط المتدرج](https://github.com/ZONESTAR3D/Z8P/assets/29502731/204bb64d-4fe1-47c5-a3e8-98dcdb95c2fe)
+[![](https://img.youtube.com/vi/VOlXvy38aFs/0.jpg)](https://www.youtube.com/watch?v=VOlXvy38aFs)
 
 ### <a id="b6">مزيج الألوان العشوائي</a>
 - **[:كتاب: دليل][_RANDOMMIX_]**
-- **[:clapper: فيديو تعليمي - HD](https://youtu.be/-mQ4bCnrIaw)**
 #####
-[لون خلط عشوائي](https://github.com/ZONESTAR3D/Z8P/assets/29502731/b4d3129e-2d2b-4034-9860-ea2db5de49a8)
+[![](https://img.youtube.com/vi/-mQ4bCnrIaw/0.jpg)](https://www.youtube.com/watch?v=-mQ4bCnrIaw)
 
 ----
-## <a id="c">:ثلاثة: التقطيع</a>
+## <a id="c">:three: شريحة</a>
 #### <a id="c1">تثبيت برنامج التقطيع
 - **[:كتاب: دليل][_SLICING1_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/vCv0S4L7u30)**
+#####
+[![](https://img.youtube.com/vi/vCv0S4L7u30/0.jpg)](https://www.youtube.com/watch?v=vCv0S4L7u30)
 
 #### <a id="c2">التقطيع للطباعة بلون واحد</a>
 - **[:كتاب: دليل][_SLICING2_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/g-YSgV44Rik)**
+#####
+[![](https://img.youtube.com/vi/g-YSgV44Rik/0.jpg)](https://www.youtube.com/watch?v=g-YSgV44Rik)
 
 #### <a id="c3">التقطيع للطباعة متعددة الألوان</a>
 - **[:كتاب: دليل][_SLICING3_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/2IHiP2r7KNk)**
+#####
+[![](https://img.youtube.com/vi/2IHiP2r7KNk/0.jpg)](https://www.youtube.com/watch?v=2IHiP2r7KNk)
 
 #### <a id="c4">تقطيع ملفات النماذج المتعددة ثلاثية الأبعاد</a>
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/FG0jbnL51SA)**
+[![](https://img.youtube.com/vi/FG0jbnL51SA/0.jpg)](https://www.youtube.com/watch?v=FG0jbnL51SA)
 
 #### <a id="c5">تقسيم لون الرسم إلى نموذج ثلاثي الأبعاد</a>
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: فيديو تعليمي - HD](https://youtu.be/Yx4fKDRGEJ4)**
+[![](https://img.youtube.com/vi/Yx4fKDRGEJ4/0.jpg)](https://www.youtube.com/watch?v=Yx4fKDRGEJ4)
 
 ----
-## <a id="d">:أربعة: دليل الميزات المتقدمة</a>
+## <a id="d">:four: وظيفة متقدمة دليل</a>
 #### <a id="d1">إيقاف التشغيل التلقائي</a>
 - **[:كتاب: دليل][_AUTOSHUTDOWN_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/SJLpmJL-tG4)**
+######
+[![](https://img.youtube.com/vi/SJLpmJL-tG4/0.jpg)](https://www.youtube.com/watch?v=SJLpmJL-tG4)
 
 #### <a id="d2">تسوية السرير تلقائيًا</a>
 - **[:كتاب: دليل][_AUTOLEVEL_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/Zoyl6PybsUk)**
+######
+[![](https://img.youtube.com/vi/Zoyl6PybsUk/0.jpg)](https://www.youtube.com/watch?v=Zoyl6PybsUk)
 
 #### <a id="d3">استعادة فقدان الطاقة</a>
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: فيديو تعليمي - HD](https://youtu.be/f-PpasByiiE)**
+[![](https://img.youtube.com/vi/f-PpasByiiE/0.jpg)](https://www.youtube.com/watch?v=f-PpasByiiE)
 
 #### <a id="d4">طباعة سريعة</a>
 - **[:كتاب: دليل][_FASTPRINT_]**
 <!-- - **[:clapper: فيديو تعليمي - HD](https://youtu.be/f-PpasByiiE)** -->
 
 ----
-## <a id="e">:خامسًا: الصيانة والإصلاح</a>
+## <a id="e">:five: صيانة وإصلاح</a>
 #### <a id="e1">الاختبار التلقائي لأجزاء إلكترونيات الآلة
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/iSsuy2ePWw8)**
+[![](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
+
 #### <a id="e2">استبدال الفوهة</a>
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/L5VRyEbsJvM)**
+[![](https://img.youtube.com/vi/L5VRyEbsJvM/0.jpg)](https://www.youtube.com/watch?v=L5VRyEbsJvM)
+
 #### <a id="e3">تنظيف M4V6 Hotend المسدود</a>
 - **[:كتاب: دليل][_CLEANM4V6_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/L5VRyEbsJvM)**
+######
+[](https://github.com/ZONESTAR3D/Z8P/assets/29502731/72312727-5ce5-4a35-8f2a-49f9145557ac)
+
 #### <a id="e4">استبدال أنابيب PTFE الداخلية لـ M4V6 Hotend</a>
 - **[:كتاب: دليل][_REPLACEPTFE_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/L5VRyEbsJvM)**
+######
+[![](https://img.youtube.com/vi/S-vUdI5z-nM/0.jpg)](https://www.youtube.com/watch?v=S-vUdI5z-nM)
+
 #### <a id="e5">استبدال تركيب M4V6 Hotend</a>
-<!-- - **[:book: Manual][]** -->
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/L5VRyEbsJvM)**
-#####
+######
 [M4V6-MK1](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/be6471ec-a0fe-4af0-bfbf-f6ef05c2e623)
-#####
+######
 [M4V6-MK2](https://github.com/ZONESTAR3D/Upgrade-kit-guide/assets/29502731/d7009e4e-5f8a-4267-ae60-d3ad024448bb)
+
 #### <a id="e6">استبدال لوحة التحكم</a>
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/5MIeuzuxSf8)**
+[![](https://img.youtube.com/vi/5MIeuzuxSf8/0.jpg)](https://www.youtube.com/watch?v=5MIeuzuxSf8)
+
 #### <a id="e7">استبدال لوحة المفاتيح لشاشة LCD</a>
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/Xwfczp3nLOY)**
+[![](https://img.youtube.com/vi/Xwfczp3nLOY/0.jpg)](https://www.youtube.com/watch?v=Xwfczp3nLOY)
+
 #### <a id="e8">هل تم تسليم التركيبات من نقطة الاتصال الساخنة؟</a>
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/ksc36CwoRJw)**
+[![](https://img.youtube.com/vi/ksc36CwoRJw/0.jpg)](https://www.youtube.com/watch?v=ksc36CwoRJw)
 
 ----
-## <a id="f">:ستة: الملحق</a>
+## <a id="f">:six: الملحق</a>
 #### <a id="f1">طباعة وتثبيت غطاء على وحدة PSU</a>
 - **[:كتاب: دليل][_PSUFAN_]**
-- **[:clapper: فيديو تعليمي - عالي الدقة](https://youtu.be/Xc3vRqRYklM)**
-
+######
+[![](https://img.youtube.com/vi/Xc3vRqRYklM/0.jpg)](https://www.youtube.com/watch?v=Xc3vRqRYklM)
 -----

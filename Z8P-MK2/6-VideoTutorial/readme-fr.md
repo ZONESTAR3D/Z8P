@@ -48,6 +48,7 @@
    - [Niveau du lit](#b2)
    - [Charger le filament](#b3)
    - [Imprimer depuis la carte SD](#b4)
+   - [Imprimer depuis la carte SD - 4 Couleur](#b41)
    - [Dégradé de couleurs de mélange](#b5)
    - [Couleur de mélange aléatoire](#b6)
 - **[3. Tranchage](#c)**
@@ -106,6 +107,11 @@
 - **[:book: Manuel][_PRINTFROMSDCARD_]**
 #####
 [![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
+
+### <a id="b41">Imprimer depuis la carte SD - 4 Couleur</a>
+- **[:book: Manuel][_PRINTFROMSDCARD_]**
+#####
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">Dégradé de couleurs de mélange</a>
 - **[:book: Manuel][_GRADIENTMIX_]**

@@ -47,6 +47,7 @@
    - [Nivelación de la cama](#b2)
    - [Cargar filamento](#b3)
    - [Imprimir desde tarjeta SD](#b4)
+   - [Imprimir desde tarjeta SD - 4 Color](#b41)
    - [Color de mezcla de degradado](#b5)
    - [Color de mezcla aleatoria](#b6)
 - **[3. Rebanar](#c)**
@@ -117,6 +118,11 @@
 - **[:clapper: Videotutorial - HD](https://youtu.be/ITHbO9VxTMo)**
 #####
 [Imprimir desde tarjeta SD](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
+
+### <a id="b41">Imprimir desde tarjeta SD - 4 Color</a>
+- **[:book: Manual][PRINTFROMSDCARD]**
+#####
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">Color de mezcla degradado</a>
 - **[:book: Manual][GRADIENTMIX]**

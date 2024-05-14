@@ -47,6 +47,7 @@
    - [베드 레벨링](#b2)
    - [필라멘트 로드](#b3)
    - [SD 카드에서 인쇄](#b4)
+   - [SD 카드에서 인쇄 - 4색](#b41)
    - [그라디언트 혼합 색상](#b5)
    - [임의의 혼합 색상](#b6)
 - **[삼. 슬라이싱](#c)**
@@ -105,6 +106,11 @@
 - **[:book: 설명서][_PRINTFROMSDCARD_]**
 #####
 [![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
+
+### <a id="b41">SD 카드에서 인쇄 - 4색</a>
+- **[:book: 설명서][_PRINTFROMSDCARD_]**
+#####
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">그라디언트 혼합 색상</a>
 - **[:book: 매뉴얼][_GRADIENTMIX_]**

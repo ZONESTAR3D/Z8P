@@ -47,6 +47,7 @@
    - [Bettnivellierung](#b2)
    - [Filament laden](#b3)
    - [Von SD-Karte drucken](#b4)
+   - [Von SD-Karte drucken - 4 Farbe](#b41)
    - [Farbverlaufsmischung](#b5)
    - [Zufällige Mischfarbe](#b6)
 - **[3. Schneiden](#c)**
@@ -105,6 +106,11 @@
 - **[:book: Manual][_PRINTFROMSDCARD_]**
 #####
 [![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
+
+### <a id="b41">Von SD-Karte drucken - 4 Farbe</a>
+- **[:book: Manual][_PRINTFROMSDCARD_]**
+#####
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">Farbverlaufsmischung</a>
 - **[:book: Manual][_GRADIENTMIX_]**

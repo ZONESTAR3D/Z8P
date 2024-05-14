@@ -47,6 +47,7 @@
    - [Livellamento letto](#b2)
    - [Carica filamento](#b3)
    - [Stampa da scheda SD](#b4)
+   - [Stampa da scheda SD - 4 colore](#b41)
    - [Colore sfumato mix](#b5)
    - [Colore misto casuale](#b6)
 - **[3. Affettatura](#c)**
@@ -105,6 +106,11 @@
 - **[:book: Manuale][_PRINTFROMSDCARD_]**
 #####
 [![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
+
+### <a id="b41">Stampa da scheda SD - 4 colore</a>
+- **[:book: Manuale][_PRINTFROMSDCARD_]**
+#####
+[![](https://img.youtube.com/vi/CA8pWOuJYmE/0.jpg)](https://www.youtube.com/watch?v=CA8pWOuJYmE)
 
 ### <a id="b5">Colore mix sfumato</a>
 - **[:book: Manuale][_GRADIENTMIX_]**

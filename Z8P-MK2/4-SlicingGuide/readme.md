@@ -1,29 +1,14 @@
-<!-- ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=da)
-[![](../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=el)
-[![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
+## <a id="choose-language">:globe_with_meridians: Choose language </a>
+[![](../lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme.md)
+[![](../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-es.md)
+[![](../lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-pt.md)
+[![](../lanpic/FR.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-fr.md)
+[![](../lanpic/DE.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-de.md)
+[![](../lanpic/IT.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-it.md)
+[![](../lanpic/RU.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-ru.md)
+[![](../lanpic/JP.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-jp.md)
+[![](../lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-kr.md)
+<!-- [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide/readme-ar.md) -->
 
 ----
 # PrusaSlicer Installation and User Manual
@@ -32,13 +17,13 @@ PrusaSlicer is one of the most popular slicing software nowadays, which is parti
 
 ----
 ## :book: Contents
-1. **[Download PrusaSlicer](#1-download-prusaslicer)**
-2. **[Run PrusaSlicer and choose the printer](#2-run-prusaslicer-and-choose-the-printer)**
-3. **[Choose system presets](#3-choose-system-presets)**
-4. **[Slicing one color 3d model](#4-slicing-one-color)**
-6. **[Slicing multi-color 3d model](#5-slicing-multi-color)**
+1. **[Download PrusaSlicer](#a1)**
+2. **[Run PrusaSlicer and choose the printer](#a2)**
+3. **[Choose system presets](#a3)**
+4. **[Slicing one color 3d model](#a4)**
+6. **[Slicing multi-color 3d model](#a4)**
 
-## 1. Download PrusaSlicer
+## <a id="a1">1. Download PrusaSlicer</a>
 :clapper: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
 ### ![](./pic/win.png) For windows
 #### Click [:arrow_down:**here**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2) to download PrusaSlicer software and save it to you PC.
@@ -48,19 +33,19 @@ PrusaSlicer is one of the most popular slicing software nowadays, which is parti
 ### ![](./pic/macos.png) For Macos or linux
 - [Download PrusaSlicer software with zonestar profiles](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/2.4.2)
 
-## 2. Run PrusaSlicer and choose the printer 
+## <a id="a2">2. Run PrusaSlicer and choose the printer </a>
 #### 2.1 Find the PrsuaSlicer.exe and click it to run
 ![](pic/run1.png)
 #### 2.2 Choose your printer, "Other Vendors>>Zonestar FFF>>your printer model>>finish"
 ![](pic/run2.png)
 
-## 3. Choose system presets
+## <a id="a3">3. Choose system presets</a>
 Choose system presets according to your printer, hotend and the colors you want to print:   
 ![](pic/run3.png)
 - If you need to print one color 3d model, choose **"Z8 + One Color"**.  
 - If you print multi color 3d model, choose **"Z8 + M4 HOTEND"**.    
 
-## 4. Slicing one color
+## <a id="a4">4. Slicing one color</a>
 :clapper: [**Slicing guide - for one color printing**](https://youtu.be/g-YSgV44Rik)
 #### 4.1 choose printer presets "Z8 + One Color"
 ![](pic/slicing1C-1.png)
@@ -80,7 +65,7 @@ You may need to set these parameters according to the shape of the model and you
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing1C-7.png)  
 
-## 5. Slicing multi-color 
+## <a id="a5">5. Slicing multi-color </a>
 - :clapper: [**Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4) 
 #### 5.1 choose printer presets "Z8 + M4 hotend"
 ![](pic/slicingM4-1.png)
@@ -88,7 +73,6 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicingM4-2.png) ![](pic/slicingM4-21.png)
 ##### :memo: Usually, "split model" is inneed to print multi-color, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
 ##### :star2: PrusaSlicer has a very powerful new feature. It can [painting color to the 3d model](https://youtu.be/Yx4fKDRGEJ4), with this function, you can convert a one color 3d model to a muti color 3d model.
-
 #### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicingM4-3.png)
 #### 5.4 Assign extruders to different parts

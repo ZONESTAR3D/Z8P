@@ -46,7 +46,6 @@
 [![](./lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-kr.md)
 <!-- [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/readme-ar.md) -->
 
------
 ----
 # Z8P-MK2 ユーザーガイド
 ## :warning: 注意してください

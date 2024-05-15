@@ -1,14 +1,14 @@
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
 [![](../../lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/)
-[![](../../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-es.md)
-[![](../../lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-pt.md)
-[![](../../lanpic/FR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-fr.md)
-[![](../../lanpic/DE.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-de.md)
-[![](../../lanpic/IT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-it.md)
-[![](../../lanpic/RU.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-ru.md)
-[![](../../lanpic/JP.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-jp.md)
-[![](../../lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-kr.md)
-<!-- [![](../../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-ar.md) -->
+[![](../../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-es.pdf)
+[![](../../lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-pt.pdf)
+[![](../../lanpic/FR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-fr.pdf)
+[![](../../lanpic/DE.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-de.pdf)
+[![](../../lanpic/IT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-it.pdf)
+[![](../../lanpic/RU.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-ru.pdf)
+[![](../../lanpic/JP.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-jp.pdf)
+[![](../../lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-kr.pdf)
+<!-- [![](../../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description/readme-ar.pdf) -->
 
 ----
 # DWIN LCD Menu Description (MENU V3)

@@ -36,7 +36,7 @@ If you are a beginner in 3D printer, you may not know how to start using the 3D 
 Please refer to the [:book: **Installation Guide**][INSTALLATION_GUIDE] and [:clapper:**Installation Video Tutorials**][INSTALL_VIDEO] to install the machine and wiring.     
 :warning: **When wiring, please be careful to ensure that the plug is fully inserted into the socket. When wiring the print head (hot end assembly), please refer to the pictures in the installation guide carefully and distinguish the color of the connectors.**
 
-## <a id="step2">Step 2. Step 2. Power on the maiche for simple testing and verification </a>
+## <a id="step2">Step 2. Power on the maiche for simple testing and verification </a>
 - **Turn on the power**. Before turning on the AC power, check that the 110V/220V power selector switch is set to the correct position see ([**:art: this diagram**][IMG_ACSWITCH]). And then you can **[:book:turn on the power of machine][POWER_ON]([:clapper: video tutorial][VIDEO_POWER_ON])**.    
 :warning: Please note that there are two power switches, one is the AC switch (the red switch on the back of the control box near the AC outlet) and the other is the DC switch (the round metal push button switch on the right side of the control box), you need to turn on the AC switch first and then **press and hold down the DC switch** for about 5 seconds (until the LCD screen shows the ZONESTAR LOGO) in order to turn on the machine.     
 - **Test and verify**. After powering on the machine, please operate the knob on the LCD screen to perform some menu operations to verify that the machine is install and wiring properly: (For a detailed description of the menu functions of the display, please refer to [**:book: this link**][LCD_MENU])

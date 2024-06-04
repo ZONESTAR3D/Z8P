@@ -65,7 +65,8 @@ Wenn die Hotend-Temperatur erhöht wird, die eingestellte Temperatur jedoch nich
 ##### ![](./hotend_heating_fail.jpg)
 - **Wenn das Hotend nicht auf mehr als 150 °C erhitzt werden kann:** Überprüfen Sie den Temperatursensor an der Seite des Hotends. Möglicherweise ist er aus dem Wärmeblock herausgefallen. ***In diesem Fall wird das heiße Ende normalerweise nicht auf mehr als 150℃ erhitzt.***
 <!-- ![](sensorhotenddrop.jpg) -->
-- **Wenn das Hot-End auf mehr als 220 °C erhitzt werden kann, aber instabil ist**, lesen Sie bitte den [nächsten Schritt](#the-temperatur-of-the-hot-end-is-instable-mantimes- Show-a-run-away-issue)
+- **Wenn das Hot-End auf mehr als 220 °C erhitzt werden kann, aber instabil ist**, lesen Sie bitte den [nächsten Schritt](#a5)
+
 ### <a id="a5">Hot-End-Run-Away-Problem </a>
 Die Temperatur des heißen Endes ist instabil und zeigt manchmal ein „Durchgehen“-Problem.
 ##### ![](./runaway.jpg)
@@ -91,7 +92,8 @@ Wenn Sie feststellen, dass auf dem LCD-Bildschirm der Bildschirm „HEIZBETT-Feh
 
 ### <a id="b3">Heißbetttemperatur steigt nicht </a>
 - Überprüfen Sie, ob [:point_up: das Stromkabel des heißen Bettes](#b1) richtig angeschlossen ist.
-- Öffnen Sie den Steuerkasten und prüfen Sie, ob das Stromkabel des Heizbetts gut mit der Steuerplatine verbunden ist.
+- Öffnen Sie den Steuerkasten([:point_right:Picture](../pic/OpenControlBox.png)) und prüfen Sie, ob das Stromkabel des Heizbetts gut mit der Steuerplatine verbunden ist.
+![](./heatbed_power.jpg)
 - Öffnen Sie den Steuerkasten und prüfen Sie, ob die [:point_up: LED3](#led) beim Erhitzen des Heizbetts aufleuchtet. Wenn nicht, bedeutet dies, dass der MOSFET der Steuerplatine beschädigt ist und ersetzt werden muss.
 
 ### <a id="b4">Das heiße Bett kann auf über 100 ℃ erhitzt werden </a>

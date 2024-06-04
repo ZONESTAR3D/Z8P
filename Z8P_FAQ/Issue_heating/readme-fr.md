@@ -65,7 +65,8 @@ Si la température du hotend augmente, mais qu'elle ne peut pas atteindre la tem
 ##### ![](./hotend_heating_fail.jpg)
 - **Si la partie chaude ne peut pas être chauffée à plus de 150 ℃ :** Vérifiez le capteur de température sur le côté de la partie chaude, il peut tomber du bloc thermique. ***Dans ce cas, la partie chaude ne sera généralement pas chauffée à plus de 150 ℃.***
 <!-- ![](sensorhotenddrop.jpg) -->
-- **Si l'extrémité chaude peut être chauffée à plus de 220 ℃, mais qu'elle est instable**, veuillez vous référer à l'[étape suivante](#la-température-de-l'extrémité-chaude-est-instable-parfois- montrer un problème de fugue)
+- **Si l'extrémité chaude peut être chauffée à plus de 220 ℃, mais qu'elle est instable**, veuillez vous référer à l'[étape suivante](#a5)
+
 ### <a id="a5">Problème d'emballement du hot end </a>
 La température de la partie chaude est instable, montre parfois un problème de « fugue ».
 ##### ![](./runaway.jpg)
@@ -91,8 +92,9 @@ Lorsque vous trouvez, l'écran LCD affiche un écran « HEATBED Err. : tempé
 
 ### <a id="b3">La température du lit chaud n'augmente pas </a>
 - Vérifiez si [:point_up : le fil d'alimentation du lit chauffant](#b1) était bien connecté.
-- Ouvrez le boîtier de commande et vérifiez si le fil d'alimentation du lit chauffant est bien connecté au tableau de commande.
-- Ouvrez le boîtier de commande et vérifiez si le [:point_up: LED3](#led) s'allumera lors du chauffage du lit chaud, sinon, cela signifie que le MOSFET de la carte de commande est endommagé et doit être remplacé.
+- Ouvrez le boîtier de commande et vérifiez ([:point_right:Picture](../pic/OpenControlBox.png)) si le fil d'alimentation du lit chauffant est bien connecté au tableau de commande.    
+![](./heatbed_power.jpg)   
+- Ouvrez le boîtier de commande et vérifiez ([:point_right:Picture](../pic/OpenControlBox.png)) si le [:point_up: LED3](#led) s'allumera lors du chauffage du lit chaud, sinon, cela signifie que le MOSFET de la carte de commande est endommagé et doit être remplacé.
 
 ### <a id="b4">Le lit chauffant peut être chauffé à plus de 100 ℃ </a>
 - Ne dirigez pas la sortie du ventilateur ou du climatiseur vers la machine.

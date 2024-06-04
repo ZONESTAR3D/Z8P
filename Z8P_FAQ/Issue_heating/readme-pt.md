@@ -65,7 +65,8 @@ Se a temperatura do hotend aumentar, mas não for possível atingir a temperatur
 ##### ![](./hotend_heating_fail.jpg)
 - **Se a extremidade quente não puder ser aquecida a mais de 150 ℃:** Verifique o sensor de temperatura na lateral da extremidade quente, ele pode cair do bloco de aquecimento. ***Neste caso, a extremidade quente não será aquecida a mais de 150°C normalmente.***
 <!-- ![](sensorhotenddrop.jpg) -->
-- **Se a extremidade quente puder ser aquecida a mais de 220°C, mas for instável**, consulte a [próxima etapa](#a-temperatura-da-extremidade-quente-é-instável-às vezes- mostre um problema em fuga)
+- **Se a extremidade quente puder ser aquecida a mais de 220°C, mas for instável**, consulte a [próxima etapa](#a5)
+
 ### <a id="a5">Problema de fuga na extremidade quente </a>
 A temperatura do hot end é instável, às vezes apresenta um problema de "fuga".
 ##### ![](./runaway.jpg)
@@ -91,8 +92,9 @@ Quando você encontrar, a tela LCD mostra uma tela "HEATBED Err.: temperatura m�
 
 ### <a id="b3">A temperatura da cama quente não aumenta </a>
 - Verifique se [:point_up: o fio de alimentação da cama quente](#b1) está bem conectado.
-- Abra a caixa de controle e verifique se o fio de alimentação da cama quente está bem conectado à placa de controle.
-- Abra a caixa de controle e verifique se o [:point_up: LED3](#led) acenderá ao aquecer a cama quente, caso contrário significa que o MOSFET da placa de controle está danificado e precisa ser substituído.
+- Abra a caixa de controle ([:point_right:Picture](../pic/OpenControlBox.png)) e verifique se o fio de alimentação da cama quente está bem conectado à placa de controle.   
+![](./heatbed_power.jpg)     
+- Abra a caixa de controle ([:point_right:Picture](../pic/OpenControlBox.png)) e verifique se o [:point_up: LED3](#led) acenderá ao aquecer a cama quente, caso contrário significa que o MOSFET da placa de controle está danificado e precisa ser substituído.
 
 ### <a id="b4">A cama quente pode ser aquecida a mais de 100°C </a>
 - Não coloque a saída do ventilador ou do ar condicionado voltada para a máquina.

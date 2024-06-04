@@ -65,7 +65,8 @@ If the hotend temperature is raise, but it can't be reached to the setting tempe
 ##### ![](./hotend_heating_fail.jpg)
 - **If hot end cannot be heated to more than 150℃:** Check the temperature sensor on the side of hotend, it may be drop out from the heat block. ***In this case, the hot end will not be heated to more than 150℃ usually.***
 <!-- ![](sensorhotenddrop.jpg)       -->
-- **If hot end can be heated to more than 220℃, but it is unstable**, please refer to the [nex step](#the-temperature-of-the-hot-end-is-unstable-sometimes-show-a-run-away-issue)
+- **If hot end can be heated to more than 220℃, but it is unstable**, please refer to the [nex step](#a5)
+
 ### <a id="a5">Hot end run away issue </a>
 The temperature of the hot end is unstable, sometimes show a "run away" issue.     
 ##### ![](./runaway.jpg)
@@ -91,8 +92,9 @@ When you find the LCD screen shows a "HEATBED Err.: max temperature" screen.
 
 ### <a id="b3">Hot bed temperature does not rise </a>
 - Check if [:point_up: the power wire of hot bed](#b1) was connected well.
-- Open the control box and check if the power wire of hot bed connect well with the control board.
-- Open the control box and check if the [:point_up: LED3](#led) will light when heating the hot bed, if not, it means the MOSFET of the control boad is damaged and need to be replaced.
+- Open the control box ([:point_right:Picture](../pic/OpenControlBox.png)) and check if the power wire of hot bed connect well with the control board.     
+![](./heatbed_power.jpg)
+- Open the control box ([:point_right:Picture](../pic/OpenControlBox.png)) and check if the [:point_up: LED3](#led) will light when heating the hot bed, if not, it means the MOSFET of the control boad is damaged and need to be replaced.
 
 ### <a id="b4">Hot bed can be heated to over 100℃ </a>
 - Do not put the fan or air conditioner outlet toward the machine.

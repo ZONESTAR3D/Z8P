@@ -65,7 +65,8 @@ Se la temperatura dell'hotend è aumentata, ma non è possibile raggiungere la t
 ##### ![](./hotend_heating_fail.jpg)
 - **Se l'hotend non può essere riscaldato a più di 150℃:** Controlla il sensore di temperatura sul lato dell'hotend, potrebbe fuoriuscire dal blocco termico. ***In questo caso, solitamente l'hotend non verrà riscaldato a più di 150℃.***
 <!-- ![](sensorhotenddrop.jpg) -->
-- **Se l'hot-end può essere riscaldato a più di 220 ℃, ma è instabile**, fare riferimento al [passaggio successivo](#la-temperatura-dell'hot-end-è-instabile-a volte- mostrare-un-problema-di-fuga)
+- **Se l'hot-end può essere riscaldato a più di 220 ℃, ma è instabile**, fare riferimento al [passaggio successivo](#a5)
+
 ### <a id="a5">Problema di fuga dell'hot end </a>
 La temperatura dell'hot-end è instabile e talvolta mostra un problema di "fuga".
 ##### ![](./runaway.jpg)
@@ -91,8 +92,9 @@ Una volta trovato, lo schermo LCD mostra la schermata "HEATBED Err.: max tempera
 
 ### <a id="b3">La temperatura del letto caldo non aumenta </a>
 - Controllare se [:point_up: il cavo di alimentazione del letto caldo](#b1) è stato collegato correttamente.
-- Aprire la scatola di controllo e controllare se il cavo di alimentazione del letto caldo è collegato correttamente alla scheda di controllo.
-- Aprire la scatola di controllo e controllare se [:point_up: LED3](#led) si accende durante il riscaldamento del letto caldo, in caso contrario significa che il MOSFET della scheda di controllo è danneggiato e deve essere sostituito.
+- Aprire la scatola di controllo e controllare ([:point_right:Picture](../pic/OpenControlBox.png)) se il cavo di alimentazione del letto caldo è collegato correttamente alla scheda di controllo.    
+![](./heatbed_power.jpg)
+- Aprire la scatola di controllo e controllare ([:point_right:Picture](../pic/OpenControlBox.png)) se [:point_up: LED3](#led) si accende durante il riscaldamento del letto caldo, in caso contrario significa che il MOSFET della scheda di controllo è danneggiato e deve essere sostituito.
 
 ### <a id="b4">Il letto caldo può essere riscaldato fino a oltre 100 ℃ </a>
 - Non rivolgere la ventola o l'uscita del condizionatore verso la macchina.

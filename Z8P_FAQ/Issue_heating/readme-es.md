@@ -65,7 +65,8 @@ Si la temperatura del hotend aumenta, pero no se puede alcanzar la temperatura e
 ##### ![](./hotend_heating_fail.jpg)
 - **Si el hotend no se puede calentar a más de 150 ℃:** Verifique el sensor de temperatura en el costado del hotend, es posible que se caiga del bloque térmico. ***En este caso, el extremo caliente normalmente no se calentará a más de 150 ℃.***
 <!-- ![](sensorhotenddrop.jpg) -->
-- **Si el hot end se puede calentar a más de 220 ℃, pero es inestable**, consulte el [siguiente paso](#la-temperatura-del-hot-end-is-inestable-a veces- mostrar un problema que se escapa)
+- **Si el hot end se puede calentar a más de 220 ℃, pero es inestable**, consulte el [siguiente paso](#a5)
+
 ### <a id="a5">Problema de fuga del extremo caliente </a>
 La temperatura del extremo caliente es inestable, a veces muestra un problema de "fuga".
 ##### ![](./runaway.jpg)
@@ -91,8 +92,9 @@ Cuando encuentre, la pantalla LCD muestra la pantalla "HEATBED Err.: temperatura
 
 ### <a id="b3">La temperatura de la cama caliente no aumenta </a>
 - Verifique si [:point_up: el cable de alimentación de la cama caliente](#b1) estaba bien conectado.
-- Abra la caja de control y verifique si el cable de alimentación de la cama caliente se conecta bien con el tablero de control.
-- Abra la caja de control y verifique si el [:point_up: LED3](#led) se encenderá al calentar la cama caliente; de lo contrario, significa que el MOSFET de la placa de control está dañado y necesita ser reemplazado.
+- Abra la caja de control y verifique ([:point_right:Picture](../pic/OpenControlBox.png)) si el cable de alimentación de la cama caliente se conecta bien con el tablero de control.   
+![](./heatbed_power.jpg)
+- Abra la caja de control y verifique ([:point_right:Picture](../pic/OpenControlBox.png)) si el [:point_up: LED3](#led) se encenderá al calentar la cama caliente; de lo contrario, significa que el MOSFET de la placa de control está dañado y necesita ser reemplazado.
 
 ### <a id="b4">La cama caliente se puede calentar a más de 100 ℃ </a>
 - No acerque la salida del ventilador o del aire acondicionado hacia la máquina.

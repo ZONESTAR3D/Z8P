@@ -17,16 +17,16 @@
 ##### ASSICURARSI CHE L'INTERRUTTORE DI SELEZIONE DELLA TENSIONE CA SIA IMPOSTATO NELLA POSIZIONE CORRETTA!
 ![](./pic/selectAC.jpg)
 ### ACCENSIONE
-#### [:clapper: Video Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)
 1. Collegare il cavo di alimentazione
 2. Accendere l'interruttore di alimentazione CA.
 3. Tenere premuto il pulsante di alimentazione CC per circa 5 secondi
 4. Attendere finché sul display LCD non viene visualizzato il logo, quindi rilasciare il pulsante di alimentazione CC
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ### SPEGNI
-#### [:clapper: Video Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 ![](./pic/poweroff.png)
-Eseguire "Prepara >>Spegni" sullo schermo LCD, attendere che lo schermo LCD si spenga, quindi spegnere l'interruttore di alimentazione CA.
+Eseguire "Prepare>>Power Off" sullo schermo LCD, attendere che lo schermo LCD si spenga, quindi spegnere l'interruttore di alimentazione CA.
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 
 ## [Menu LCD e funzionamento][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -45,16 +45,18 @@ Eseguire "Prepara >>Spegni" sullo schermo LCD, attendere che lo schermo LCD si s
 ## Preparati a stampare
 ### Livella il letto
 Prima della stampa, è necessario regolare la distanza tra l'ugello e la pellicola del letto caldo su un valore adeguato, in modo che il filamento fuso possa essere incollato bene sulla pellicola del letto caldo. Questo processo è anche chiamato “letto livellato”. Se l'ugello è troppo lontano dal letto, il filamento non potrà aderire al letto caldo. Se la distanza è troppo ravvicinata, la pellicola del letto e l'ugello verranno danneggiati o anche l'estremità calda verrà bloccata.
-##### [:clapper: Passaggio 1: ](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) Accendi la stampante 3D e quindi eseguire "Prepara >> Auto Home >> Home All" sul MENU LCD, attendere che l'hotend raggiunga la posizione HOME.
+##### Passaggio 1: Accendi la stampante 3D e quindi eseguire "Prepare>>Auto Home>>Home All" sul MENU LCD, attendere che l'hotend raggiunga la posizione HOME.
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### Passo 2: Stringere i dadi a mano sotto il letto per abbassare il letto nella posizione più bassa (Fig. 1).
-##### [:clapper: Passaggio 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) Esegui “Prepara >> Letto livellamento >> Punto 1” sul pannello di controllo (Fig 2), l'ugello andrà agli angoli del letto, allentare i dadi a mano sotto il piano caldo (Fig 3) e lasciare che l'ugello quasi tocchi il piano caldo (Fig 4). Continua a fare il “Punto 2/3/4” finché tutti e 4 gli angoli non saranno stati livellati.
+##### Passaggio 3: Esegui “Prepare>> Bed leveling>> Point 1” sul pannello di controllo (Fig 2), l'ugello andrà agli angoli del letto, allentare i dadi a mano sotto il piano caldo (Fig 3) e lasciare che l'ugello quasi tocchi il piano caldo (Fig 4). Continua a fare il “Punto 2/3/4” finché tutti e 4 gli angoli non saranno stati livellati.
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
 ##### Passaggio 4: ripeti il passaggio 3 ed esegui 2 ~ 3 giri, fino a quando tutti e quattro gli angoli sono alla stessa altezza.
 ![](./pic/levelbed.png)
 
 ### Caricare i filamenti
 #### [:clapper: Video Tutorial](https://youtu.be/-47yB95uIxI)
 Questa stampante è dotata di quattro estrusori e un hot end per la miscelazione dei colori 4-IN-1-OUT. Gli estrusori e l'hot end sono collegati da una guida del filamento (tubo in PTFE). :avviso:**Prima di stampare, è necessario caricare tutti e 4 i filamenti negli estrusori e inserirli nella parte inferiore dell'hot end.**
-##### Passaggio 1. Eseguire "Preparazione>>Auto Home>>Home All" sul pannello di controllo, quindi eseguire "Preparazione>>Temperatura>> Preriscaldamento PLA", attendendo che la temperatura dell'ugello raggiunga 190 ℃ (Fig 1).
+##### Passaggio 1. Eseguire "Prepare>>Auto Home>>Home All" sul pannello di controllo, quindi eseguire "Prepare>>Temperature>> Preheat PLA", attendendo che la temperatura dell'ugello raggiunga 190 ℃ (Fig 1).
 ##### Passaggio 2. Utilizzare una pinza diagonale per tagliare la testa del filamento (Fig 2), quindi premere la maniglia dell'estrusore n. 1 e inserire il filamento, spingere il filamento finché non si vede il filamento nel PTFE guida (Fig. 3). Ruota l'ingranaggio dell'estrusore n. 1 (Fig. 4), osserva il filamento finché non entra nella parte inferiore dell'hot end.
 ##### Passaggio 3. Utilizzando lo stesso metodo del passaggio 2 per caricare i filamenti nell'estrusore n. 2 ~ estrusore n. 4, osservare i filamenti finché non entrano nella parte inferiore dell'hot end.
 ##### Passaggio 4. Ruota lentamente l'ingranaggio dell'estrusore n. 1 ~ dell'estrusore n. 4 uno alla volta e osserva l'ugello, finché non vedi il filamento fuoriuscire dall'ugello (Fig 5).

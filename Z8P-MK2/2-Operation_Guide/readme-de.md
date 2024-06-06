@@ -1,3 +1,12 @@
+[LCD_MENU]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description
+[MIX_COLOR]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
+[AUTO_LEVELING]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
+[AUTO_SHUTDOWN]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down
+[AUTO_RETRACTION]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction
+[SLICING_GUIDE_Z8P]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide
+[PRINTFROMPC]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC
+
+----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
 [![](../lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md)
 [![](../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-es.md)
@@ -17,14 +26,14 @@
 ##### STELLEN SIE SICHER, DASS DER AC-SPANNUNGSWAHLSCHALTER AUF DIE RICHTIGE POSITION STEHT!
 ![](./pic/selectAC.jpg)     
 ### EIN
-#### [:clapper: Video-Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)
 1. Netzkabel einstecken
 2. Schalten Sie den Netzschalter ein.
 3. Halten Sie die Gleichstromtaste etwa 5 Sekunden lang gedrückt
 4. Warten Sie, bis auf dem LCD das Logo angezeigt wird, und lassen Sie dann den Gleichstromschalter los
 ### AUSSCHALTEN
-#### [:clapper: Video-Tutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 ![](./pic/poweroff.png)
 Führen Sie „Vorbereiten>>Ausschalten“ auf dem LCD-Bildschirm aus, warten Sie, bis sich der LCD-Bildschirm ausschaltet, und schalten Sie dann den Netzschalter aus.
 
@@ -45,9 +54,11 @@ Führen Sie „Vorbereiten>>Ausschalten“ auf dem LCD-Bildschirm aus, warten Si
 ## Bereiten Sie den Druck vor
 ### Richten Sie das Bett aus
 Vor dem Drucken müssen Sie den Abstand zwischen der Düse und der Heißbettfolie auf einen geeigneten Wert einstellen, damit das geschmolzene Filament gut auf der Heißbettfolie geklebt werden kann. Dieser Vorgang wird auch „Niveaubett“ genannt. Wenn die Düse zu weit vom Bett entfernt ist, kann das Filament nicht am heißen Bett haften. Wenn der Abstand zu gering ist, werden Bettfolie und Düse beschädigt oder sogar das heiße Ende blockiert.
-##### [:clapper: Schritt 1: ](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) Schalten Sie den 3D-Drucker ein und Führen Sie dann „Vorbereiten >> Auto Home >> Home All“ im LCD-MENÜ aus und warten Sie, bis das Hotend in die HOME-Position geht.
+##### Schritt 1:  Schalten Sie den 3D-Drucker ein und Führen Sie dann „Vorbereiten >> Auto Home >> Home All“ im LCD-MENÜ aus und warten Sie, bis das Hotend in die HOME-Position geht.
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### Schritt 2: Ziehen Sie die Handmuttern unter dem Bett fest, um das Bett in die unterste Position zu bewegen (Abb. 1).
-##### [:clapper: Schritt 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) Führen Sie „Bett vorbereiten“ aus Nivellierung>> Punkt 1“ auf dem Bedienfeld (Abb. 2), die Düse geht zu den Ecken des Bettes, lösen Sie die Handmuttern unter dem Brutbett (Abb. 3) und lassen Sie die Düse das Brutbett fast berühren (Abb. 4). Fahren Sie mit „Punkt 2/3/4“ fort, bis alle vier Ecken geebnet sind.
+##### Schritt 3:  Führen Sie „Bett vorbereiten“ aus Nivellierung>> Punkt 1“ auf dem Bedienfeld (Abb. 2), die Düse geht zu den Ecken des Bettes, lösen Sie die Handmuttern unter dem Brutbett (Abb. 3) und lassen Sie die Düse das Brutbett fast berühren (Abb. 4). Fahren Sie mit „Punkt 2/3/4“ fort, bis alle vier Ecken geebnet sind.
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
 ##### Schritt 4: Wiederholen Sie Schritt 3 und machen Sie 2–3 Runden, bis alle vier Ecken auf der gleichen Höhe sind.
 ![](./pic/levelbed.png)
 
@@ -55,8 +66,10 @@ Vor dem Drucken müssen Sie den Abstand zwischen der Düse und der Heißbettfoli
 #### [:clapper: Video-Tutorial](https://youtu.be/-47yB95uIxI)
 Dieser Drucker ist mit vier Extrudern und einem 4-IN-1-OUT-Farbmisch-Hot-End ausgestattet. Die Extruder und das Hot End sind durch eine Filamentführung (PTFE-Schlauch) verbunden. :warning:**Vor dem Drucken müssen Sie alle 4 Filamente in die Extruder laden und sie unten in das heiße Ende einführen.**
 ##### Schritt 1. Führen Sie auf dem Bedienfeld „Vorbereiten>>Auto Home>>Home All“ und dann „Vorbereiten>>Temperatur>> PLA vorheizen“ aus und warten Sie, bis die Düsentemperatur 190 °C erreicht hat (Abb. 1).
+
 ##### Schritt 2. Schneiden Sie den Kopf des Filaments mit einer Diagonalzange ab (Abb. 2), drücken Sie dann auf den Griff des Extruders Nr. 1 und führen Sie das Filament ein. Drücken Sie das Filament, bis Sie das Filament im PTFE sehen können Anleitung (Abb. 3). Drehen Sie das Zahnrad von Extruder Nr. 1 (Abb. 4) und beobachten Sie das Filament, bis es unten in das heiße Ende gelangt.
 ##### Schritt 3. Verwenden Sie die gleiche Methode wie in Schritt 2, um die Filamente in Extruder Nr. 2 bis Extruder Nr. 4 zu laden, und beobachten Sie die Filamente, bis sie die Unterseite des heißen Endes erreichen.
+
 ##### Schritt 4. Drehen Sie das Zahnrad von Extruder Nr. 1 bis Extruder Nr. 4 langsam nacheinander und beobachten Sie die Düse, bis Sie sehen können, wie das Filament aus der Düse herausfließt (Abb. 5).
 #### :warning: Das Menü „Schnelles Laden“ kann nur verwendet werden, wenn das Filament vom Extruder zum heißen Ende geladen wird. Sobald das Filament in das heiße Ende gelangt ist, verwenden Sie das Menü „Langsames Laden“, aber nicht „Schnelles Laden“.
 ![](./pic/loadfilament.png)
@@ -110,12 +123,6 @@ Wenn Sie beim ZPM4Pro-MK2 der Meinung sind, dass der Zugriff auf die SD-Karte (E
 ![](./pic/CardExtender.jpg)     
 Wenn Sie vom PC aus drucken möchten, empfehlen wir die Verwendung der Software „Repetier-Host“. Informationen zum Herunterladen und Verwenden von Repetier-Host finden Sie im [**Benutzerhandbuch zum Drucken vom PC**][PRINTFROMPC].
 
------
-[LCD_MENU]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description
-[MIX_COLOR]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
-[AUTO_LEVELING]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
-[AUTO_SHUTDOWN]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down
-[AUTO_RETRACTION]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction
-[SLICING_GUIDE_Z8P]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide
-[PRINTFROMPC]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC
+----
+
 

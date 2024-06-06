@@ -17,16 +17,16 @@
 ##### ASSUREZ-VOUS QUE LE COMMUTATEUR DE SÉLECTION DE TENSION AC EST RÉGLÉ SUR LA BONNE POSITION !
 ![](./pic/selectAC.jpg)
 ### ALLUMER
-#### [:clapper: Tutoriel vidéo](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)
 1. Branchez le cordon d'alimentation
 2. Allumez l'interrupteur d'alimentation CA.
 3. Appuyez et maintenez enfoncé le bouton d'alimentation CC pendant environ 5 secondes.
 4. Attendez que l'écran LCD affiche le logo, puis relâchez le bouton d'alimentation CC.
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ### ÉTEINDRE
-#### [:clapper: Tutoriel vidéo](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 ![](./pic/poweroff.png)
 Faites « Préparer>>Éteindre » sur l'écran LCD, attendez que l'écran LCD s'éteigne, puis éteignez l'interrupteur d'alimentation secteur.
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 
 ## [Menu LCD et fonctionnement][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -45,10 +45,12 @@ Faites « Préparer>>Éteindre » sur l'écran LCD, attendez que l'écran LCD 
 ## Préparez l'impression
 ### Nivelez le lit
 Avant d'imprimer, vous devez ajuster la distance entre la buse et le film du lit chaud à une valeur appropriée, afin que le filament fondu puisse être bien collé sur le film du lit chaud. Ce processus est également appelé « lit de niveau ». Si la buse est trop éloignée du lit, le filament ne pourra pas coller au lit chaud. Si la distance est trop proche, le film du lit et la buse seront endommagés, voire la partie chaude sera bloquée.
-##### [:clapper: Étape 1 : ](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) Allumez l'imprimante 3D et puis faites « Prepare>>Auto Home>>Home All » sur le MENU LCD, attendez que le hotend aille en position HOME.
-##### Étape 2 : Serrez les écrous à main sous le lit pour faire descendre le lit jusqu'à la position la plus basse (Fig. 1).
-##### [:clapper: Étape 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) Faites « Préparer>> Lit mise à niveau>> Point 1" sur le panneau de commande (Fig. 2), la buse ira jusqu'aux coins du lit, desserrez les écrous à main sous le foyer (Fig. 3) et laissez la buse toucher presque le foyer (Fig. 4). Continuez à faire « Point 2/3/4 » jusqu'à ce que les 4 coins soient nivelés.
-##### Étape 4 : Répétez l'étape 3 et faites 2 à 3 tours, jusqu'à ce que les quatre coins soient à la même hauteur.
+##### Étape 1: Allumez l'imprimante 3D et puis faites « Prepare>>Auto Home>>Home All » sur le MENU LCD, attendez que le hotend aille en position HOME.
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
+##### Étape 2: Serrez les écrous à main sous le lit pour faire descendre le lit jusqu'à la position la plus basse (Fig. 1).
+##### Étape 3: Faites « Préparer>> Lit mise à niveau>> Point 1" sur le panneau de commande (Fig. 2), la buse ira jusqu'aux coins du lit, desserrez les écrous à main sous le foyer (Fig. 3) et laissez la buse toucher presque le foyer (Fig. 4). Continuez à faire « Point 2/3/4 » jusqu'à ce que les 4 coins soient nivelés.
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
+##### Étape 4: Répétez l'étape 3 et faites 2 à 3 tours, jusqu'à ce que les quatre coins soient à la même hauteur.
 ![](./pic/levelbed.png)
 
 ### Charger les filaments

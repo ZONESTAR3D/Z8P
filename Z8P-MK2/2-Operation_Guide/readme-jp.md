@@ -16,20 +16,20 @@
 #### :warning: 注意! :warning:
 ##### AC 電圧選択スイッチが正しい位置に設定されていることを確認してください。
 ![](./pic/selectAC.jpg)
-＃＃＃ 電源オン
-#### [:clapper: ビデオ チュートリアル](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
+### 電源オン
 ![](./pic/poweron.png)
 1. 電源コードを差し込みます
 2. AC 電源スイッチをオンにします。
 3. DC 電源ボタンを約 5 秒間押し続けます。
 4. LCD にロゴが表示されるまで待ち、DC 電源ボタンを放します。
-＃＃＃ 電源を切る
-#### [:clapper: ビデオ チュートリアル](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
-![](./pic/poweroff.png)
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
+### 電源を切る
+###### ![](./pic/poweroff.png)     
 LCD 画面で「Prepare>>Power Off」を実行し、LCD 画面がオフになるまで待ってから、AC 電源スイッチをオフにします。
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 
 ## [LCD メニューと操作][LCD_MENU]
-![](./pic/LCDScreen.png)
+![](./pic/LCDScreen.png)    
 1. **タイトル バー:** 現在のメニューを表示します
 2. **メニューバー:** 制御操作のメニュー項目を表示します。
 3. **ステータス バー:** 温度、印刷速度、Z 高さの情報など、プリンターの現在の重要なステータスを表示します。
@@ -45,9 +45,11 @@ LCD 画面で「Prepare>>Power Off」を実行し、LCD 画面がオフになる
 ## 印刷の準備をする
 ### ベッドを水平にする
 印刷する前に、溶融したフィラメントがホットベッドフィルムにうまく貼り付くように、ノズルとホットベッドフィルムの間の距離を適切な値に調整する必要があります。 このプロセスは「レベルベッド」とも呼ばれます。 ノズルがベッドから遠すぎると、フィラメントがホットベッドに付着できなくなります。 距離が近すぎると、ベッドフィルムやノズルが損傷したり、ホットエンドが詰まったりすることがあります。
-##### [:clapper: ステップ 1: ](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) 3D プリンターの電源をオンにし、 次に、LCD メニューで「準備 >> 自動ホーム >> すべてホーム」を実行し、ホットエンドがホーム位置に移動するのを待ちます。
+##### ステップ 1:  3D プリンターの電源をオンにし、 次に、LCD メニューで「準備 >> 自動ホーム >> すべてホーム」を実行し、ホットエンドがホーム位置に移動するのを待ちます。
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### ステップ 2: ベッドの下のハンド ナットを締めて、ベッドを最も低い位置まで下げます (図 1)。
-##### [:clapper: ステップ 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) 「準備>> ベッド」を実行します レベリング>> コントロールパネルのポイント 1 (図 2) に合わせると、ノズルがベッドの隅に行き、ホットベッドの下にあるハンドナットを緩め (図 3)、ノズルがホットベッドにほぼ接触するようになります (図 4)。 4つの角がすべて水平になるまで「ポイント2/3/4」を続けます。
+##### ステップ 3: 「準備>> ベッド」を実行します レベリング>> コントロールパネルのポイント 1 (図 2) に合わせると、ノズルがベッドの隅に行き、ホットベッドの下にあるハンドナットを緩め (図 3)、ノズルがホットベッドにほぼ接触するようになります (図 4)。 4つの角がすべて水平になるまで「ポイント2/3/4」を続けます。
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
 ##### ステップ 4: ステップ 3 を繰り返し、四隅がすべて同じ高さになるまで 2 ～ 3 回繰り返します。
 ![](./pic/levelbed.png)
 

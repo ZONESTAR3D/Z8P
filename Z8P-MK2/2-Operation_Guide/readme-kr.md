@@ -17,16 +17,16 @@
 ##### AC 전압 선택 스위치가 올바른 위치에 설정되어 있는지 확인하세요!
 ![](./pic/selectAC.jpg)
 ### 전원 켜짐
-#### [:clapper: 영상 튜토리얼](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)
 1. 전원 코드를 연결합니다
 2. AC 전원 스위치를 켜십시오.
 3. DC 전원 버튼을 약 5초 동안 길게 누릅니다.
 4. LCD에 로고가 표시될 때까지 기다린 다음 DC 전원 버튼을 놓습니다.
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ### 전원 끄기
-#### [:clapper: 영상 튜토리얼](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 ![](./pic/poweroff.png)
 LCD 화면에서 "준비>>전원 끄기"를 수행하고 LCD 화면이 꺼질 때까지 기다린 다음 AC 전원 스위치를 끄십시오.
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 
 ## [LCD 메뉴 및 동작][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -45,9 +45,11 @@ LCD 화면에서 "준비>>전원 끄기"를 수행하고 LCD 화면이 꺼질 �
 ## 인쇄 준비
 ### 침대 수평을 맞추세요
 프린팅 전, 노즐과 핫베드 필름 사이의 거리를 적절한 값으로 조정해야 녹은 필라멘트가 핫베드 필름에 잘 붙을 수 있습니다. 이 과정을 "레벨 베드"라고도 합니다. 노즐이 베드에서 너무 멀리 떨어져 있으면 필라멘트가 핫베드에 달라붙지 않습니다. 거리가 너무 가까우면 베드필름과 노즐이 손상되거나 핫엔드마저 막힐 수 있습니다.
-##### [:clapper: Step 1: ](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) 3D 프린터의 전원을 켜고 그런 다음 LCD 메뉴에서 "Prepare>>Auto Home>>Home All"을 수행하고 핫엔드가 HOME 위치로 갈 때까지 기다립니다.
+##### Step 1: 3D 프린터의 전원을 켜고 그런 다음 LCD 메뉴에서 "Prepare>>Auto Home>>Home All"을 수행하고 핫엔드가 HOME 위치로 갈 때까지 기다립니다.
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### Step 2: 침대 아래 핸드 너트를 조여 침대를 가장 낮은 위치로 이동합니다(그림 1).
-##### [:clapper: Step 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) “준비>> 침대”를 하세요 레벨링>> 제어판의 1” 지점(그림 2)에서 노즐이 베드 모서리로 이동하고 핫베드 아래의 핸드 너트를 풀고(그림 3) 노즐이 핫베드에 거의 닿게 됩니다(그림 4). 4개의 모서리가 모두 수평이 될 때까지 계속해서 "Point 2/3/4"를 수행합니다.
+##### Step 3: “준비>> 침대”를 하세요 레벨링>> 제어판의 1” 지점(그림 2)에서 노즐이 베드 모서리로 이동하고 핫베드 아래의 핸드 너트를 풀고(그림 3) 노즐이 핫베드에 거의 닿게 됩니다(그림 4). 4개의 모서리가 모두 수평이 될 때까지 계속해서 "Point 2/3/4"를 수행합니다.
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
 ##### Step 4: 3단계를 반복하고 네 모서리가 모두 같은 높이가 될 때까지 2~3회 반복합니다.
 ![](./pic/levelbed.png)
 

@@ -17,16 +17,16 @@
 ##### ¡ASEGÚRESE DE QUE EL INTERRUPTOR DE SELECCIÓN DE VOLTAJE DE CA SE HA AJUSTADO EN LA POSICIÓN CORRECTA!
 ![](./pic/selectAC.jpg)
 ### ENCENDIDO
-#### [:clapper: Videotutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)
 1. Enchufe el cable de alimentación
 2. Encienda el interruptor de alimentación de CA.
 3. Mantenga presionado el botón de alimentación de CC durante unos 5 segundos.
 4. Espere hasta que la pantalla LCD muestre Logo, luego suelte el botón de alimentación de CC.
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ### APAGADO
-#### [:clapper: Videotutorial](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
-![](./pic/poweroff.png)
+<!-- ![](./pic/poweroff.png) -->
 Haga “Preparar>>Apagar” en la pantalla LCD, espere a que la pantalla LCD se apague y luego apague el interruptor de alimentación de CA.
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 
 ## [Menú LCD y funcionamiento][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -45,9 +45,11 @@ Haga “Preparar>>Apagar” en la pantalla LCD, espere a que la pantalla LCD se 
 ## Prepárese para imprimir
 ### Nivela la cama
 Antes de imprimir, es necesario ajustar la distancia entre la boquilla y la película de la cama caliente a un valor adecuado, para que el filamento derretido se pueda pegar bien en la película de la cama caliente. Este proceso también se denomina “lecho nivelado”. Si la boquilla está demasiado lejos de la cama, el filamento no podrá adherirse a la cama caliente. Si la distancia es demasiado corta, la película de la base y la boquilla se dañarán o incluso se bloqueará el extremo caliente.
-##### [:clapper: Paso 1:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) Encienda la impresora 3D y luego haga “Preparar>>Inicio automático>>Inicio todo” en el MENÚ LCD, espere que el hotend vaya a la posición INICIO.
+##### Paso 1: Encienda la impresora 3D y luego haga “Preparar>>Inicio automático>>Inicio todo” en el MENÚ LCD, espere que el hotend vaya a la posición INICIO.
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### Paso 2: Apriete las tuercas manuales debajo de la cama para bajar la cama a la posición más baja (Fig. 1).
-##### [:clapper: Paso 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) Haga “Preparar >> Cama nivelación >> Punto 1” en el panel de control (Fig. 2), la boquilla irá a las esquinas de la cama, aflojará las tuercas manuales debajo de la cama (Fig. 3) y dejará que la boquilla casi toque la cama (Fig. 4). Continúe haciendo el “Punto 2/3/4” hasta que se hayan nivelado las 4 esquinas.
+##### Paso 3: Haga “Preparar >> Cama nivelación >> Punto 1” en el panel de control (Fig. 2), la boquilla irá a las esquinas de la cama, aflojará las tuercas manuales debajo de la cama (Fig. 3) y dejará que la boquilla casi toque la cama (Fig. 4). Continúe haciendo el “Punto 2/3/4” hasta que se hayan nivelado las 4 esquinas.
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
 ##### Paso 4: Repita el paso 3 y haga 2 ~ 3 rondas, hasta que las cuatro esquinas estén a la misma altura.
 ![](./pic/levelbed.png)
 

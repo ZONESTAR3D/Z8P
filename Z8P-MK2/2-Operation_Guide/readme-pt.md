@@ -17,16 +17,16 @@
 ##### CERTIFIQUE-SE DE QUE O INTERRUPTOR DE SELEÇÃO DE TENSÃO CA ESTÁ NA POSIÇÃO CORRETA!
 ![](./pic/selectAC.jpg)
 ### LIGAR
-#### [:clapper: Tutorial em vídeo](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ![](./pic/poweron.png)
 1. Conecte o cabo de alimentação
 2. Ligue o interruptor de alimentação CA.
 3. Pressione e segure o botão liga/desliga DC por cerca de 5 segundos
 4. Aguarde até que o LCD mostre o logotipo e solte o botão liga / desliga DC
+###### [![](./pic/PowerOn.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)
 ### DESLIGAR
-#### [:clapper: Tutorial em vídeo](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
-![](./pic/poweroff.png)
+![](./pic/poweroff.png)     
 Faça “Preparar >> Desligar” na tela LCD, espere a tela LCD desligar e, em seguida, desligue o interruptor de alimentação CA.
+###### [![](./pic/poweroff.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)
 
 ## [Menu LCD e operação][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -45,9 +45,11 @@ Faça “Preparar >> Desligar” na tela LCD, espere a tela LCD desligar e, em s
 ## Prepare-se para imprimir
 ### Nivele a cama
 Antes de imprimir, você precisa ajustar a distância entre o bico e o filme de cama quente para um valor adequado, para que o filamento derretido possa ser bem colado no filme de cama quente. Este processo também é chamado de “cama nivelada”. Se o bocal estiver muito longe da cama, o filamento não consegue aderir à cama quente. Se a distância for muito próxima, a película do leito e o bico serão danificados ou até mesmo a extremidade quente será bloqueada.
-##### [:clapper: Etapa 1: ](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif) Ligue a impressora 3D e então faça “Prepare>>Auto Home>>Home All” no LCD MENU, espere o hotend ir para a posição HOME.
+##### Etapa 1: Ligue a impressora 3D e então faça “Prepare>>Auto Home>>Home All” no LCD MENU, espere o hotend ir para a posição HOME.
+[![](./pic/HomeAll.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### Etapa 2: Aperte as porcas manuais sob a cama para descer a cama até a posição mais baixa (Fig 1).
-##### [:clapper: Etapa 3:](https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) Faça “Preparar>> Cama nivelamento>> Ponto 1” no painel de controle (Fig 2), o bico irá até os cantos da cama, afrouxe as porcas manuais sob a estufa (Fig 3) e deixe o bico quase tocar a cama (Fig 4). Continue fazendo o “Ponto 2/3/4” até que todos os 4 cantos estejam nivelados.
+##### Etapa 3: Faça “Preparar>> Cama nivelamento>> Ponto 1” no painel de controle (Fig 2), o bico irá até os cantos da cama, afrouxe as porcas manuais sob a estufa (Fig 3) e deixe o bico quase tocar a cama (Fig 4). Continue fazendo o “Ponto 2/3/4” até que todos os 4 cantos estejam nivelados.
+###### [![](./pic/Level_corners.gif)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif)
 ##### Passo 4: Repita o Passo 3 e faça 2 ~ 3 voltas, até que todos os quatro cantos estejam na mesma altura.
 ![](./pic/levelbed.png)
 

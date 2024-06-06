@@ -32,7 +32,7 @@
 [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/6-VideoTutorial/readme-ar.md)
 
 -----
-#Tutorial em vídeo Z8PM4-MK2
+# Tutorial em vídeo Z8PM4-MK2
 #### :warning: Nota
 1. Alguns vídeos são filmados em máquinas diferentes do Z8PM4Pro, mas as etapas de operação são idênticas às do Z8PM4Pro.
 2. Clique diretamente na imagem abaixo para assistir ao vídeo.

@@ -1,3 +1,12 @@
+[LCD_MENU]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description
+[MIX_COLOR]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
+[AUTO_LEVELING]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
+[AUTO_SHUTDOWN]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down
+[AUTO_RETRACTION]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction
+[SLICING_GUIDE_Z8P]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide
+[PRINTFROMPC]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC
+
+----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
 [![](../lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md)
 [![](../lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-es.md)
@@ -10,7 +19,7 @@
 [![](../lanpic/KR.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-kr.md)
 <!-- [![](../lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme-ar.md) -->
 
------
+----
 # Z8P-MK2 Operation Guide
 ## Power ON and Power Off
 #### :warning: ATTENTION! :warning: 
@@ -22,11 +31,11 @@
 2. Turn ON the AC Power Switch.
 3. Push and hold DC power button about 5 seconds
 4. Wait until the LCD shows Logo, then release the DC power button
-![Video Tutorial](./pic/PowerOn.gif)    
+![Video Tutorial](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/PowerOn.gif)    
 ### POWER OFF
 <!-- ![](./pic/poweroff.png)    -->
 Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Turn OFF AC Power Switch.
-![Video Tutorial](./pic/poweroff.gif)    
+![Video Tutorial](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/poweroff.gif)    
 
 ## [LCD Menu and Operation][LCD_MENU]
 ![](./pic/LCDScreen.png)
@@ -47,10 +56,10 @@ Do “Prepare>>Power Off” on LCD Screen, wait the LCD screen off, and then Tur
 #### [![](https://img.youtube.com/vi/R3RfGnxx8hY/0.jpg)](https://www.youtube.com/watch?v=R3RfGnxx8hY)
 Before printing, you need to adjust the distance between the nozzle and the hot bed film to a proper value, so that the melted filament can be pasted onto the hot bed film well. This process is also called “level bed”. If the nozzle is too far away from the bed, the filament can't stick to the hot bed. If the distance is too close, the bed film and nozzle will be damaged, or even the hot end will be blocked.
 ##### Step 1. Power on the 3d printer and then do “Prepare>>Auto Home>>Home All” on LCD MENU, wait the hotend go to the HOME position. 
-![](./pic/HomeAll.gif)
+![](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/HomeAll.gif)
 ##### Step 2. Tighten the hand nuts under the bed to move down the bed to the lowest position (Fig 1).
 ##### Step 3. Do “Prepare>> Bed leveling>> Point 1” on control panel(Fig 2), the nozzle will go to the corners of the bed, loosen the hand nuts under the hotbed (Fig 3) and let the nozzle almost touch the hotbed (Fig 4). Continue to do “Point 2/3/4” until all of the 4 corners has been leveled.
-![](./pic/Level_corners.gif) 
+![](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/pic/Level_corners.gif) 
 ##### Step 4: Repeat Step 3 and do 2 ~ 3 rounds, until all of the four corners at the same height.
 ![](./pic/levelbed.png)
 
@@ -113,12 +122,6 @@ If you want to print from PC, we recommend to use "Repetier-Host" software, abou
 ## :pushpin: HINT
 For older versions of ZPM4Pro-MK2, the SD card slot is located at the front of the machine and sometimes difficult to access. You can [:arrow_down: download the latest firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z8/Z8P/Z8PM4-MK2/released) and upload it to the control board, which supports accessing files on the SD card from the PC after connecting the machine to the PC through a USB cable.
 
------
-[LCD_MENU]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/DWIN_LCD_screen_Menu_Description
-[MIX_COLOR]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
-[AUTO_LEVELING]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Bed_Auto_Leveling
-[AUTO_SHUTDOWN]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Shut_Down
-[AUTO_RETRACTION]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/Auto_Retraction
-[SLICING_GUIDE_Z8P]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/4-SlicingGuide
-[PRINTFROMPC]: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2/2-Operation_Guide/PrintFromPC
+----
+
 

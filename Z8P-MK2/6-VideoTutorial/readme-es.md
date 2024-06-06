@@ -77,47 +77,36 @@
 ## <a id="a">:one: Guía de instalación</a>
 ### <a id="a1">Instalación</a>
 - **[:book: Manual][INSTALLATION]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/-oieO7U0LCc)**
-####
-[Parte 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)
-####
-[Parte 2](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a5b30753-51da-4e44-a15a-dcc6dba56dc8)
-####
-[Parte 3](https://github.com/ZONESTAR3D/Z8P/assets/29502731/acb6f49a-fcdb-4a33-b095-a419ad7c9196)
-####
-[Parte 4](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2f69e9bd-1649-4aff-bce3-1d58dba27512)
+#### 
+[![](https://img.youtube.com/vi/-oieO7U0LCc/0.jpg)](https://www.youtube.com/watch?v=-oieO7U0LCc)
+[![](https://img.youtube.com/vi/6-8cr9xVGlQ/0.jpg)](https://www.youtube.com/watch?v=6-8cr9xVGlQ)
 
 ### <a id="a2">Cableado</a>
 - **[:book: Manual][WIRING]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/kpQvHASNfqE)**
-####
-[Cableado](https://github.com/ZONESTAR3D/Z8P/assets/29502731/1c76716c-b67c-4d24-8d48-910e9a5a69a4)
+#### 
+[![](https://img.youtube.com/vi/kpQvHASNfqE/0.jpg)](https://www.youtube.com/watch?v=kpQvHASNfqE)
 
 ----
 ## <a id="b">:two: Guía de operación</a>
 ### <a id="b1">Encendido/apagado</a>
 - **[:book: Manual][OPERATION]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/2i8ozM2Dn1U)**
 #####
-[Encendido/apagado](https://github.com/ZONESTAR3D/Z8P/assets/29502731/2eff055c-82a0-4b11-977d-0ca4e63a27fe)
+[![](https://img.youtube.com/vi/2i8ozM2Dn1U/0.jpg)](https://www.youtube.com/watch?v=2i8ozM2Dn1U)
 
 ### <a id="b2">Nivelación de la cama</a>
 - **[:book: Manual][BEDLEVELING]**
-- **[:clapper: Video Tutorial - HD](https://youtu.be/R3RfGnxx8hY)**
 #####
-[Nivelación de cama](https://github.com/ZONESTAR3D/Z8P/assets/29502731/3951332c-4483-47b3-b4f5-08acfc49dc3e)
+[![](https://img.youtube.com/vi/R3RfGnxx8hY/0.jpg)](https://www.youtube.com/watch?v=R3RfGnxx8hY)
 
 ### <a id="b3">Cargar filamento</a>
 - **[:book: Manual][LOADFILAMENT]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/-47yB95uIxI)**
 #####
-[Cargar filamento](https://github.com/ZONESTAR3D/Z8P/assets/29502731/0661da17-71cf-4c9d-839f-be2c708f6a56)
+[![](https://img.youtube.com/vi/-47yB95uIxI/0.jpg)](https://www.youtube.com/watch?v=-47yB95uIxI)
 
 ### <a id="b4">Imprimir desde tarjeta SD</a>
 - **[:book: Manual][PRINTFROMSDCARD]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/ITHbO9VxTMo)**
 #####
-[Imprimir desde tarjeta SD](https://github.com/ZONESTAR3D/Z8P/assets/29502731/a1d25ecb-89a3-4099-8337-1330adcc3643)
+[![](https://img.youtube.com/vi/ITHbO9VxTMo/0.jpg)](https://www.youtube.com/watch?v=ITHbO9VxTMo)
 
 ### <a id="b41">Imprimir desde tarjeta SD - 4 Color</a>
 - **[:book: Manual][PRINTFROMSDCARD]**
@@ -126,15 +115,13 @@
 
 ### <a id="b5">Color de mezcla degradado</a>
 - **[:book: Manual][GRADIENTMIX]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/VOlXvy38aFs)**
 #####
-[Color de mezcla de degradado](https://github.com/ZONESTAR3D/Z8P/assets/29502731/204bb64d-4fe1-47c5-a3e8-98dcdb95c2fe)
+[![](https://img.youtube.com/vi/VOlXvy38aFs/0.jpg)](https://www.youtube.com/watch?v=VOlXvy38aFs)
 
 ### <a id="b6">Color de mezcla aleatoria</a>
 - **[:book: Manual][RANDOMMIX]**
-- **[:clapper: Videotutorial - HD](https://youtu.be/-mQ4bCnrIaw)**
 #####
-[Color de mezcla aleatoria](https://github.com/ZONESTAR3D/Z8P/assets/29502731/b4d3129e-2d2b-4034-9860-ea2db5de49a8)
+[![](https://img.youtube.com/vi/-mQ4bCnrIaw/0.jpg)](https://www.youtube.com/watch?v=-mQ4bCnrIaw)
 
 ----
 ## <a id="c">:three: Cortar</a>

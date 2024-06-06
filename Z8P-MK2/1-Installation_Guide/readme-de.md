@@ -185,7 +185,7 @@ Après avoir terminé les étapes d'installation ci-dessus, l'installation de la
 Ensuite, effectuez simplement un débogage préliminaire et vous pourrez démarrer votre première impression. Veuillez vous référer au [**:point_right: quick user manual**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md) pour préparer et démarrer votre première impression.
 
 ----
-### Annexe : Schéma de câblage de la carte de commande
+### Annexe: Schéma de câblage de la carte de commande
 Le diagramme schématique de câblage montre le schéma de connexion des bornes de la carte de commande et des composants utilisés à l'intérieur du boîtier de commande.
 **Veuillez noter que les composants indiqués dans l'encadré rose sont des composants/fonctions en option** mais ne sont pas des équipements standard du Z8PM4Pro.      
 ![](./Wiring_Diagram.jpg)

@@ -79,6 +79,7 @@
 - **[:book: Manual][_INSTALLATION_]**
 #### 
 [![](https://img.youtube.com/vi/-oieO7U0LCc/0.jpg)](https://www.youtube.com/watch?v=-oieO7U0LCc)
+[![](https://img.youtube.com/vi/6-8cr9xVGlQ/0.jpg)](https://www.youtube.com/watch?v=6-8cr9xVGlQ)
 
 ### <a id="a2">Verkabelung</a>
 - **[:book: Manual][_WIRING_]**

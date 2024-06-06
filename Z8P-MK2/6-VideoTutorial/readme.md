@@ -78,6 +78,7 @@
 ### <a id="a1">Installation</a>
 - **[:book: Manual][_INSTALLATION_]**    
 - **[:clapper: Video Tutorial - HD](https://youtu.be/-oieO7U0LCc)**    
+- **[:clapper: Z8P-MK2A Install Heatbed - HD](https://youtu.be/6-8cr9xVGlQ)**
 #### 
 [Part 1](https://github.com/ZONESTAR3D/Z8P/assets/29502731/91a63ac8-e347-477a-9f8a-fcaeb966b8d0)    
 #### 

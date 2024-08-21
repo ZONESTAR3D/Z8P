@@ -1,3 +1,5 @@
+[FORMAT]: https://www.solveyourtech.com/how-to-format-sd-card-to-fat32-windows-11-step-by-step-guide/
+
 ## <a id="choose-language">:globe_with_meridians: Choose language</a>
 [![](../lanpic/EN.png)](#en)
 [![](../lanpic/ES.png)](#es)
@@ -18,7 +20,7 @@
 :warning: When the filament is detected, the FROD LED will light up. Check if all LEDs light up. 
 #### :warning: Filament Run-out Detect sensor is an optional part for Z8P
 ### 2. Copy another gcode file and test again.
-### 3. Format the SD card and copy only one gcode file which need to print and print it again.
+### 3. [Format the SD card to FAT32][FORMAT] and copy only one gcode file which need to print and print it again.
 ### 4. Replace a new SD card (<=32G, format to FAT32) and try again.
 
 -----
@@ -28,7 +30,7 @@
 :warning: Cuando se detecta el filamento, el LED FROD se iluminará. Compruebe si todos los LED se encienden.   
 #### :warning: El sensor de detección de agotamiento del filamento es una pieza opcional para Z8P
 ### 2. Copie otro archivo gcode y vuelva a probar.
-### 3. Formatear la tarjeta sd, copiar solo un archivo gcode que necesita ser impreso y luego reimprimir.
+### 3. [Formatear la tarjeta sd][FORMAT], copiar solo un archivo gcode que necesita ser impreso y luego reimprimir.
 ### 4. Por favor, reemplace la nueva tarjeta SD (/ = 32g, formato fat32) y vuelva a intentarlo.
 
 -----
@@ -38,7 +40,7 @@
 :warning: Quando o filamento for detectado, o LED FROD acenderá. Verifique se todos os LEDs acendem.       
 #### :warning: o sensor de detecção de desgaste de filamento é uma peça opcional para Z8P
 ### 2. Copie outro arquivo gcode e teste novamente.
-### 3. Formatear la tarjeta sd, copiar solo un archivo gcode que necesita ser impreso y luego reimprimir.
+### 3. [Formatear la tarjeta sd][FORMAT], copiar solo un archivo gcode que necesita ser impreso y luego reimprimir.
 ### 4. Por favor, reemplace la nueva tarjeta SD (/ = 32g, formato fat32) y vuelva a intentarlo.
 
 -----
@@ -48,7 +50,7 @@
 :warning: Lorsque le filament est détecté, la LED FROD s'allume. Vérifiez si toutes les LED s'allument.       
 #### :warning: le capteur de détection d'épuisement du filament est une pièce optionnelle pour le Z8P
 ### 2. Copiez un autre fichier gcode et testez à nouveau.
-### 3. Formatez la carte SD, copiez un seul fichier gcode que vous devez imprimer, puis réimprimez.
+### 3. [Formatez la carte SD][FORMAT], copiez un seul fichier gcode que vous devez imprimer, puis réimprimez.
 ### 4. Remplacez votre nouvelle carte SD (< = 32G, format FAT32) et réessayez.
 
 -----
@@ -58,7 +60,7 @@
 :warning: Wenn das Filament erkannt wird, leuchtet die FROD-LED auf. Prüfen Sie, ob alle LEDs leuchten.       
 #### :warning: Der Filament-Run-out-Detect-Sensor ist ein optionales Teil für Z8P
 ### 2. Kopieren Sie eine weitere Gcode-Datei und testen Sie sie erneut.
-### 3. Formatieren Sie die SD-Karte und kopieren Sie nur eine gcode-Datei, die Sie drucken und erneut drucken müssen.
+### 3. [Formatieren Sie die SD-Karte][FORMAT] und kopieren Sie nur eine gcode-Datei, die Sie drucken und erneut drucken müssen.
 ### 4. Ersetzen Sie eine neue SD-Karte (<=32G, Format in FAT32) und versuchen Sie es erneut.
 
 -----
@@ -68,7 +70,7 @@
 :warning: Quando viene rilevato il filamento, il LED FROD si accenderà. Controlla se tutti i LED si accendono.       
 #### :warning: il sensore di rilevamento dell'esaurimento del filamento è una parte opzionale per Z8P
 ### 2. Copia un altro file gcode e riprova.
-### 3. Formattare la scheda SD e copiare solo un file gcode che deve stamparlo e stamparlo di nuovo.
+### 3. [Formattare la scheda SD][FORMAT] e copiare solo un file gcode che deve stamparlo e stamparlo di nuovo.
 ### 4. Sostituire una nuova scheda SD (<=32G, formato FAT32) e riprovare.
 
 -----
@@ -78,7 +80,7 @@
 :warning: При обнаружении нити накаливания загорается светодиод FROD. Проверьте, горят ли все светодиоды.       
 #### :warning: Датчик определения биения нити накаливания является дополнительной деталью для Z8P.
 ### 2. Скопируйте другой файл gcode и повторите проверку.
-### 3. Форматировать SD - карту, скопировать только один файл gcode, который нужно напечатать, а затем перепечатать.
+### 3. [Форматировать SD - карту][FORMAT], скопировать только один файл gcode, который нужно напечатать, а затем перепечатать.
 ### 4. Пожалуйста, замените новую SD - карту (< = 32G, формат FAT32) и попробуйте снова.
 
 -----
@@ -88,7 +90,7 @@
 :warning: フィラメントが検出されると、FROD LED が点灯します。 すべての LED が点灯するかどうかを確認します。       
 #### :warning: フィラメント振れ検出センサーは Z8P のオプション部品です
 ### 2. 別の gcode ファイルをコピーして、再度テストします。
-### 3.SDカードをフォーマットし、印刷するgcodeファイルを1つだけコピーして再印刷します。
+### 3. [SDカードをフォーマットし][FORMAT]、印刷するgcodeファイルを1つだけコピーして再印刷します。
 ### 4.新しいSDカード(<=32 G、フォーマットはFAT 32)を交換して再試行してください。
 
 -----
@@ -98,7 +100,7 @@
 :warning: 필라멘트가 감지되면 FROD LED가 켜집니다. 모든 LED가 켜져 있는지 확인하십시오.     
 #### :warning: 필라멘트 런아웃 감지 센서는 Z8P의 옵션 부품입니다.
 ### 2. 다른 gcode 파일을 복사하고 다시 테스트하세요.
-### 3. SD 카드를 포맷하고 인쇄해야 하는 gcode 파일 하나만 복사한 다음 다시 인쇄합니다.
+### 3. [SD 카드를 포맷하고 인쇄해야][FORMAT] 하는 gcode 파일 하나만 복사한 다음 다시 인쇄합니다.
 ### 4. 새 SD 카드(<=32G, FAT32 형식)를 교체하고 다시 시도하십시오.
 
 -----
@@ -108,5 +110,5 @@
 :تحذير: عند اكتشاف الفتيل، سيضيء مؤشر FROD LED. تحقق مما إذا كانت جميع مصابيح LED تضيء.    
 #### :تحذير: مستشعر كشف نفاد الفتيل هو جزء اختياري لـ Z8P
 ### 2. انسخ ملف gcode آخر واختبره مرة أخرى.
-### 3. شكل بطاقة الذاكرة الرقمية المؤمنة ، نسخة واحدة فقط من gcode الملف الذي تريد طباعته ، ثم إعادة طباعته .
+### 3. [شكل بطاقة الذاكرة الرقمية المؤمنة ،][FORMAT] نسخة واحدة فقط من gcode الملف الذي تريد طباعته ، ثم إعادة طباعته .
 ### 4. يرجى استبدال بطاقة الذاكرة الرقمية المؤمنة الجديدة ( < = 32G ، FAT32 ) وحاول مرة أخرى .

@@ -30,7 +30,7 @@ To confirm where the problem originated, please following the below steps to che
 ##### 3.1 Remove the PTFE from the fitting and then check if there are any broken filaments stuck inside the four fitting wires connecting the hot end.
 ##### 3.2 Check the PTFE tubes connected inside the hot end to see if the length of their extension from the hot end is basically the same. If there are different, first heat the nozzle to 260 degrees, then push the PTFE tubes down as much as possible to the bottom of the hot end.
 ![](./3.jpg)
-##### 3.3 Refer to [this guide](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md) to clean the hotend.
+##### 3.3 Refer to [this guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ) to clean the hotend.
 
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
 
@@ -54,7 +54,7 @@ Para confirmar dónde se originó el problema, siga los pasos a continuación pa
 ##### 3.1 Retire el PTFE del conector y luego verifique si hay filamentos rotos atrapados dentro de los cuatro cables del conector que conectan el extremo caliente.
 ##### 3.2 Verifique los tubos de PTFE conectados dentro del extremo caliente para ver si la longitud de su extensión desde el extremo caliente es básicamente la misma. Si hay diferencias, primero caliente la boquilla a 260 grados, luego empuje los tubos de PTFE hacia abajo tanto como sea posible hasta el fondo del extremo caliente.
 ![](./3.jpg)
-##### 3.3 Consulte [esta guía] (../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md) para limpiar el hotend.
+##### 3.3 Consulte [esta guía] (https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ) para limpiar el hotend.
 
 ----
 ## <a id="pt"> ![](../lanpic/PT.png) Extrusora(s) bloqueada(s) e não é possível imprimir [para Z8PM4Pro-MK2] </a>
@@ -76,7 +76,7 @@ Para confirmar a origem do problema, siga as etapas abaixo para verificar, assum
 ##### 3.1 Remova o PTFE da conexão e verifique se há algum filamento quebrado preso dentro dos quatro fios da conexão que conectam o hot end.
 ##### 3.2 Verifique os tubos de PTFE conectados dentro do hot end para ver se o comprimento de sua extensão a partir do hot end é basicamente o mesmo. Se houver diferentes, primeiro aqueça o bico a 260 graus e, em seguida, empurre os tubos de PTFE para baixo o máximo possível até a parte inferior da extremidade quente.
 ![](./3.jpg)
-##### 3.3 Consulte [este guia](../Issue_mix_color_hotend_cloged/Clean_clogged_M4V6.md) para limpar o hotend.
+##### 3.3 Consulte [este guia](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ) para limpar o hotend.
 
 ----
 ## <a id="de"> ![](../lanpic/DE.png) Extruder blockiert und nicht in der Lage zu drucken [für Z8PM4Pro-MK2] </a>
@@ -98,7 +98,7 @@ Um zu bestätigen, woher das Problem stammt, befolgen Sie bitte die folgenden Sc
 ##### 3.1 Entfernen Sie das PTFE aus der Armatur und prüfen Sie dann, ob gebrochene Filamente in den vier Fittingdrähten stecken, die das heiße Ende verbinden.
 ##### 3.2 Überprüfen Sie die im Hot-End angeschlossenen PTFE-Schläuche, um festzustellen, ob die Länge ihrer Verlängerung vom Hot-End grundsätzlich gleich ist. Wenn es Unterschiede gibt, erhitzen Sie zuerst die Düse auf 260 Grad und schieben Sie dann die PTFE-Schläuche so weit wie möglich bis zum Boden des heißen Endes.
 ![](./3.jpg)
-##### 3.3 Lesen Sie [diese Anleitung](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md), um das Hotend zu reinigen.
+##### 3.3 Lesen Sie [diese Anleitung](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ), um das Hotend zu reinigen.
 
 ----
 ## <a id="it"> ![](../lanpic/IT.png) Estrusore/i bloccato/i e impossibile stampare [per Z8PM4Pro-MK2] </a>
@@ -120,7 +120,7 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 ##### 3.1 Rimuovere il PTFE dal raccordo e quindi controllare se sono presenti filamenti rotti bloccati all'interno dei quattro fili del raccordo che collegano l'hot end.
 ##### 3.2 Controllare i tubi in PTFE collegati all'interno dell'hot end per vedere se la lunghezza della loro estensione dall'hot end è sostanzialmente la stessa. Se ce ne sono diversi, riscaldare prima l'ugello a 260 gradi, quindi spingere i tubi di PTFE il più possibile verso il fondo dell'hot end.
 ![](./3.jpg)
-##### 3.3 Fare riferimento a [questa guida](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md) per pulire l'hotend.
+##### 3.3 Fare riferimento a [questa guida](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ) per pulire l'hotend.
 
 ----
 ## <a id="ru"> ![](../lanpic/RU.png) Экструдеры заблокированы и не могут печатать [для Z8PM4Pro-MK2] </a>
@@ -142,7 +142,7 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 ##### 3.1 Удалите ПТФЭ из фитинга, а затем проверьте, не застряли ли какие-либо сломанные нити внутри четырех проводов фитинга, соединяющих горячий конец.
 ##### 3.2 Проверьте трубки из ПТФЭ, подсоединенные внутри горячего конца, чтобы убедиться, что длина их выступа от горячего конца практически одинакова. Если они разные, сначала нагрейте сопло до 260 градусов, затем протолкните тефлоновые трубки максимально вниз к нижней части горячего конца.
 ![](./3.jpg)
-##### 3.3 Обратитесь к [этому руководству](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md), чтобы очистить хотэнд.
+##### 3.3 Обратитесь к [этому руководству](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ), чтобы очистить хотэнд.
 
 ----
 ## <a id="jp"> ![](../lanpic/JP.png) 押出機がブロックされ、印刷できません [Z8PM4Pro-MK2 の場合] </a>
@@ -164,7 +164,7 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 ##### 3.1 フィッティングから PTFE を取り外し、ホットエンドに接続している 4 本のフィッティング ワイヤの内側に切れたフィラメントが詰まっていないか確認します。
 ##### 3.2 ホットエンドの内側に接続されている PTFE チューブをチェックして、ホットエンドからの延長長さが基本的に同じかどうかを確認します。 異なる場合は、まずノズルを 260 度に加熱し、次に PTFE チューブをホットエンドの底部までできるだけ押し下げます。
 ![](./3.jpg)
-##### 3.3 ホットエンドをクリーニングするには、[このガイド](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md) を参照してください。
+##### 3.3 ホットエンドをクリーニングするには、[このガイド](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ) を参照してください。
 
 ----
 ## <a id="kr"> ![](../lanpic/KR.png) 압출기가 차단되어 인쇄할 수 없습니다 [Z8PM4Pro-MK2의 경우] </a>
@@ -186,7 +186,7 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 ##### 3.1 피팅에서 PTFE를 제거한 다음 핫 엔드를 연결하는 4개의 피팅 와이어 내부에 깨진 필라멘트가 끼어 있는지 확인합니다.
 ##### 3.2 핫 엔드 내부에 연결된 PTFE 튜브를 확인하여 핫 엔드에서 연장된 길이가 기본적으로 동일한지 확인합니다. 다른 점이 있으면 먼저 노즐을 260도까지 가열한 다음 PTFE 튜브를 핫 엔드 바닥까지 최대한 아래로 밀어 넣습니다.
 ![](./3.jpg)
-##### 3.3 [이 가이드](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md)를 참조하여 핫엔드를 청소하세요.
+##### 3.3 [이 가이드](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ)를 참조하여 핫엔드를 청소하세요.
 
 ----
 ## <a id="ar"> ![](../lanpic/SA.png) الطارد محظور وغير قادر على الطباعة [لـ Z8PM4Pro-MK2] </a>
@@ -208,4 +208,4 @@ Per confermare l'origine del problema, seguire i passaggi seguenti per verificar
 ##### 3.1 قم بإزالة PTFE من التركيب ثم تحقق مما إذا كان هناك أي خيوط مكسورة عالقة داخل أسلاك التركيب الأربعة التي تربط الطرف الساخن.
 ##### 3.2 تحقق من أنابيب PTFE المتصلة داخل الطرف الساخن لمعرفة ما إذا كان طول امتدادها من الطرف الساخن هو نفسه بشكل أساسي. إذا كان هناك اختلافات، قم أولاً بتسخين الفوهة إلى 260 درجة، ثم ادفع أنابيب PTFE لأسفل قدر الإمكان إلى أسفل النهاية الساخنة.
 ![](./3.jpg)
-##### 3.3 ارجع إلى [هذا الدليل](../Issue_mix_color_hotend_clogged/Clean_clogged_M4V6.md) لتنظيف النقطة الساخنة.
+##### 3.3 ارجع إلى [هذا الدليل](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ) لتنظيف النقطة الساخنة.

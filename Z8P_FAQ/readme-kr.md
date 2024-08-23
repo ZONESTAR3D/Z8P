@@ -37,7 +37,7 @@ Z8P에는 전자 자동 테스트 프로그램이 내장되어 있습니다. 이
 -----
 ## 내용물
 - **[기기를 시작할 수 없습니다.](./Issue_of_startup/readme.md)**
-- **[핫엔드가 막혔습니다/막혔습니다](./Issue_mix_color_hotend_clogged/readme.md)**
+<!-- - **[핫엔드가 막혔습니다/막혔습니다](./Issue_mix_color_hotend_clogged/readme.md)** -->
 - **[발열 문제](./Issue_heating/readme.md)**
 - **[SD 카드에서 인쇄 시 자동 종료](./Issue_auto_shut_down/readme.md)**
 - **[압출기 블록 문제 해결 방법](./Issue_extruder_blocked/readme.md)**

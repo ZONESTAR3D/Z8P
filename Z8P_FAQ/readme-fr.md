@@ -37,7 +37,7 @@ Les pièces de la machine qui peuvent effectuer le test d'échange comprennent 
 -----
 ## Contenu
 - **[La machine ne démarre pas](./Issue_of_startup/readme.md)**
-- **[La hot end est bloquée/bouchée](./Issue_mix_color_hotend_clogged/readme.md)**
+<!-- - **[La hot end est bloquée/bouchée](./Issue_mix_color_hotend_clogged/readme.md)** -->
 - **[Problème de chauffage](./Issue_heating/readme.md)**
 - **[Arrêt automatique lors de l'impression à partir d'une carte SD](./Issue_auto_shut_down/readme.md)**
 - **[Comment résoudre le problème de blocage de l'extrudeuse](./Issue_extruder_blocked/readme.md)**

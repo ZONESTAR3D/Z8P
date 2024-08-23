@@ -37,7 +37,7 @@
 -----
 ## محتويات
 - **[لا يمكن تشغيل الجهاز](./Issue_of_startup/readme.md)**
-- **[النهاية الساخنة مسدودة/مسدودة](./Issue_mix_color_hotend_clogged/readme.md)**
+<!-- - **[النهاية الساخنة مسدودة/مسدودة](./Issue_extruder_blocked/readme.md)** -->
 - **[مشكلة التسخين](./Issue_heating/readme.md)**
 - **[إيقاف التشغيل تلقائيًا عند الطباعة من بطاقة SD](./Issue_auto_shut_down/readme.md)**
 - **[كيفية إصلاح مشكلة كتلة الطارد](./Issue_extruder_blocked/readme.md)**

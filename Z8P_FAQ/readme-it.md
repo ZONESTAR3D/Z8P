@@ -37,7 +37,7 @@ Le parti della macchina che possono effettuare il test di scambio includono:
 -----
 ## Contenuti
 - **[La macchina non può avviarsi](./Issue_of_startup/readme.md)**
-- **[L'hot-end è bloccato/intasato](./Issue_mix_color_hotend_clogged/readme.md)**
+<!-- - **[L'hot-end è bloccato/intasato](./Issue_mix_color_hotend_clogged/readme.md)** -->
 - **[Problema di riscaldamento](./Issue_heating/readme.md)**
 - **[Spegnimento automatico durante la stampa da scheda SD](./Issue_auto_shut_down/readme.md)**
 - **[Come risolvere il problema del blocco dell'estrusore](./Issue_extruder_blocked/readme.md)**

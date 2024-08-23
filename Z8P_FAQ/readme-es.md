@@ -38,7 +38,7 @@ Las piezas de la máquina que pueden realizar la prueba de intercambio incluyen:
 -----
 ## Contenidos
 - **[La máquina no puede iniciarse](./Issue_of_startup/readme.md)**
-- **[El extremo caliente está bloqueado/obstruido](./Issue_mix_color_hotend_clogged/readme.md)**
+<!-- - **[El extremo caliente está bloqueado/obstruido](./Issue_mix_color_hotend_clogged/readme.md)** -->
 - **[Problema de calefacción](./Issue_heating/readme.md)**
 - **[Apagado automático al imprimir desde una tarjeta SD](./Issue_auto_shut_down/readme.md)**
 - **[Cómo solucionar el problema del bloqueo del extrusor](./Issue_extruder_blocked/readme.md)**

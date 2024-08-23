@@ -37,7 +37,7 @@ Zu den Teilen der Maschine, die den Austauschtest durchführen können, gehören
 -----
 ## Inhalt
 - **[Die Maschine kann nicht gestartet werden](./Issue_of_startup/readme.md)**
-- **[Heißes Ende ist blockiert/verstopft](./Issue_mix_color_hotend_clogged/readme.md)**
+<!-- - **[Heißes Ende ist blockiert/verstopft](./Issue_mix_color_hotend_clogged/readme.md)** -->
 - **[Heizungsproblem](./Issue_heating/readme.md)**
 - **[Automatisches Herunterfahren beim Drucken von der SD-Karte](./Issue_auto_shut_down/readme.md)**
 - **[So beheben Sie das Extruder-Blockproblem](./Issue_extruder_blocked/readme.md)**

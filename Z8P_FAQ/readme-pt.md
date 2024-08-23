@@ -37,7 +37,7 @@ As peças da máquina que podem realizar o teste de troca incluem:
 -----
 ## Conteúdo
 - **[A máquina não pode inicializar](./Issue_of_startup/readme.md)**
-- **[Hot end está bloqueado/obstruído](./Issue_mix_color_hotend_cloged/readme.md)**
+<!-- - **[Hot end está bloqueado/obstruído](./Issue_mix_color_hotend_cloged/readme.md)** -->
 - **[Problema de aquecimento](./Issue_heating/readme.md)**
 - **[Desligamento automático ao imprimir do cartão SD](./Issue_auto_shut_down/readme.md)**
 - **[Como corrigir problema de bloqueio da extrusora](./Issue_extruder_blocked/readme.md)**

@@ -79,10 +79,14 @@ If you did the above two steps but the question can't be solved, do the below st
 -----
 ## <a id="b">Hot bed issue </a>
 ### <a id="b1">Hot bed always shows 0℃ </a>
-##### ![](hotbed_min_temperature.jpg)   ![](./Hotbed_wiring.jpg)    
-If the current temperature of the hot bed shows 0 degrees, there may be two reasons:
+##### ![](hotbed_min_temperature.jpg)   
+Please following the below steps to check:
 1. Check the temperature sensor wire of hot bed is connected well.   
-2. If both current of the hotend and heatbed are shows 0 degree and the current ambient temperature is low than 20℃, please try to upload the newest firmware and try again.    
+![](./Hotbed_wiring.jpg)    
+2. Using an external meter to measure the resistance of the sensor, when the hot bed is cool, its resistance should be between 70K and 105K (depending on the ambient temperature).
+![](./Issue_BedSensor.jpg)    
+
+PS: If both the hotend and heatbed are shows 0 degree and the current ambient temperature is low than 20℃, please try to upload the newest firmware and try again.    
 
 ### <a id="b2">Hot bed max temperature issue </a>
 When you find the LCD screen shows a "HEATBED Err.: max temperature" screen.      

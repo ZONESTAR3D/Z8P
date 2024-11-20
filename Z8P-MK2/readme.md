@@ -56,6 +56,9 @@
 ### [:clapper: Watch Video Tutorial][Z8PMK2VIDEO]
 We creat many video tutorials for this machine, please click [:clapper:**here**][Z8PMK2VIDEO] to watch.  
 
+### [:arrow_down: Download All Document](https://downgit.github.io/#/home?url=https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2) 
+
+----
 ### :file_folder: [1.Installation Guide][INSTALLATION_GUIDE]
 - **[:book: Installation Guide][INSTALLATION_GUIDE]** 
 - **[:blue_book: Installation and Quick Use Guide PDF file][INSTALLATION_PDF]**

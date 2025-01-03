@@ -37,6 +37,7 @@ The parts in the machine that can carry out the exchange test include:
 -----
 ## Contents
 - **[The machine can't start up](./Issue_of_startup/readme.md)**
+- **[Homing issue](./Issue_of_Homing/readme.md)**
 - **[Heating issue](./Issue_heating/readme.md)**
 - **[Auto shut down when printing from SD card](./Issue_auto_shut_down/readme.md)**
 - **[How to fix Hotend/Extruder block issue](./Issue_extruder_blocked/readme.md)**

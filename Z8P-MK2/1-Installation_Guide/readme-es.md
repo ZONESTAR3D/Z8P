@@ -183,3 +183,10 @@ Consulte la siguiente imagen para conectar los conectores de los cables que qued
 ## :fireworks: ¡Felicitaciones!
 Después de completar los pasos de instalación anteriores, se anuncia que se completó la instalación de la máquina. Puede disponer el cableado y fijarlo al bastidor de la máquina con bridas.
 A continuación, simplemente haga una depuración preliminar y podrá comenzar su primera impresión. Consulte el [**:point_right: manual de usuario rápido**](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P-MK2/2-Operation_Guide/readme.md) para preparar e iniciar su primera impresión.
+
+----
+### Apéndice: diagrama de cableado del panel de control
+El esquema de cableado muestra el esquema de conexión de los terminales y componentes del panel de control utilizados en la Caja de control.
+**tenga en cuenta que los componentes mostrados en el cuadro rosa son componentes / funciones opcionales**, pero no son dispositivos estándar para z8pm4pro.
+![](./Wiring_Diagram.jpg)
+![](./Z8P_wiring.png)  

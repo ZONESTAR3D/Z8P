@@ -189,3 +189,4 @@ Em seguida, basta fazer uma depuração preliminar e você poderá iniciar sua p
 O Diagrama Esquemático de Fiação mostra o diagrama esquemático de conexão dos terminais da placa de controle e componentes usados dentro da caixa de controle.
 **Observe que os componentes mostrados na caixa rosa são componentes/funções opcionais**, mas não são equipamentos padrão do Z8PM4Pro.
 ![](./Wiring_Diagram.jpg)
+![](./Z8P_wiring.png)  

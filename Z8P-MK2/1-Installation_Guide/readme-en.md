@@ -189,3 +189,4 @@ Next, just do some preliminary debugging, and you can start your first print. Pl
 Wiring Schematic Diagram shows the connection schematic diagram of the control board terminals and components used inside the control box.
 **Please note that the components shown in the pink box are optional components/functions** but not standard equipment of Z8PM4Pro.
 ![](./Wiring_Diagram.jpg)
+![](./Z8P_wiring.png)  

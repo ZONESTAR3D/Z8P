@@ -189,3 +189,4 @@ Ensuite, effectuez simplement un débogage préliminaire et vous pourrez démarr
 Le diagramme schématique de câblage montre le schéma de connexion des bornes de la carte de commande et des composants utilisés à l'intérieur du boîtier de commande.
 **Veuillez noter que les composants indiqués dans l'encadré rose sont des composants/fonctions en option** mais ne sont pas des équipements standard du Z8PM4Pro.      
 ![](./Wiring_Diagram.jpg)
+![](./Z8P_wiring.png)  

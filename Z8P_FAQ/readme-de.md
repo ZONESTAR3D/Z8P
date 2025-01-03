@@ -1,4 +1,4 @@
-## <a id="choose-language">:globe_with_meridians: Choose language </a>
+## <a id="choose-language">:globe_with_meridians: W?hle Sprache</a>
 [![](./lanpic/EN.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme.md)
 [![](./lanpic/ES.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-es.md)
 [![](./lanpic/PT.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-pt.md)
@@ -11,55 +11,55 @@
 [![](./lanpic/SA.png)](https://github.com/ZONESTAR3D/Z8P/blob/main/Z8P_FAQ/readme-ar.md)
 
 ----
-# Z8P-Fehlerbehebung
+# Z8P Fehlerbehebung
 
 -----
 ## Referenz
-Um das Problem des Produkts zu finden und zu lösen, müssen Sie möglicherweise die automatische Testfunktion verwenden, den Steuerkasten öffnen, um die Verkabelung zu überprüfen oder den Motorantriebsstrom abzustimmen, einen „Austauschtest“ verwenden, um eine elektronische Komponente zu überprüfen usw .. Hier listen wir diese Anleitungen, Bilder und Video-Tutorials als Referenz auf.
+Um Probleme mit dem Produkt zu finden und zu l?sen, müssen Sie m?glicherweise die automatische Testfunktion verwenden, die Steuerungsbox ?ffnen, um die Verkabelung zu überprüfen, oder die Motorantriebsspannung einstellen, einen "Tauschtest" verwenden, um einen elektronischen Bauteil zu überprüfen, etc.. Hier listen wir diese Anleitungen, Bilder und Videoanleitungen für Ihre Referenz auf.
 ### Verkabelung
-- [:art: So öffnen Sie die Kontrollbox](./pic/OpenControlBox.png)
-- [:art: Verkabelung auf der Steuerplatine](./pic/Z8P_wiring.png)
+- [:art: Wie ?ffnet man die Steuerungsbox](./pic/OpenControlBox.png)
+- [:art: Verkabelung auf der Steuerungsplatine](./pic/Z8P_wiring.png)
 
-### Autotest von Elektronikteilen
-Z8P verfügt über ein integriertes automatisches Testprogramm für die Elektronik. Mit diesem Programm können Sie feststellen, woher das Problem kommt, wenn bei einer elektronischen Komponente ein Problem auftritt. Um dieses Programm zu starten, müssen Sie das Menü „**Info**“ öffnen und den Knopf drehen, um auf den Eintrag „**Datum: xx-xx-xx**“ zu zeigen, und dann den Knopf fünfmal drücken.
+### Automatische Tests von elektronischen Bauteilen
+Das Z8P verfügt über ein eingebautes Programm zur automatischen Tests von elektronischen Bauteilen. Sie k?nnen dieses Programm verwenden, um zu bestimmen, wo das Problem liegt, wenn ein elektronischer Bauteil ein Problem hat. Um dieses Programm zu starten, müssen Sie das Menü "**Info**" ?ffnen und den Knopf drehen, um auf das Element "**Datum: xx-xx-xx**" zu zeigen, und dann den Knopf fünf Mal drücken.
 #### Videoanleitung
 [![](https://img.youtube.com/vi/iSsuy2ePWw8/0.jpg)](https://www.youtube.com/watch?v=iSsuy2ePWw8)
 
-### Über „Swap-Test“
-Wenn wir feststellen, dass ein Funktionsproblem in der Maschine vorliegt und die Ursache des Problems mehrere Möglichkeiten hat (mehrere Teile können das gleiche Problem verursachen), haben wir die Möglichkeit, den sogenannten „**Swap-Test**“ zu verwenden. „um die Ursache des Problems so schnell wie möglich zu lokalisieren.
-Wenn beispielsweise der linke Z-Achsen-Motor nicht funktioniert, kann das Problem an der Verkabelung, dem Schrittmotor, dem Motorkabel, dem Motorantriebsmodul auf der Steuerplatine oder der Steuerplatine liegen. Da es in der Maschine zwei Sätze von Z-Achsen-Antriebssystemen gibt – das linke Z-Antriebssystem und das rechte Z-Antriebssystem –, die identisch sind, können wir zur Bestätigung die gleichen Teile/Komponenten/Drähte auf der linken und rechten Seite einzeln austauschen woher das Problem kommt.
-Zu den Teilen der Maschine, die den Austauschtest durchführen können, gehören:
+### über "Tauschtest"
+Wenn wir feststellen, dass es ein funktionales Problem in der Maschine gibt und die Ursache des Problems mehrere M?glichkeiten hat (mehrere Teile k?nnen das gleiche Problem verursachen), haben wir die M?glichkeit, den sogenannten "Tauschtest" zu verwenden, um die Ursache des Problems so schnell wie m?glich zu lokalisieren.
+Zum Beispiel, wenn der linke Z-Achsenmotor nicht funktioniert, kann das Problem von der Verkabelung, dem Schrittmotor, dem Motorkabel, dem Motorantriebsmodul auf der Steuerungsplatine oder der Steuerungsplatine selbst stammen. Da es zwei identische Z-Achsenantriebssysteme in der Maschine gibt - linkes und rechtes Z-Achsenantriebssystem - k?nnen wir die gleichen Teile/Bauteile/Kabel auf der linken und rechten Seite nacheinander austauschen, um zu bestimmen, wo das Problem liegt.
+Die in der Maschine durchzuführenden Teile für den Austauschtest umfassen:
 - X/Y-Motor und Endschalter.
 - ZL/ZR-Motor und Endschalter
-- 4 Sätze Extrudermotoren
-- Heizpatrone und Temperatursensor für Heißbett und Heißende.
+- 4 Extrudermotoren
+- Patronenheizer und Temperatursensor der Hei?e Bett- und Hotendkammer.
 
 -----
-## Inhalt
-- **[Die Maschine kann nicht gestartet werden](./Issue_of_startup/readme.md)**
-<!-- - **[Heißes Ende ist blockiert/verstopft](./Issue_mix_color_hotend_clogged/readme.md)** -->
+## Inhalte
+- **[Das Ger?t kann nicht starten](./Issue_of_startup/readme.md)**
+- **[Homing-Problem](./Issue_of_Homing/readme.md)**
 - **[Heizungsproblem](./Issue_heating/readme.md)**
-- **[Automatisches Herunterfahren beim Drucken von der SD-Karte](./Issue_auto_shut_down/readme.md)**
-- **[So beheben Sie das Extruder-Blockproblem](./Issue_extruder_blocked/readme.md)**
-- **[So beheben Sie das Problem mit der unzureichenden Entladung des Extruders](./Issue_of_Extruder_insufficient_discharge/readme.md)**
-- **[Absturz beim Anschließen von USB in Cura](./issue_of_connect_USB_in_Cura/readme.md)**
-- **[Die automatische Pause des Druckers beim Drucken von der SD-Karte](./Issue_auto_pause/readme.md)**
-- **[Problem mit nicht gelesener SD-Karte](./Issue_not_read_sdcard/readme.md)**
-- **[Problem mit dem LCD-Bildschirmknopf](#dwinscreen)**
+- **[Automatisches Herunterfahren beim Drucken von SD-Karte](./Issue_auto_shut_down/readme.md)**
+- **[Wie man das Hotend/Extruder Blockage-Problem behebt](./Issue_extruder_blocked/readme.md)**
+- **[Wie man das Extruder-Unterdruck-Problem behebt](./Issue_of_Extruder_insufficient_discharge/readme.md)**
+- **[Absturz beim Verbinden per USB in Cura](./issue_of_connect_USB_in_Cura/readme.md)**
+- **[Die Drucker pausiert automatisch beim Drucken von SD-Karte](./Issue_auto_pause/readme.md)**
+- **[Problem, die SD-Karte nicht zu lesen](./Issue_not_read_sdcard/readme.md)**
+- **[LCD-Bildschirm-Knopf-Problem](#dwinscreen)**
 
 ----
-## Andere Referenzen
-- **[44 häufige 3D-Druckprobleme](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/FAQ)**
-- **[Alle Probleme und Lösungen (@All3DP.com)](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/)**
+## Sonstige Referenzen
+- **[44 h?ufige 3D-Druckprobleme](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/FAQ)**
+- **[Alle Probleme und L?sungen (@All3DP.com)](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/)**
 
 -----
-## <a id="dwinscreen">Problem mit dem LCD-Bildschirmknopf</a>
-Wenn Sie feststellen, dass der Knopf des LCD-Bildschirms festsitzt, können Sie auf [:Geschenk: diesen Link](https://www.aliexpress.com/item/3256805596235491.html) klicken, um eine Ersatztastatur zu erwerben. Wenn sich Ihr Produkt innerhalb der Garantiezeit befindet (innerhalb von 12 Monaten ab Erhalt des Pakets), kontaktieren Sie uns bitte nach der Bestellung und wir bieten Ihnen einen Kundendienst.
-Wie Sie die Tastatur des LCD-Bildschirms austauschen, sehen Sie sich bitte das Video-Tutorial an:
-- Die Schweißversion (älter) finden Sie in [:clapper: diesem Video](https://youtu.be/Xwfczp3nLOY).
-- Informationen zur FPC-Version (neuer) finden Sie in [:clapper: diesem Video](https://youtu.be/z9E6glRZRIQ).
+## <a id="dwinscreen">LCD-Bildschirm-Knopf-Problem</a>
+Wenn Sie feststellen, dass der Knopf des LCD-Bildschirms stecken geblieben ist, k?nnen Sie auf [:gift: diesen Link](https://www.aliexpress.com/item/3256805596235491.html) klicken, um eine Ersatztastatur zu kaufen. Wenn Ihr Produkt im Garantiezeitraum liegt (innerhalb von 12 Monaten ab dem Empfang des Pakets), wenden Sie sich bitte nach der Bestellung an uns, und wir werden Ihnen den Nachverkaufsservice为您提供.
+Wie man die Tastatur des LCD-Bildschirms ersetzt, siehe Videoanleitung:
+- Für die L?tversion (?lter), siehe [:clapper: dieses Video](https://youtu.be/Xwfczp3nLOY).   
+- Für die FPC-Version (neuer), siehe [:clapper: dieses Video](https://youtu.be/z9E6glRZRIQ).  
 ####
 ![](./pic/keypad.jpg)
 
 -----
-## :email: Wenn Sie nach dem Lesen der FAQ keine Lösung für Ihr Problem finden, wenden Sie sich bitte an unser technisches Support-Team: support@zonestar3d.com.
+## :email: Wenn Sie keine L?sung für Ihr Problem nach dem Lesen der FAQ finden, wenden Sie sich bitte an unser technisches Support-Team: support@zonestar3d.com .

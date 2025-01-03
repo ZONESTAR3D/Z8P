@@ -189,3 +189,4 @@ Successivamente, esegui semplicemente un debug preliminare e puoi avviare la tua
 Il diagramma dello schema elettrico mostra lo schema di collegamento dei terminali della scheda di controllo e dei componenti utilizzati all'interno della scatola di controllo.
 **Si prega di notare che i componenti mostrati nel riquadro rosa sono componenti/funzioni opzionali** ma non equipaggiamento standard di Z8PM4Pro.      
 ![](./Wiring_Diagram.jpg)
+![](./Z8P_wiring.png)  

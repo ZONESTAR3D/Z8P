@@ -51,7 +51,7 @@ Firstly, you can follow the [:movie_camera: **electronics parts auto testing vid
 3. Check ZL/ZR Motor wiring on the control board.[:point_right: Wiring Diagram](#Z8P_wiring)  
 
 #### <a id="Z8P_wiring">Z8P Wiring on Board Side</a>
-![](Z8P_wiring.jpg)
+![](Z8P_wiring.png)
 
 
 -----

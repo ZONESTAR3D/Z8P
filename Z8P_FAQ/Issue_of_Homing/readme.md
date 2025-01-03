@@ -26,32 +26,32 @@ Firstly, you can follow the [:movie_camera: **electronics parts auto testing vid
 1. Check X ENDSTOP wiring. 
 2. Check X wiring on the control boad. [:point_right: Wiring Diagram](#Z8P_wiring)  
 3. Check that the X limit switch is well soldered to the wire and that the wire is connected to the NO and COM pins of the limit switch.   
-![](x_endstop_wring.jpg) ![](X_limitswitch.jpg)
+![](x_endstop_wring.jpg) ![](X_limitswitch.jpg)       
 :warning: The connection between the wire and the limit switch is wrapped, and even if there is poor contact, it cannot be seen. You can use a multimeter to check, or swap the left and right limit switches to check.
 
 ### <a id="Yissue">Y ENDSTOP don't work?</a>
 1. Check Y ENDSTOP wiring.    
 2. Check Y wiring on the control boad.[:point_right: Wiring Diagram](#Z8P_wiring)  
 3. Check that the Y limit switch is well soldered to the wire and that the wire is connected to the NO and COM pins of the limit switch.
-![](y_endstop_wring.jpg) ![](Y_limitswitch.jpg)
+![](y_endstop_wring.jpg) ![](Y_limitswitch.jpg)       
 
 ### <a id="Zissue">Z ENDSTOPs or motors don't work?</a>
 ##### ZL/ZR ENDSTOPs don't work?
 1. Check Z ENDSTOPs wiring (Both the left and right).    
 2. Check the Z ENDSTOPs (Both the left and right).    
 3. Check Z axis wiring on the control board.[:point_right: Wiring Diagram](#Z8P_wiring)  
-![](Z_endstop_wring.jpg) ![](Z_limitswitch.jpg)
+![](Z_endstop_wring.jpg) ![](Z_limitswitch.jpg)       
 
 
 #####  ZL/ZR Motor don't work?
 1. Check if ZL/ZR motor wiring well.      
-![](Z_motor_wring.jpg)  
+![](Z_motor_wring.jpg)                
 2. Check the screws on the coupling which to fix the motor shaft with the lead screws, the screws may have been loosened during transportation.          
-![](Z_coupling_screw.jpg)
+![](Z_coupling_screw.jpg)       
 3. Check ZL/ZR Motor wiring on the control board.[:point_right: Wiring Diagram](#Z8P_wiring)  
 
 #### <a id="Z8P_wiring">Z8P Wiring on Board Side</a>
-![](Z8P_wiring.png)
+![](Z8P_wiring.png)       
 
 
 -----

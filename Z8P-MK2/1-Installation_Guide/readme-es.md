@@ -140,7 +140,7 @@ Instale los bloques de fijación de tornillos guía Z en el perfil superior.
 
 ### 8. Afina las columnas excéntricas.
 Gire las columnas excéntricas debajo del soporte de la cama caliente y el soporte X para asegurarse de que el soporte pueda funcionar suavemente sobre el riel sin temblar.    
-![](./pic/excéntrico.jpg)    
+![](./pic/eccentric.jpg)    
 :warning: El último Z8PM4Pro-MK2 ***(llamado MK2A)*** ha mejorado los perfiles Y de un perfil de 20x40 a un perfil de 2 piezas de 20x20, por lo que las columnas excéntricas en el soporte de la cama térmica también se han modificado.
 
 ### 9. Instale el soporte de filamento

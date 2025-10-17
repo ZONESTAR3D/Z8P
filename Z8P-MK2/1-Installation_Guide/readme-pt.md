@@ -140,7 +140,7 @@ Instale os blocos de fixação dos parafusos Z no perfil superior.
 
 ### 8. Ajuste as colunas excêntricas
 Gire as colunas excêntricas sob o suporte da base quente e o transportador X, para garantir que o transportador possa funcionar suavemente na pista sem tremer.
-![](./pic/excêntrico.jpg)         
+![](./pic/eccentric.jpg)         
 :warning: O mais recente Z8PM4Pro-MK2 ***(chamado MK2A)*** melhorou os perfis Y de um perfil 20x40 para um perfil 20x20 de 2 peças, portanto, as colunas excêntricas no suporte da cama térmica também foram modificadas.
 
 ### 9. Instale o suporte do filamento
